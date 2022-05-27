@@ -1,0 +1,296 @@
+lineage,string contains lineage,ID
+B.1,"The neutralizing capacity was measured at one, three, and six-months post-vaccination by plaque reduction neutralization assay using SARS-CoV-2 B.1 (D614G) and the Gamma, Alpha, Delta, and Mu variants.",PMC9108166
+B.1.117,"The lineages assessed were B.1 (D614G) (hCoV-19/Colombia/ANTUdeA-200325-01/2020 ID accession: EPI_ISL_536399), variants of concern (VOC) Gamma (P.1) (hCoV-19/Colombia/ANT-UdeA-21002835v/2021 ID accession: EPI_ISL_4926393), Alpha (B.1.117) (hCoV-19/Colombia/ANT-UdeA-21001965v/2021 ID accession: and Delta (B.1.617.2) (hCoV-19/Colombia/ANT-UdeA-36211/2021 ID accession: EPI_ISL_5103929), and the variant of interest (VOI) Mu (B.1.621) (hCoV-19/Colombia/ANT-UdeA-21002149/2021 ID accession: EPI_ISL_4005445).",PMC9108166
+B.1.621,"The lineages assessed were B.1 (D614G) (hCoV-19/Colombia/ANTUdeA-200325-01/2020 ID accession: EPI_ISL_536399), variants of concern (VOC) Gamma (P.1) (hCoV-19/Colombia/ANT-UdeA-21002835v/2021 ID accession: EPI_ISL_4926393), Alpha (B.1.117) (hCoV-19/Colombia/ANT-UdeA-21001965v/2021 ID accession: and Delta (B.1.617.2) (hCoV-19/Colombia/ANT-UdeA-36211/2021 ID accession: EPI_ISL_5103929), and the variant of interest (VOI) Mu (B.1.621) (hCoV-19/Colombia/ANT-UdeA-21002149/2021 ID accession: EPI_ISL_4005445).",PMC9108166
+B.1.617.2,"The lineages assessed were B.1 (D614G) (hCoV-19/Colombia/ANTUdeA-200325-01/2020 ID accession: EPI_ISL_536399), variants of concern (VOC) Gamma (P.1) (hCoV-19/Colombia/ANT-UdeA-21002835v/2021 ID accession: EPI_ISL_4926393), Alpha (B.1.117) (hCoV-19/Colombia/ANT-UdeA-21001965v/2021 ID accession: and Delta (B.1.617.2) (hCoV-19/Colombia/ANT-UdeA-36211/2021 ID accession: EPI_ISL_5103929), and the variant of interest (VOI) Mu (B.1.621) (hCoV-19/Colombia/ANT-UdeA-21002149/2021 ID accession: EPI_ISL_4005445).",PMC9108166
+P.1,"The lineages assessed were B.1 (D614G) (hCoV-19/Colombia/ANTUdeA-200325-01/2020 ID accession: EPI_ISL_536399), variants of concern (VOC) Gamma (P.1) (hCoV-19/Colombia/ANT-UdeA-21002835v/2021 ID accession: EPI_ISL_4926393), Alpha (B.1.117) (hCoV-19/Colombia/ANT-UdeA-21001965v/2021 ID accession: and Delta (B.1.617.2) (hCoV-19/Colombia/ANT-UdeA-36211/2021 ID accession: EPI_ISL_5103929), and the variant of interest (VOI) Mu (B.1.621) (hCoV-19/Colombia/ANT-UdeA-21002149/2021 ID accession: EPI_ISL_4005445).",PMC9108166
+B.1.111,"found that serum neutralizing activity from individuals vaccinated with BNT162b2 decreased by 75.7- and 17.7-fold against Mu, with respect to B.1.111 lineage and Gamma variant, respectively (26).",PMC9108166
+C.1.2,"reported that Mu and C.1.2 variants were more resistant to neutralization by BNT162b2 vaccination (6.8- and 7.3-fold decrease in titer, respectively, compared with D614G strain) (27).",PMC9108166
+A.2.2,"Our simulations showed that one infected agent with the ancestral (A.2.2) variant has a 14% chance of crossing a threshold of sustained community transmission (SCT) (i.e., > 5 infections per day, more than 3 days in a row), assuming no change in the prevailing preventative and counteracting policies.",PMC9012253
+B.1.617.2,"However, one agent carrying the alpha (B.1.1.7) variant has a 43% chance of crossing the same threshold; a threefold increase with respect to the ancestral strain; while, one agent carrying the delta (B.1.617.2) variant has a 60% chance of the same threshold, a fourfold increase with respect to the ancestral strain.",PMC9012253
+B.1.1.7,"However, one agent carrying the alpha (B.1.1.7) variant has a 43% chance of crossing the same threshold; a threefold increase with respect to the ancestral strain; while, one agent carrying the delta (B.1.617.2) variant has a 60% chance of the same threshold, a fourfold increase with respect to the ancestral strain.",PMC9012253
+B.1.617.1,"Variants such as the B.1.617.1 (or kappa) and B.1.617.2 (or delta) lineages that emerged in India have been shown to be up to 2.5 times more transmissible than the ancestral strain9,11–13.",PMC9012253
+B.1.1.7,"Notable examples include Alpha (Phylogenetic Assignment of Named Global Outbreak Lineages (Pangolin) designation lineage B.1.1.7, first described in the United Kingdom in September 2020), Beta (lineage B.1.351, first discovered in South Africa in December 2020) and Gamma (lineage P.1, first discovered in Brazil in January 2021). .
+
+During the timeline of this study (December 2020 through March 2021), Alpha, Beta and Gamma variants spread worldwide, with Alpha overtaking other variants to become the most abundant variant in Europe.",PMC8915404
+B.1.351,"Notable examples include Alpha (Phylogenetic Assignment of Named Global Outbreak Lineages (Pangolin) designation lineage B.1.1.7, first described in the United Kingdom in September 2020), Beta (lineage B.1.351, first discovered in South Africa in December 2020) and Gamma (lineage P.1, first discovered in Brazil in January 2021). .
+
+During the timeline of this study (December 2020 through March 2021), Alpha, Beta and Gamma variants spread worldwide, with Alpha overtaking other variants to become the most abundant variant in Europe.",PMC8915404
+P.1,"Notable examples include Alpha (Phylogenetic Assignment of Named Global Outbreak Lineages (Pangolin) designation lineage B.1.1.7, first described in the United Kingdom in September 2020), Beta (lineage B.1.351, first discovered in South Africa in December 2020) and Gamma (lineage P.1, first discovered in Brazil in January 2021). .
+
+During the timeline of this study (December 2020 through March 2021), Alpha, Beta and Gamma variants spread worldwide, with Alpha overtaking other variants to become the most abundant variant in Europe.",PMC8915404
+B.1.429,"As of 20 May 2021, there are currently 4 VOCs identified by the US SARS-CoV-2 Interagency Group (P.1, B.1.351, B.1.427, and B.1.429) that show reduced neutralization by convalescent and postvaccination sera [3]..",PMC8394820
+B.1.351,"As of 20 May 2021, there are currently 4 VOCs identified by the US SARS-CoV-2 Interagency Group (P.1, B.1.351, B.1.427, and B.1.429) that show reduced neutralization by convalescent and postvaccination sera [3]..",PMC8394820
+P.1,"As of 20 May 2021, there are currently 4 VOCs identified by the US SARS-CoV-2 Interagency Group (P.1, B.1.351, B.1.427, and B.1.429) that show reduced neutralization by convalescent and postvaccination sera [3]..",PMC8394820
+B.1.427,"As of 20 May 2021, there are currently 4 VOCs identified by the US SARS-CoV-2 Interagency Group (P.1, B.1.351, B.1.427, and B.1.429) that show reduced neutralization by convalescent and postvaccination sera [3]..",PMC8394820
+B.1.1.7,"The control group consisted of genomes sequenced by UWVL (n = 5174) during the same period as the vaccine breakthrough cohort (Supplementary Table 1)..
+
+All 20 of 20 vaccine breakthrough cases were classified as VOCs: 8 (40%) B.1.1.7, 1 (5%) B.1.351, 2 (10%) B.1.427, 8 (40%) B.1.429, and 1 (5%) P.1 (Figure 1A, Supplementary Table 2).",PMC8394820
+B.1.1.7,"Mutagenesis data explain the inefficient mouse infectivity of the SARS-CoV-2 B.1.1.7 isolate71 which incorporates the N501Y RBD mutation, relative to the efficient replication of the mouse-adapted SARS-CoV-2 isolate containing Q498Y42 or the pathogenic WBP-1 strain containing Q493K and Q498H70.",PMC8967715
+B.1.1.529,"These peptides (15-mers overlapping by 10 amino acids) spanned the entire spike protein corresponding to the ancestral Wuhan sequence (GenBank: MN908947), Beta (B.1.351; GISAID: EPI_ISL_736932), Delta SARS-CoV-2 variants (B.1.617.2; GISAID: EPI_ISL_2020950) or Omicron (B.1.1.529), carrying in the spike sequence all the 38 currently described mutations (A67V, H69del, V70del, T95l, G142D, V143del, Y144del, Y145del, S152W, N211del, L212l, ins214EPE, G339D, S371L, S373P, S375F, K417N, N440K, G446S, S477N, T478K, E484A, Q493R, G496S, Q498R, N501Y, Y505H, T547K, D614G, H655Y, N679K, P681H, N764K, D796Y, N856K, Q954H, N969K, L981F).",PPR437022
+B.1.640.2,Omicron’s exceptionally high genomic distinctiveness may confer a competitive advantage over both prior VOCs (including Delta) and the recently emerged and highly mutated B.1.640.2 (IHU) lineage.,PPR436215
+B.1.617.2,"2
+ The PANGO lineages corresponding to these VOCs are as follows: Alpha variant (B.1.1.7 and Q lineages), Beta variant (B.1.351 and descendant lineages), Gamma variant (P.1, which is a descendant of B.1.1.28, and descendant lineages), Delta variant (B.1.617.2 and AY lineages), and Omicron variant (B.1.1.529 and BA lineages).",PPR436215
+B.1.1.7,"2
+ The PANGO lineages corresponding to these VOCs are as follows: Alpha variant (B.1.1.7 and Q lineages), Beta variant (B.1.351 and descendant lineages), Gamma variant (P.1, which is a descendant of B.1.1.28, and descendant lineages), Delta variant (B.1.617.2 and AY lineages), and Omicron variant (B.1.1.529 and BA lineages).",PPR436215
+B.1.1.529,"2
+ The PANGO lineages corresponding to these VOCs are as follows: Alpha variant (B.1.1.7 and Q lineages), Beta variant (B.1.351 and descendant lineages), Gamma variant (P.1, which is a descendant of B.1.1.28, and descendant lineages), Delta variant (B.1.617.2 and AY lineages), and Omicron variant (B.1.1.529 and BA lineages).",PPR436215
+B.1.1.28,"2
+ The PANGO lineages corresponding to these VOCs are as follows: Alpha variant (B.1.1.7 and Q lineages), Beta variant (B.1.351 and descendant lineages), Gamma variant (P.1, which is a descendant of B.1.1.28, and descendant lineages), Delta variant (B.1.617.2 and AY lineages), and Omicron variant (B.1.1.529 and BA lineages).",PPR436215
+B.1.351,"2
+ The PANGO lineages corresponding to these VOCs are as follows: Alpha variant (B.1.1.7 and Q lineages), Beta variant (B.1.351 and descendant lineages), Gamma variant (P.1, which is a descendant of B.1.1.28, and descendant lineages), Delta variant (B.1.617.2 and AY lineages), and Omicron variant (B.1.1.529 and BA lineages).",PPR436215
+P.1,"2
+ The PANGO lineages corresponding to these VOCs are as follows: Alpha variant (B.1.1.7 and Q lineages), Beta variant (B.1.351 and descendant lineages), Gamma variant (P.1, which is a descendant of B.1.1.28, and descendant lineages), Delta variant (B.1.617.2 and AY lineages), and Omicron variant (B.1.1.529 and BA lineages).",PPR436215
+B.1.1,"3
+ All of these variants evolved from the B.1 lineage, while Alpha, Gamma, and Omicron share B.1.1 as an additional parent lineage.",PPR436215
+B.1,"3
+ All of these variants evolved from the B.1 lineage, while Alpha, Gamma, and Omicron share B.1.1 as an additional parent lineage.",PPR436215
+B.1.640,"A recent non-VOC, the IHU variant (B.1.640) that was identified in France also captured interest due to the amount and nature of mutations in this variant.",PPR436215
+B.1.617.2,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PPR432949
+B.1.1.7,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PPR432949
+B.1.1.529,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PPR432949
+B.1.351,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PPR432949
+P.1,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PPR432949
+A.3,"The first samples sequenced in March and April 2020 were similar to strains at the root of the pandemic (lineage A and sublineages) and are classified as A.1, A.3 etc., collectively designated as Pango lineage “other” in Figure 1A and C. The “other” category also contains B lineages and was used for any lineage with 12 or less representatives.",PPR432949
+A.1,"The first samples sequenced in March and April 2020 were similar to strains at the root of the pandemic (lineage A and sublineages) and are classified as A.1, A.3 etc., collectively designated as Pango lineage “other” in Figure 1A and C. The “other” category also contains B lineages and was used for any lineage with 12 or less representatives.",PPR432949
+B.1,The large European lineage B.1 was detected in six samples in April 2020.,PPR432949
+B.1.526,"The former VOC, B.1.526 (Iota), which is a lineage predominantly circulating in New York, was detected from March to June 2021 in 29 samples.",PPR432949
+B.1.1.7,"Participants from the first wave of SARS-CoV2 in the U.K. and those sequence confirmed with B.1.1.7 lineage in December 2020 and February 2021 were recruited through three studies: Sepsis Immunomics [Oxford REC C, reference:19/SC/0296]), ISARIC/WHO Clinical Characterisation Protocol for Severe Emerging Infections [Oxford REC C, reference 13/SC/0149] and the Gastro-intestinal illness in Oxford: COVID sub study [Sheffield REC, reference: 16/YH/0247].",PPR429543
+P.1,"Briefly, serially diluted Ab or plasma was mixed with SARS-CoV-2 strain Victoria or P.1 and incubated for 1 hr at 37 °C.",PPR429543
+B.1.351,"We acknowledge the rapid sharing of Victoria, B.1.1.7 and B.1.351 which was isolated by scientists within the National Infection Service at PHE Porton Down, and the B.1.617.2 virus was kindly provided Wendy Barclay and Thushan De Silva.",PPR429543
+B.1.617.2,"We acknowledge the rapid sharing of Victoria, B.1.1.7 and B.1.351 which was isolated by scientists within the National Infection Service at PHE Porton Down, and the B.1.617.2 virus was kindly provided Wendy Barclay and Thushan De Silva.",PPR429543
+B.1.1,"Thus, B.1.1.7 suggests that this lineage is the seventh lineage derived from a lineage B.1.1, which itself is the first lineage derived from a lineage called B.1.",PMC8385893
+B.1.1.7,"Thus, B.1.1.7 suggests that this lineage is the seventh lineage derived from a lineage B.1.1, which itself is the first lineage derived from a lineage called B.1.",PMC8385893
+B.1.1.6,"This Pango nomenclature system, which is implemented in the program (Pangolin) (https://github.com/cov-lineages/pangolin) is intuitive and informative, such that we know that B.1.1.7 is more closely related to B.1.1.6 than it is to B.2.1.7 without having to look it up on a phylogenetic tree.",PMC8385893
+B.1,"For instance, the moment that B.1.1 was named and recognized as its own clade, the B.1 clade became paraphyletic.",PMC8385893
+B.1.617.3,"This table is reproduced from data available on CDC website [88]..
+
+(*) means found in some sequences but not all..
+
+aThe reported reductions in B.1.617, B.1.617.1, B.1.617.2, B.1.617.3, and P.2 are for neutralization by vaccine sera.",PMC8385893
+B.1.617.2,"This table is reproduced from data available on CDC website [88]..
+
+(*) means found in some sequences but not all..
+
+aThe reported reductions in B.1.617, B.1.617.1, B.1.617.2, B.1.617.3, and P.2 are for neutralization by vaccine sera.",PMC8385893
+B.1.617.1,"This table is reproduced from data available on CDC website [88]..
+
+(*) means found in some sequences but not all..
+
+aThe reported reductions in B.1.617, B.1.617.1, B.1.617.2, B.1.617.3, and P.2 are for neutralization by vaccine sera.",PMC8385893
+B.1.617,"This table is reproduced from data available on CDC website [88]..
+
+(*) means found in some sequences but not all..
+
+aThe reported reductions in B.1.617, B.1.617.1, B.1.617.2, B.1.617.3, and P.2 are for neutralization by vaccine sera.",PMC8385893
+P.2,"This table is reproduced from data available on CDC website [88]..
+
+(*) means found in some sequences but not all..
+
+aThe reported reductions in B.1.617, B.1.617.1, B.1.617.2, B.1.617.3, and P.2 are for neutralization by vaccine sera.",PMC8385893
+B.1.351,"The N501Y mutation is likely convergent across several lineages, and 2 other important lineages with this mutation, B.1.351 and P.1, also emerged around the same time as B.1.1.7 in South Africa and Brazil respectively.",PMC8385893
+P.1,"The N501Y mutation is likely convergent across several lineages, and 2 other important lineages with this mutation, B.1.351 and P.1, also emerged around the same time as B.1.1.7 in South Africa and Brazil respectively.",PMC8385893
+B.1.427,L452R variants in the B.1.427/429 lineage have recently been reported to be more transmissible and infective as well as less susceptible to neutralizing antibodies [109].,PMC8385893
+A.23.1,"Among the strains of concern, the B.1.1.7-V367F variant increases the average epitope escape rate for the A01 supertype from 2.7 to 13.2% due to the V367F mutation, also detected in the A.23.1 variant.",PMC8656262
+B.1,"Two prominent variants in this respect were the B.1 variant characterized by Δ242-244, K417N, N501Y, D614G, and A701V, showing 8.7%, 20.2% and 9.7% epitope escape rates for A02, B27 and B62 supertypes, respectively; and the B.1.1.7-N354D variant showed a 19.8% epitope escape rate for the A03 supertype.",PMC8656262
+B.1.351,"SARS-CoV-2 genomic diversity profiles were also examined from daily sampling of culture experiments for three SARS-CoV-2 variants (Lineage A, B.1.351, and B.1.617.2) cultured in VeroE6 C1008 cells (n = 33)..
+
+ISNVs were detected in 83% (19/23) of the mild cohort cases and 100% (16/16) of the severe cohort cases.",PPR425039
+B.1.617.2,"SARS-CoV-2 genomic diversity profiles were also examined from daily sampling of culture experiments for three SARS-CoV-2 variants (Lineage A, B.1.351, and B.1.617.2) cultured in VeroE6 C1008 cells (n = 33)..
+
+ISNVs were detected in 83% (19/23) of the mild cohort cases and 100% (16/16) of the severe cohort cases.",PPR425039
+B.1,"The majority of cases were designated to lineage B.1.617.2 or Delta VOC (n=20, cases; P601, P603, P608, P611, P612, P614, P615, P622, P624, P626, P629, P604, P606, P618, P620, P621, PG27, P628), followed by B.1 (n=13 cases P0332, P0570, P0495, P0676, P1384, P1434, and P1494), D.2 genomes (n=11, cases; P0340, P0341, P0417, P0642, P0858, P1149, P2099, P2152, P1498 and P1551) and B.6 (n=4, case P0105).",PPR425039
+D.2,"The majority of cases were designated to lineage B.1.617.2 or Delta VOC (n=20, cases; P601, P603, P608, P611, P612, P614, P615, P622, P624, P626, P629, P604, P606, P618, P620, P621, PG27, P628), followed by B.1 (n=13 cases P0332, P0570, P0495, P0676, P1384, P1434, and P1494), D.2 genomes (n=11, cases; P0340, P0341, P0417, P0642, P0858, P1149, P2099, P2152, P1498 and P1551) and B.6 (n=4, case P0105).",PPR425039
+B.6,"The majority of cases were designated to lineage B.1.617.2 or Delta VOC (n=20, cases; P601, P603, P608, P611, P612, P614, P615, P622, P624, P626, P629, P604, P606, P618, P620, P621, PG27, P628), followed by B.1 (n=13 cases P0332, P0570, P0495, P0676, P1384, P1434, and P1494), D.2 genomes (n=11, cases; P0340, P0341, P0417, P0642, P0858, P1149, P2099, P2152, P1498 and P1551) and B.6 (n=4, case P0105).",PPR425039
+B.1.1,"Single genomes from lineage A.2.2 (case P1727) lineage A genome (case P1811) and lineage B.1.1 (P1020) (Figure 1, Table 1).",PPR425039
+A.2.2,"Single genomes from lineage A.2.2 (case P1727) lineage A genome (case P1811) and lineage B.1.1 (P1020) (Figure 1, Table 1).",PPR425039
+B.1.617,"Group’s three to five were all in lineage B.1.617, and of those groups, groups four and five had no shared iSNVs between cases.",PPR425039
+B.1.1.7,"The evolutionary rate of SARS-CoV-2 has been estimated at 1.1 x 10-3 substitutions/site/year (Smith et al., 2014, Day et al., 2020), however, some variants, such as Alpha (Lineage B.1.1.7) and Delta (Lineage B.1.617.2) have developed a higher percentage of nucleotide changes (Duchene et al., 2020, Rambaut, 2020).",PPR425039
+B.1.177.50,"All lineages that were identified belonged to lineage B.1, of these 37 (42%) belonged to lineage B.1.221, 10 (11.3%) to lineage B.1.177.50, and nine (10.2%) to lineage B.1.160..
+
+Phylogenetic analysis of conjunctival samples (C) and nasopharyngeal samples (N) from eight matched individuals..
+
+Conjunctival and nasopharyngeal samples of subjects 116, 310, 312, and 394 were grouped in clade 20E (EU1) and carried no mutations between matched samples.",PMC8543390
+B.1,"All lineages that were identified belonged to lineage B.1, of these 37 (42%) belonged to lineage B.1.221, 10 (11.3%) to lineage B.1.177.50, and nine (10.2%) to lineage B.1.160..
+
+Phylogenetic analysis of conjunctival samples (C) and nasopharyngeal samples (N) from eight matched individuals..
+
+Conjunctival and nasopharyngeal samples of subjects 116, 310, 312, and 394 were grouped in clade 20E (EU1) and carried no mutations between matched samples.",PMC8543390
+B.1.221,"All lineages that were identified belonged to lineage B.1, of these 37 (42%) belonged to lineage B.1.221, 10 (11.3%) to lineage B.1.177.50, and nine (10.2%) to lineage B.1.160..
+
+Phylogenetic analysis of conjunctival samples (C) and nasopharyngeal samples (N) from eight matched individuals..
+
+Conjunctival and nasopharyngeal samples of subjects 116, 310, 312, and 394 were grouped in clade 20E (EU1) and carried no mutations between matched samples.",PMC8543390
+B.1.177,"Identified lineages from these samples belonged to lineages B.1.177, B.1.177.50, W.2 (alias B.1.177.53.2), and B.1.177.36, respectively.",PMC8543390
+B.1.177.36,"Identified lineages from these samples belonged to lineages B.1.177, B.1.177.50, W.2 (alias B.1.177.53.2), and B.1.177.36, respectively.",PMC8543390
+W.2,"Identified lineages from these samples belonged to lineages B.1.177, B.1.177.50, W.2 (alias B.1.177.53.2), and B.1.177.36, respectively.",PMC8543390
+B.1.258,"The nasopharyngeal sample of subject 159 was included in lineage B.1.258, whereas the analysis for the conjunctival sample failed.",PMC8543390
+B.1.160,"The most common lineages from these samples correspond to lineages B.1.221 (49.3%), B.1.177 (19.2%), and B.1.160 (9.6%).",PMC8543390
+B.1.1.73,"One such SARS-CoV-2 variant is PANGO lineage B.1.1.73, with WHO label “Alpha”4.",PMC8484271
+B.1.1.7,"This variant was first detected in southeast England, with the earliest sequenced B.1.1.7 samples collected in September 20205.",PMC8484271
+B.1.617.2,"Subsequently, the B.1.617.2 PANGO lineage (with WHO label “Delta”4), a variant initially prevalent in India16, was designated a VOC in the United Kingdom on 6th May 2021 due to it being assessed to have “at least equivalent transmissibility to B.1.1.7 based on available data (with moderate confidence)”17.",PMC8484271
+B.1.351,"Notably, initial evidence for the B.1.351 variant (with WHO label “Beta”4) suggests potential immune escape; B.1.351 was first detected in South Africa in October 202020 and was designated a VOC in the United Kingdom on 24th December 2020.",PMC8484271
+P.1,"There has also been concern that the variant P.1 (with WHO label “Gamma”4), first reported in Manaus, Brazil, in December 2020, can evade immunity; a large secondary wave of infection occurred in Manaus, despite high levels of preexisting immunity due to a previous large wave of infection27, although neutralisation experiments have been more equivocal28.",PMC8484271
+P.1,"We found a significant transmission advantage associated with the 484K/501Y variants (including P.1 or Gamma variants), which increased the infectivity significantly by 23%.",PMC8592180
+B.1.1.28,"The control of COVID-19 requires knowledge of the driving factors that may affect the transmission process4,5; virus mutation is one of the major challenges.6,7 Around September 2020, genetic variants carrying the N501Y substitution on the spike (S) protein of SARS-CoV-2 were first detected in the United Kingdom8 and, then spread globally and trended to reach fixation rapidly in many places (e.g., South Africa,9 Brazil,10 the United States,11 and the United Kingdom).12,13 In Brazil, the 501Y variants, as well as other amino acid changes, were clustered into the B.1.1.28.1 lineage by COVID-19 Genomics Consortium UK, which is also known as the variant of concern (VoC) 202101/02.14 The B.1.1.28.1 lineage is a descendant of the B.1.1.28 lineage that has another similar descendant lineage, B.1.1.28.2, carries the E484K substitution but not N501Y substitution.15,16 The mutation E484K was first identified in South Africa and became prevalent in many places, including the United Kingdome and Brazil.17 These emerging variants may affect the epidemiological characteristics of COVID-1918,19 and the protective effects of vaccines.20–23 Considering the growing patterns of the epidemic curve in Brazil, the possible contributions of both E484K and N501Y substitutions are of public health interest for investigation..",PMC8592180
+B.1.1.7,"The COVID-19 cases time series are shown in Figure 1A..
+
+(A) The daily number of COVID-19 cases in Brazil, (B) the reconstructed reproduction number (Rt), (C) proportions of the 484E/501N variants, (D) 484E/501Y variants (including B.1.1.7 or Alpha variants), (E) 484K/501N variants (including P.2 or Zeta variants), and (F) 484K/501Y variants (including P.1 or Gamma variants).",PMC8592180
+P.2,"The COVID-19 cases time series are shown in Figure 1A..
+
+(A) The daily number of COVID-19 cases in Brazil, (B) the reconstructed reproduction number (Rt), (C) proportions of the 484E/501N variants, (D) 484E/501Y variants (including B.1.1.7 or Alpha variants), (E) 484K/501N variants (including P.2 or Zeta variants), and (F) 484K/501Y variants (including P.1 or Gamma variants).",PMC8592180
+B.1.617.2,"), Beta (B.1.351), Gamma (B.1.1.28.1; in the following referred to as P.1) and Delta (B.1.617.2).",PMC8540924
+B.1.351,"), Beta (B.1.351), Gamma (B.1.1.28.1; in the following referred to as P.1) and Delta (B.1.617.2).",PMC8540924
+P.1,"), Beta (B.1.351), Gamma (B.1.1.28.1; in the following referred to as P.1) and Delta (B.1.617.2).",PMC8540924
+B.1.621,"Five lineages were classified as VOI, which include Eta (B.1.525), Iota (B.1.526), Kappa (B.1.617.1), Lambda (C.37) and Mu (B.1.621).",PMC8540924
+C.37,"Five lineages were classified as VOI, which include Eta (B.1.525), Iota (B.1.526), Kappa (B.1.617.1), Lambda (C.37) and Mu (B.1.621).",PMC8540924
+B.1.617.1,"Five lineages were classified as VOI, which include Eta (B.1.525), Iota (B.1.526), Kappa (B.1.617.1), Lambda (C.37) and Mu (B.1.621).",PMC8540924
+B.1.525,"Five lineages were classified as VOI, which include Eta (B.1.525), Iota (B.1.526), Kappa (B.1.617.1), Lambda (C.37) and Mu (B.1.621).",PMC8540924
+B.1.526,"Five lineages were classified as VOI, which include Eta (B.1.525), Iota (B.1.526), Kappa (B.1.617.1), Lambda (C.37) and Mu (B.1.621).",PMC8540924
+B.1.427,"Moreover, the WHO lists multiple lineages with the alert for further monitoring, including the three former VOIs Epsilon (B.1.427/B.1.429), Zeta (B.1.1.28.2; in the following referred to as P.2) and Theta (B.1.1.28.3; in the following referred to as P.3) as well as the recently listed C.1.2 variant (Figure 1)..",PMC8540924
+P.2,"Moreover, the WHO lists multiple lineages with the alert for further monitoring, including the three former VOIs Epsilon (B.1.427/B.1.429), Zeta (B.1.1.28.2; in the following referred to as P.2) and Theta (B.1.1.28.3; in the following referred to as P.3) as well as the recently listed C.1.2 variant (Figure 1)..",PMC8540924
+C.1.2,"Moreover, the WHO lists multiple lineages with the alert for further monitoring, including the three former VOIs Epsilon (B.1.427/B.1.429), Zeta (B.1.1.28.2; in the following referred to as P.2) and Theta (B.1.1.28.3; in the following referred to as P.3) as well as the recently listed C.1.2 variant (Figure 1)..",PMC8540924
+P.3,"Moreover, the WHO lists multiple lineages with the alert for further monitoring, including the three former VOIs Epsilon (B.1.427/B.1.429), Zeta (B.1.1.28.2; in the following referred to as P.2) and Theta (B.1.1.28.3; in the following referred to as P.3) as well as the recently listed C.1.2 variant (Figure 1)..",PMC8540924
+B.1.1.7,"This mutation independently emerged worldwide and is prevalent in most variants, including Beta, Gamma, Delta, Zeta, Eta, Iota, C.1.2 and also in several isolates of the B.1.1.7 lineage (denoted as B.1.1.7+E484K) [68,69].",PMC8540924
+B.1.1.298,"Substitution of the adjacent position Y453F was previously observed in a virus cluster from minks in mid-2020 (lineage B.1.1.298) and displayed increased interaction with both mink and human ACE2 receptors [35,56,74,75].",PMC8540924
+B.1.1.1,"Similarly, Sputnik V full-vaccination induced equivalent neutralization titers against this variant as the reference strain B.1.1.1, locally endemic to Moscow [142]..",PMC8540924
+B.1.617.3,"In cases of other variants, the neutralization activity of serum from subjects vaccinated with Sputnik V demonstrated no significant differences between neutralization titers for the Delta sublineage B.1.617.3 and Moscow endemic lineages, B.1.1.141 and B.1.1.317.",PMC8540924
+B.1.1.141,"In cases of other variants, the neutralization activity of serum from subjects vaccinated with Sputnik V demonstrated no significant differences between neutralization titers for the Delta sublineage B.1.617.3 and Moscow endemic lineages, B.1.1.141 and B.1.1.317.",PMC8540924
+P.1,"Recently, a variant known as P.1 (lineage 501Y.V3 or Brazilian variant) has become prevalent in Brazil.",PMC8445490
+B.1.1.95,"The study reveals the prevalence of three correlated viral lineages (B.1.1.95, B1.1.28 and B.1.1.33) up to the emergence of variant P.1.",PMC8445490
+B.1.1.33,"The study reveals the prevalence of three correlated viral lineages (B.1.1.95, B1.1.28 and B.1.1.33) up to the emergence of variant P.1.",PMC8445490
+B.1.1.70,"For instance, the Genome Detective Coronavirus Typing Tool takes 1 min per genome, allows only 2,000 genomes per batch, and only assigns genomes to one of five variants of concern (B.1.1.7, B.1.351, P.1, B.1.1.70, or mink cluster; Cleemput et al.",PMC8449825
+B.1.351,"For instance, the Genome Detective Coronavirus Typing Tool takes 1 min per genome, allows only 2,000 genomes per batch, and only assigns genomes to one of five variants of concern (B.1.1.7, B.1.351, P.1, B.1.1.70, or mink cluster; Cleemput et al.",PMC8449825
+P.1,"For instance, the Genome Detective Coronavirus Typing Tool takes 1 min per genome, allows only 2,000 genomes per batch, and only assigns genomes to one of five variants of concern (B.1.1.7, B.1.351, P.1, B.1.1.70, or mink cluster; Cleemput et al.",PMC8449825
+B.1.1.7,"For instance, the Genome Detective Coronavirus Typing Tool takes 1 min per genome, allows only 2,000 genomes per batch, and only assigns genomes to one of five variants of concern (B.1.1.7, B.1.351, P.1, B.1.1.70, or mink cluster; Cleemput et al.",PMC8449825
+B.1.1.7,The B.1.1.7 variant was first detected in the United Kingdom on 14 December 2020 and found with 23 mutations and 17 amino acid changes.,PMC8470645
+B.1.351,The mutant variant B.1.351 (23 mutations and 17 amino acid changes) was detected in South Africa and the Brazilian mutant variant was detected in Brazil (approximately 35 mutations with 17 amino acid changes).,PMC8470645
+P.1,"Furthermore, additional receptor binding domain mutations E484K and K417T were found in variants P.1 and 501Y.V2 known to increase the affinity of the RBD to the angiotensin-converting enzyme 2 (ACE2) receptor [48]..",PMC8470645
+B.1.617.3,"As of May 2021, three sublineages including B.1.617.3 (first detected in October 2020) relatively uncommon compared with the B.1.617.1 and B.1.617.2 both detected in December 2020.",PMC8470645
+B.1.617.2,"As of May 2021, three sublineages including B.1.617.3 (first detected in October 2020) relatively uncommon compared with the B.1.617.1 and B.1.617.2 both detected in December 2020.",PMC8470645
+B.1.617.1,"As of May 2021, three sublineages including B.1.617.3 (first detected in October 2020) relatively uncommon compared with the B.1.617.1 and B.1.617.2 both detected in December 2020.",PMC8470645
+B.1.429,"In early January 2021, a novel variant of concern (VOC) designated B.1.429 comprising 2 lineages, B.1.427 and B.1.429, was originally detected in California (CA) and shown to enhance infectivity in vitro and decrease antibody neutralization by plasma from convalescent patients and vaccine recipients.",PPR387280
+B.1.427,"In early January 2021, a novel variant of concern (VOC) designated B.1.429 comprising 2 lineages, B.1.427 and B.1.429, was originally detected in California (CA) and shown to enhance infectivity in vitro and decrease antibody neutralization by plasma from convalescent patients and vaccine recipients.",PPR387280
+B.1,"We find that both strains exhibit enhanced virulence as measured by increased body weight loss compared to hamsters infected with ancestral B.1 (614G), with B.1.429 causing the most body weight loss among all 3 lineages.",PPR387280
+B.1.1.7,"In multi-virus in-vivo competition experiments, we found that epsilon (B.1.427/B.1.429) and gamma (P.1) dramatically outcompete alpha (B.1.1.7), beta (B.1.351) and zeta (P.2) in the lungs.",PPR387280
+P.2,"In multi-virus in-vivo competition experiments, we found that epsilon (B.1.427/B.1.429) and gamma (P.1) dramatically outcompete alpha (B.1.1.7), beta (B.1.351) and zeta (P.2) in the lungs.",PPR387280
+B.1.351,"In multi-virus in-vivo competition experiments, we found that epsilon (B.1.427/B.1.429) and gamma (P.1) dramatically outcompete alpha (B.1.1.7), beta (B.1.351) and zeta (P.2) in the lungs.",PPR387280
+P.1,"In multi-virus in-vivo competition experiments, we found that epsilon (B.1.427/B.1.429) and gamma (P.1) dramatically outcompete alpha (B.1.1.7), beta (B.1.351) and zeta (P.2) in the lungs.",PPR387280
+A.1,"Thus, prior infection with ancestral B.1 (614G) protects hamsters from challenge 21 days later with either B.1.427 or B.1.429, with protection defined as no virus replication in lungs..
+
+To determine if the airborne transmission of B.1.427 and B1.429 between hamsters is more efficient than B.1 (614G) airborne transmission, four groups of eight “donor” hamsters (Table 1) were inoculated intranasally with 104 PFU of either B.1 (614G), A.1 (WA-1), B.1.427, B.1.429 (Figure 9).",PPR387280
+B.1.617.2,"The B.1.427/B.1.429 variant is no longer the predominant circulating strain in California, as it was replaced first by the B.1.1.7 (alpha) variant, which has since been replaced by the B.1.617.2 (delta) variant.",PPR387280
+B.1.247,"This makes it difficult to unambiguously identify B.1.429 and B.1.427 in mixtures and thus we reported the results as the frequency of the “epsilon”, the arrogate of the B.1.429 and B.1.427 frequencies..
+
+As previously reported with ancestral B.1 and other VOC [11,25,26], in this study intranasal inoculation of hamsters with the SARS-CoV-2 B.1 (614G) or epsilon variants (B.1.247/B.1.249) induced progressive moderate to severe broncho-interstitial pneumonia with vasculitis, beginning as early as day 2 PI.",PPR387280
+B.1.351,"Considering the critical role of the RBD in mediating viral entry; the tendency of the RBD of SARS coronaviruses to be highly variable (21); and the recent emergence of new variants B.1.1.7, P.1, and B.1.351 (6–8, 22); increasing interest has been directed toward the surveillance of SARS-CoV-2 RBD mutations.",PMC8409985
+P.1,"Considering the critical role of the RBD in mediating viral entry; the tendency of the RBD of SARS coronaviruses to be highly variable (21); and the recent emergence of new variants B.1.1.7, P.1, and B.1.351 (6–8, 22); increasing interest has been directed toward the surveillance of SARS-CoV-2 RBD mutations.",PMC8409985
+B.1.1.7,"Considering the critical role of the RBD in mediating viral entry; the tendency of the RBD of SARS coronaviruses to be highly variable (21); and the recent emergence of new variants B.1.1.7, P.1, and B.1.351 (6–8, 22); increasing interest has been directed toward the surveillance of SARS-CoV-2 RBD mutations.",PMC8409985
+B.1.1.70,"Figure 3A illustrates the position of these variants on the RBD, and Figure 3B displays the more recently observed frequency of these variants according to the GISAID repository, with variant N501Y, currently the most frequent RBD variant worldwide (a key mutation present in the newly emergent B.1.1.7, B.1.351, B.1.1.70, and P.1 strains).",PMC8409985
+B.1.258,"Based on the relative EC50 values observed in our multiplex assay, we selected these high -affinity variants, and the emerging N439K variant present in currently circulating lineage B.1.258, as well as E484K, which is a mutation shared by B.1.351, B.1.525, and P.1 lineages, to be profiled and compared for their binding kinetics to ACE2 using bio-layer interferometry (BLI).",PMC8409985
+B.1.525,"Based on the relative EC50 values observed in our multiplex assay, we selected these high -affinity variants, and the emerging N439K variant present in currently circulating lineage B.1.258, as well as E484K, which is a mutation shared by B.1.351, B.1.525, and P.1 lineages, to be profiled and compared for their binding kinetics to ACE2 using bio-layer interferometry (BLI).",PMC8409985
+B.1.351,"We show that neutralization of the VOC compared to a reference isolate of the original circulating lineage, B, is reduced: more profoundly against B.1.351 than for B.1.1.7, and in responses to infection or a single dose of vaccine than to a second dose of vaccine.",PMC8371089
+B.1.1.7,"We show that neutralization of the VOC compared to a reference isolate of the original circulating lineage, B, is reduced: more profoundly against B.1.351 than for B.1.1.7, and in responses to infection or a single dose of vaccine than to a second dose of vaccine.",PMC8371089
+P.1,"In early 2021, three variants B.1.1.7 (Alpha), B.1.351 (Beta) and P.1 (Gamma) were identified as variants of concern (VOC1).",PMC8371089
+B.1.177,"In early 2021, E484K had been detected first in lineage B.1.1.7 in the United Kingdom (UK)6 and subsequently in lineages A23.1, B.1 and B.1.177, as well as in imported cases of B.1.51 and P.21.",PMC8371089
+B.1,"In early 2021, E484K had been detected first in lineage B.1.1.7 in the United Kingdom (UK)6 and subsequently in lineages A23.1, B.1 and B.1.177, as well as in imported cases of B.1.51 and P.21.",PMC8371089
+B.1.617,"Residue identities are shown at each of these positions for a prototype lineage B isolate, and at each position in four lineages of interest, B.1.1.7 (α—Alpha), B.1.351 (β—Beta), P.1 (γ—Gamma) and B.1.617 (δ—Delta), at which the respective lineage differs from prototype.",PMC8371089
+A.2,"In January, February and March 2020, the L84S mutation was present in 35%, 18% and 11% of the available GISAID sequences (Table S1, Figure S1), corresponding to Nextstrain clade 19B, GISAID Clade S (98% of L84S sequences) or several Pango A lineages (20% A[basal], 37% A.1, 18% A.2 of L84S sequences).",PPR382902
+A.1,"In January, February and March 2020, the L84S mutation was present in 35%, 18% and 11% of the available GISAID sequences (Table S1, Figure S1), corresponding to Nextstrain clade 19B, GISAID Clade S (98% of L84S sequences) or several Pango A lineages (20% A[basal], 37% A.1, 18% A.2 of L84S sequences).",PPR382902
+A.3,"The majority (87%) of the V62L mutations co-occur with L84S in Clade S or Pango lineage A[basal] (70%) and A.3 (28%) for the period December 2019-March 2020 (Figure S1), and these sequences with both L84S and V62L were mostly (86%) detected in North America (Figure S2)..",PPR382902
+B.1.1.7,"However, with the subsequent rise of the Variant of Concern (VOC) Alpha (B.1.1.7) in autumn 2020, viruses with truncated ORF8 (mutation Q27*) have been circulating.",PPR382902
+B.1.617.2,"During Spring 2021, the VOC Delta (B.1.617.2 and others) strains which have mostly L84 and V62 have risen to dominance, and by June 2021 less than 0.1% of available sequences have L84S in an intact ORF8 polypeptide.",PPR382902
+B.1.1.7,"Here we investigated the relative efficiency of aerosol transmission of two variants of SARS-CoV-2, B.1.1.7 (alpha) and lineage A, in the Syrian hamster.",PPR374984
+B.1.351,"C. BHK cells expressing either human ACE2 or hamster ACE2 were infected with pseudotyped VSV reporter particles with the spike proteins of WA1 and B.1.1.7 and B.1.351, luciferase was measured and normalized to no spike controls as a readout for cell entry Relative entry to no spike control for human and hamster ACE2 is depicted.",PPR374984
+B.1.427,"Notably, B.1.427 became dominant in Western New York, before it was displaced by B.1.1.7.",PPR365689
+B.1.1.7,"Our hierarchical cluster analysis of B.1.1.7 lineages, which by May 2021 made up ~ 80% of all cases, indicated both multiple introductions and community spread.",PPR365689
+B.1.351,"B.1.1.7, B.1.351, P.1, and so forth, are so-called variants of concern (VOC), as defined by WHO and the CDC.",PPR365689
+P.1,"B.1.1.7, B.1.351, P.1, and so forth, are so-called variants of concern (VOC), as defined by WHO and the CDC.",PPR365689
+B.1.429,Two B.1.429 samples were collected on Jan. 20; the genomic sequences were identical.,PPR365689
+P.2,"We also identified one P.2 variant, currently designated a variant of interest by WHO and the CDC, originally identified in Brazil..",PPR365689
+B.1.526.2,"We also noted 5 so-called NY variants of interest (3 x B.1.526.1, 2 x B.1.526.2).",PPR365689
+B.1.526.1,"We also noted 5 so-called NY variants of interest (3 x B.1.526.1, 2 x B.1.526.2).",PPR365689
+B.1.526,"This is in direct contrast to the variant profiles seen in NYC, where cases were dominated by B.1.526 lineages in addition to B.1.1.7.",PPR365689
+B.1.1.7,"The genome sequence of the Wuhan-Hu-1 isolate (NC_045512.2) was used as the SARS-CoV-2 reference sequence.Table 1Sequences of primers used for synthesis of PCR amplicons that include SARS-CoV-2 genome sequence variations of interesta.Table 1Amplicon no.Genomic region within ampliconPrimer sequences (5ˈ- 3ˈ)bTarget Tag SNV/haplotypeOther sequence variations of interest within the amplicon113961–14601F: TATACGCCAACTTAGGTGAACG14408C>T/H1R: TAGATTACCAGAAGCAGCGTG221770–22446F: GTCTCTGGGACCAATGGTAC22227C>T/H1r21991-21993delTTA/B.1.1.7R: GGGTCAAGTGCACAGTCTAC322855–23562F: CTGCGTTATAGCTTGGAATTCT23403A>G/H123012G>A/B.1.351; 23063A>T/B.1.1.7 & B.1.351; 23271C>A/B.1.1.7R: CCAATGGGTATGTCACACTCA425318–25940F: CTGCTGCAAATTTGATGAAGAC25563G>T/H1bR: TCATGTTCAGAAATAGGACTTGT528497–29161F: ACACCAATAGCAGTCCAGATG28881_28883GGG>AAC/H1a28688T>C/H5; 28932C>T/H1r; 28977C>T/B.1.1.7R: AGTTCCTTGTCTGATTAGTTCCTa, The cDNAs pertaining to amplicons 1 and 3 were usually synthesized together in a single cDNA synthesis reaction, as were the cDNAs pertaining to amplicons 4 and 5.bReverse (R) primers were used in all of the cDNA synthesis reactions.Fig.",PMC8214199
+B.1.36,Genome type C may correspond to the very recently described B.1.36 lineage of the Phylogenetic Assignment Named Global Outbreak (PANGO) Lineages (GISAID).,PMC8214199
+B.1.1.7,"One such SARS-CoV-2 variant is PANGO lineage B.1.1.7 [3], with WHO label ‘Alpha’ [4].",PPR355088
+B.1.617.2,"Subsequently, the B.1.617.2 PANGO lineage (with WHO label ‘Delta’ [4]), a variant initially prevalent in India [16], was designated a VOC in the UK on 6th May 2021 due to it being assessed to have “at least equivalent transmissibility to B.1.1.7 based on available data (with moderate confidence)” [17].",PPR355088
+B.1.351,"Notably, initial evidence for the B.1.351 variant (with WHO label ‘Beta’ [4]) suggests potential immune escape; B.1.351 was first detected in South Africa in October 2020 [20] and was designated a VOC in the UK on 24th December 2020.",PPR355088
+P.1,"There has also been concern that the variant P.1 (with WHO label ‘Gamma’ [4]), first reported in Manaus, Brazil, in December 2020, can evade immunity; a large secondary wave of infection occurred in Manaus despite high-levels of pre-existing immunity due to a previous large wave of infection [27], although, neutralisation experiments have been more equivocal [28].",PPR355088
+B.1.351,"We assessed both neutralizing antibody and T cell responses in 44 South African COVID-19 patients infected either with B.1.351, now dominant in South Africa, or infected prior to its emergence (‘first wave’), to provide an overall measure of immune evasion.",PPR353360
+P.1,"Four such variants of concern now circulate widely, namely B.1.1.7 in the US and Europe, B.1.351 in southern Africa, P.1 in Brazil and South America, and B.1.617 in India (2–6).",PPR353360
+B.1.617,"Four such variants of concern now circulate widely, namely B.1.1.7 in the US and Europe, B.1.351 in southern Africa, P.1 in Brazil and South America, and B.1.617 in India (2–6).",PPR353360
+B.1.1.7,"Four such variants of concern now circulate widely, namely B.1.1.7 in the US and Europe, B.1.351 in southern Africa, P.1 in Brazil and South America, and B.1.617 in India (2–6).",PPR353360
+B.1.351,"Nonetheless, viruses mutate, and with SARS-CoV-2, different variants have emerged by the end of 2020, of which three have raised concerns worldwide due to their high transmissibility among populations: B.1.1.7, B.1.351, and B.1.1.28 variants.",PMC8293406
+B.1.1.28,"Nonetheless, viruses mutate, and with SARS-CoV-2, different variants have emerged by the end of 2020, of which three have raised concerns worldwide due to their high transmissibility among populations: B.1.1.7, B.1.351, and B.1.1.28 variants.",PMC8293406
+B.1.1.7,"Nonetheless, viruses mutate, and with SARS-CoV-2, different variants have emerged by the end of 2020, of which three have raised concerns worldwide due to their high transmissibility among populations: B.1.1.7, B.1.351, and B.1.1.28 variants.",PMC8293406
+P.1,"S protein mutations are also present in the highly transmissible South African variant (B.1.351) with the 501Y.V2 mutation, and the B.1.1.28 variant (P.1) initially identified in travellers returning from Brazil [14,15].",PMC8293406
+B.1.351,"The British B.1.1.7 (Rambaut et al., 2020), South African B.1.351 (Tegally et al., 2020), and Brazilian P.1 (Faria et al., 2021) VOC lineages arose in late 2020 and quickly became dominant within the countries in which they were first detected.",PPR340379
+P.1,"The British B.1.1.7 (Rambaut et al., 2020), South African B.1.351 (Tegally et al., 2020), and Brazilian P.1 (Faria et al., 2021) VOC lineages arose in late 2020 and quickly became dominant within the countries in which they were first detected.",PPR340379
+B.1.1.7,"The British B.1.1.7 (Rambaut et al., 2020), South African B.1.351 (Tegally et al., 2020), and Brazilian P.1 (Faria et al., 2021) VOC lineages arose in late 2020 and quickly became dominant within the countries in which they were first detected.",PPR340379
+B.1.617.2,"The Indian B.1.617.2 variant has also recently been designated as a VOC (Public Health England, 2021).",PPR340379
+B.1.617,"In particular, our analysis was performed prior to the observation of the various Indian B.1.617 variants.",PPR340379
+B.1.1.7,"Here, we develop and present an open-source method based on allele specific RT-qPCR (AS RT-qPCR) that detects and quantifies the B.1.1.7 variant, targeting spike protein mutations at three independent genomic loci highly predictive of B.1.1.7 (HV69/70del, Y144del, and A570D).",PPR304175
+B.1.351,"However, the emergence of new variants of concern (VOCs) such as B.1.1.7 and B.1.351 suggests that continued vigilance is required to control the COVID-19 pandemic (Mascola, Graham, & Fauci, 2021).",PPR304175
+B.1.1.7,A newly emerged strain of SARS‐CoV‐2 of B.1.1.7 lineage has caused a significant surge in the SARS‐CoV‐2 infections in the UK.,PMC8206967
+B.1.351,"29
+ Taken together, it is likely that SARS‐CoV‐2/B.1.1.7 may bear an evolutionary advantage over SARS‐CoV‐2/Wuhan, mediated not only by the antigenic changes in its spike and orf8 proteins but could also by an elevated cytokine‐mediated inflammatory response in the host due to the intracellular aggregation..
+
+New variant lineages of SARS‐CoV‐2, like P.1 and B.1.351, have been recently reported,
+2
+ additional studies in relation to their genetic and antigenic variations are warranted.",PMC8206967
+P.1,"29
+ Taken together, it is likely that SARS‐CoV‐2/B.1.1.7 may bear an evolutionary advantage over SARS‐CoV‐2/Wuhan, mediated not only by the antigenic changes in its spike and orf8 proteins but could also by an elevated cytokine‐mediated inflammatory response in the host due to the intracellular aggregation..
+
+New variant lineages of SARS‐CoV‐2, like P.1 and B.1.351, have been recently reported,
+2
+ additional studies in relation to their genetic and antigenic variations are warranted.",PMC8206967
+B.1.1.7,"The recent VOCs all contain a N501Y substitution in the receptor-binding domain (RBD) of the spike glycoprotein (S), which increases the binding affinity of S for the ACE2 receptor on cells 
+1
+ The B.1.1.7 lineage was identified during September 2020 in the UK 
+2
+.",PPR294740
+B.1.351,"Lineage B.1.351 
+3
+ was identified in South Africa during November 2020 and has two additional aa.",PPR294740
+B.1.135,"The aim of this work was to directly assess the question of whether immunity, in an in vivo model which includes both humoral and cellular, generated to a strain circulating early in the pandemic in spring 2020 would protect against both B.1.1.7 and B.1.135 VOCs currently circulating worldwide..
+
+A PANGO lineage B strain of SARS-CoV-2 (hCoV-2/human/Liverpool/REMRQ0001/2020), which was cultured from a nasopharyngeal swab collected from a patient in Liverpool in March 2020, was passaged in Vero E6 cells and used at P4 
+16
+.",PPR294740
+B.1.1.7,"Lineage B.1.1.7, first identified in the UK in September 2020 (
+1
+), is characterized by additional mutations in S, such as deletion of residues 69 & 70 and the P681H substitution for which plausible effects on the virus biology are proposed, as well as five other mutations in S, a premature stop codon in ORF8, three substitutions and a deletion in ORF1 and two amino acid substitutions in nucleoprotein (N) of as-yet unknown significance.",PPR282564
+B.1.351,"Lineage B.1.351 
+3
+ was first identified in November 2020 in South Africa and is characterized by two additional substitutions of likely significance in RBD, namely, K417N and E484K.",PPR282564
+B.1.177,"Very recently (Jan 2021) E484K has been detected first in lineage B1.1.7 in the UK 
+5
+ and subsequently in lineages A23.1, B.1 and B.1.177, as well as in imported cases of B.1.51 and P.2
+2
+.",PPR282564
+B.1,"Very recently (Jan 2021) E484K has been detected first in lineage B1.1.7 in the UK 
+5
+ and subsequently in lineages A23.1, B.1 and B.1.177, as well as in imported cases of B.1.51 and P.2
+2
+.",PPR282564
+P.1,"Single peptides (Mimotopes, Victoria Australia) that mapped to sites with mutations in B1.1.7 (n=17), B1.351 (n=21) and P.1 (n=22) with reference to Victoria strain were used in single peptides or pooled by strain..",PPR282564
+B.1.351,"Amino acid residues in common with the emerging variants of concern (UK B.1.1.7, Brazil P.1; and South Africa B.1.351) are highlighted by a star.",PPR280466
+B.1.1.7,"Amino acid residues in common with the emerging variants of concern (UK B.1.1.7, Brazil P.1; and South Africa B.1.351) are highlighted by a star.",PPR280466
+P.1,"Mutations in amino acid residues that are also mutated in the variants of concern (UK B.1.1.7, Brazil P.1, & South Africa B.1.351) are shown in purple triangles..",PPR280466
+B.1,"WGS revealed that SARS-CoV-2 in A2, A3, and A4 belong to clades V/B.2, S/A, and G/B.1, respectively, whereas that of A5–A7 and S1-S5 are of the V/B.2.1 clade and closely clustered.",PMC7834897
+B.2.1,"WGS revealed that SARS-CoV-2 in A2, A3, and A4 belong to clades V/B.2, S/A, and G/B.1, respectively, whereas that of A5–A7 and S1-S5 are of the V/B.2.1 clade and closely clustered.",PMC7834897
+B.1.1.7,"Recently, a new variant of SARS-CoV-2, known as B.1.1.7, was first detected in the United Kingdom and is spreading in several other countries, heightening public health concern and raising questions as to the resulting effectiveness of vaccines and therapeutic interventions.",PPR273065
+B.1.617.2,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PMC8829001
+B.1.1.7,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PMC8829001
+B.1.1.529,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PMC8829001
+B.1.351,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PMC8829001
+P.1,"Current VOC as defined by the WHO include B.1.1.7 (Alpha), B.1.351 (Beta), P.1 (Gamma), B.1.617.2 (Delta), and most recently, B.1.1.529 (Omicron), which was designated as a VOC on 26 November 2021.",PMC8829001
+A.3,"The first samples sequenced in March and April 2020 were similar to strains at the root of the pandemic (lineage A and sublineages) and are classified as A.1, A.3 etc., collectively designated as Pango lineage “other” in Figures 1A,C.",PMC8829001
+A.1,"The first samples sequenced in March and April 2020 were similar to strains at the root of the pandemic (lineage A and sublineages) and are classified as A.1, A.3 etc., collectively designated as Pango lineage “other” in Figures 1A,C.",PMC8829001
+B.1,The large European lineage B.1 was detected in six samples in April 2020.,PMC8829001
+B.1.526,"The former VOC, B.1.526 (Iota), which is a lineage predominantly circulating in New York, was detected from March to June 2021 in 29 samples.",PMC8829001
+B.1.1,"At the African continental level, our analysis showed that B.1 and B.1.1 lineages appear to be predominant in Africa.",PMC7537667
+B.1,"At the African continental level, our analysis showed that B.1 and B.1.1 lineages appear to be predominant in Africa.",PMC7537667
+B.2.1,"However, the HCW, CVR10, showed evidence of infection from a virus strain distinct from other samples from the hospital within lineage B.2.2, whilst the ward patient sequences were from lineages B.1.5(CVR76), B.2.1(CVR07) and B.1.10(CVR79), indicating community rather than nosocomial infection (Supplementary Figure 2).",PPR173331
+B.1.5,"However, the HCW, CVR10, showed evidence of infection from a virus strain distinct from other samples from the hospital within lineage B.2.2, whilst the ward patient sequences were from lineages B.1.5(CVR76), B.2.1(CVR07) and B.1.10(CVR79), indicating community rather than nosocomial infection (Supplementary Figure 2).",PPR173331
