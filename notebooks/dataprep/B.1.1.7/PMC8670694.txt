@@ -1,0 +1,576 @@
+Competing Interests: The authors have declared that no competing interests exist..
+
+Novel strains of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) harboring nucleotide changes (mutations) in the spike gene have emerged and are spreading rapidly. These mutations are associated with SARS-CoV-2 transmissibility, virulence, or resistance to some neutralizing antibodies. Thus, the accurate detection of spike mutants is crucial for controlling SARS-CoV-2 transmission and identifying neutralizing antibody-resistance caused by amino acid changes in the receptor-binding domain. Here, we developed five SARS-CoV-2 spike gene primer pairs (5-SSG primer assay; 69S, 144S, 417S, 484S, and 570S) and verified their ability to detect nine key spike mutations (ΔH69/V70, T95I, G142D, ΔY144, K417T/N, L452R, E484K/Q, N501Y, and H655Y) using a Sanger sequencing-based assay. The 5-SSG primer assay showed 100% specificity and a conservative limit of detection with a median tissue culture infective dose (TCID50) values of 1.4 × 102 TCID50/mL. The accuracy of the 5-SSG primer assay was confirmed by next generation sequencing. The results of these two approaches showed 100% consistency. Taken together, the ability of the 5-SSG primer assay to accurately detect key SARS-CoV-2 spike mutants is reliable. Thus, it is a useful tool for detecting SARS-CoV-2 spike gene mutants in a clinical setting, thereby helping to improve the management of patients with COVID-19..
+
+All relevant data are within the paper and its Supporting Information files..
+
+The World Health Organization (WHO) declared the coronavirus disease (COVID-19), which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), as a global pandemic on March 11, 2020 [1]. SARS-CoV-2 is a highly transmissible virus and has a long incubation time before the manifestation of symptoms, such as fever, cough, shortness of breath, and diarrhea [2]. SARS-CoV-2 has a single-stranded, positive-sense RNA genome of approximately 29.9 kb, which encodes several proteins, including the structural proteins, and spike (S) [3,4]. The S gene encodes the S1 and S2 subunits, and the S1 subunit contains an N-terminal domain and a receptor-binding domain, the latter of which is associated with human infections [5]. Across its genome, the virus accumulates mutations that are associated with its transmissibility, virulence, or resistance to some neutralizing antibodies [6,7]..
+
+SARS-CoV-2 variants have been recently identified, raising concerns abouta subsequent wave of the pandemic. Since the emergence of multiple variants, the WHO and the Centers for Disease Control and Prevention (CDC) have set up a classification scheme for monitoring the potential impact of emerging variants. The variants are classified into variants of interest (VOIs), variants of concern (VOCs), and variants of high consequence (VOHCs) [8,9]. Currently, VOIs, including eta (B.1.525), iota (B.1.526), kappa (B.1.617.1), unlabeled (B.1.617.3), and epsilon (B.1.427 and B.1.429) [10], have been associated with changes in receptor binding, reduced neutralization by antibodies generated against previous infection or vaccination, reduced efficacy of treatments, potential diagnostic effects, or a predicted increase in transmissibility or disease severity. VOCs, including alpha (B.1.1.7), beta (B.1.351), delta (B.1.617.2), and gamma (P.1) [10], have been associated with an increase in transmissibility and disease severity, a significant reduction in neutralization by antibodies generated during previous infection or vaccination, reduced effectiveness of treatments or vaccines, or diagnostic detection failures. The D614G substitution is the most prevalent mutation observed [11,12]. However, VOHC-related lineages have not yet been classified [10]..
+
+These lineages have been analyzed using next generation sequencing (NGS) methods and classified using Phylogenetic Assignment of Named Global Outbreak (PANGO) lineages [13]. The use of NGS has been very useful for obtaining accurate information on genetic variability and transmission [14]. However, as outbreaks occur sporadically and cannot be predicted, it is not always possible to have all resources required to perform the tests necessary to detect SARS-CoV-2 variants, especially in resource-limited settings [15]. To overcome this limitation, both PCR and Sanger sequencing have been applied [16,17]..
+
+Here, we aimed to accurately and rapidly detect nine key S mutations (ΔH69/V70, T95I, G142D, ΔY144, K417T/N, L452R, E484K/Q, N501Y, and H655Y) in strains classified as VOCs and/or VOIs using our laboratory-developed five SARS-CoV-2 S gene (5-SSG) primers via PCR assay in conjunction with Sanger sequencing. In addition, we compared the results of our assay with those of a commercially available NGS assay to evaluate its accuracy and reliability in detecting and identifying variants..
+
+The 5-SSG primer assay was designed based on the Wuhan-CoV reference sequence (Wuhan-Hu-1, NCBI accession number NC_045512.2) [18,19]. Primers were modified from the Global Initiative on Sharing Avian Influenza Data (GISAID) database, with a frequency cut-off > 1%, applied with degenerative or inosine to optimize the melting temperature (Tm), avoid repetitive sequences, and include GC content > 65%, using Gene Runner (ver. 6.0) [20,21]. NCBI-Basic Local Alignment Search Tool (NCBI-BLAST) was used to optimize the specificity for SARS-CoV-2 [22]. Sequences were also screened based on alignments using the GISAID database for species selectivity. After these assessments, five targets were selected for validation using the S mutant assay, and M13 universal sequence primers were tagged for Sanger sequencing. The sequences of the 5-SSG primers (69S forward primer, TGTAAAACGACGGCCAGTATTACCCTGACAAAGTTTTCAGATC; 69S reverse primer, CAGGAAACAGCTATGACGCGTTATTAACAATAAGTAGGGAC; 144S forward primer, TGTAAAACGACGGCCAGTCCACTGAGAAGTYTAACATAAT AAGAG; 144S reverse primer, CAGGAAACAGCTATGACTCACCAGGAGTCAAATA ACTTCTAT; 417S forward primer, TGTAAAACGACGGCCAGTGCTTTAGAACCATT GGTAGATTTG; 417S reverse primer, CAGGAAACAGCTATGACGTTTGAGATTAG ACTTCCTAAACAATC; 484S forward primer, TGTAAAACGACGGCCAGTTCTAAYA AICTTGATTCTAAGGTTG; 484S reverse primer, CAGGAAACAGCTATGACCKCCT GTGCCTGTTAAACCATT; 570S forward primer, TGTAAAACGACGGCCAGTGAAC TTCTACATGCACCAGCAAC; 570S reverse primer, CAGGAAACAGCTATGACCTG CATTCAGTTGAATCACCAC) are presented in Table 1. The 5-SSG primer-specific target mutants and lineages are summarized in S1 Table..
+
+Primers for specific target mutations in Wuhan-Hu-1-CoV were designed and conserved regions of the S gene are highlighted in bold. Primers were extended by tagging the 5′ side with M13 as a universal sequencing primer. Abbreviations: Tm, melting temperature; F. primer, forward primer; R. primer, reverse primer; Δ, deletion; Y, C or T; K, G or T; I, inosine..
+
+To determine analytical specificity, 67 strains of viruses, bacteria, and fungi were used with or without respiratory pathogens, including 42 strains of virus (24 strains of SARS-CoV-2, Coronavirus OC43 and 229E, and 18 other viruses), 19 strains of bacteria, and six strains of fungi (Tables 2 and S2). The powdered nucleic acid of all strains used in this study was obtained from the following suppliers: Twist Bioscience (San Francisco, CA, USA), National Culture Collection for Pathogens (NCCP; Cheongju, Republic of Korea), American Type Culture Collection (ATCC; Manassas, VA, USA), Zeptometrix (Buffalo, NY, USA), Korea Bank for Pathogen Viruses (KBPV; Seoul, Republic of Korea), National Institute for Biological Standards and Control (NIBSC; Potters Bar, United Kingdom), Korean Collection for Type Cultures (KCTC; Jeongeup, Republic of Korea), and Korean Culture Center of Microorganisms (KCCM; Seoul, Republic of Korea). Other detailed strain information, including lineages and CDC classification, is shown in Table 2..
+
+Strains selected for assay validation (22 strains of SARS-CoV-2, 11 strains of other virus, 9 strains of bacteria, and 6 strains of fungi). Strain information, provided by the company from which the strain was acquired, is shown. Abbreviations: SARS-CoV-2, Severe acute respiratory syndrome-related coronavirus 2; Twistbio, Twist Bioscience; NCCP, National Culture Collection for Pathogens; ATCC, American Type Culture Collection; KCCM; Korean Culture Center of Microorganisms; VOC, variants of concern; VOI, variants of interest; CDC, Centers for Disease Control and Prevention..
+
+As part of the routine procedure using the Allplex™ SARS-CoV-2 assay for SARS-CoV-2 testing (Seegene Inc., Seoul, Republic of Korea), anonymized residual of 17 SARS-CoV-2 positive nasopharyngeal swab specimens of patients diagnosed with SARS-CoV-2 positive between February and June 2021 were obtained and used for this study. All samples were processed using an automated nucleic acid extraction system, namely MagNA Pure 96 (Roche, Basel, Switzerland), according to the manufacturer’s protocol, and stored at −80°C until use [23]..
+
+The comparative limit of detection (LOD) of the 5-SSG primer assay was determined using heat-inactivated cultural fluids of SARS-CoV-2 (Zeptometrix-0810589CFHI) as a positive control, following the manufacturer’s instructions. Each control was 10-fold serially diluted to approximately 1.4 × 103, 1.4 × 102, 1.4 × 101, 1.4 × 100, 1.4 × 10−1, and 1.4 × 10−2 TCID50 (median tissue culture infectious dose)/mL. For the performance analysis of 5-SSG primers, 25 replicates were performed. The comparative LOD was determined as the minimum detectable concentration. Probit regression was used to estimate positive values with 95% confidence intervals [24]..
+
+The template (2.5 ng) from viral, bacterial, and fungal strains was added for one-step RT-PCR (Nanohelix Co., Daejeon, Republic of Korea) analysis, which was performed using a SeeAmp (Seegene) instrument. PCR assays with the 5-SSG primers were performed using the following thermal cycling conditions: 45°C for 15 min (reverse transcription), followed by 94°C for 15 min (initial denaturation), and 45 cycles of 94°C for 10 s (denaturation), 64°C for 30 s (annealing), and 72°C for 30 s (extension). A final extension step was conducted at 72°C for 5 min. Next, the PCR products were analyzed using 2% agarose gel electrophoresis with 0.5× TBE buffer, and the gels were stained with ethidium bromide (Biosesang, Seongnam, Republic of Korea). PCR amplicons from the 67 samples were analyzed using agarose gel electrophoresis in a horizontal unit (CBS Scientific, San Diego, CA, USA) operating at 280 V for 28 min, and the band sizes on ethidium bromide-stained gels were quantified using a Gel-Doc XR+ system (Bio-Rad Laboratories, Hercules, CA, USA)..
+
+All PCR-positive products were purified with MEGAquick-spin™ plus (iNtRON Biotechnology, Seongnam, Republic of Korea), according to the manufacturer’s instructions [25]. The sequence analysis of PCR products (partial S gene amplified to ~800 bp) was performed using the 5-SSG primers (5′ tagged M13 primer) and the BigDye Terminator v3.1 cycle sequencing kit reagent (Applied Biosystems, Foster City, CA, USA). The sequence analysis conditions were as follows: 96°C for 1 min (incubation), followed by 25 cycles of 96°C for 10 s (denaturation), 50°C for 5 s (annealing), and 60°C for 4 min (extension). Dye-labeled products were analyzed using an ABI 3730 sequencer (Applied Biosystems). Sequencing chromatograms were analyzed manually using Variant Reporter™ v3.0 software (Applied Biosystems). Samples were classified as mutants if the sequencing results from the specific regions matched those of lineage information [26]..
+
+NGS was performed using the SARS-CoV-2 FLEX Panels (Paragon Genomics, Hayward, CA, USA) and an Illumina MiSeq platform (Illumina, San Diego, CA, USA) in accordance with the manufacturer’s instructions [27]. Reverse transcription was performed using 55 ng of nucleic acid, and multiplex PCR was performed using 343 pairs of primers. A second PCR was conducted using CleanPlex Dual-Indexed PCR Primers for Illumina® Set A (Paragon Genomics). The final library was sequenced on an Illumina MiSeq platform (Illumina) with 2 × 150bp flow cells using a MiSeq Micro Reagent Kit v2 (300 cycles)..
+
+Next, NGS assays were analyzed using the Flomics pipeline (Flomics, Barcelona, Spain). The processing pipeline comprised FastQC v0.11.9 (quality control), followed by fastp v0.20.1. (adapter trimming), Bowtie2 (reference alignment), and iVar v1.2.2. (variant calling). The viral lineage was accessed using the GISAID database, and PANGO Lineages [28]. In NGS analysis, depths of less than 10× were identified by read-depth segmentation in an integrated genomics viewer [27]..
+
+Ethical aspects of this study were reviewed and approved by the Seegene Medical Foundation Institutional Review Board (approval number, SMF-IRB-2021-006), provided that after conducting the laboratory diagnoses of SARS-CoV-2 testing, the remaining samples be destroyed. All data were fully anonymized administrative data without patient identifiers, and patient consent was waived by the institutional review board..
+
+The 5-SSG primers consisted of five primer pairs, including 69S, 144S, 417S, 484S, and 570S. The 69S primer pair for 4 mutants (A67V, ΔH69/V70, D80A, and T95I), 144S primer pair for 9 mutants (D138Y, G142D, ΔY144, W152C, E154K, ΔE156/F157, R158G, R190S, and D215G), 417S primer pair for 4 mutants (D253G, K417T, K417N, and L452R), 484S primer pair for 4 mutants (T478K, E484K, E484Q, and N501Y), and 570S primer pair for 8 mutants (A570D, D614G, H655Y, Q677H, P681H, P681R, A701V, and T716I) were designed to detect target mutants (Table 1). The lineage and CDC classification information of each primer are shown in S1 Table. All target mutants were efficiently included in S gene coverage (Table 1, Fig 1, and S1 Table)..
+
+The analytical performance of the 5-SSG primers was confirmed using a total of 67 strains, including viruses, bacteria, and fungi. The PCR results were determined to be positive or negative based on the expected PCR product sizes (Tables 1, 2 and S2). As shown in Tables 2 and S2, the 5-SSG primer pairs achieved consistent results for twenty-two strains of SARS-CoV-2, whereas a negative result was obtained for the remaining 45 stains (other viruses, bacteria, and fungi)..
+
+Analytical sensitivity, positivity rate, and LOD were estimated using 25 replicates of positive strains (Zeptometrix-0810590CFHI) at six different concentrations, from approximately 1.4 × 10−2 to 1.4 × 103 TCID50/mL (Table 3). Results (probit analysis) showed that the 95% LOD was approximately 3.7 × 101 TCID50/mL for 69S, 9.8 × 101 TCID50/mL for 144S, 6.6 × 101 TCID50/mL for 417S, 3.9 × 101 TCID50/mL for 484S, and 7.2 × 101 TCID50/mL for 570S (Table 3). Assay results showed 100% reproducibility for all 5-SSG primer pairs, even for concentrations of as low as approximately 1.4 × 102 TCID50/mL. The LOD was approximately 1.4 × 101 TCID50/mL, except for in the 69S and 484S assays, which were 10 times more sensitive than the 144S, 417S, and 570S assays..
+
+The 5-SSG primer-PCR reactions performed using ten-fold diluted positive samples. The LOD 95% data were estimated using the probit regression analysis. Abbreviations: Conc., concentration; TCID50, median tissue culture infective dose; LOD, limit of detection..
+
+As shown in Table 2, the nucleotide sequences of the positive PCR products obtained from 22 strains were compared with the existing S mutations through the Sanger Sequencing method using the M13 primer. The key deletion mutations ΔH69/V70 and ΔY144 were found in four strains (Twistbio-601443, Twistbio-7105258, NCCP-43381, and NCCP-43386). In addition, other substitution mutations were found to be 100% consistent with those in each strain’s corresponding lineage, except for two cases in which substitutions at T95I for the NCCP-43390 strain and W152C for the NCCP-43384 strain were mismatched in the CDC classification (Figs 2 and S1, and S1 Table). Overall, it was confirmed through Sanger sequencing that the 5-SSG primers can detect predominant S gene mutations of SARS-CoV-2 observed in the major mutant strain categories, VOIs and VOCs, with high sensitivity and efficiency..
+
+(A) ΔH69/V70, and (B) T95I from 69S; (C) G142D, and (D) ΔY144 from 144S; (E) K417T/N, and (F) L452R from 417S; (G) E484K/Q, and (H) N501Y from 484S; (I) H655Y from 570S. Sequences showing deletions or conversions are highlighted for comparison with the Wuhan-Hu-1-CoV sequence..
+
+SARS-CoV-2 mutants have been genetically characterized using NGS-based lineages [13,29]. To confirm the detection accuracy of the 5-SSG primer assay developed in this study for the SARS-CoV-2 mutants, NGS analysis results were used for a comparison. The NGS assay identified three strains (Twistbio-710528, Twistbio-601443, and NCCP-43381) as B.1.1.7, two (Twistbio-678597 and NCCP-43382) as B.1.351, one (Twistbio-79683) as P.1, one (NCCP-43390) as B.1.617.2, one (NCCP-43384) as B.1.427, one (NCCP-43385) as B.1.429, one (NCCP-43386) as B.1.525, one (NCCP-43387) as B.1.526, and one (NCCP-43389) as B.1.617.1. The remaining ten strains (NCCP-43330, NCCP-43331, NCCP-43342, NCCP-43343, NCCP-43344, NCCP-43345, NCCP-43383, Zeptometrix-0810587CFHI, Zeptometrix-0810589CFHI, and Zeptometrix-0810589CFHI) were genetically classified into another lineage (Table 4). Results of NGS and Sanger sequencing using the 5-SSG primers showed 100% consistency for all strains, including T95I for the NCCP-43390 strain and W152C for the NCCP-43384 strain (Table 4). Taken together, the 5-SSG primer assay is very efficient in detecting SARS-CoV-2 major S gene mutant strains..
+
+Abbreviations: VOC, Variant of concern; VOI, variant of interest; Δ, deletion. Low-coverage NGS data are marked in underline..
+
+To confirm the detection accuracy of the 5-SSG primer assay using clinical samples, Sanger sequencing results were compared with those of NGS analysis (Table 5). The results of VOCs (B.1.1.7, B.1.351, P.1, and B.1.617.2), VOIs (B.1.429, B.1.525, and B.1.617.1), and the remaining two lineages (B.1.497, B.1.619) were compared (Table 5). NGS assays and Sanger sequencing using the 5-SSG primers showed 100% consistent results for all strains. We concluded that the 5-SSG primer assay also had a very efficient performance with clinical samples..
+
+Abbreviations: VOC, Variant of concern; VOI, variant of interest; Δ, deletion. Low-coverage NGS data are marked in underline..
+
+In the ongoing COVID-19 pandemic, it has been demonstrated that the rapid detection of the pathogen is critical to prevent the rampant spread of the disease [30]. The emergence of SARS-CoV-2 variants, which are associated with increased transmission, disease severity, and resistance to vaccines, is a grave concern [31]. The alpha (B.1.1.7) and beta (B.1.351) lineages of SARS-CoV-2, which account for 98.7% of total variant cases, contain the mutations ΔH69/V70, E484K, and N501Y [32]. S protein-based vaccines might provide less protection against these mutants (ΔH69/V70, E484K, and N501Y) of SARS-CoV-2 [33]. Therefore, a simple and rapid screening assay to monitor the emergence and spread of these variants is essential to implement public health strategies [31]..
+
+In this study, we developed primers for the rapid and accurate detection of the key mutants of the S gene of SARS-CoV-2 and evaluated the reliability and reproducibility of these primers (Tables 2 and 3). The 5-SSG primers (69S, 144S, 417S, 484S, and 570S) had high analytical specificity for SARS-CoV-2 strains and no cross-reactivity with other strains (Tables 2 and S2). Results of Sanger sequencing using 5-SSG primers and commercial NGS were in 100% agreement; however, the three approaches differed in their ability to detect the E484K and D215G variants of the beta (B.1.351) lineage, E484K of the gamma (P.1) lineage, and G142D of the delta (B.1.617.2) lineage (Tables 4 and 5). These results indicate that in NGS analysis, low-depth levels of mutants (G142D, D215G, and E484K) are detected, because the target amplification is affected by a mutation in the reverse primer binding site (ΔE156/F157, R158G, ΔLAL242-244, and N501Y). In addition, NGS is limited to the environment in which the equipment is built, and it also takes a longer as it is more complex than typical Sanger sequencing [34]. Therefore, the Sanger sequencing-based 5-SSG primer assay system can rapidly and accurately detect key mutants of the S gene without resource constraint, and is a useful tool that can overcome the limitation of relatively low read-depth caused by mutations in primer-binding site during NGS analysis..
+
+One limitation of this study is that the performance of the 5-SSG primers was tested using small numbers of clinical samples through Sanger sequencing and NGS analysis, and thus, further studies using a larger number of clinical samples should be performed. In addition, the current 5-SSG primer system can identify lambda (C.37) variants with the 417S primer set, but the ΔRSYLTPGD246-253N mutation affects the 144S reverse primer. Therefore, improvements in primer performance for detection of additional variants (e.g. B. 1.617.3 and B. 1.621) and the development of new primers should be pursued in future studies..
+
+Collectively, the 5-SSG primer assay system has high PCR sensitivity specifically for SARS-CoV-2 and is a useful tool that can detect various S gene mutants very quickly and accurately, thereby contributing to the faster control of pathogen transmission in the population..
+
+(A) ΔH69/V70 and (B) T95I from 69S; (C) G142D and (D) ΔY144 from 144S; (E) K417T, (F) K417N, and (G) L452R from 417S; (H) E484K, (I) E484Q, and (J) N501Y from 484S; (K) H655Y from 570S. Chromatograms showing deletions or conversions are highlighted for comparison with the Wuhan-Hu-1-CoV sequence..
+
+(TIF).
+
+Click here for additional data file..
+
+Abbreviations: VOI, Variants of Interest; VOC, Variants of Concern; Twistbio, Twist Bioscience; NCCP, National Culture Collection for Pathogens..
+
+(PDF).
+
+Click here for additional data file..
+
+Abbreviations: SARS-CoV-2, Severe acute respiratory syndrome-related coronavirus 2; ATCC, American Type Culture Collection; KBPV, Korea Bank for Pathogen Viruses; NIBSC, National Institute for Biological Standards and Control; KCTC, Korean Collection for Type Cultures..
+
+(PDF).
+
+Click here for additional data file..
+
+(ZIP).
+
+Click here for additional data file..
+
+We would like to thank Editage for English language editing. We also thank the National Culture Collection for Pathogens for kindly providing fifteen strains of SARS-CoV-2 as resources (NCCP-43330, NCCP-43331, NCCP-43342, NCCP-43343, NCCP-43344, NCCP-43345, NCCP-43381, NCCP-43382, NCCP-43383, NCCP-43384, NCCP-43385, NCCP-43386, NCCP-43387, NCCP-43389, and NCCP-43390) in this study..
+
+
+20 Sep 2021
+.
+
+PONE-D-21-25453Development of efficient Sanger sequencing-based assay system for SARS-CoV-2 spike variantsPLOS ONE.
+
+Dear Dr. Yang,.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+I have received the reviews of your manuscript. While your paper addresses an interesting question, the reviewers stated several concerns about your study and did not recommend publication in its present form.  The presentation as well as the readability of the manuscript need to be improved, since the manuscript as a whole is quite convoluted.  The title of the manuscript implied that the PCR plus Sanger Sequencing provided the necessary information.  However, this is not clearly conveyed in the main text.  The abstract only mentioned the 5-SSG primer assay development.  From the main text, the 5-SSG primer assay system does not include sequence, how do the authors determine the mutation detected, PCR product size?  In addition, the quality of the language needs to be improved, there are quite a few awkward sentences and typos throughout the manuscript.  Please have a fluent, preferably native, English-language speaker thoroughly copyedit your manuscript for language usage, spelling, and grammar.  .
+
+Specific comments:.
+
+
+Need to declare that Jeong-Eui Lee is the Seegene employeeLine 88 – 91, please rephrase for clarity. What really did the authors develop?  PCR assay in conjunction with Sanger sequencing or just PCR assay?Line 99, “redesigned or modified” from what?Line 117 – 120, awkward sentence, please rephrase for clarity. Also, are these viruses, bacteria and fungi selected causing respiratory infections? What is the selection criteria?Line 119, suggest changing “2 other kinds of coronaviruses” to “Coronavirus OC43 & 229E”Line 135 – 137, awkward sentences, please rephrase for clarity.Line 146 – 147, this sentence is confusing, please rephrase.Line 198 – 199, please rephrase for clarity.
+.
+
+Need to declare that Jeong-Eui Lee is the Seegene employee.
+
+Line 88 – 91, please rephrase for clarity. What really did the authors develop?  PCR assay in conjunction with Sanger sequencing or just PCR assay?.
+
+Line 99, “redesigned or modified” from what?.
+
+Line 117 – 120, awkward sentence, please rephrase for clarity. Also, are these viruses, bacteria and fungi selected causing respiratory infections? What is the selection criteria?.
+
+Line 119, suggest changing “2 other kinds of coronaviruses” to “Coronavirus OC43 & 229E”.
+
+Line 135 – 137, awkward sentences, please rephrase for clarity..
+
+Line 146 – 147, this sentence is confusing, please rephrase..
+
+Line 198 – 199, please rephrase for clarity..
+
+Please submit your revised manuscript by Nov 04 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file..
+
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'..
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'..
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter..
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols..
+
+We look forward to receiving your revised manuscript..
+
+Kind regards,.
+
+Baochuan Lin, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+Journal requirements:.
+
+When submitting your revision, we need you to address these additional requirements..
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at.
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and.
+
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+.
+
+2. Thank you for stating the following financial disclosure:.
+
+“No”.
+
+At this time, please address the following queries:.
+
+a)        Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution..
+
+b)        State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”.
+
+c)        If any authors received a salary from any of your funders, please state which authors and which funders..
+
+d)        If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”.
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf..
+
+3. Thank you for providing the following Funding Statement: .
+
+“No”.
+
+We note that one or more of the authors is affiliated with the funding organization, indicating the funder may have had some role in the design, data collection, analysis or preparation of your manuscript for publication; in other words, the funder played an indirect role through the participation of the co-authors..
+
+If the funding organization did not play a role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript and only provided financial support in the form of authors' salaries and/or research materials, please review your statements relating to the author contributions, and ensure you have specifically and accurately indicated the role(s) that these authors had in your study in the Author Contributions section of the online submission form. Please make any necessary amendments directly within this section of the online submission form.  Please also update your Funding Statement to include the following statement: “The funder provided support in the form of salaries for authors [insert relevant initials], but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. The specific roles of these authors are articulated in the ‘author contributions’ section.”.
+
+If the funding organization did have an additional role, please state and explain that role within your Funding Statement..
+
+Please also provide an updated Competing Interests Statement declaring this commercial affiliation along with any other relevant declarations relating to employment, consultancy, patents, products in development, or marketed products, etc. .
+
+Within your Competing Interests Statement, please confirm that this commercial affiliation does not alter your adherence to all PLOS ONE policies on sharing data and materials by including the following statement: "This does not alter our adherence to  PLOS ONE policies on sharing data and materials.” (as detailed online in our guide for authors http://journals.plos.org/plosone/s/competing-interests). If this adherence statement is not accurate and  there are restrictions on sharing of data and/or materials, please state these. Please note that we cannot proceed with consideration of your article until this information has been declared..
+
+4. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide..
+
+[Note: HTML markup is below. Please do not edit.].
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+
+Comments to the Author
+.
+
+1. Is the manuscript technically sound, and do the data support the conclusions?.
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented. .
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+**********.
+
+2. Has the statistical analysis been performed appropriately and rigorously? .
+
+Reviewer #1: N/A.
+
+Reviewer #2: Yes.
+
+**********.
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?.
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified..
+
+Reviewer #1: No.
+
+Reviewer #2: Yes.
+
+**********.
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?.
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here..
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+**********.
+
+5. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #1: Lim et al. have developed SARS-CoV-2 Spike protein primer sets to distinguish VOC and VOI as defined by WHO. The primers seem to work well for the VOC strains and some of the VOI strains. However, recently, lambda (June 14) and mu (August 30) have been newly designated. Since mu is designated after the submission date of August 6, authors can dismiss the VOI. The lambda (C.37) has 246_253delinsN deletion, which coincides with the reverse primer of 144S. Authors need to check whether the current primer design can detect the deletion in the lambda variant. Also, authors needs to share the raw data of the sequencing data prior to the publication..
+
+Reviewer #2: This study describes development and testing of five primer sets for detecting SARS-CoV-2 spike variants using Sanger sequencing. The manuscript is well written, and was a pleasure to read. The study appears robust, apt, and timely, especially considering its potential for application in clinical settings..
+
+I only have a few minor comments:.
+
+1. A few typos:.
+
+-line 38, 'detect nine', instead of 'detect of nine'.
+
+-line 43, 'ability of the 5-SSG primer', instead of 'ability of 5-SSG primer'. Same for lines 250, 273, 284..
+
+-line 81, 'methods', instead of 'method'.
+
+2. In the first paragraph of the results section (lines 204-214) and throughout the manuscript, the authors refer to 'mutants' as 'variants'. The term 'variant' in SARS-CoV-2 literature is probably more appropriately used for a constellation of mutations that make up a genetically (and usually epidemiologically) distint virus, rather than single mutations, and I fear that the authors use of the word here may not be appropriate..
+
+3. Under acknowledgement, the name of the person being 'thanked' is missing..
+
+**********.
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files..
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public..
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy..
+
+Reviewer #1: Yes: Takahiko Koyama.
+
+Reviewer #2: No.
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.].
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step..
+
+
+13 Oct 2021
+.
+
+Responses to Academic Editor Comments.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+I have received the reviews of your manuscript. While your paper addresses an interesting question, the reviewers stated several concerns about your study and did not recommend publication in its present form. The presentation as well as the readability of the manuscript need to be improved, since the manuscript as a whole is quite convoluted. The title of the manuscript implied that the PCR plus Sanger Sequencing provided the necessary information. However, this is not clearly conveyed in the main text. The abstract only mentioned the 5-SSG primer assay development. From the main text, the 5-SSG primer assay system does not include sequence, how do the authors determine the mutation detected, PCR product size? In addition, the quality of the language needs to be improved, there are quite a few awkward sentences and typos throughout the manuscript. Please have a fluent, preferably native, English-language speaker thoroughly copyedit your manuscript for language usage, spelling, and grammar..
+
+A: Thank you for your valuable comment. To improve the quality of the manuscript's expression and readability, we requested a native-speaker proofreading service, and the revised manuscript has been resubmitted here. Also, as per your suggestion, the title has been changed to “Development of an efficient Sanger sequencing-based assay for detecting SARS-CoV-2 spike mutations", to more accurately include the essential information provided by PCR and Sanger sequencing. All additional corrections made in the manuscript are marked in red. Electrophoresis was performed to determine the size of the PCR product, and the results are summarized in Tables 2 and S2. For reference, photos of the electrophoresis have been attached below..
+
+ .
+
+Specific comments:.
+
+1. Need to declare that Jeong-Eui Lee is the Seegene employee.
+
+A: We have carefully reconsidered the issue of Jeong-Eui Lee as a co-author. Since his direct contribution to the paper is not entirely clear, we have decided to remove his authorship. We apologize for any confusion we may have caused by not initially making a more careful decision..
+
+2. Line 88 – 91, please rephrase for clarity. What really did the authors develop? PCR assay in conjunction with Sanger sequencing or just PCR assay?.
+
+A: We have modified the manuscript’s passage to say, “PCR assay in conjunction with Sanger sequencing”, and marked these changes in red..
+
+3. Line 99, “redesigned or modified” from what?.
+
+A: We have modified the sentence passage to state, ““modified from Global Initiative on Sharing Avian Influenza Data (GISAID) database, with a frequency cut-off > 1%, applied with degenerative or inosine to optimize melting temperature (Tm), avoid repetitive sequences, and include GC content > 65%, using Gene Runner (ver. 6.0) [20, 21].”, and marked these changes in red. .
+
+4. e 117 – 120, awkward sentence, please rephrase for clarity. Also, are these viruses, bacteria and fungi selected causing respiratory infections? What is the selection criteria?.
+
+ A: We have chosen here to focus on all pathogen species for which standard stains could be obtained to compare analytical capabilities. Among them, the results were separated between those causing respiratory infection (Table 2), and other pathogens (Supplementary Table 2) for clarity..
+
+5. Line 119, suggest changing “2 other kinds of coronaviruses” to “Coronavirus OC43 & 229E”.
+
+A: As per your suggestion, we have changed the sentence to “Coronavirus OC43 & 229E”, and marked the revision in red..
+
+6. Line 135 – 137, awkward sentences, please rephrase for clarity..
+
+A: As follow your suggestion, we have reworded the sentences for clarity, and marked these changes in red..
+
+7. Line 146 – 147, this sentence is confusing, please rephrase..
+
+A: The sentence has been rephrased, and is marked in red..
+
+8. Line 198 – 199, please rephrase for clarity..
+
+A: The passage has been rephrased, and is marked in red. .
+
+Responses to Reviewer Comments.
+
+Reviewer #1’s comments and responses.
+
+▶ Comment 1: Lim et al. have developed SARS-CoV-2 Spike protein primer sets to distinguish VOC and VOI as defined by WHO. The primers seem to work well for the VOC strains and some of the VOI strains. However, recently, lambda (June 14) and mu (August 30) have been newly designated. Since mu is designated after the submission date of August 6, authors can dismiss the VOI. The lambda (C.37) has 246_253delinsN deletion, which coincides with the reverse primer of 144S. Authors need to check whether the current primer design can detect the deletion in the lambda variant. Also, authors needs to share the raw data of the sequencing data prior to the publication..
+
+▶ Response to comment 1: Thank you for your very important comments. We have checked whether the 5-SSG primer assay system can detect deletion in Mu and lambda variants. As you point out, the lambda (C.37) 246_253delinsN deletion is not amplified under the influence of 144S reverse primer, but it can be confirmed with the 417S primer set. In addition, there is no problem in confirming Mu (B. 1.621) mutations..
+
+We have attached the figure below to support this information..
+
+Since your comments are very important, so we will monitor the occurrence of mutations and continue to improve our primer sets. As your request, we have included a new supplementary figure of raw data for the sequencing results of the key mutants, and have enclosed a data file to share the NGS raw data in FASTA format..
+
+Reviewer #2’s comments and responses.
+
+This study describes development and testing of five primer sets for detecting SARS-CoV-2 spike variants using Sanger sequencing. The manuscript is well written, and was a pleasure to read. The study appears robust, apt, and timely, especially considering its potential for application in clinical settings..
+
+I only have a few minor comments:.
+
+▶ Comment 1: A few typos: .
+
+- line 38, 'detect nine', instead of 'detect of nine'.
+
+- line 43, 'ability of the 5-SSG primer', instead of 'ability of 5-SSG primer'. Same for lines 250, 273, 284.
+
+- line 81, 'methods', instead of 'method' be appropriate..
+
+▶ Response to comment 1: All errors in manuscript have been corrected, and are marked in red..
+
+▶ Comment 2: In the first paragraph of the results section (lines 204-214) and throughout the manuscript, the authors refer to 'mutants' as 'variants'. The term 'variant' in SARS-CoV-2 literature is probably more appropriately used for a constellation of mutations that make up a genetically (and usually epidemiologically) distint virus, rather than single mutations, and I fear that the authors use of the word here may not be appropriate..
+
+▶ Response to comment 2: We agree with your valuable comment. The inappropriate words in manuscript have been corrected and are marked in red..
+
+▶ Comment 3: Under acknowledgement, the name of the person being 'thanked' is missing..
+
+▶ Response to comment 3: We have been added the name of Editage in acknowledgement and marked it in red..
+
+Submitted filename: Response to Reviewers.docx.
+
+Click here for additional data file..
+
+
+10 Nov 2021
+.
+
+PONE-D-21-25453R1Development of an efficient Sanger sequencing-based assay for detecting SARS-CoV-2 spike mutationsPLOS ONE.
+
+Dear Dr. Yang,.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+Both reviewers agreed that the revised version has addressed most of the comments raised and showed significant improvement.  However, one of the reviewers still feel that one significant point regarding delta variant needs to be addressed.  In addition, I also have a few points that still need to be addressed (see specific comments below). Specific comments:1. Line 135 - 136,  "Anonymized residual of 17 nasopharyngeal swab specimens SARS-CoV-2.
+
+positive..." suggest changing to "Anonymized residual of 17 SARS-CoV-2 positive nasopharyngeal swab specimens..."2. Line 146 - 147, "The comparative LOD assessment was performed 25 times until the concentration of the targeted band was detected as positive." Not sure what the authors want to convey, please rephrase for clarity.3. Line 150 & 152, change PCR to RT-PCR..
+
+Please submit your revised manuscript by Dec 25 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file..
+
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter..
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'..
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'..
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols..
+
+We look forward to receiving your revised manuscript..
+
+Kind regards,.
+
+Baochuan Lin, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+Journal Requirements:.
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice..
+
+[Note: HTML markup is below. Please do not edit.].
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+
+Comments to the Author
+.
+
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation..
+
+Reviewer #1: All comments have been addressed.
+
+Reviewer #2: All comments have been addressed.
+
+**********.
+
+2. Is the manuscript technically sound, and do the data support the conclusions?.
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented. .
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+**********.
+
+3. Has the statistical analysis been performed appropriately and rigorously? .
+
+Reviewer #1: N/A.
+
+Reviewer #2: (No Response).
+
+**********.
+
+4. Have the authors made all data underlying the findings in their manuscript fully available?.
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified..
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+**********.
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English?.
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here..
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+**********.
+
+6. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #1: Authors have responded to my review comments on 246_253delinsN on lambda variant. However, since this is an important point, authors should address that their assay works for the lambda and others in discussion..
+
+Reviewer #2: Thank you for addressing my previous comments and others'. I think the current version of the manusript is much improved..
+
+**********.
+
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files..
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public..
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy..
+
+Reviewer #1: Yes: Takahiko Koyama.
+
+Reviewer #2: No.
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.].
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step..
+
+
+15 Nov 2021
+.
+
+Specific comments.
+
+1. Line 135 - 136, "Anonymized residual of 17 nasopharyngeal swab specimens SARS-CoV-2 positive..." suggest changing to "Anonymized residual of 17 SARS-CoV-2 positive nasopharyngeal swab specimens...".
+
+A: Thank you for your valuable comment. We have modified this text in the manuscript as “anonymized residual of 17 SARS-CoV-2 positive nasopharyngeal swab specimens of patients diagnosed with SARS-CoV-2 positive between February and June 2021 were obtained and used for this study” (lines 145-148)..
+
+2. Line 146 - 147, "The comparative LOD assessment was performed 25 times until the concentration of the targeted band was detected as positive." Not sure what the authors want to convey, please rephrase for clarity..
+
+A: We have modified the sentence as follows for clarity: “For the performance analysis of 5-SSG primers, 25 replicates were performed. The comparative LOD was determined as the minimum detectable concentration” (lines 157-159). .
+
+3. Line 150 & 152, change PCR to RT-PCR..
+
+A: As per your suggestion, we have changed the subheading and sentence to RT-PCR (lines 162, 164)..
+
+ .
+
+Responses to Reviewer Comments.
+
+Reviewer #1’s comments and responses.
+
+▶ Comment: Authors have responded to my review comments on 246_253delinsN on lambda variant. However, since this is an important point, authors should address that their assay works for the lambda and others in discussion..
+
+▶ Response to comment: Thank you for your valuable comment. As suggested, we mentioned the lambda variant issue in this study, as the 246_253delinsN mutation, in the discussion section of the manuscript (lines 337-341)..
+
+Submitted filename: Response to reviewer.docx.
+
+Click here for additional data file..
+
+
+18 Nov 2021
+.
+
+Development of an efficient Sanger sequencing-based assay for detecting SARS-CoV-2 spike mutations.
+
+PONE-D-21-25453R2.
+
+Dear Dr. Yang,.
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements..
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication..
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org..
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org..
+
+Kind regards,.
+
+Baochuan Lin, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+Additional Editor Comments (optional):.
+
+Reviewers' comments:.
+
+
+6 Dec 2021
+.
+
+PONE-D-21-25453R2 .
+
+Development of an efficient Sanger sequencing-based assay for detecting SARS-CoV-2 spike mutations .
+
+Dear Dr. Yang:.
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department. .
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact onepress@plos.org..
+
+If we can help with anything else, please email us at plosone@plos.org. .
+
+Thank you for submitting your work to PLOS ONE and supporting open access. .
+
+Kind regards, .
+
+PLOS ONE Editorial Office Staff.
+
+on behalf of.
+
+Dr. Baochuan Lin .
+
+Academic Editor.
+
+PLOS ONE.
+

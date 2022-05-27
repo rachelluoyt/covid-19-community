@@ -1,0 +1,100 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continues to evolve around the world, generating new variants that are of concern based on their potential for altered transmissibility, pathogenicity, and coverage by vaccines and therapeutics. Here we report that 20 BNT162b2 vaccine-elicited human sera neutralize engineered SARS-CoV-2 with a USA-WA1/2020 genetic background (a virus strain isolated in January 2020) and spike glycoproteins from the newly emerged B.1.617.1 (first identified in India) or B.1.525 (first identified in Nigeria) lineages. Geometric mean plaque reduction neutralization titers against the variant viruses, particularly the B.1.617.1 variant, are lower than the titer against USA-WA1/2020 virus, but all sera tested neutralize the variant viruses at titers of at least 40. The susceptibility of the newly emerged B.1.617.1 and B.1.525 variants to BNT162b2 vaccine-elicited neutralization supports mass immunization as a central strategy to end the COVID-19 pandemic across geographies..
+
+Since its emergence in late 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused >160 million infections with >3.3 million deaths due to coronavirus disease 2019 (COVID-19) worldwide (https://coronavirus.jhu.edu/). Although coronaviruses have a proofreading mechanism to maintain their long genomic RNAs
+1
+, mutations have continuously emerged in the circulating viruses. Because the viral spike protein (S) binds to angiotensin-converting enzyme 2 (ACE2), the cellular receptor of virus attachment, and mediates membrane fusion during viral entry, mutations in spike can alter SARS-CoV-2 transmission, tissue tropism, and disease outcome
+2
+. Indeed, the first prevalent spike mutation, D614G, promotes spike binding to ACE2, leading to enhanced SARS-CoV-2 transmission
+3–7
+. Subsequently, another spike mutation, N501Y, emerged convergently in several variants from multiple locations, including the United Kingdom (lineage B1.1.7), Brazil (lineage P.1), and South Africa (lineage B.1.351)
+8
+. The N501Y mutation also increases the affinity of the spike for ACE2 and increases viral transmission
+9,10
+. Some mutations in the spike, such as E484K, contribute to evasion of antibody neutralization. The E484K mutation has emerged independently in many variants, such as P.1, B.1.351, B.1.526 (first identified in New York), B.1.525 (first identified in Nigeria), and P3 (first identified in the Philippines)
+8,11,12
+. Thus, as the COVID-19 pandemic continues, it is critical to closely monitor the impact of new variants on viral transmission, pathogenesis, and vaccine and therapeutic efficacies..
+
+BNT162b2, an mRNA vaccine that expresses the full prefusion spike glycoprotein of SARS-CoV-2, showed an efficacy of 95% against COVID-19
+13
+. The United States Food and Drug Administration has authorized BNT162b2 vaccination of individuals 12 years of age and older under emergency use provisions. Although the sequence of BNT162b2 mRNA is based on the original SARS-CoV-2 isolated
+14
+, we and others have shown that sera from those immunized with BNT162b2 retained neutralizing activity against all tested variants, including the B1.1.7, P.1, B.1.351, B.1.429, B.1.526, and B1.1.7+E484K lineages
+8,11,15–17
+. Since then, a massive second wave of COVID-19 in India has been associated with the expansion of variant B.1.617.1 to 44 countries. In addition, variant B.1.525, initially detected in Nigeria, has spread to 49 countries. Both B.1.617.1 and B.1.525 variants currently circulate in the United States. The World Health Organization has designated these two variants as a variant of concern and a variant of interest, respectively (https://reliefweb.int/report/world/coronavirus-disease-covid-19-weekly-epidemiological-update-11-may-2021). This study analyzes BNT162b2-elicited neutralization against these two newly emerged variants..
+
+To examine variants’ effects on neutralization, we used a reverse genetic system to swap the complete spike gene from different variants into an early SARS-CoV-2 isolate USA-WA1/2020 [defined as wild-type (WT); Fig. 1a]
+18
+. Two chimeric viruses were prepared: (i) B.1.525-spike with Q52R, A67V, 67/70 deletion, 145 deletion, E484K, Q677H, and F888L from the B.1.525 variant; (ii) B.1.617.1-spike with G142D, E154K, L452R, E484Q, D614G, P618R, Q1071H, H1101D, and a synonymous mutation at D111 found in the B.1.617.1 variant. All mutant viruses yielded infectious titers of >10
+7
+ plaque-forming units (PFU)/ml. The B.1.617.1-spike virus formed smaller plaques than other viruses on Vero E6 cells (Fig. 1b). All the viruses were quantified for their viral RNA genome to PFU ratios, a parameter to indicate virus infectivity. None of the variant spikes significantly altered the viral RNA to PFU ratios (Fig. 1c), suggesting similar specific infectivities of the viral stocks. The complete spikes of all viral stocks were sequenced to ensure no undesired mutations..
+
+To compare the neutralization susceptibility of different variants, we performed 50% plaque reduction neutralization testing (PRNT50) using a panel of 20 sera collected from BTN162b2-immunized human subjects from a pivotal clinical trial
+13,19
+. The serum specimens were drawn 2 or 4 weeks after two immunizations with 30 mg of BNT162b2, spaced three weeks apart (Fig. 2a). Each serum was tested for its PRNT50 against the WT and mutant viruses (Table 1). All the sera neutralized the WT and all mutant viruses with titers of 1:40 or higher. The geometric mean neutralizing titers against the WT, B.1.525-spike, and B.1.617.1-spike viruses were 485, 320, and 126, respectively (Fig. 2b). The results suggest that neutralization against the WT and B.1.525-spike viruses was comparable, whereas the neutralization against B.1.617.1 virus was less than that against the WT virus, though still efficient..
+
+In response to the global pandemic of COVID-19, the scientific community has increased surveillance to identify mutations in circulating SARS-CoV-2 strains that might increase infectivity, increase pathogenicity, or alter coverage by therapeutics and vaccines. Such information is essential to guide public policy and countermeasure development. As part of ongoing diligence on coverage of variants by the BNT162b2 vaccine, we have engineered variant spike genes into the backbone of the USA-WA1/2020 isolate, and, using the gold standard PRNT50 assay, we have tested a panel of BTN162b2-immunized human sera against the resulting viruses
+15,20
+. Among all tested viruses, those with spike proteins from B.1.351
+20
+ and B.1.617.1 (this study) exhibited the greatest reduction in neutralization by the sera, with PRNT50’s 0.36 times and 0.26 times, respectively, that of USA-WA1/2020. However, both variants were still neutralized by all tested sera at titers of ≥40. The reduced neutralization is likely due to mutation-mediated escape from antibody binding or mutation-altered spike function..
+
+A recent real-world study in subjects who had received two doses of BNT162b2 demonstrated an effectiveness of 75% against any documented infection and 100% against documented severe, critical or fatal disease caused by the variant B.1.351
+21
+, which shows a similar reduction of neutralization titers as B.1.617.1. This finding indicates that reductions in neutralization like that observed for B.1.617.1 are unlikely to result in loss of vaccine efficacy against disease. Consistent with such findings, in a non-human primate model, passive transfer of IgG to a neutralization titer of 50 (measured by a pseudotype neutralization assay) was sufficient to prevent SARS-CoV-2 infection
+22
+. BNT162b2 elicits not only neutralizing antibodies, but also spike-specific CD4+ and CD8+ T cells and non-neutralizing antibody-dependent cytotoxicity, which can also serve as immune effectors
+23,24
+. Thus, neutralization titers do not measure all potentially protective vaccine responses and cannot substitute for studies of vaccine efficacy and real-world effectiveness of COVID-19 vaccines against variants. A limitation of the current study is the potential for mutations to alter neutralization by affecting spike function rather than antigenicity, even though the variant viruses exhibited similar infectious titers and specific infectivities to the original USA-WA1/2020 isolate. In addition, the study only examined the effect of mutations in the spike glycoproteins. Mutations outside the spike gene could also affect viral replication and host immune response..
+
+New variants will continue to emerge as the pandemic persists. To date, there is no evidence that virus variants have escaped BNT162b2-mediated protection from COVID-19. Therefore, increasing the proportion of the population immunized with current safe and effective authorized vaccines remains a key strategy to minimize the emergence of new variants and end the COVID-19 pandemic..
+
+All mutations from individual variant spike genes were engineered into an infectious cDNA clone of isolate USA-WA1/2020
+18
+. The spike mutations were introduced using a standard PCR-based mutagenesis method. A detailed protocol for construction of recombinant SARS-CoV-2 was previously reported
+25
+. Briefly, the full-length cDNAs of viral genome containing the variant spike mutations were assembled by T4 ligase-mediated in vitro ligation. The resulting genome-length cDNAs were used as templates to in vitro transcribe full-length viral RNAs. The in vitro transcribed full-length viral RNAs were electroporated into Vero E6 cells. When electroporated cells developed cytopathic effects (due to recombinant virus production and replication) on day 2 post electroporation, the original viral stocks (P0) were harvested from culture medium. The P0 viruses were amplified for another round on Vero E6 cells to produce the P1 stocks of viruses. The infectious titers of P1 viruses were measured by plaque assay on Vero E6 cells as previously described
+18
+. The complete sequences of spike genes from the P1 viruses were verified by Sanger sequencing to ensure no undesired mutations. The P1 viruses were used for subsequent neutralization testing..
+
+To determine the specific infectivity of each virus, we quantified the P1 stocks for their genomic RNA content and plaque-forming units (PFU) by RT-qPCR and plaque assay on Vero E6 cells, respectively. The protocols for RT-qPCR and plaque assay have been reported previously
+5
+. Genomic viral RNA to PFU ratios (genomes/PFU) were calculated to indicate the specific infectivity of each virus preparation..
+
+A panel of 20 serum specimens were collected from 15 BTN162b2-immunized participants in a clinical trial
+13,19
+. The sera were collected 2 or 4 weeks after two doses of 30 mg BNT162b2 mRNA, spaced 3 weeks apart (Fig. 2a). Five of the 20 participants provided sera at both 2 and 4 weeks after the second dose of vaccine, as detailed in the footnote to Table 1..
+
+A 50% plaque-reduction neutralization test (PRNT50), representing a gold standard of neutralization assay, was performed to quantify serum-mediated virus suppression. Individual sera were 2-fold serially diluted in culture medium with a starting dilution of 1:40. The diluted sera were mixed with 100 PFU of WT USA-WA1/2020 or variant mutant SARS-CoV-2. After 1-h incubation at 37 °C, the serum and virus mixtures were inoculated onto 6-well plates with a monolayer of Vero E6 cells pre-seeded the previous day. The minimal serum dilution that suppressed >50% of viral plaques is defined as PRNT50. A detailed PRNT50 protocol was reported previously
+19,26
+..
+
+Statistical analyses were performed for all experiments as detailed in legends to individual figures..
+
+The study was supported by Pfizer and BioNTech. We thank the Pfizer-BioNTech clinical trial C4591001 participants, from whom the post-immunization human sera were obtained. We also thank the colleagues at Pfizer and BioNTech who developed and produced the BNT162b2 vaccine candidate..
+
+Source data for generating main figures are available in the online version of the paper. Any other information is available upon request..
+
+
+Author contributions
+.
+
+Conceptualization, K.U.J, U.S., X.X., K.A.S., A.M., P.R.D., P.-Y.S.; Methodology, J.L., Y.L., H.X., J.Z., S.C.W., K.A.S., H.C., A.M., K.U.J., U.S., X.X., P.R.D., P.-Y.S.; Investigation, J.L., Y.L., H.X., J.Z., S.C.W., K.A.S., H.C., M.C., D.C., K.U.J., U.S., X.X., P.R.D., P.-Y.S.; Data Curation, J.L., Y.L., M.C., D.C., X.X., P.-Y.S.; Writing-Original Draft, J.L., Y.L., U.S., X.X., P.R.D., P.-Y.S.; Writing-Review & Editing, S.C.W., K.A.S., A.M., K.U.J., U.S., X.X., P.R.D., P.-Y.S.; Supervision, K.U.J., U.S., X.X., P.R.D., P.-Y.S.; Funding Acquisition, K.U.J., U.S., P.R.D., P.-Y.S..
+
+
+Competing financial interests
+.
+
+X.X. and P.-Y.S. have filed a patent on the reverse genetic system of SARS-CoV-2. K.A.S., H.C., M.C., D.C., K.U.J., and P.R.D. are employees of Pfizer and may hold stock options. A.M. and U.S. are employees of BioNTech and may hold stock options. Y.L., H.X., J.Z., X.X., and P.-Y.S. received compensation from Pfizer to perform the project..
+
+Construction and characterization of SARS-CoV-2s with variant spikes. a, Diagram of engineered variant spike mutations. Mutations from variant spikes were engineered into isolate USA-WA1/2020. Mutations and deletions are indicated in red and by dotted lines, respectively. Nucleotide and amino acid positions are also indicated. Different regions of SARS-CoV-2 genome are indicated: L (leader sequence), ORF (open reading frame), RBD (receptor binding domain), S (spike glycoprotein), S1 (N-terminal furin cleavage fragment of S), S2 (C-terminal furin cleavage fragment of S), E (envelope protein), M (membrane protein), N (nucleoprotein), and UTR (non-translated region). b, Plaque morphologies of recombinant SARS-CoV-2s. Plaque assays were performed on Vero E6 cells in 6-well plates. c, Comparison of viral genomic RNA versus plaque-forming unit ratios (genomes/PFU) of recombinant SARS-CoV-2’s. The genomic RNA and PFU of individual virus stocks were measured by RT-qPCR and plaque assay, respectively. The genomes/PFU ratios were calculated to determine specific infectivities. Dots represent individual biological replicates from 4 aliquots of viruses. The values in the graph represent means with 95% confidence intervals. A non-parametric Mann-Whitney test was used to determine significant differences between USA-WA1/2020 and variant viruses. P values were adjusted using the Bonferroni correction to account for multiple comparisons. Differences were considered significant if P < 0.05; n.s., no statistical difference..
+
+Neutralization of USA-WA1/2020 and variant SARS-CoV-2’s by BNT162b2-immune sera. a, BNT162b2 immunization scheme and serum collection. Twenty human sera were obtained from 15 trial participants at 2 weeks (circles) or 4 weeks (triangles) after the second dose of BNT162b2 vaccine. Five of the 15 participants provided sera at both 2 and 4 weeks after the second dose of vaccine. b, Neutralization of variant SARS-CoV-2’s by BNT162b2 vaccine-elicited sera. The PRNT50 results for USA-WA1/2020 and variant viruses are plotted. Individual PRNT50 values are presented in Table 1. Each data point represents the geometric mean PRNT50 obtained with a serum sample against the indicated virus. The PRNT50’s were determined in duplicate assays, and the geometric means were calculated. The heights of bars and the numbers over the bars indicate geometric mean titers. The horizontal bars indicate 95% confidence intervals. The dashed line indicates the limit of detection (LOD) at 1:40. Statistical analysis was performed using the Wilcoxon matched-pairs signed-rank test. The statistical significance of the difference between geometric mean titers in the USA-WA1/2020 neutralization assay and in each variant virus neutralization assay with the same serum samples are as follows: P = 0.007 for B.1.525-spike and P < 0.0001 for B.I.617.1 -spike..
+
+Pairs of sera were obtained from five of the twenty participants at both 2 and 4 weeks after the second dose of vaccine. The paired sera have ID’ 1 and 15, 7 and 17, 8 and 14, 11 and 19, and 12 and 20..
+
+individual PRNT50 values are the geometric mean of duplicate plaque assay results; no differences were observed between the duplicate assays..
+
+Geometric mean neutralizing titers..
+
+95% confidence interval (95% CI) for the GMT..
+

@@ -1,0 +1,392 @@
+Responsible Editor: Lotfi Aleya.
+
+Coronaviruses are terrifically precise and adapted towards specialized respiratory epithelial cells, observed in organ culture and human volunteers both. This virus is found to possess an unpredictable anti-viral T-cell response which in turn results in T-cell activation and finally apoptosis, leading to cytokine storm and collapse of the whole immune system. The present review provides comprehensive information regarding SARS-CoV-2 infection, mutant strains, and the impact of SARS-COV-2 on vital organs, the pathophysiology of the disease, diagnostic tests available, and possible treatments. It also includes all the vaccines developed so far throughout the world to control this pandemic. Until now, 18 vaccines have been approved by the WHO and further 22 vaccines are in the third trial. This study also provides up-to-date information regarding the drugs repurposed in clinical trials and the recent status of allopathic drugs along with its result. Although vaccines are available, specific treatment is not available for the disease. Furthermore, the effect of vaccines on new variants is a new area of research at this time. Therefore, a preventive attitude is the best approach to fight against this virus..
+
+December 2019 has been documented as a historic month for the emergence of the coronavirus disease also called viral pneumonia in Wuhan, China. This outbreak has propounded to approx. 220 countries, possessing more than 180,906,466 confirmed cases with 3,919,082 confirmed deaths and recovered cases 165,531,010 all over the world until the 25th of June 2021..
+
+The virus was primarily cautiously named 2019 novel coronavirus (2019-nCoV). Consequently, the International Committee of Taxonomy of Viruses coined the name SARS-CoV-2, and so the disease was named COVID-19(Zhou et al. 2020; Chen et al. 2020). This virus has been classified in genus, subgenus, and family: β-coronavirus, Sarbecovirus, and Coronaviridae respectively (Fig. 1) (Zhang et al. 2020a; Pottoo et al. 2021).
+Fig. 1Structure of SARS-CoV-2 virus.
+
+Structure of SARS-CoV-2 virus.
+
+SARS-CoV-2, extremely contagious and lethal, became an immense global health issue. As per the gene sequence analysis, SARS-CoV-2 is pertinent with two SARS-like coronaviruses observed in bats (approx.88% resemblance) that possess rapid spreading characteristics all through the world. There are seven strains of coronavirus detected and identified which infect humans (HCoV), four of which are HCoV-229E, HCoV-NL63, HCoV-HKU1, and HCoV-OC43 that are common, seasonal, and liable to cause mild respiratory symptoms, whereas another two are zoonotic and virulent called MERS-CoV and SARS-CoV-1 and this SARS-CoV-2 possesses genetic similarity with SARS-CoV-1, both belonging to Sarbecovirus subgenus and β-coronavirus genus (Chen et al. 2020). Further study revealed that virus possesses envelope, +ve sense, single-strand of RNA linked with 30-kb genome (Arabi et al. 2020). It possesses proofreading machinery in order to reduce the mistakes during replication, therefore the mutations..
+
+Research on SARS-CoV-2 revealed that it corresponds to Beta-coronavirus that possesses a characteristic genome structure as shown in Fig. 1. This virus is the biggest known RNA virus that has a specialty in possessing a replication-transcription system (RTS). This also possesses 3′-5′ exo-ribonuclease (some RNA-transforming enzymes with approx. 148 proteins). The mechanism of infection in a human cell has been illustrated in Fig. 2 (Cevik et al. 2020).
+Fig. 2Mode of infection of SARS-CoV-2 in human cell.
+
+Mode of infection of SARS-CoV-2 in human cell.
+
+Decoding of genome results into structural (four proteins, i.e., spike, membrane, envelope, and nucleocapsid) as well non-structural proteins (for replicase transcriptase proteins). It binds to ACE2 receptors through spike protein for cell attachment and entry. The disease shows flu-like symptoms such as fever, cough, loss of taste, diarrhea, pneumonia, renal, asthenia, cardiac symptoms, and skin rashes. Happy hypoxia is also observed in COVID-19-positive cases which is also responsible for the causalities. In some situations, the patient also feels acute traumatic stress disorder, depression, and some psychological disorders, and few cases commit suicide also due to it (Markham and Keam 2018). The effect of SARS Cov-2 on various vital organs is shown in Fig. 3.
+Fig. 3Effect of SARS COV-2 on vital organs.
+
+Effect of SARS COV-2 on vital organs.
+
+The coronavirus term implies a huge virus’s family known since a long time ago. Before this pandemic, many coronaviruses are known to infect humans and cause mild respiratory illnesses such as cough and colds. This novel COVID-19 virus is not new to us but it is very rare that a virus jumps from animals/plants to humans and causes disease. This happens with the COVID-19 virus; therefore, it infects humans rapidly, due to its extreme contagious nature (Jena 2021; Jha et al. 2021;Jin et al. 2020;Shahab et al. 2021, Huang et al. 2020). Variants known to date are compiled in Table 1.
+Table 1Different variants of COVID-19Origin nationNew nameVariant/lineageRef.USANew YorkSouth CaliforniaIota (ι)Epsilon (ε)B.1.526B.1.427/429Shahab et al. (2021)PhilippinesTheta (θ)P.3Shahab et al. (2021)BrazilGamma (γ); Zeta (ζ)P.1; P.2Shahab et al. (2021)IndiaDelta (δ); Kappa (κ)B.1617.2; B.1617.1Shahab et al. (2021)UKAlpha (α)B.1.1.7Shahab et al. (2021)South AfricaBeta (β)B.1.351Shahab et al. (2021)Other countriesEta (η)B.1.525Shahab et al. (2021).
+
+Different variants of COVID-19.
+
+USA.
+
+New York.
+
+South California.
+
+Iota (ι).
+
+Epsilon (ε).
+
+B.1.526.
+
+B.1.427/429.
+
+It is well known that viruses are the link between living and non-living organisms as they do not contain any cells. Therefore, there are more chances of mutations in viruses during human infection as well as disease progressions as the simplest structure. Most of the mutations are harmful to the organisms but few may be beneficial too. As a result of mutations, these viruses may appear in a little bit different form and can cause the disease in an extreme contagious manner as shown in the case of the COVID-19 virus..
+
+D614G was found to be the first variant that has been observed near late January or early February 2019 and replaced the original strain somewhere in June 2020 which became dominant and spread throughout the world. The enhanced infectivity and transmission have been observed without a change in the severity of the disease..
+
+Cluster 5, another mutant, has been observed somewhere between August and September 2020 through Danish personnel infected by framed mink which later jumped to humans. As the name suggests, Cluster 5 is an aggregate of strains, observed in 12 persons until now, not found to spread extensively. SARS-CoV-2 VOC 202012/01 (mutant of interest) has been reported by UK personnel to the WHO (December 14, 2020). This mutant possesses 23 nucleotide changes found to be not related phylogenetically to the SARS-CoV-2 virus, the main cause of coronavirus disease at that time. Due to the above substitutions, this strain was found to possess enhanced transmissibility without any change in disease severity (Ruan et al. 2020). The variants that are known and the different mutants along with the site of mutations are summarized in Table 2.
+Table 2Different mutant along with site of SARS-COVID-2VariantsMutationRef. TypeSiteB.1.617E484Q, L452R and P681RSpike proteinShahab et al. (2021)20H/501Y.V2 or B.1.351)K417N, E484K and N501YWhole genomes and spike proteinShahab et al. (2021)CAL.20C or B.1.427/429L452R mutationSpike proteinShahab et al. (2021)P.1/P2 or B.1.1.28K417N/T, E484K, N501YSpike proteinShahab et al. (2021)A.23.1F157L, V367F, Q613H and P681RSpike proteinShahab et al. (2021)20I/501Y.V1, VOC 202012/01, or B.1.1.7N501Y, P681H E484KSpike proteinShahab et al. (2021).
+
+Different mutant along with site of SARS-COVID-2.
+
+Triple mutation in COVID-19 has also been observed in few parts of Delhi, West Bengal, and Maharashtra. Mutations at sites 452 and 484 have been reported individually; for example, in California, variants B.1.427 and B.1.429 have the L452R mutation. E484K has been seen in the variants reported from the UK, South Africa, and Brazil. Mutations at site P681 have also been seen in some lineages before as well as the mutation E484Q. The combination of all the three mutations reported here, L452R, E484Q, and P681R, suggests the virus emerging similar traits autonomously, continually adapting to its human hosts (Perrella et al. 2020;  Del Rio et al. 2020)..
+
+When a virus enters in body through the nose or mouth, it stays near the paranasal cavity and tries to make colonies, which results in headache and loss of smell and taste at the very first level. After 24–36 h, it invades the respiratory and gastrointestinal system and causes abdominal pain and loss of motion. The body defense system activates, and macrophages accumulate at the site and try to engulf the virus and send the messages in a form of IL-1, IL-6, and TNF to other body cells as well as neutrophils to be active against infection..
+
+By the examining IL-6 level, we can make an idea regarding the body’s preparation against the virus. As the disease progresses, further neutrophils accumulate and try to kill the virus, but body cells will also be affected. At 5–6 days of the disease, chances of cytokine storm occur due to over responsiveness of the body. The virus attacks on type 2 pneumocytes, which secrets some surfactants and helps in lung expansion during respiration. Another target for the virus is the liver and kidney. Macrophage activates the liver to produce a c-reactive protein which gives signals to other parts of the body to be overreactive against infection (Jain 2020)..
+
+These signals can also act on the liver to produce and release fibrinogen which when reacts with platelets forming unnecessary clots in the body which floats in the blood and can block any artery/vein that may result in pulmonary embolism, heart attack, and stroke. These blood clots can be examined by testing the level of d-driver. When an infection invades the heart cells, it releases HSCRP which causes damage to the cardiac muscle cells. Cytokines can activate the thermo regulators in the hypothalamus and result in fever. The liver function and cell damage can be checked by examining SGOT, SGPT, blood level. Cell damage can be checked through LDH level and a patient’s life can be saved by taking therapy on time (Favalli et al. 2020)..
+
+Once SARS-CoV-2 enters the alveolus, it begins to infect type II alveolar cells and replicate. The infected type II alveolar cells release pro-inflammatory cytokines, which signal the immune system to respond. Patients may experience mild symptoms, such as cough, fever, and body aches. Macrophages release IL-1, IL-6, and TNF-I. IL-6, causing vasodilation and allowing more immune cells to travel to the alveolus. It also increases capillary permeability, causing plasma to leak into the interstitial space and the alveolus. Neutrophils release reactive oxygen species and proteinases, which destroy infected cells. These dead cells combine with the plasma to form a protein-rich fluid that accumulates within the alveolus, causing shortness of breath and pneumonia. Accumulation of fluid and dilution of surfactant lining of the alveolus cause alveolar collapse, which decreases gas exchange and can lead to hypoxemia and acute respiratory distress syndrome. If the immune system goes into overdrive, inflammation can spread throughout the circulatory system, leading to systemic inflammatory response syndrome, also known as a cytokine storm. This systemic inflammation can cause septic shock, where blood pressure drops dangerously low and organs can no longer be perfused, leading to multi-organ failure and death..
+
+As explained in the preceding sections, the SARS-Cov-2 virus has undergone numerous changes, resulting in more dangerous variants. In type 2 asthmatic individuals, COVID-19 infection becomes more severe. They also outline the treatment options and medications that can be utilized to address mild, moderate, and severe COVID-19 symptoms in asthmatic patients, preventing aggravation. The progressive results were highly contradictory, as severe cases of COVID-19 showed an increase in the levels of numerous cytokines that might exacerbate bronchial tract inflammation, exacerbating asthma attacks. Contrary to popular belief, certain data show that COVID-19 severity is reduced in type 2 asthmatic patients with elevated T-cells, since most COVID-19 positive individuals have a significant drop in T-cells. This helps to restore the balance of immunological responses, slowing the advancement of the disease (Ghosh et al. 2021)..
+
+Obesity stimulates the development of gene-induced hypoxia and adipogenesis in obese mice. Obesity increases the likelihood of developing immune-mediated and certain inflammatory-mediated illnesses, such as atherosclerosis and psoriasis, by dampening the immunological response to infectious pathogens, resulting in weakened post-infection effects. Furthermore, the obese host produces a unique milieu for disease development, characterized by low-grade inflammation that persists. To protect our bodies and reduce the danger of infectious illnesses, including COVID-19, it is recommended to maintain good eating habits by increasing the intake of diverse plant-based and low-fat meals (Behl et al. 2020)..
+
+The virus appears to enter the CNS mainly via the angiotensin-converting enzyme-2 (ACE-2) receptor and nasal route through the olfactory bulb and cribriform plate and propagates through trans-synaptic signaling, and moves retrogradely into the CNS along the nerve fiber, according to evidence. Parkinsonism, Alzheimer’s disease, meningitis, encephalopathy, anosmia, hyposmia, anxiety, sadness, psychiatric symptoms, seizures, stroke, and other problems have been linked to viral invasion of the CNS. As a consequence, even after the individual has cured from COVID-19, the COVID-19 CNS components should be checked on a regular basis to prevent long-term CNS issues (Nagu et al. 2020)..
+
+Recently, two types of tests have been performed for the diagnosis:
+Molecular testsAntigen tests..
+
+Molecular tests.
+
+Antigen tests..
+
+Molecular test detects viral genome whereas antigen tests target characteristic viral proteins..
+
+Antibody test targets the antibodies that have been produced in patient’s blood with response to viral infection but it can be detected in post-COVID-19 patients also (Shahab et al. 2021; Ojha et al. 2021; Shoaib et al. 2021). Diagnostic tests are compiled in Table 3 and Fig. 4.
+Table 3Diagnostic tests for SARCOV-2TestPrincipleSampleAdvantage/costRef.Enzyme-linked immunosorbent assayThe antibody binds with coated antigen in ELISA plates results in forming the complex and labelled secondary antibody can be detected by colour/ fluorescence.Serum/plasmaRapidNot veryExpensiveNguyen et al. (2020); Li and Xia (2019)Chemiluminescence immunoassayUses chemical probes that would emit light through a chemical in order to label the antibody for COVID-19.Blood serum/plasmaSensitive Rapid ExpensiveNguyen et al. (2020), Li and Xia (2019)COVID antigen assayCOVID-19 can be detected against specific antibody-based tests like ELISA/CLIABlood serum /plasmaRapid Variable costsNguyen et al. (2020), Li and Xia (2019)RT-PCRRNA of COVID-19 can be converted to cDNA through transcriptase enzyme can be followed via real-time PCR for augmentation of cDNAUpper respiratoryGold standard assessment, sensitive ExpensiveNguyen et al. (2020), Li and Xia (2019)RT-LAMPConversion of RNA of COVID-19 to cDNA via transcriptase enzyme and is performed at a temperature between 60 and 65 °C.Upper respiratory specimensDoes not need thermal cycler, time-efficient, high-tech labs are not required. Very cost-effectiveNguyen et al. (2020), Li and Xia (2019)Nucleic acid hybridization techniqueTranslation of RNA of COVID-19 to cDNA through transcriptase enzyme further mixing in wells with fixed COVID-19-specific oligonucleotides followed by washing hybridized virus cDNA emits signal indicates positive results.Upper respiratorySensitive ExpensiveNguyen et al. (2020), Li and Xia (2019)Fig. 4Diagnostic tests employed for SARS COV-2.
+
+Diagnostic tests for SARCOV-2.
+
+Rapid.
+
+Not very.
+
+Expensive.
+
+Diagnostic tests employed for SARS COV-2.
+
+The repurposed drugs used in the management of SARS COV-2 infections (Pawelczyk and Zaprutko 2020; Parasher 2021; Saxena 2020; Gil et al. 2020) are listed and compiled in Table 4. Different drugs along with the mechanism of action in the management of SARS COV-2 are shown in Fig. 5.
+Table 4Repurposed drugs used in the management of SARS COV-2GroupsDrugsApplicationsResults related to COVID-19Ref..AntiviralsBaloxavirAntiviral active against influenza virusesConflicting data regarding possible in vitro antiviral activity against SARS-CoV-2Although investigated as a potential treatment during the early stages of the COVID-19 pandemic, 1, 6, 7 in vitro antiviral activity against SARS-CoV-2 was not confirmed and there are no data to support the use of baloxavir in the treatment of COVID-19.Lou et al. (2021); Li and De Clercq (2020); Li et al. 2020aRemdesivir (RDV)Nucleotide analog prodrug; RNA polymerase inhibitor. In vitro evidence of activity against SARS-CoV-2 in Vero E6 cells.Accelerating the patient’s recovery, having no specific side effectsBeigel et al. (2019); Wang et al. (2020a); Agostini et al. (2018)Favipiravir (FPV)InfluenzaAccelerating the patient’s recovery, having few side effectsSood et al. (2021); Wang et al. (2020b); Dong et al. (2020a); Furuta et al. (2017)UmifenovirBroad-spectrum antiviral with in vitro activity against various viruses, including coronaviruses. Although data is limited, in vitro activity against SARS-CoV-1 4 and SARS-CoV-2 5 reported.No significant treatment effect in COVID-19.LianN et al. (2020); Dong et al. (2020a)Neuraminidase inhibitorsOseltamivirOseltamivir did not demonstrate in vitro antiviral activity against SARS-CoV-2 in Vero E6 cellsNo Evidence in the treatment of SARS-CoV-2Chen et al. (2020); Lu (2020)Serine protease inhibitorsNafamostat and CamostatBoth the drugs were found to block the entry of SARS-COV-2 into cellsIn phase 2 and phase2/3 clinical trialHIV Protease InhibitorsLopinavir and RitonavirWorks via inhibition of 3-chymotrypsin like protease.When both the drugs are given in combination, reduced time to alleviation of symptoms and reduced hospital stay.Recovery Collaborative group (2020); Chu CM et al. (2004)Atazanavir (ATV)Some evidence that ATV alone or with ritonavir (ATV/RTV) has in vitro activity against SARS-CoV-2 in Vero E6Initially noted that it reducing the disease symptoms, not accelerating the disease treatment, increasing the risk of bradycardia, but later on, the manufacturer states they have no clinical or pharmacologic evidence to support use for the treatment of COVID-19.Other HIV protease inhibitor drugs (Nelfinavir, Ritonavir, Saquinavir, and Tipranavir)Some evidence of in vitro activity against SARS-CoV-2 in Vero cellsStill not potent evidence of drugs in the treatment of SARS-Cov-2AntibioticsAzithromycinSome evidence of in vitro activity against SARS-CoV-2 in infected Vero E6 and Caco-2 cells; clinical importance unclear.Only limited information available regarding the frequency and microbiology of bacterial pulmonary coinfections or superinfections in pts with COVID-19Tran et al. (2019); Bermejo-Martin et al. (2009)TeicoplaninEbolaHaving inhibitory effects on viral infectionMonoclonal AntibodiesBaricitinibInflammatory diseases, rheumatoid Arthritis, Used in the management of hyperinflammation resulting from viral infections such as COVID-19Reducing inflammatory responses, having a greater efficiency in combination with RDV and LPV-RTV, having the possibility of creating anemiaRichardson et al. (2020); Ceribelli et al. (2020); Marovich et al. (2020); Zost et al. (2020); Myron (2021); Favalli et al. (2020)BemcentinibIt was well known to reveal the potent anti-viral potential in preclinical studies against Ebola and Zika virus besides other viruses. Recently in the repurposing of drugs also includes it for further research on possible treatments of coronavirus disease.Bemcentinib (AXL kinase suppressor) prevents entry of virus to the cell as well as also inhibits type 1 interferon, supporting its use in SARS-CoV-2Goyal et al. (2021)BevacizumabThe brand name of the drug is Avastin prescribed for cancer treatment also repurposed in search of possible covid-19 treatment prescribed for 20 patients in China (Shandong University, Jinan, Qilu hospital). Currently in the second and third phases of clinical trials.This drug act as a human monoclonal antibody which predominantly targets vascular endothelial growth factor results in depletion of VEGF which in turn produce hypoxia, over-expression of respiratory epithelium, critical inflammation which in combination may conquer edema in COVID-19 patients.Wang et al. (2004)LeronlimabFDA provides eIND acceptance for use in severe/criticalCOVID-19 persons under the name of Vyrologix™ (leronlimab).It acts as aCCR5 antagonist reported to inhibiting “cytokine storm” in severely infected patients studied in New York.IntradoGlobeNewswire (2020); Yang et al. (2020)Bamlanivimab (LY-CoV555) and Etesevimab (LY-CoV016)Bamlanivimab and Etesevimab together for the treatment of COVID-19FDA issued an Emergency Use Authorization (EUA) for Bamlanivimab and Etesevimab on February 9, 2021, that permitsClinical Trial Arena (2020)Casirivimab and Imdevimab (REGN10933 and REGN10987; REGN-COV®)This combination has been received FDA emergency use approval for the treatment of early Covid-19 infection.This combination of antibodies is planned especially to stop the infection of the covid-19 virus. It was granted FDA Emergency Use Authorization on November 21, 2020, for the treatment of mild to moderate COVID-19.Phan et al. (2021); Fda.gov (2021)InterferonsIFN beta1a, IFN beta-1b, IFN beta-1aInterferons (IFNs) modulate immune responses to some viral infectionsEfficacy and safety of IFNs for treatment or prevention of COVID-19 not established.Mantlo et al. (2020); Sallard et al. (2020)Interleukin-6Tocilizumab (TCZ)Recombinant humanized monoclonal antibody specific for the interleukin-6(IL-6) receptor; IL-6 is a proinflammatory cytokine. Tocilizumab may potentially combat cytokine release syndrome (CRS) and pulmonary symptoms in severely ill COVID-19 patientsShowing significant clinical progress, reducing inflammatory markers, reducing mortality, reducing the risk of invasive mechanical ventilation, improving oxygen delivery in patients, having few side effectsSalama et al. (2021); Lu (2020); Luo et al. (2020); Zhang et al. (2020b)Sarilumab (Kevzara®)Recombinant humanized monoclonal antibody specific for the interleukin-6(IL-6) receptor; IL-6 is a proinflammatory cytokine. Sarilumab may potentially combat cytokine release syndrome (CRS) and pulmonary symptoms in severely ill patientsThere are insufficient data for the Panel to recommend either for or against the use of sarilumab for hospitalized patients with COVID-19National Health Commission and State Administration of Traditional Chinese Medicine (2020)Siltuximab (Sylvant®)A recombinant chimeric monoclonal antibody specific for the interleukin-6(IL-6) receptor; may potentially combat cytokine release syndrome (CRS) symptoms (e.g., fever, organ failure, death) in severely ill patientsEfficacy and safety of siltuximab in the treatment of COVID-19 not establishedCeribelli et al. (2020); Zhang et al. (2020a)Ruxolitinib (Jakafi®)Janus kinase (JAK) inhibitor; may potentially combat cytokine release syndrome (CRS) in severely ill patientsRecommended against the use of JAK inhibitors other than BaricitinibU.S. National Library of Medicine (2021)Corticosteroids (CSs)DexamethasoneAs per the trials conducted in the UK, Dexamethasone decreases mortality to some extent too but it is not effective in acute and mild infection infect worsen the condition.Side effects of corticosteroids should also be taken into consideration before prescribing the drug.The severe COVID-19 positive patients experience hyper-inflammatory response results in cytokine storm which ultimately results in a conditional called hemo-phagocytic lymphohistiocytosis. Immunosuppressive agents will be helpful for the patient. Therefore, it might be effective for severe infection. On the contrary, in acute or mild infection cases this can worsen the symptoms by suppressing the immune system.Veronese et al. (2020); Russell et al. (2020); Griffiths et al. (2019); Siemieniuk et al. (2015)Methyl-prednisoloneThese corticosteroids may be beneficial in severely/critically infected patients but they should be taken precautiously due to side effects.A widely used glucocorticoid called methyl-prednisolone is being studied for safety and effectiveness in the treatment of novel coronavirus pneumonia in a number of hospitals in the Hubei province of China.Wang et al. (2020b)Recombinant human interleukin-1(IL-1) receptor antagonistAnakinra (Kineret®)There are case study data but no known published prospective clinical trial evidence supporting efficacy or safety of anakinra for treatment of COVID-19NIH COVID-19 Treatment Guidelines Panel states that there are insufficient clinical data to recommend either for or against the use of anakinra in the treatment of COVID-19Aouba et al. (2020); Huet et al. (2020)AnticoagulantsHeparinCoagulation problemsReducing mortality, having side effects including drug resistance and heparin-induced thrombocytopenia (HIT)Deng et al. (2020b); Li et al. (2020b)Carfora V et al. (2021)WarfarinCoagulation problemsHaving the ability for in vitro inhibition of SARS-CoV-2 S protein-mediated cell fusion.ACE Inhibitors, Angiotensin II Receptor BlockersACE inhibitors may have a protective effect against lung damage or may have a paradoxical effect in terms of virus binding.Patients with cardiovascular disease are at an increased risk of severe COVID-19. It is unclear whether use of ACE inhibitors or ARBs has a positive or negative impact on the treatment and clinical outcomes of COVID-19.The panel recommends against the use of ACE inhibitors or ARBs for the treatment of COVID-19 except in the context of a clinical trial.Fang et al. (2020); Bozkurt et al. (2020)AntiparasiticIvermectinEarly usage of Ivermectin in acute, mild Covid-19 positive patients. The results found in pilot study make the basis for the early management of COVID-19. It may be beneficial for prophylaxis also in high-risk areas.It may act via various antiviral mechanisms. One mechanism might be positive allosteric inflection of receptors through Ivermectin leads to ACE-2 receptor down-regulation results in hindering the viral entry within the cell respiratory and olfactory bulb. It may also act via inhibiting pro-inflammatory pathways in the olfactory bulb which in turn plays a major role in anosmia development in COVID-19 infection. The drug is also known to inhibit pro-inflammatory genes ( IL-8, TNF-a, etc.).Chaccour et al. (2021); Caly et al. (2020); Mastrangelo et al. (2012)AntiprotozoalNitazoxanide (Alinia®)Some in vitro evidence of potential synergism between nitazoxanide and remdesivir and between nitazoxanide and umifenovir against SARS-CoV-2; additional data neededNIH COVID-19 Treatment Guidelines Panel recommends against the use of any agents for postexposure prophylaxis for prevention of SARS-CoV-2 infection, except in a clinical trialWang et al. (2020a); Beigel et al. (2019)AnthelminticNiclosamideIn drug repurposing screens, niclosamide was found to inhibit replication of SARS-CoV-2 in vitro in Vero E6 cellsNot commercially available in the US. Although suggested as a potential treatment for COVID-19 based on its broad antiviral activity, including in vitro activity against coronaviruses.Wu et al. (2004); Xu et al. (2020).Nonsteroidal anti-inflammatory agentsParacetamolWHO recommending paracetamolFang et al. (2020); Alhazzani et al. (2021)IbuprofenThe speculative link between ibuprofen and increased ACE2 expression, which possibly could lead to worse outcomes in COVID-19 patientsConcerns that anti-inflammatory drugs such as ibuprofen may worsen COVID-19 circulated widely in the early months of the pandemicIndomethacinIn vitro antiviral activity in SARS-CoV-2 pseudo virus–infected Vero E6 cellsAdditional data is needed to determine whether in vitro activity against SARS-CoV-2 corresponds with clinical efficacy in the treatment of COVID-19.Thrombolytic agentst-PA (Alteplase, TenecteplaseFibrinolysis shutdown, as evidenced by the complete failure of clot lysis on thromboelastography, has been observed in critically ill patients with COVID-19t-PA has been proposed as a salvage treatment for COVID-19 patients (e.g., those with decompensating respiratory function who are not responding to or do not have access to mechanical ventilation or extracorporeal membrane oxygenationMoore et al. (2020); Deng et al. (2020b)ImmunoglobulinCommercially available immune globulin (nonSARS-CoV-2-specific IGIV, IVIG, γ-globulin)The role of commercially available immune globulin (non-SARS-CoV-2-specific IGIV) and investigational anti-SARS-CoV-2 hyperimmune globulin (anti-SARS-CoV-2 hIGIV) in the treatment of COVID-19 is unclear.Jawhara (2020); Sanders et al. (2020)Antilipemic AgentsHMG-CoA Reductase Inhibitors (statins)Statins affect ACE2 as part of their function in reducing endothelial dysfunctionRecommends against the use of statins for the treatment of COVID-19Phadke and Saunik (2020); Frost et al. (2007)AntidepressantFluvoxamine (Luvox CR®) (Selective Serotonin reuptake Inhibitors)Fluvoxamine is an antidepressant with a high affinity at the sigma-1 receptor, which potentially could help prevent clinical deterioration in patients with COVID-19.There are insufficient data to recommend either for or against the use of fluvoxamine for the treatment of COVID-19.Hashimoto (2021); Rosen et al. (2019)Histamine H2 antagonistsFamotidineNo in vitro antiviral activity against SARS-CoV-2 was observed in infected Vero E6 cells.Safety and efficacy for treatment of COVID-19 Not established.Wu et al. (2020); Dong et al. (2020b)Vitamin DVitamin D receptor is expressed on immune cells (e.g., B cells, T cells, antigen-presenting cells); these cells can synthesize and respond to active vitamin D.Only limited prospective clinical trial evidence regarding the efficacy of vitamin D supplementation for treatment or prevention of COVID-19.Efficacy of vitamin D supplementation in the prevention or treatment of COVID-19 has not been established.Martineau AR et al. (2017)ZincTrace minerals involved in immune function, including antibody and white blood cell production; an important cofactor for many enzymes; may improve wound healing.No evidence from controlled trials that zinc is effective in the prevention or treatment of COVID-19.It remains unclear whether zinc supplementation is beneficial in the prophylaxis and/or treatment of COVID-19; further study is needed.Bauer et al. (2020); McCarty and DiNicolantonio (2020)COVID-19 Convalescent PlasmaConvalescent plasma therapy has been used in the treatment of other viral diseases with various degrees of success.Plasma obtained from patients who have recovered from COVID-19 (i.e., COVID-19 convalescent plasma) that contains antibodies against SARS-CoV-2 may provide short-term passive immunity to the virus; theoretically, such immunity may prevent or contribute to recovery from the infection, possibly as the result of viral neutralization and/or other mechanisms.Efficacy and safety of COVID-19 convalescent plasma for the treatment of COVID-19 not established.Bloch et al. (2020); Tiberghien et al. (2020)Nebulized drugsAlbuterolnebulized drugs for the management of respiratory conditions in patients with COVID-19 infection may distribute the virus into the air and expose close contactsThere is a lack of published information and guidance on the optimal administration of aerosolized drugs in the treatment of patients with COVID-19. The safe and effective delivery of aerosol therapy to such patients may require modifications in dosage, frequency, and delivery techniques, as well as the use of protective measures.Simonds et al. (2010)Vasodilating agentNitric oxide (inhaled)Selective pulmonary vasodilator with bronchodilatory and vasodilatory effects in addition to other systemic effects mediated through cGMP-dependent or independent mechanisms; may be useful for supportive treatment of acute respiratory distress syndrome (ARDS), a complication of COVID-19Recommended against the routine use of inhaled nitric oxide in mechanically ventilated adults with COVID19Akerstrom et al. (2005); Chen et al. (2004)Inhaled prostacyclins (e.g., epoprostenol, iloprost)Selective pulmonary vasodilators; may be useful in the adjunctive treatment of acute respiratory distress syndrome (ARDS), a complication of COVID-19It may be considered as rescue therapy in mechanically ventilated adults with COVID-19Cherian et al. (2018)Miscellaneous drugsColchicineThe use of has been reported in the treatment of COVID-19 disease through some case studies performed in covid-19 positive patients.The treatment would possibly decrease a person’s morbidity/mortality, support to avoid hospital admission, and therefore can reduce the care cost for patients.Being an anticancer drug also possesses anti-inflammatory potential via inhibiting NLRP 3 inflammasome leads to inhibit the cytokine production or cytokine storm is the major cause of inflammation in COVID-19 infection. Apart from it possesses a pleotropic mechanism, not possessing immunosuppressive potential, cheap, and does not augment the infection risk.Reyes et al. (2020); Deftereos et al. (2020); Gandolfini et al. (2020)Chloroquine, Hydroxy chloroquine (CQ/ HCQ)Viral and autoimmune diseasesEffectively controlling the disease with or without azithromycin, reducing mortality. However, the efficacy and safety of chloroquine for treatment or prevention of COVID-19 not established.Schrezenmeier and Dörne (2020); Wang et al. (2020a)QuinacrineIt is found to be anti-SARS-CoV-2 drug, recently reported to possess anti-SARS-COV-2 potentialThis drug may interfere with the SARS-CoV-2 RNA, may hamper both transcription and translation. It also increases the pH of endosomes/lysosomes results in protease inhibition and fusion with auto-phagosomes thus results in inhibition of viral release and enhance auto-phagolysosomes.Pineda et al. (2021)Fig. 5MOA of drugs for management of SARS COV-2 disease.
+
+Repurposed drugs used in the management of SARS COV-2.
+
+Antiviral active against influenza viruses.
+
+Conflicting data regarding possible in vitro antiviral activity against SARS-CoV-2.
+
+As per the trials conducted in the UK, Dexamethasone decreases mortality to some extent too but it is not effective in acute and mild infection infect worsen the condition..
+
+Side effects of corticosteroids should also be taken into consideration before prescribing the drug..
+
+Deng et al. (2020b); Li et al. (2020b).
+
+Carfora V et al. (2021).
+
+The use of has been reported in the treatment of COVID-19 disease through some case studies performed in covid-19 positive patients..
+
+The treatment would possibly decrease a person’s morbidity/mortality, support to avoid hospital admission, and therefore can reduce the care cost for patients..
+
+MOA of drugs for management of SARS COV-2 disease.
+
+The mechanism of chloroquine and hydroxyl-chloroquine drugs involves the conversion of chloroquine to hydroxychloroquine which in turn inhibits several enzymes. Due to enzyme inhibition, viral entry is inhibited due to these weak bases because of pH dependency. The drug also inhibits glycosyl-transferases and post-translation modifications and also inhibits viral families. The mechanism of action is depicted in Fig.6 (Schrezenmeier and Dörne 2020).
+Fig. 6Mechanism of chloroquine/hydroxychloroquine.
+
+Mechanism of chloroquine/hydroxychloroquine.
+
+Favipiravir is an approved drug employed for severe influenza virus infection in China. It is available in an inactive form and gets converted into an active form by the action of enzymes into favipiravir ribo-furanosyl monophosphate (RMP) which further converts into the active form (favipiravir ribo-furanosyl triphosphate) which in turn can block the replication of several RNA viruses currently in clinical trials in COVID-19 management. The mechanism of action has been presented in Fig. 7 (Sood et al. 2021).
+Fig. 7Mechanism of Favipiravir in the treatment of SARS COV-2.
+
+Mechanism of Favipiravir in the treatment of SARS COV-2.
+
+It is a broad-spectrum antiviral drug; adenosine analog that can determine pre-mature termination of viral RNA. It has been tested for Ebola virus infection and might be useful in the treatment of other RNA virus infections. It has been shown that the action against SARS COV-2 infection also, still, studies are going on and showed in Fig. 8 (Beigel et al. 2019; Wang et al. 2020a).
+Fig. 8Mechanism of action of remdesivir in the treatment of SARS COV-2.
+
+Mechanism of action of remdesivir in the treatment of SARS COV-2.
+
+Monoclonal antibodies can be produced by immunizing the rats with antigens but sometimes failed to secrete antibodies. This can be further modified by mixing the myeloma cells with plasma cells from the spleen. Cell fusion results in hybridomas cells, which are transferred to hat medium and incubated. Hybridomas cells are further selected which produced antibodies known as monoclonal antibodies. These antibodies are found to be effective against COVID-19 and came in light when given to the ex-US president Donald Trump. The monoclonal antibody cocktail is a combination of two or more monoclonal antibodies which is administered to the patient as a single dose. These are found to exhibit activity by acting on the spike protein of the COVID-19 and do not allow it to enter into the human cell. For the treatment of mild to moderate covid infection, the combination of Bamlanivimab (700mg) and the mixture of Casirivimab and Imdevimab (2400mg) appeared to accelerate decline SARS-COV-2 level compared to placebo. Casirivimab and Imdevimab are mainly human immunoglobulin G-1 (IgG1). Figure 9 describes a method of production of monoclonal antibodies (Richardson et al. 2020; Ceribelli et al. 2020; Marovich et al. 2020; Zost et al. 2020; Goyal et al. 2021;Yang et al. 2020; Clinical Trial Arena 2020; Phan et al. 2021).
+Fig. 9Production of monoclonal antibodies..
+
+Production of monoclonal antibodies..
+
+Recently, Zydus claimed regarding the repurposing of “Virafin” (pegylated interferon alpha-2b) in COVID-19 treatment which was earlier used in the treatment of the hepatitis C virus. Recently, Virafin has been given limited emergency approval from DCGI, India (Science The Wire 2021)..
+
+One more drug named “2-DG” has been developed by DRDO along with Dr. Reddy’s Lab. Hyderabad has been granted emergency approval from DCGI, India as an adjunct therapy to overcome oxygen demand. This drug has been developed in the treatment of cancer as it possesses promising cytotoxic potential (Economic times. Indiatimes 2021)..
+
+Currently, Canadian company Sanotize developed nitric oxide–based nasal spray, claimed to kill COVID-19 load inside the nose up to 99.99 %. Now, the company has filed for getting emergency approval in the UK and started its production in Israel (India today 2021)..
+
+Vaccines are the hope for controlling this pandemic caused by the COVID-19 virus. Few vaccines have been approved by regulatory authorization whereas some of them are in the process. It should be very clear that no vaccine is 100% effective until now; still results will prove the efficacy and safety of the vaccines. Each and every person must follow the guidelines and hygienic conditions. Scientists all over the world are working at war level for the production of vaccines; until now, 79 vaccines are still in process and among them, 11 vaccines have been approved by regulatory authorities whereas 20 vaccines are still in phase III clinical trials (Li and De Clercq 2020; Li et al, 2020a; Zoomer 2021; Graham, 2020) Vaccines that have been approved by regulatory authorities until now are shown in Table 5. The list of approved vaccines in phase trial 3 is compiled in Table 6.
+Table 5List of approved vaccines for COVID-19S. No.VaccineVaccine typeDevelopers/countryStatus of vaccineRef.1)RBD-DimerProtein subunitAnhui Zhifei Longcom /China/ UzbekistanApproved in 2 countries6 trials in 5 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)2)mRNA-1273RNAModerna/USAApproved in 53 countries21 trials in 4 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)3)BNT162b2RNAPfizer/BioNTechTozinameran, ComirnatyApproved in 89 countries26 trials in 15 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)4)QazVacInactivatedKazakhstan RIBSP/KazakhstanApproved in 1 country3 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)5)Sputnik VViral vector (NR)Gamaleya/ Russian FederationApproved in 68 countries19 trials in 6 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)6)Ad26.COV2.SJNJ-78436735Viral vector (NR)Janssen (Johnson &Johnson)/AmericaApproved in 52 countries11 trials in 17 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)7)COVID-19 Inactivated VaccineInactivatedShifa Pharmed Industrial Co/IranApproved in 1 country4 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)8)AZD1222Viral vector (NR)Oxford/AstraZenecaUSApproved in 115 countries32 trials in 19 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)9)Covishield(ChAdOx1-nCoV-19)Viral vector (NR)Serum Institute/IndiaApproved in 43 countries2 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)10)SARS-CoV-2 VaccineInactivatedMinhai Biotechnology Co./ChinaApproved in 1 country3 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)11)CovaxinInactivatedBharat Biotech/IndiaApproved in 9 countries5 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)12)Ad5-nCoVViral VectorCanSino/ChinaApproved in 8 countries8 trials in 6 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)13)KoviVacInactivatedChumakovCenter/Russian FederationApproved in 1 country2 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)14)EpiVacCoronaProtein SubunitFBRI/Russian FederationApproved in 2 countries3 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)15)BBIBP-CorVInactivatedSinopharm/Beijing, ChinaApproved in 53 countries7 trials in 7 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)16)Inactivated (Vero Cells)InactivatedSinopharm (Wuhan)/ ChinaApproved in 1 country8 trials in 7 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)17)CoronaVacInactivatedSinovac/ChinaApproved in 32 countries15 trials in 7 countriesShahab et al. (2021); Yan et al. (2021); WHO (2021)18)TAK-919RNATakedaApproved in 1 country2 trials in 1 countryShahab et al. (2021); Yan et al. (2021); WHO (2021)* Center for Genetic Engineering and Biotechnology, ** * Instituto Finlay dVacunas; NR non-replicatingTable 6List of vaccines in phase 3 clinical trialS. No.VaccineVaccine typeDevelopers/countryStatus of vaccineRef.1.Recombinant (Sf9 cell)Protein SubunitWest China Hospital/ China5 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)2.COVOVAXProtein SubunitSerum Institute of India/ India2 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)3.CIGB-66Protein SubunitCenter for Genetic Engineering and Biotechnology (CIGB)/5 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021);4.Recombinant ProteinProtein SubunitSanofi/GSK/USA5 trials in 2 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)5.SCB-2019Protein SubunitClover Biopharmaceuticals AUS Pty Ltd/Australia5 trials in 10 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)6.UB-612Protein SubunitVaxxinity, Inc./Taiwan4 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)7.NVX-CoV2373Protein SubunitNovavax/USA8 trials in 7 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)8.EpiVacCoronaProtein SubunitFederal Budgetary Research Institution State Research Center of Virology and Biotechnology “Vector” (FBRI)/Russian FederationApproved in 2 countries3 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)9.NanocovaxProtein SubunitNanogen Pharmaceutical Biotechnology Joint Stock Company (Nanogen)/ Viet Nam3 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)10.FINLAY-FR-1AProtein SubunitInstituto Finlay de Vacunas Cuba/ Cuba3 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)11.FINLAY-FR-2Protein SubunitInstituto Finlay de Vacunas Cuba/ Cuba3 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)12.Plant-based- VLPVLPMedicago/ Canada3 trials in 2 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)13.AG0302-COVID19DNAAnGes/ Japan4 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)14.ZyCoV-DDNAZydus Cadila/ India5 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)15.INO-4800DNAInovio/USA6 trials in 3 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)16.CVnCoVRNACurevac/ Belgium, Germany11 trials in 12 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)17.BNT162b1RNAPfizer/BioNTech/ Germany5 trials in 3 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)18.mRNARNAWalvax/ China4 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)19.GRAd-COV2Non Replicating Viral VectorReiThera/ Italy5 trials in 12 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)20.VLA2001InactivatedValneva/ United Kingdom of Great Britain4 trials in 1 countryRegulatory Focus (2021); Covid-19 Vaccine tracker (2021)21.Inactivated (Vero Cells)InactivatedChinese Academy of Medical Sciences/ China5 trials in 3 countriesRegulatory Focus (2021); Covid-19 Vaccine tracker (2021).
+
+List of approved vaccines for COVID-19.
+
+Approved in 2 countries.
+
+6 trials in 5 countries.
+
+Approved in 53 countries.
+
+21 trials in 4 countries.
+
+Pfizer/BioNTech.
+
+Tozinameran, Comirnaty.
+
+Approved in 89 countries.
+
+26 trials in 15 countries.
+
+Approved in 1 country.
+
+3 trials in 1 country.
+
+Approved in 68 countries.
+
+19 trials in 6 countries.
+
+Approved in 52 countries.
+
+11 trials in 17 countries.
+
+Approved in 1 country.
+
+4 trials in 1 country.
+
+Oxford/AstraZeneca.
+
+US.
+
+Approved in 115 countries.
+
+32 trials in 19 countries.
+
+Approved in 43 countries.
+
+2 trials in 1 country.
+
+Minhai Biotechnology Co./.
+
+China.
+
+Approved in 1 country.
+
+3 trials in 1 country.
+
+Bharat Biotech/.
+
+India.
+
+Approved in 9 countries.
+
+5 trials in 1 country.
+
+Approved in 8 countries.
+
+8 trials in 6 countries.
+
+Approved in 1 country.
+
+2 trials in 1 country.
+
+Approved in 2 countries.
+
+3 trials in 1 country.
+
+Approved in 53 countries.
+
+7 trials in 7 countries.
+
+Approved in 1 country.
+
+8 trials in 7 countries.
+
+Approved in 32 countries.
+
+15 trials in 7 countries.
+
+Approved in 1 country.
+
+2 trials in 1 country.
+
+* Center for Genetic Engineering and Biotechnology, ** * Instituto Finlay dVacunas; NR non-replicating.
+
+List of vaccines in phase 3 clinical trial.
+
+Approved in 2 countries.
+
+3 trials in 1 country.
+
+Nano-technology possesses enormous potential in targeted drug delivery at the target site with minimum side effects, especially in the anticancer domain. This technology has been extensively utilized in the development of vaccines against the COVID-19 virus..
+
+Viruses can be categorized as nanoparticles, which work at similar measures as other nanomaterials. There has been a lot of research performed as well as ongoing to mimic the nanoparticle-like virus behavior for designing the target drug release as well as gene delivery regimens (Singh et al. 2017). Therefore, nanotechnology may offer great value in the present ongoing pandemic via various ways such as viral neutralization and detection, vaccine developments, and providing effective treatment (Florindo et al. 2020)..
+
+Nanoparticles possess similarity to coronavirus, excluding viral genome if nanoparticles enter the host cells renovate immunity against this type of infection. Due to similar size nanoparticles may bind to the COVID-19 virus and distort its structure along with IR treatment which further results in hampering the viral survival and reproducibility(Yang 2021)..
+
+Various nanoparticles such as gold and carbon quantum dots (CQDs) are excellent options for interacting with the virus as well as averting entry within the cells due to the large surface area as well as a broad range of functional groups. CQDs possess a diameter 10 nm approx. and good water solubility, making it an ideal applicant for conquering coronavirus, due to easy entry through endocytosis and preventing mRNA replication (Wang et al. 2019; Iannazzo et al. 2018)..
+
+Gold nanoparticles using extracts impart additional advantages such as being eco-friendly, non-toxic, cost-effective, and easily accessible. Research performed so far revealed that gold nanoparticles can be stabilized with few polymers (bio-compatible) that might act as antiviral agents against HIV 1, FMDB, diarrhea, dengue, H1N1, H3N2, and H5N1 virus (Medhi et al. 2020). Silver, iron, mesoporous silica (Wang et al. 2017; Lara et al. 2010; Rojas et al. 2020; Rai et al. 2016) and organic particles such as Carbon nanotubes & Nanoparticles Graphene, Polymeric, Lipid-based, Dendrimers revolution in nanotechnology employing novel nanocarriers and magnetic nanoparticles (Comparetti et al 2018; Alidori et al. 2016; Mangum et al. 2006; Singh et al. 2019; Hennig et al. 2015; Figueroa et al. 2019; Pollock et al. 2010; Jain et al. 2011; Shah et al. 2017; Lembo et al. 2018; Li et al. 2005; Clayton et al. 2009; Itani et al. 2020; Williams & Corr 2013) have been documented in the treatment of Covid-19. The current strategies of nanoparticles used in the treatment of COVID-19 infection are shown in Table 7.
+Table 7Current strategies on nanoparticlesS. No.NanoparticlesAttributesMechanism of actionCurrent statusRef.Inorganic particlesa.Gold AuNPsA strong bond in Au and thiol ligands. Recently research revealed about AuNPs-sulfonate mercapto ethane sulfonate (MES) along with MUS undecanesulfonic acid may cause irreversible distortion against viruses including respiratory syncytial virus, in both in-vitro, in vivo analysis.AuNPs-MES-MUS complexShowed multivalent binding on to virus surface results in collapsing of the viral capsid. The multivalent binding mechanism might play a significant role against COVID-19 battle.It has been shown that when AuNP’s functionalized with sugars like glucose or lactose-based ligand may play a significant role in the treatment of Dengue. Length and surface area of the molecule may affect the inhibitory activity up to a greater extent.Wang et al. (2017)b.Silver AgNPsAgNPs may possess antiviral potential can be used without surface modifications.Mechanism of action of antiviral potential may be of three probable mechanisms- AgNPs may react to glycoproteins at virus surfaceBlock RNA replication, Interfere with cell attachment at the cell surface, and avoiding virus fusion. AgNPs (naked) possess restrictions due to the inherent cytotoxicity it exhibits.Curcumin-loaded AgNPs revealed high antiviral potency against Respiratory Syncytial Virus (RSV) showed no cytotoxicity even after incubation of cells. Morris et.al, established PVP-AgNPs of size 10nm against RSV at a concentration that exhibited a strong antiviral potential with nil cytotoxicity against epithelial cells.Lara et al. (2010)c.Iron oxideIONPsIONPs are widely used as contrast agents in MRI, biocompatible and magnetic characters enabling IONPs as superparamagnetic under the influence of the external magnetic fields.NPs have been observed to possess significant virucidal potential via amino alkylation of genome lads to arresting replication and viral inactivation.Mannose-loaded IONPs for dendritic delivery have been shown a significant increase in IL-6, TNF-α, and IFN-γ has been observed in dendritic cells in in-vitro analysis.Recent research showed that interaction between SARS-CoV-2 and hemoglobin results in denaturation of hemoglobin and thus dysregulates the iron mechanism which may lead to other complications.Rojas et al. (2020)d.Mesoporous silicaMSNPsAnother nano-approach of mesoporous silica possesses integrate pore size, can accommodate molecules for codelivery.This character makes these an excellent platform for inactivating the entry as well as averting the viral replication of COVID-19 within the host cell.MSNPs-lipid and (E)-2- (1,4-dimethylpiperazin-2-ylidene)amino)-5-nitro-N-phenyl benzamide (ML336) complex have been established in order to enhance the antiviral circulation period and its biocompatibility.In vitro results showed dose-dependent viral inhibition whereas in vivo results revealed significant antiviral potential with no toxicity.Rai et al. (2016)Organic particles1.Carbon nanotubes and NP’s graphene, e.g., carbon nanotubes (CNTs), Graphenes, fullerenes NP’sCNTs possess sp2+sp3 hybridization with outstanding electric conductivity makes them perfect for research fields.SWCNT and MWCNT folded with graphene sheets of diameter 5-20nm and length (50-1,000nm) can be used for research.Toxicity limits the use of CNT’s in COVID-19 management. These limitations can be overcome by the functionalization of CNT’s.Hussain et al reported that when CNT’s associated with biomolecules may reduce the inflammation significantly as well as cytotoxicity to the respiratory system.This technology might be exciting for providing possible treatments to COVID-19 patients. Because of NPs. However, immune cell activation and inflammation through carbon NPs can be reduced but presently it is not recommended in therapy.Comparetti et al. (2018); Alidori et al. (2016); Mangum et al. (2006)3.Polymeric NP’sThese NPs can be engineered for target-specific delivery of drug may inhibit virus attachment to cell through the receptor.Which can ultimately help in the reduction of disease and adverse effects, enhancing safety as well as overcoming drug resistance.These can block the interaction of SARS-CoV-2 with ACE2 receptors may assist in controlling the viral infection. Polymers such as PEG and poly-amidoamine may bind its ACE2 receptors and act as antagonists with a virus.Angiotensin loaded combined with angiotensin enzyme may be the best opportunity for future drug delivery studies.Methotrexate-loaded NPs have been authorized in Brazil are in phase I & II clinical trials (NCT04352465). This study revealed the effectiveness as well as safety above NPs in severe inflammation in lung injury throughout the management of COVID-19 patients. Multi-functional nanocarriers with polymers have been authorized at novel nanoplatforms for therapeutic application which could be instantly employed for safe usage in this pandemic situation.(U.S. National Library of Medicine 2020).Singh et al. (2019); Hennig et al. (2015); Figueroa et al. (2019)4.Lipid-based NP’sEnormous potential, biodegrade easily, good biocompatibility, and available in various forms such as LCNPs, NCLs, microemulsions, nanoemulsions, SLNs, etc.LbNPs have been employed for the treatment of various diseases such as HIV, HCV, herpes, HBV, and hepatitis B (HBV).Research showed that the use of PEG in liposomes enhances macrophage intake irrespective of corona formation. This is an interesting approach for searching the treatment against COVID-19.These targeted liposomes can speed up the cellular uptake may also slow down the virus response in infected cells can impart recovery of infected cells.Marketed formulations Doxil, AmBisomePollock et al. (2010); Jain et al. (2011); Shah et al. (2017); Lembo et al. (2018)5.DendrimersRevolution in nanotechnology employing novel nanocarriersEnhance the efficiency of phytoconstituents and drugs. Exceptional physiochemical properties like less polydispersity, solubility, efficient drug encapsulation capability, biodegradability, and compatibility make dendrimers valuable agents for hydrophobic drugs.Unique physicochemical properties, such as solubility, low polydispersity, effective drug encapsulationDendrimers can form strong viral interactions enhance antiviral activity, establish them as potential systems against.A commercially accessible dendrimer is SPL7013 Gel (VivaGelR), which is a microbicide that a contains bivalent benzhydryl amine (BHA) center with 4 lysine branches formulated for the inhibition of HIV and HSV infections.Li et al (2005); Clayton et al. (2009); Itani et al. (2020)6.Magnetic nanoparticles (MNPs)Iron oxide NPsSilica coated supramagnetic NPsThe cDNA of the virus can be amplified via PCR & isolation through the use of a magnetic field. Augmented cDNA can be distinguished by hybridization or silica-coated NP (SFNP) with fluorescent technique.The detection limit 2.0 × 103 samples within 6 h.Recently, MNPs have been employed for COVID-19 detection.Research reported the use of iron oxide coated with silica for RNA extraction from the sample.Williams and Corr (2013).7.Quantum dotsDetection of virusesUnique optical and electrical propertiesQD-linked RNA particularly against SARS-CoV N protein has been informed to possess high sensitivity for detection of restrained viral protein on intended chips.Marketed QD-605 possess emission maxima (605nm) to access an excellent detection limit of 0.1 pg/mL against SARS-CoV N through confocal laser scanning microscopy.Iannazzo D et al. (2018).
+
+Current strategies on nanoparticles.
+
+AuNPs-MES-MUS complex.
+
+Showed multivalent binding on to virus surface results in collapsing of the viral capsid. The multivalent binding mechanism might play a significant role against COVID-19 battle..
+
+Mechanism of action of antiviral potential may be of three probable mechanisms- AgNPs may react to glycoproteins at virus surface.
+
+Block RNA replication, Interfere with cell attachment at the cell surface, and avoiding virus fusion. AgNPs (naked) possess restrictions due to the inherent cytotoxicity it exhibits..
+
+Iron oxide.
+
+IONPs.
+
+Mannose-loaded IONPs for dendritic delivery have been shown a significant increase in IL-6, TNF-α, and IFN-γ has been observed in dendritic cells in in-vitro analysis..
+
+Recent research showed that interaction between SARS-CoV-2 and hemoglobin results in denaturation of hemoglobin and thus dysregulates the iron mechanism which may lead to other complications..
+
+Mesoporous silica.
+
+MSNPs.
+
+MSNPs-lipid and (E)-2- (1,4-dimethylpiperazin-2-ylidene)amino)-5-nitro-N-phenyl benzamide (ML336) complex have been established in order to enhance the antiviral circulation period and its biocompatibility..
+
+In vitro results showed dose-dependent viral inhibition whereas in vivo results revealed significant antiviral potential with no toxicity..
+
+CNTs possess sp2+sp3 hybridization with outstanding electric conductivity makes them perfect for research fields..
+
+SWCNT and MWCNT folded with graphene sheets of diameter 5-20nm and length (50-1,000nm) can be used for research..
+
+Toxicity limits the use of CNT’s in COVID-19 management. These limitations can be overcome by the functionalization of CNT’s..
+
+These NPs can be engineered for target-specific delivery of drug may inhibit virus attachment to cell through the receptor..
+
+Which can ultimately help in the reduction of disease and adverse effects, enhancing safety as well as overcoming drug resistance..
+
+These can block the interaction of SARS-CoV-2 with ACE2 receptors may assist in controlling the viral infection. Polymers such as PEG and poly-amidoamine may bind its ACE2 receptors and act as antagonists with a virus..
+
+Angiotensin loaded combined with angiotensin enzyme may be the best opportunity for future drug delivery studies..
+
+Methotrexate-loaded NPs have been authorized in Brazil are in phase I & II clinical trials (NCT04352465). This study revealed the effectiveness as well as safety above NPs in severe inflammation in lung injury throughout the management of COVID-19 patients. Multi-functional nanocarriers with polymers have been authorized at novel nanoplatforms for therapeutic application which could be instantly employed for safe usage in this pandemic situation..
+
+(U.S. National Library of Medicine 2020)..
+
+LbNPs have been employed for the treatment of various diseases such as HIV, HCV, herpes, HBV, and hepatitis B (HBV)..
+
+Research showed that the use of PEG in liposomes enhances macrophage intake irrespective of corona formation. This is an interesting approach for searching the treatment against COVID-19..
+
+These targeted liposomes can speed up the cellular uptake may also slow down the virus response in infected cells can impart recovery of infected cells..
+
+Dendrimers.
+
+Revolution in nanotechnology employing novel nanocarriers.
+
+Unique physicochemical properties, such as solubility, low polydispersity, effective drug encapsulation.
+
+Dendrimers can form strong viral interactions enhance antiviral activity, establish them as potential systems against..
+
+Iron oxide NPs.
+
+Silica coated supramagnetic NPs.
+
+The cDNA of the virus can be amplified via PCR & isolation through the use of a magnetic field. Augmented cDNA can be distinguished by hybridization or silica-coated NP (SFNP) with fluorescent technique..
+
+The detection limit 2.0 × 103 samples within 6 h..
+
+Recently, MNPs have been employed for COVID-19 detection..
+
+Research reported the use of iron oxide coated with silica for RNA extraction from the sample..
+
+Quantum dots.
+
+Detection of viruses.
+
+An epidemic of pneumonia that started in December 2019 (Wuhan-China) has been well known to be due to novel coronavirus, which has been named later as COVID-19. The virus is extremely contagious and results in pandemic situations due to the lack of any medicine for prophylaxis as well as treatment..
+
+Subsequently, searching the effective prophylactic and therapeutic strategies for the management of the disease is still continuing. Furthermore, the emergency requirement of drugs leads to the repurposing of drugs which has been mentioned in this article. We illustrated categorized response based on infection and contiguity stages of diseases among the human population. Despite the fact that until now no medicine system provides clinically proven treatment for COVID-19, continuous research is ongoing searching for the effective treatment for COVID-19(Fig. 10)(Silva et al. 2020; Sadlon et al. 2010; Rosa et al. 2020; Jin et al. 2020).
+Fig. 10Drugs and their effectiveness in the treatment of mild to moderate infection.
+
+Drugs and their effectiveness in the treatment of mild to moderate infection.
+
+Moreover, vaccines, anti-viral drugs, and antibiotics possess the gold standard for the current preventive measures for different epidemic disorders until now. Furthermore, problems related to developing dispensing, side effects, storage conditions, mutations, and antibiotic-resistant microbes should also be taken into considerations. Novel approaches for communicable diseases are absolutely required and the WHO also mentioned that at the time of the Ebola outbreak in 2014. The expert committee stated that it’s unethical to suggest unproven intercession with unknown efficiency as well as adverse effects as promising treatment/prophylaxis. It should be taken into consideration that it’s not only COVID-19, but there are also other viruses as well as diseases for their vaccines, and clinically proven treatment is not available. Therefore, innovative research, as well as technique, is absolutely required for providing effective medication to society (Fig. 11)(Veronese et al. 2020; Reyes et al. 2020; Michael and Thompson 2020; Cox et al. 2021; Furuta et al. 2017; Cristian et al. 2020; Chaccour et al. 2021).
+Fig. 11Drugs and their effectiveness in severe infection of SARS COV-2.
+
+Drugs and their effectiveness in severe infection of SARS COV-2.
+
+Vaccine development takes an average of 10–15 years, and compressing it to just 15 months has its own set of drawbacks and issues. Combining stages to accelerate vaccine development necessitates testing on smaller groups. This is a major issue because, if the vaccine is made available to the general public, unexpected adverse effects may develop in bigger groups that were previously undetected in smaller groups. Furthermore, if all individuals with comorbidities are not properly addressed in the design of clinical trials, unexpected adverse effects may be discovered in those groups once the vaccine is ready for general use. Vaccines would be examined for similar adverse effects in the broader population under post-marketing surveillance. It’s uncertain how mRNA vaccines will be developed since in past researches. Nucleic acid–based vaccines like DNA and RNA have failed to generate viable vaccinations for human diseases in the past. Because lipid nanoparticles are temperature sensitive, scaling up production may be difficult. Pre-existing adenovirus immunity is a concern, particularly for vaccine candidates that utilize human adenoviruses, such as CanSino’s Ad5 vaccine, since it may reduce the vaccine’s immunological response (Sharma et al. 2020)..
+
+In order to meet pandemic demand, rapid large-scale vaccine production remains a challenge fraught with uncertainties. Because phase 3 trials need more than 30,000 individuals and are performed later in the study phase, there is a high chance that there will be fewer instances of COVID-19 at that time, requiring HCTs. Despite the fact that HCTs have been utilized in the past, they may pose a higher risk for COVID-19 due to a lack of understanding of the disease's genesis and the absence of a feasible treatment. As an alternative to HCTs, several vaccine candidates have taken advantage of transmission rate differences by starting phase 3 trials in countries with a higher SARS-CoV-2 infection rate to ensure that a significant number of patients can participate. Vaccines against the virus may be ineffective due to the virus’s mutations. However, given the urgent need for a COVID-19 vaccine to be accessible globally, being concerned about and analyzing such risks should not prevent the public introduction of otherwise safe and effective vaccines (Sharpe et al. 2020, Morris 2020, Sharma et al. 2020)..
+
+The COVID-19 pandemic is still a global health issue that has impacted a vast number of people. From December 2019 onwards, most nations around the world have recorded a substantial number of COVID-19 cases. There are currently no effective vaccinations or medications available to prevent COVID-19 infection. To address these health issues, various research groups are working to determine the most effective treatment for COVID-19 by delivering FDA-approved antiviral medicines such as oseltamivir, ritonavir, remdesivir, ribavirin, and favipiravir, among others. Simultaneously, scientists are concentrating on the creation of several types of vaccinations that can prevent COVID-19 infection. According to the survey results, research will continue until acceptable drug candidates and vaccines are found based on pathological conditions, physiology, clinical symptoms, diagnosis, and public health emergencies..
+
+Keeping in view of this epidemic, we’re still waiting for precise COVID-19 treatment and care. Although a few medicines, such as remdesivir, ribavirin, and favipiravir, are prescribed for the therapy, it is difficult to employ them specifically for the treatment of COVID-19 infection due to a lack of clinical data. These medicines were discovered to have a high affinity for the COVID-19 primary protease. Antimalarial medications like chloroquine and hydroxychloroquine, on the other hand, had a strong binding affinity with the SARS spike glycoprotein and the ACE2 complex. Vaccination has begun in India, although clinical data on safety and efficacy will not be available for some time. Even after immunization, everyone should be upbeat and follow the instructions to the letter. It’s also been noted that we’re dealing with not only COVID-19 but also its fear, particularly in India..
+
+angiotensin-converting enzyme.
+
+angiopoietin-like protein 3.
+
+corona virus disease-19.
+
+Food and Drug Administration.
+
+Favipiravir.
+
+human immunodeficiency virus.
+
+Middle East Respiratory Syndrome-Coronavirus.
+
+mechanism of action.
+
+main protease.
+
+remdesivir.
+
+RNA-dependent RNA polymerase.
+
+ribonucleic acid.
+
+severe acute respiratory syndromecoronavirus-2.
+
+tocilizumab.
+
+World Health Organization.
+
+Publisher’s note.
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations..
+
+The authors acknowledge the Management of Devsthali Vidyapeeth College of Pharmacy for providing continuous support for the article..
+
+Conceptualization V.T. and A.T.; writing—original draft preparation M.K. and B.M.S.; writing—review and editing S.S., S.K., and R.S. All authors have read and approved the manuscript..
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors..
+
+Available on request..
+
+Not applicable..
+
+Not applicable..
+
+The authors declare no competing interests..
+

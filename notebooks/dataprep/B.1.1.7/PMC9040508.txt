@@ -1,0 +1,18 @@
+These authors contributed equally.
+
+Lead Contact.
+
+The Omicron variant of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was identified in Japan in November 2021. This variant contains up to 36 mutations in the spike protein, the target of neutralizing antibodies, and can escape vaccine-induced immunity. A booster vaccination campaign began with healthcare workers and high-risk groups. Safety and immunogenicity of the three-dose vaccination against Omicron remain unknown..
+
+A total of 272 healthcare workers were initially evaluated for long-term vaccine safety and immunogenicity. We further established a vaccinee panel to evaluate the safety and immunogenicity against variants of concern (VOCs), including the Omicron variants, using a live virus microneutralization assay..
+
+Two-dose vaccination induced robust anti-spike antibodies and neutralization titers (NTs) against the ancestral strain WK-521, whereas NTs against VOCs were significantly lower. Within 93–247 days of the second vaccine dose, NTs against Omicron were completely abolished in up to 80% of individuals in the vaccinee panel. Booster dose induced a robust increase in anti-spike antibodies and NTs against the WK-521, Delta, and Omicron variants. There were no significant differences in the neutralization ability of sera from boosted individuals among the Omicron subvariants BA.1, BA.1.1, and BA.2. Boosting increased the breadth of humoral immunity and cross-reactivity with Omicron without changes in cytokine signatures and adverse event rate..
+
+The third vaccination dose is safe and increases neutralization against Omicron variants..
+
+This study was supported by grants from AMED (grant numbers JP21fk0108104 and JP21mk0102146)..
+
+Seki et al. report that a three-dose Pfizer/BioNTech mRNA vaccination induced a robust increase in anti-spike antibodies and neutralization titers against the WK-521, Delta, and Omicron variants. Immunogenicity against Omicron subvariants, including BA.1, BA.1.1, and three different BA.2, did not change following the third vaccine dose..
+
+Published: July 8, 2022.
+

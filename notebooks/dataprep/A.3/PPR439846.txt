@@ -1,0 +1,532 @@
+The emergence of a new severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant, Omicron, is the most urgent concern in the global health in December 2021. Our statistical modelling estimates that Omicron is >3.0-fold and >5.6-fold more transmissible than Delta in South Africa and the UK, respectively. Intriguingly, cell culture experiments show that Omicron is less fusogenic than Delta and ancestral SARS-CoV-2. Although the spike (S) protein of Delta is efficiently cleaved into the two subunits, which facilitates cell-cell fusion, Omicron S is faintly cleaved. Further, in hamster model, Omicron shows decreased lung infectivity and is less pathogenic compared to Delta and ancestral SARS-CoV-2. Our data suggest that the efficacy of SARS-CoV-2 S cleavage and viral fusogenicity are closely associated with viral pathogenicity, and Omicron evolved to exhibit increased transmissibility and attenuated pathogenicity..
+
+Newly emerging SARS-CoV-2 variants need to be carefully monitored for a potential increase in transmissibility, pathogenicity and resistance to the vaccine-induced immunity and antiviral drugs. In December 2021, WHO has defined five variants of concern (VOC), Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1), Delta (B.1.617.2 and AY lineages) and Omicron (originally B.1.1.529, then reclassified into BA lineages), as well as two variants of interest, Lambda (C.37) and Mu (B.1.621)
+4
+. These SARS-CoV-2 variants are an ongoing threat for the human society or can be a potential risk in the future. For instance, the Alpha variant that bears the N501Y mutation in its S protein increases its transmission efficacy
+5
+, while the Beta, Gamma and Mu variants that bear the E484K mutation exhibit the robust resistance to the neutralizing antibodies elicited by vaccination and natural SARS-CoV-2 infection
+6-13
+. Also, we have revealed that the Delta variant, the most predominant VOC in the world as of December 2021, is highly pathogenic in a hamster model when compared to a D614G-bearing early pandemic virus
+2
+..
+
+In December 2021, the Omicron variant, originally B.1.1.529 lineage, represents the most recently and urgently recognized VOC
+4
+. On November 24, 2021, the B.1.1.529 lineage, a descendant of the SARS-CoV-2 B.1.1 lineage
+14
+, was first reported to WHO as a novel variant spreading in South Africa
+15
+. On November 25, this new variant has been concerned to potentially outcompete Delta variant mainly in Gauten province, South Africa
+16,17
+. Because of the potential risk of this newly emerged variant for the global health, WHO urgently alerted this variant to be a VOC and designated it as the Omicron variant on November 26, 2021 (ref.
+1
+)..
+
+There are at least two reasons why we should be keen to this new variant. One concern is that Omicron seems to be more transmissible than Delta, the most predominant variant in December 2021. The other concern is that the virological features of Omicron, such as its pathogenicity and its resistance to antiviral immunity and drugs are unclear. Particularly, the latter concern is attributed to the viral sequence of this variant. Compared to an original SARS-CoV-2 (B lineage, strain Wuhan-Hu-1, GenBank accession no. NC_045512.2)
+18
+, Delta (e.g., B.1.617.2 lineage, strain TKYTK1734, GISAID ID: EPI_ISL_2378732) possesses 45 nucleotide mutations across its genome including 8 nonsynonymous/indel mutations in its S protein. In contrast, Omicron (e.g., BA.1 lineage, strain TY38-873, GISAID ID: EPI_ISL_7418017) bears 97 nucleotide mutations across its genome including 33 nonsynonymous/indel mutations in its S protein (Extended Data Table 1). Therefore, it is undoubtable to consider that the tremendously higher number of mutations, particularly those in the S protein, in the Omicron variant crucially affect viral phenotype, and revealing its characteristics as a potential threat for the human society is one of the most urgent and important issues in the current world..
+
+The Omicron variant was first detected in South Africa on October 24, 2021 (GISAID ID: EPI_ISL_7605742). In South Africa, the epicentre of Omicron recognised, both the new coronavirus 2019 (COVID-19) cases and the frequency of Omicron increase rapidly inNovember 2021 (Fig. 1a and Extended Data Fig. 1). Notably, although Delta is more transmissible than Alpha and Beta, our statistical analysis showed that the transmissibility (relative growth rate per generation) of Omicron in South Africa is 3.05-fold higher than that of Delta (95% credible interval: 2.72–3.43; Fig. 1b). As of December, 24 2021, 26,659 Omicron sequences were reported from 79 countries (Extended Data Table 2). In the UK, where Delta has predominantly spread from May to the end of November 2021 (Fig. 1c), Omicron was first detected on November 20, 2021 (GISAID ID: EPI_ISL_6821008) and spread tremendously fast. In fact, Omicron’s transmissibility in the UK is 5.57-fold higher than that of Delta (95% credible interval: 5.26–5.90; Fig. 1d), suggesting that Omicron potentially outcompetes Delta..
+
+To elucidate the virological characteristics of Omicron, we obtained an Omicron isolate (strain TY38-873). As controls, a D614G-bearing early pandemic B.1.1 isolate (strain TKYE610670)
+2
+ and a Delta isolate (B.1.617.2 lineage, strain TKYTK1734)
+2
+ were used. Although the growth of Omicron in VeroE6/TMPRSS2 and HeLa-ACE2/TMPRSS2 cells was comparable to the growth of Delta, Omicron was less replicative than Delta and the B.1.1 virus in Vero and Calu-3 cells (Fig. 2a and Extended Data Fig. 2). Omicron as well as the other isolates replicated in A549-ACE2 cells but did not in A549 cells (Extended Data Fig. 2), suggesting that Omicron utilizes ACE2 molecule as the receptor for infection. Although the growth kinetics of Omicron and Delta was comparable in VeroE6/TMPRSS2 cells (Fig. 2a and Extended Data Fig. 2), the morphology of infected cells was quite different: Delta formed larger syncytia than the B.1.1 virus, which is consistent with our recent study
+2
+, Omicron faintly formed syncytia (Fig. 2b and Extended Data Fig. 3a). Immunofluorescence assays at 24 h post-infection (h.p.j.) further showed that Delta-infected VeroE6/TMPRSS2 cells exhibited larger multinuclear syncytia than B.1.1-infected cells, whereas Omicron-infected cells did not (Fig. 2c and Extended Data Fig. 3b). Moreover, the plaque size in VeroE6/TMPRSS2 cells infected with Omicron was significantly smaller than Delta (3.06-fold) and the B.1.1 virus (2.08-fold) (Fig. 2d). These data suggest that Omicron is less fusogenic than Delta and an early pandemic SARS-CoV-2..
+
+To directly assess the fusogenicity of the S proteins of these variants, we performed a cell-based fusion assay
+2,19
+. The expression level of Omicron S on the cell surface was lower than (when stained with an anti-S polyclonal antibody; Fig. 2e) or comparable to (when stained with an anti-S2 monoclonal antibody; Extended Data Fig. 4a) that of the D614G-bearing parental S, the Omicron S was more highly expressed on the cell surface than the Delta S (Fig. 2e and Extended Data Fig. 4a). Nevertheless, our fusion assay showed that the Omicron S is less fusogenic than the Delta and parental D614G S (Fig. 2f and Extended Data Fig. 4b). Additionally, the coculture of S-expressing cells with HEK293-ACE2/TMPRSS2 cells showed that the Omicron S poorly forms multinuclear syncytia (Extended Data Fig. 4c)..
+
+Because the Delta infection forms bigger syncytia and the Delta S exhibits higher fusogenicity with efficient S1/S2 cleavage
+2,3
+, it is hypothesized that the poor syncytia formation and lower fusogenicity of Omicron are attributed to its poor S cleavage efficacy. Consistent with our previous studies
+2,3
+, the level of the cleaved S2 subunit was significantly higher for the Delta S than for the D614G-bearing parental S (Fig. 2g). In sharp contrast, the level of cleaved S2 of Omicron S was significantly lower than that of Delta S (2.5-fold) and parental S (2.2-fold) (Fig. 2g). Similarly, the enhanced S1/S2 cleavage was observed in Delta-infected VeroE6/TMPRSS2 cells, while the S cleavage was attenuated in Omicron-infected cells (Fig. 2h). Altogether, our data suggest that the Omicron S is less efficiently cleaved and less fusogenic than the S proteins of Delta and early pandemic SARS-CoV-2..
+
+To investigate the pathogenicity of Omicron, we conducted hamster infection experiments using the B.1.1 virus, Delta and Omicron. Consistent with our previous study
+2
+, the weight of B.1.1-infected and Delta-infected hamsters decreased from 2 d post-infection (d.p.i.) (Fig. 3a). In sharp contrast, the weight of Omicron-infected hamsters was significantly higher than those of B.1.1-infected and Delta-infected hamsters (Fig. 3a). We then quantitatively analysed the lung function of infected hamsters by measurement of two parameters, enhanced pause (Penh), a surrogate marker for bronchoconstriction or airway obstruction, and subcutaneous oxygen saturation (SpO2). As shown in Fig. 3b,c, both of these two parameters of the B.1.1-infected and Delta-infected hamsters exhibited respiratory disorders. In contrast, in Omicron-infected hamsters, the Penh value was significantly lower than the B.1.1-infected and Delta-infected hamsters (Fig. 3b), and the SpO2 value was significantly higher than the other two infected groups (Fig. 3c). Particularly, the SpO2 value of Omicron-infected hamsters was comparable to that of mock-infected hamsters (Fig. 3c). These data suggest that the pathogenicity of Omicron is lower than those of the B.1.1 virus and Delta..
+
+To investigate the virus spread in the lung of infected hamsters, the lungs were resected and separated into two the lung regions, hilum and periphery (Extended Data Fig. 5), and quantified viral RNA in these two regions. At 3 d.p,i., the level of viral RNA in the hilum of the lung of Omicron-infected hamsters was significantly higher than those of B.1.1-infected (2.1-fold, P = 0.032) and Delta-infected (2.3-fold, P = 0.021) hamsters (Fig. 3d, top). On the other hand, in the lung periphery at the same time point, Omicron-infected hamsters exhibited 5.7-fold and 3.4-fold less viral RNA when compared to B.1.1-infected and Delta-infected hamsters, respectively (Fig. 3d, bottom), suggesting that Omicron less efficiently spreads in lung than the B.1.1 virus and Delta. At 7 d.p.i., Omicron RNA was 2.6-fold and 4.6-fold lower than Delta RNA in both the hilum and periphery of lung, respectively, with statistical significance (Fig. 3d). These data suggest that Omicron less expands in the lung of infected hamsters and disappeared rapidly from this tissue when compared to Delta. To address this possibility in depth, immunohistochemical (IHC) analysis of viral N protein was conducted. At 1 d.p.i. the B.1.1 virus and Delta infections exhibited strong positivity with the SARS-CoV-2 N protein along with the bronchial epithelium of main bronchus in the lung hilum (Fig. 3e). On the other hand, in Omicron-infected hamsters at 1 d.p.i., the N-positive cells were sporadically detected at the most proximal portion of main bronchus, and notably, each N-positive cell sparsely distributed (Fig. 3e). At 3 d.p.i., the N protein was observed in alveolar space around the bronchus/bronchioles in the B.1.1-infected and Delta-infected hamsters, and the Delta N disappeared from the bronchial epithelium (Fig. 3e). In Omicron-infected hamsters, the N-positive cells were not observed in main bronchial epithelium and still resided in the periphery of bronchus/bronchioles as a single cell positive pattern (Fig. 3e). At 5 d.p.i. the N-positive cells prominently distributed in the alveolar space with the infection of B.1.1 and Delta, while only small spotty N-positive cells were detected in the lung infected with Omicron (Fig. 3e). At 7 d.p.i., the N-positive cells were sporadically detectable in the alveoli of B.1.1-infected hamsters, while few faint staining was found in the Delta- and Omicron-infected specimens (Fig. 3e). These data suggest that the B1.1 virus and Delta efficiently infect bronchial epithelium and invade into alveolar space. In sharp contrast, Omicron infects only a portion of bronchial epithelial cells and is less efficiently transmitted to the neighbour of epithelial cells. Corresponding to the viral RNA quantification (Fig. 3d), the IHC data suggest that the relatively slow spread of Omicron infection from bronchus to the distal portion of the bronchioles, which results in the few spotty distribution of N-positive cells in the lung area of Omicron-infected hamsters..
+
+To further investigate the pathogenicity of Omicron in lung, the formalin-fixed right lungs of infected hamsters were analysed by carefully identifying the four lobules and main bronchus and sectioned each lobe along with the bronchial branches (Extended Data Fig. 5). In the two groups of B.1.1 and Delta infections, inflammatory reactions reached peak at 5 d.p.i and inflammations with type II alveolar pneumocytes were found to widely distribute to area of each lobe (Fig. 3f). In contrast, the Omicron infection showed limited inflammatory nodules along with the bronchioles at the same timepoint (Fig. 3f). In the B.1.1-infected hamsters, bronchitis was found at 1 d.p.i. the disruption of bronchus/bronchioles were observed at 3 d.p.i. and alveolitis and haemorrhage was recognised at 5 d.p.i. as the peak of inflammation (Fig. 3g). In the Delta-infected hamsters, inflammatory reaction was more prominent than the B.1.1 virus infection and as shown previously with the large type II pneumocytes were observed at 5 d.p.i. (Fig. 3g). At 7 d.p.i. the acute inflammatory features, such as bronchitis/bronchiolitis and haemorrhage, were resolved replacing with type II pneumocytes in these two infection groups (Fig. 3g). The observations in these two infection groups well correspond to our previous report
+2
+. In the Omicron-infected hamsters, mild bronchitis was observed at 1 d.p.i., and at 3 d.p.i., a vague thickening of alveolar septa and the peribronchial/peribronchioral nodular distribution of type II pneumocytes were observed (Fig. 3g). Notably, severe alveolitis and haemorrhage were not observed in the lung of Omicron-infected hamsters. At 7 d.p.i., The area of nodular type II pneumocytes were decreased (Fig. 3g). Furthermore, lung lesions were quantitatively evaluated by histopathological scoring. Total score of Omicron-infected hamsters was significantly lower than those of the B.1.1-infected and Delta-infected hamsters, and particularly, each index, such as bronchitis, alveolitis, type II pneumocytes, and large type II pneumocytes, of Omicron-infected hamsters were significantly lower than those of Delta-infected hamsters (Fig. 3h). Together with the time-course observations (Fig. 3a–c), our results suggest that the pathogenicity of Omicron is relatively mild when compared to Delta and the B.1.1 virus..
+
+Recent studies including ours have revealed the pronounced immune resistance of Omicron
+20-31
+. However, the pathogenicity of Omicron remains unaddressed. Here we demonstrated that Omicron is less pathogenic than Delta and an early pandemic SARS-CoV-2 (B.1.1 lineage), an ancestral lineage of Omicron
+14
+, in a hamster model. We also showed that the cleavage of SARS-CoV-2 S protein and viral fusogenicity are correlated to viral pathogenicity, and all of these three virological factors – the efficacy of S protein cleavage, fusogenicity and pathogenicity – of Omicron are relatively low when compared to those of Delta and its ancestral SARS-CoV-2..
+
+Here we showed that Omicron was less replicative than an early pandemic SARS-CoV-2 and Delta in cell cultures. This might be contradictory to the higher transmissibility of Omicron in the human society. However, consistent with our recent study
+2
+, the growth of Delta, which is the causative agent of SARS-CoV-2 pandemic in December 2021 and has surpassed the other variants, was not higher than that of an early pandemic SARS-CoV-2, suggesting that the growth capacity of SARS-CoV-2 in cell cultures does not necessarily reflect to the human-to-human transmissibility. Rather, when we compare the three SARS-CoV-2 isolates used in this study, Omicron, Delta and an early pandemic SARS-CoV-2 (the B.1.1 virus), the efficacy of S1/S2 cleavage, fusogenicity and pathogenicity were well correlated each other. Particularly, the association between the higher viral fusogenicity and the severity of viral pathogenicity was reported in HIV-1 infection
+32
+ and measles virus infection
+33,34
+, and the greater COVID-19 severity and unusual symptoms caused by the Delta infection have been well documented
+35-37
+. On the other hand, a reduced risk of severe COVID-19 cases in Omicron-infected individuals, when compared to Delta-infected individuals, has been recently reported
+38
+. Although the virological factor that determines the Omicron’s higher efficacy of human-to-human transmission remains unclear, our findings indicate the attenuated pathogenicity of Omicron compared to Delta. Further, monitoring the S1/S2 cleavage ratio and the fusogenicity of S protein in cell cultures can be barometers to quickly estimate the potential pathogenicity of newly emerging SARS-CoV-2 variants..
+
+Since there are still unaddressed issues on Omicron, we cannot conclude that the potential risk of Omicron for infected individuals is relatively low. In particular, the pathological findings of Omicron we reported in this study are those in an experimental animal model, and it is not necessary that the observations in infected hamsters completely mirror those in infected individuals. Nevertheless, our data show that the pathogenicity of Omicron (B.1.1.529 and BA lineages) is attenuated compared to Delta and even its ancestor, the SARS-CoV-2 belonging to the B.1.1 linage, even if it is in an experimental animal model. Our data also suggest that SARS-CoV-2 can evolve to attenuate its pathogenicity because Omicron is phylogenetically classified as a B.1.1 descendant lineage
+14
+. Therefore, our findings suggesting the emergence of the SARS-CoV-2 variants with higher transmissibility and lower pathogenicity..
+
+The attenuated pathogenicity of Omicron might be heard as good news for the human society, because such emerging variants can be less threatened in terms of disease progression. However, Omicron’s transmissibility is higher than Delta, and further, Omicron can be resistant to vaccine-induced immunity much more than the other SARS-CoV-2 variants including Delta
+20-31
+. We should note that the viral pathogenicity has a linear effect on the increase of hospital admissions, severe cases, and deaths, while the viral transmissibility has an exponential effect on these factors. Therefore, we could not conclude that the risk of Omicron for the global health is relatively low, and this SARS-CoV-2 variant should still be under monitored in depth..
+
+The virus isolation procedures in this study were approved by the Institutional Review Board of National Institute for Infectious Diseases (approval ID: 1178) and Tokyo Metropolitan Institute of Public Health (approval ID: 3KenKenKen-466) according to the Declaration of Helsinki 2013..
+
+All experiments with hamsters were performed in accordance with the Science Council of Japan’s Guidelines for Proper Conduct of Animal Experiments. The protocols were approved by the Institutional Animal Care and Use Committee of National University Corporation Hokkaido University (approval numbers 20-0123 and 20-0060)..
+
+The data of the 7-day average of new COVID-19 cases per day in South Africa and the UK by December 18, 2021 were downloaded from the Our World in Data (https://ourworldindata.org/covid-cases) on December 20, 2021. The numbers of Omicron sequences reported and the countries reported the Omicron sequences by December 24, 2021 (Extended Data Table 2) were obtained from outbreak.info (https://outbreak.info) on December 25, 2021.
+
+We estimated the relative transmissibility of each SARS-CoV-2 lineage in South Africa (Fig. 1b) and the UK (Fig. 1d) according to the lineage dynamics determined by viral genomic surveillance data. The dynamics of five most predominant lineages in each country from January 1, 2021 to December 10, 2021 were analysed. For South Africa, the dynamics of Alpha (B.1.1.7), Beta (B.1.351), Delta (B.1.617.2 and AY lineages), Omicron (B.1.1.529, BA.1, and BA.2), and the C.1.2 lineage were used. For the UK, the dynamics of Alpha, Beta, Delta, Omicron, and the B.1.177 lineage (including its sublineages) were used..
+
+We prepared the input data to estimate the relative transmissibility of each viral lineage for each country. The metadata of the sequenced SARS-CoV-2 strains (e.g., the collection date, collection place and PANGO lineage) were downloaded from the GISAID database (https://www.gisaid.org/) on December 20, 2021. The viral strains belonging to the lineages above were used for the following analysis. The number of isolated strains in each viral lineage in each day was counted and subsequently summarized in three-day bins. Finally, the count matrix representing the abundance of respective viral lineages (viral lineage ID k ∈ {1, 2, …, K}; K = 5) in respective time bins (t ∈ {1, 2, …, T}; T = 114) for each country was constructed..
+
+We modelled the transition of the relative frequency of K types of viral lineages with a Bayesian multinomial logistic model as below: 
+
+
+
+
+
+
+
+μ
+t
+
+=
+
+b
+0
+
++
+
+b
+1
+
+t
+
+
+
+
+
+
+
+θ
+t
+
+=
+softmax
+
+(
+
+
+μ
+t
+
+
+)
+
+
+
+
+
+
+
+
+N
+t
+
+=
+
+
+∑
+
+1
+≤
+k
+≤
+K
+
+
+
+
+Y
+
+tk
+
+
+
+
+
+
+
+
+
+
+
+Y
+t
+
+~
+Multinomial
+
+(
+
+
+N
+t
+
+,
+
+θ
+t
+
+
+)
+
+
+
+
+
+
+
+
+.
+
+Where b0, b1, μt, θt, Yt are vectors with K elements, and the k-th element in the vector represents the value for the viral lineage k. The explanatory variable is time bin t, and the outcome variable Yt represents the counts of respective viral lineages at t In the model, the linear estimator μt consisting the intercept b0 and the slope b1 for t is converted to the simplex θt, which represents the probability of occurrence of each viral lineage, by the softmax Iinkfunction defined as: 
+
+
+softmax
+
+(
+x
+)
+
+=
+
+
+exp
+
+(
+x
+)
+
+
+
+
+
+∑
+
+1
+≤
+j
+≤
+J
+
+
+
+exp
+
+(
+
+
+x
+j
+
+
+)
+
+
+
+
+
+
+
+
+.
+
+Yt is generated from θt and Nt representing the total count of all lineages at t, according to a Multinomial distribution..
+
+Relative growth rate per generation (i.e., transmissibility) of respective viral lineages (r, a vector with K elements) was calculated according to the slope parameter b1 in the model above with the assumption of a fixed generation time. The growth rate r was defined as: 
+
+
+r
+=
+exp
+
+(
+
+γ
+/
+
+
+wb
+
+1
+
+
+)
+
+
+
+
+.
+
+Where γ and w are the viral generation time (5.5 d)
+39
+ and the time bin size (3 d), respectively. For the parameter estimation, the intercept and slope parameters of the Delta variant were fixed at 0. Consequently, the growth rates of respective lineages were estimated as those relative to that of the Delta variant..
+
+Parameter estimation was performed by the framework of Bayesian statistical inference with Markov chain Monte Carlo methods (MCMC) implemented in Stan [CmdStan v2.28.1] (https://mc-stan.org). Non-informative priors were set for all parameters. Four independent MCMC chains were run with 2,000 and 3,000 steps of warmup and sampling iterations, respectively. We confirmed that all estimated parameters had <1.01 R-hat convergence diagnostic and >1,000 effective sampling size values, indicating that the MCMC runs were successfully convergent. The fitted model well reconstructed the observed data of the viral lineage dynamics in South Africa (R2 = 0.994; Extended Data Fig. 1b) and the UK (R2 = 0.99995; Extended Data Fig. 1d). The analyses above were performed in R v3.6.3..
+
+HEK293 cells (a human embryonic kidney cell line; ATCC CRL-1573) and HEK293-ACE2/TMPRSS2 (HEK293 cells stably expressing human ACE2 and TMPRSS2)
+19
+ were maintained in Dulbecco’s modified Eagle’s medium (DMEM) (high glucose) (Wako, Cat# 044-29765) containing 10% foetal bovine serum (FBS) and 1% penicillin-streptomycin (PS). A549 (a human lung epithelial cell line; ATCC CCL-185) and A549-ACE2 cells (A549 cells stably expressing human ACE2)
+19
+ were maintained in Ham’s F-12K medium (Wako, Cat# 080-08565) containing 10% FBS and 1% PS. Vero cells [an African green monkey (Chlorocebus sabaeus) kidney cell line; JCRB0111] were maintained in Eagle’s minimum essential medium (EMEM) (Wako, Cat# 051-07615) containing 10% FBS and 1% PS. VeroE6/TMPRSS2 cells (VeroE6 cells stably expressing human TMPRSS2)
+40
+ were maintained in DMEM (low glucose) (Wako, Cat# 041-29775) containing 10% FBS, G418 (1 mg/ml; Nacalai Tesque, Cat# G8168-10ML) and 1% PS. Calu-3 cells (a human lung epithelial cell line; ATCC HTB-55) were maintained in EMEM (Sigma-Aldrich, Cat# M4655-500ML) containing 10% FBS and 1% PS. Calu-3/DSP1-7 cells (Calu-3 cells stably expressing DSP1-7 cells)
+41
+ was maintained in EMEM (Wako, Cat# 056-08385) supplemented with 20% FBS and 1% PS. HeLa-ACE2/TMPRSS2 cells (HeLa cells stably expressing human ACE2 and TMPRSS2)
+42
+ were maintained in DMEM (low glucose) (Wako, Cat# 041-29775) containing 10% FBS, G418 (1 mg/ml; Nacalai Tesque, Cat# G8168-10ML) and 1% PS..
+
+To isolate an Omicron variant (BA.1 lineage, strain TY38-873; GISAID ID: EPI_ISL_7418017), saliva was collected from a traveller arrived at Japan, and RT-qPCR testing for SARS-CoV-2 was performed in an airport quarantine station, Japan. The sample was subjected to whole genome sequencing based on a modified ARTIC Network protocol
+43
+, and the near full-length SARS-CoV-2 genome sequence was deposited in GISAID (GISAID ID: EPI_ISL_6913953). Virus isolation was performed as previously described
+40
+. In brief, the saliva was inoculated into VeroE6/TMPRSS2 cells and cytopathic effect (CPE) was observed 4 d after inoculation. Then, the supernatant was harvested and stored at –80°C as an original virus (GISAID ID: EPI_ISL_7418017). After one more passage in VeroE6/TMPRSS2 cells, the virus was obtained from National Institute of Infectious Diseases, Japan. An early pandemic D614G-bearing isolate (B.1.1 lineage, strain TKYE610670; GISAID ID: EPI_ISL_479681) and a Delta isolate (B.1.617.2 lineage, strain TKYTK1734; GISAID ID: EPI_ISL_2378732) were used in the previous study
+2
+..
+
+Virus preparation and titration was performed as previously described
+2,19
+. To prepare the working virus stock, 100 μl of the seed virus was inoculated into VeroE6/TMPRSS2 cells (5 × 106 cells in a T-75 flask). One hour after infection, the culture medium was replaced with DMEM (low glucose) (Wako, Cat# 041-29775) containing 2% FBS and 1% PS. At 3 d.p.i., the culture medium was harvested and centrifuged, and the supernatants were collected as the working virus stock. The viral genome sequences of working viruses were verified as described below..
+
+The titre of the prepared working virus was measured as the 50% tissue culture infectious dose (TCID50). Briefly, one day before infection, VeroE6/TMPRSS2 cells (10,000 cells) were seeded into a 96-well plate. Serially diluted virus stocks were inoculated into the cells and incubated at 37°C for 4 d. The cells were observed under microscopy to judge the CPE appearance. The value of TCID50/ml was calculated with the Reed–Muench method
+44
+..
+
+One day before infection, Vero cells (10,000 cells), VeroE6/TMPRSS2 cells (10,000 cells), Calu-3 cells (10,000 cells), HeLa-ACE2/TMPRSS2 cells (10,000 cells), A549-ACE2 cells (10,000 cells) and A549 cells (10,000 cells) were seeded into a 96-well plate. SARS-CoV-2 (1,000 or 100 TCID50) was inoculated and incubated at 37°C for 1 h. The infected cells were washed, and 180 μl of culture medium was added. The culture supernatant (10 μl) was harvested at the indicated time points and used for RT–qPCR to quantify the viral RNA copy number (see below). To monitor the syncytium formation in infected cell culture, bright-field photos were obtained using an All-in-One Fluorescence Microscope BZ-X800 (Keyence)..
+
+Immunofluorescence staining was performed as previously described
+2
+. Briefly, one day before infection, VeroE6/TMPRSS2 cells (10,000 cells) were seeded into 96-well, glass bottom, black plates and infected with SARS-CoV-2 (100 TCID50). At 24 h.p.i., the cells were fixed with 4% paraformaldehyde in phosphate-buffered saline (PBS) (Nacalai Tesque, Cat# 09154-85) for 1 h at 4°C. The fixed cells were permeabilized with 0.2% Triton X-100 in PBS for 1 h, blocked with 10% FBS in PBS for 1 h at 4°C. The fixed cells were then stained using rabbit anti-SARS-CoV-2 N polyclonal antibody (GeneTex, Cat# GTX135570, 1:1,000) for 1 h. After washing three times with PBS, cells were incubated with an Alexa 488-conjugated anti-rabbit IgG antibody (Thermo Fisher Scientific, Cat# A-11008, 1:1,000) for 1 h. Nuclei were stained with DAPI (Thermo Fisher Scientific, Cat# 62248). Fluorescence microscopy was performed on an All-in-One Fluorescence Microscope BZ-X800 (Keyence)..
+
+Plaque assay was performed as previously described
+2,19
+. Briefly, one day before infection, VeroE6/TMPRSS2 cells (100,000 cells) were seeded into a 24-well plate and infected with SARS-CoV-2 (10,000 TCID50) at 37°C. At 2 h.p.i, mounting solution containing 3% FBS and 1.5% carboxymethyl cellulose (Wako, Cat# 039-01335) was overlaid, followed by incubation at 37°C. At 3 d.p.i., the culture medium was removed, and the cells were washed with PBS three times and fixed with 4% paraformaldehyde phosphate (Nacalai Tesque, Cat# 09154-85). The fixed cells were washed with tap water, dried, and stained with staining solution [0.1% methylene blue (Nacalai Tesque, Cat# 22412-14) in water] for 30 m. The stained cells were washed with tap water and dried, and the size of plaques was measured using ImageJ..
+
+RT–qPCR was performed as previously described
+2,19
+. Briefly, 5 μl of culture supernatant was mixed with 5 μl of 2 × RNA lysis buffer [2% Triton X-100, 50 mM KCl, 100 mM Tris-HCl (pH 7.4), 40% glycerol, 0.8 U/μl recombinant RNase inhibitor (Takara, Cat# 2313B)] and incubated at room temperature for 10 min. RNase-free water (90 μl) was added, and the diluted sample (2.5 μl) was used as the template for real-time RT-PCR performed according to the manufacturer’s protocol using the One Step TB Green PrimeScript PLUS RT-PCR kit (Takara, Cat# RR096A) and the following primers: Forward N, 5’-AGC CTC TTC TCG TTC CTC ATC AC-3’; and Reverse N, 5’-CCG CCA TTG CCA GCC ATT C-3’. The viral RNA copy number was standardized with a SARS-CoV-2 direct detection RT-qPCR kit (Takara, Cat# RC300A). Fluorescent signals were acquired using a QuantStudio 3 Real-Time PCR system (Thermo Fisher Scientific), a CFX Connect Real-Time PCR Detection system (Bio-Rad), an Eco Real-Time PCR System (Illumina), a qTOWER3 G Real-Time System (Analytik Jena) or a 7500 Real Time PCR System (Applied Biosystems)..
+
+Plasmids expressing the SARS-CoV-2 S proteins of the D614G-bearing early pandemic SARS-CoV-2 (pC-SARS2-S D614G) and Delta (pC-SARS2-S Delta) were prepared in our previous study
+2,19
+. A plasmid expressing the SARS-CoV-2 Omicron S protein (pC-SARS2-S Omicron) was generated by overlap extension PCR using pC-SARS2-S D614G
+2,19
+ and pC-SARS2-S Alpha
+2
+ as the templates and the primers listed in Supplementary Table 1. The resulting PCR fragment was digested with KpnI and NotI and inserted into the KpnI-NotI site of the pCAGGS vector
+45
+..
+
+The SARS-CoV-2 S-based fusion assay was performed as previously described
+2,19
+. This assay utilizes a dual split protein (DSP) encoding Renilla luciferase (RL) and GFP genes; the respective split proteins, DSP8-11 and DSP1-7, are expressed in effector and target cells by transfection. Briefly, on day 1, effector cells (i.e., S-expressing cells) and target cells (see below) were prepared at a density of 0.6–0.8 × 106 cells in a 6-well plate. To prepare effector cells, HEK293 cells were cotransfected with the S expression plasmids (400 ng) and pDSP8-11 (400 ng) using TransIT-LT1 (Takara, Cat# MIR2300). To prepare target cells, HEK293 cells were cotransfected with pC-ACE2 (200 ng) and pDSP8-11 (400 ng). Target HEK293 cells in selected wells were cotransfected with pC-TMPRSS2 (40 ng) in addition to the plasmids above. VeroE6/TMPRSS2 cells were transfected with pDSP1-7 (400ng). On day 3 (24 h.p.i), 16,000 effector cells were detached and reseeded into 96-well black plates (PerkinElmer, Cat# 6005225), and target cells (HEK293, VeroE6/TMPRSS2 or Calu-3/DSP1-7 cells) were reseeded at a density of 1,000,000 cells/2 ml/well in 6-well plates. On day 4 (48 h.p.i.), target cells were incubated with EnduRen live cell substrate (Promega, Cat# E6481) for 3 h and then detached, and 32,000 target cells were added to a 96-well plate with effector cells. RL activity was measured at the indicated time points using a Centro XS3 LB960 (Berthhold Technologies). To measure the surface expression level of S protein, effector cells were stained with rabbit anti-SARS-CoV-2 S S1/S2 polyclonal antibody (Thermo Fisher Scientific, Cat# PA5-112048, 1:100) or mouse anti-SARS-CoV-2 S monoclonal antibody (clone 1A9, GeneTex, Cat# GTX632604, 1:100). Normal rabbit IgG (SouthernBiotech, Cat# 0111-01, 1:100) or purified mouse IgG1 isotype control antibody (clone MG1-45, BioLegend, Cat# 401401, 1:100) or was used as negative controls, and APC-conjugated goat anti-mouse or rabbit IgG polyclonal antibody (Jackson ImmunoResearch, Cat# 115-136-146, 1:50 or Cat# 111-136-144, 1:50) was used as a secondary antibody. Surface expression level of S proteins was analysed using FACS Canto II (BD Biosciences) and FlowJo software v10.7.1 (BD Biosciences). Gating strategy for flow cytometry is shown in Supplementary Fig. 1. RL activity was normalized to the MFI of surface S proteins, and the normalized values are shown as fusion activity..
+
+One day before transfection, effector cells (i.e., S-expressing cells) were seeded on the cover glass put in 12-well plate, and target HEK293-ACE2/TMPRSS2 cells were prepared at a density of 1.0 x 105 cells in a 12 well plate. To prepare effector cell, HEK293 cells were cotransfected with the expression plasmids for the parental D614G S, Delta S, Omicron S (500 ng) and pEGFP-C1 (500 ng) using PEI Max (Polysciences, Cat# 24765-1). To prepare target cells, HEK293 cells and HEK293-ACE2/TMPRSS2 cells were transfected with pmCherry-C1 (1000 ng). At 24 h post-transfection, target cells were detached and cocultured with effector cells. At 24 h post-coculture (at 48 h post-transfection), cells were fixed with 4% paraformaldehyde in PBS (Nacalai Tesque, cat# 09154-85) for 15 m at room temperature. Nuclei were stained with Hoechst 33342 (Thermo Fisher Scientific, Cat# H3570). The coverslips were mounted on glass slides using Fluoromount-G (Southern Biotechnology, Cat# 0100-01) with Hoechst 33342 and observed using an A1Rsi confocal microscope (Nikon). The size of syncytium (yellow area) was measured using Fiji software v2.0.0-rc-69/1.52p (ImageJ)
+46
+..
+
+Western blotting was performed as previously described
+2,19
+. To quantify the level of the cleaved S2 protein in the cells, the harvested cells were washed and lysed in lysis buffer [25 mM HEPES (pH 7.2), 20% glycerol, 125 mM NaCl, 1% Nonidet P40 substitute (Nacalai Tesque, Cat# 18558-54), protease inhibitor cocktail (Nacalai Tesque, Cat# 03969-21)]. After quantification of total protein by protein assay dye (Bio-Rad, Cat# 5000006), lysates were diluted with 2 × sample buffer [100 mM Tris-HCl (pH 6.8), 4% SDS, 12% β-mercaptoethanol, 20% glycerol, 0.05% bromophenol blue] and boiled for 10 m. Then, 10 μl samples (50 μg of total protein) were subjected to Western blotting. To quantify the level of the cleaved S2 protein in the virions, 900 μl of the culture medium containing the pseudoviruses was layered onto 500 μl of 20% sucrose in PBS and centrifuged at 20,000 × g for 2 h at 4°C. Pelleted virions were resuspended in 1× NuPAGE LDS sample buffer (Thermo Fisher Scientific, Cat# NP0007) containing 2% β-mercaptoethanol, and the lysed virions were subjected to Western blotting. For protein detection, the following antibodies were used: mouse anti-SARS-CoV-2 S monoclonal antibody (clone 1A9, GeneTex, Cat# GTX632604, 1:10,000), rabbit anti-SARS-CoV-2 N monoclonal antibody (clone HL344, GeneTex, Cat# GTX635679, 1:5,000), rabbit anti-beta actin (ACTB) monoclonal antibody (clone 13E5, Cell Signalling, Cat# 4970, 1:5,000), mouse anti-alpha tubulin (TUBA) monoclonal antibody (clone DM1A, Sigma-Aldrich, Cat# T9026, 1:10,000), horseradish peroxidase (HRP)-conjugated donkey anti-rabbit IgG polyclonal antibody (Jackson ImmunoResearch, Cat# 711-035-152, 1:10,000) and HRP-conjugated donkey anti-mouse IgG polyclonal antibody (Jackson ImmunoResearch, Cat# 715-035-150, 1:10,000). Chemiluminescence was detected using SuperSignal West Femto Maximum Sensitivity Substrate (Thermo Fisher Scientific, Cat# 34095) or Western BLoT Ultra Sensitive HRP Substrate (Takara, Cat# T7104A) according to the manufacturers’ instructions. Bands were visualized using an Amersham Imager 600 (GE Healthcare), and the band intensity was quantified using Image Studio Lite v5.2 (LI-COR Biosciences) or ImageJ v2.2.0. Uncropped blots are shown in Supplementary Fig. 2..
+
+Syrian hamsters (male, 4 weeks old) were purchased from Japan SLC Inc. (Shizuoka, Japan). Baseline body weights were measured before infection. For the virus infection experiments, hamsters were euthanized by intramuscular injection of a mixture of 0.15 mg/kg medetomidine hydrochloride (Domitor®, Nippon Zenyaku Kogyo), 2.0 mg/kg midazolam (Dormicum®, FUJIFILM Wako Chemicals) and 2.5 mg/kg butorphanol (Vetorphale®, Meiji Seika Pharma). The B.1.1 virus, Delta or Omicron (104 TCID50 in 100 μl) were intranasally infected under anaesthesia. Oral swabs were daily collected under anaesthesia with isoflurane (Sumitomo Dainippon Pharma). Body weight, enhanced pause (Penh, see below) and subcutaneous oxygen saturation (SpO2, see below) were monitored at 1, 3, 5 and 7 d.p.i. Lung tissues were collected at 1, 3, 5 and 7 d.p.i, and viral RNA levels in lung tissues were determined by qRT-PCR. These tissues were also used for histopathological analysis (see below)..
+
+Histopathological analysis was performed as described in the previous study
+2
+. Briefly, excised animal tissues were fixed with 4% paraformaldehyde in PBS, and processed for paraffin embedding. The paraffin blocks were sectioned with 3-μm-thickness and then mounted on silane-coated glass slides (MAS-GP, Matsunami). H&E staining was performed according to a standard protocol. For IHC, an Autostainer Link 48 (Dako) was utilized. The deparaffinized sections were exposed to EnVision FLEX target retrieval solution high pH (Agilent, Cat# K8004) for 20 m at 97°C to activate, and a mouse anti-SARS-CoV-2 N monoclonal antibody (R & D systems, Clone 1035111, Cat# MAB10474-SP, 1:400) was used as a primary antibody. The sections were sensitized using EnVision FLEX (Agilent) for 15 m and visualised by peroxidase-based enzymatic reaction with 3,3’-diaminobenzidine tetrahydrochloride as substrate for 5 m..
+
+Histopathological scoring was performed as described in the previous study
+2
+. Briefly, pathological features including bronchitis or bronchiolitis, hemorrhage or congestion, alveolar damage with epithelial apoptosis and macrophage infiltration, presence of type II pneumocytes, and the area of the presence of large type II pneumocytes were evaluated by certified pathologists and the degree of these pathological findings were arbitrarily scored using four-tiered system as 0 (negative), 1 (weak), 2 (moderate), and 3 (severe). Total histopathological score is the sum of these five indices..
+
+Respiratory parameters were measured by using a whole-body plethysmography system (DSI) according to the manufacturer’s instructions. In brief, a hamster was placed in an unrestrained plethysmography chamber and allowed to acclimatize for 30 s, then, data were acquired over a 3-m period by using FinePointe Station and Review softwares v2.9.2.12849 (STARR). The state of oxygenation was examined by measuring percutaneous oxygen saturation (SpO2) using pulse oximeter, MouseOx PLUS (STARR). SpO2 was measured by attaching a measuring chip to the neck of hamsters sedated by sedated by 0.25 mg/kg medetomidine hydrochloride..
+
+The sequences of the working viruses were verified by viral RNA-sequencing analysis. Viral RNA was extracted using QIAamp viral RNA mini kit (Qiagen, Cat# 52906). The sequencing library for total RNA-sequencing was prepared using NEB Next Ultra RNA Library Prep Kit for Illumina (New England Biolabs, Cat# E7530). Paired-end, 150-bp sequencing was performed using MiSeq (Illumina) with MiSeq reagent kit v3 (Illumina, Cat# MS-102-3001). Sequencing reads were trimmed using fastp v0.21.0
+47
+ and subsequently mapped to the viral genome sequences of a lineage A isolate (strain WK-521; GISIAD ID: EPI_ISL_408667)
+40
+ using BWA-MEM v0.7.17
+48
+. Variant calling, filtering, and annotation were performed using SAMtools v1.9
+49
+ and snpEff v5.0e
+50
+..
+
+For the clinical isolates [an Omicron isolate (strain TY38-873; GISAID ID: EPI_ISL_7418017), a Delta isolate (strain TKYTK1734; GISAID ID: EPI_ISL_2378732)
+2
+ and a D614G-bearing B.1.1 isolate (strain TKYE610670; GISAID ID: EPI_ISL_479681)
+2
+], the detected variants that are present in the original sequences were excluded. Information on the detected mutations is summarized in Supplementary Table 2..
+
+Statistical significance was tested using a two-sided Student’s t-test or a two-sided Mann–Whitney U-test unless otherwise noted. The tests above were performed using Excel software v16.16.8 (Microsoft) or Prism 9 software v9.1.1 (GraphPad Software)..
+
+In the time-course experiments using hamsters (Fig. 3h), to evaluate the difference between experimental conditions thorough all over timepoints, a multiple regression analysis including experimental conditions as explanatory variables and timepoints as qualitative control variables was performed. The P value was calculated by a two-sided Wald test. Subsequently, family-wise error rates were calculated by Holm method. The analyses above were performed in R v3.6.3..
+
+In Fig. 3e–3g, photographs shown are the representative areas of two independent experiments by using 3 hamsters at each timepoint. In Fig. 2b–2d and Extended Data Fig. 3, 4b, assays were performed in triplicate. Photographs shown are the representatives of 20 fields of view taken for each sample..
+
+
+a,c, The frequency of five most predominant lineages and the other lineages in South Africa (a) and the UK (c) per day is shown..
+
+
+b,d, Comparison of the observed and predicted counts of each viral lineage in each time bin. The results for South Africa (b) and the UK (d) are shown. The coefficient of determination (R2) and the line y = x are shown..
+
+An D614G-bearing B.1.1 virus, Delta and Omicron [100 TCID50 (m.o.i. 0.01) for VeroE6/TMPRSS2 cells, 1,000 TCID50 (m.o.i. 0.1) for HeLa-ACE2/TMPRSS2 cells, A549-ACE2 and A549 cells] were inoculated into cells, and the copy number of viral RNA in the supernatant was quantified by RT–qPCR. Assays were performed in quadruplicate..
+
+
+a, Syncytium formation. Representative bright-field images of VeroE6/TMPRSS2 cells infected with SARS-CoV-2 (m.o.i. 0.01) at 24, 48 and 72 h.p.i. Scale bars, 100 μm. Note that the panels labelled with red are identical those shown in Fig. 2b..
+
+
+b, Immunofluorescence staining of SARS-CoV-2-infected VeroE6/TMPRSS2 cells. VeroE6/TMPRSS2 cells were infected with infected with SARS-CoV-2 (m.o.i. 0.01) and were stained with anti-SARS-CoV-2 nucleocapsid (N) (green) and DAPI (blue). Representative images taken at 24 h.p.i. Scale bars, 100 μm. Note that the panels labelled with red squares are identical those shown in Fig. 2c..
+
+
+a, Expression of S protein on the cell surface. Left, representative histogram of S protein expression (stained with an anti-S2 monoclonal antibody) on the cell surface. The number in the histogram indicates the MFI. Right, the MFI of surface S2 on the S-expressing cells. Assays were performed in triplicate..
+
+
+b, SARS-CoV-2 S-based fusion assay. Effector cells (S-expressing cells) and target cells (Calu-3 cells, HEK293-ACE2 cells and HEK293-ACE2/TMPRSS2 cells) were prepared, and the fusion activity was measured as described in the Methods. Assays were performed in quadruplicate, and fusion activity (arbitrary units) is shown..
+
+
+c, Coculture of S-expressing cells with HEK293-ACE2/TMPRSS2 cells..
+
+Left, representative images of the S-expressing cells (green) cocultured with HEK293 cells (red, top) or HEK293-ACE2/TMPRSS2 (red, bottom). Nuclei were stained with Hoechst33342 (blue). Scale bars, 50 μm. Right, the size distributions of syncytia (yellow) in the HEK293-ACE2/TMPRSS2 cultures cocultured with the cells expressing the parental D614G S (n = 50), Delta S (n = 54) or Omicron S (n = 58)..
+
+Data are mean ± s.d. Statistically significant differences versus B.1.1 and Delta (*P < 0.05) were determined by two-sided unpaired Student’s t-tests (a,b) or two-sided Mann–Whitney U-test (c)..
+
+The entire lung (left) and the coronal section of right lung and its cut surface (right) are shown. In the right panel, four lung lobes, upper lobe (U), milled lobe (M), lower lobe (L) and accessory lobe (A), are respectively indicated. Arrow indicates main bronchus. The hilum and periphery of lung that were used for the viral RNA quantification (Fig. 3d) are also indicated..
+
+We would like to thank all members belonging to The Genotype to Phenotype Japan (G2P-Japan) Consortium. We thank National Institute for Infectious Diseases, Japan, for providing an Omicron isolate, Dr. Kenzo Tokunaga (National Institute for Infectious Diseases, Japan) and Dr. Jin Gohda (The University of Tokyo, Japan) for providing reagents. The super-computing resource was provided by Human Genome Center at The University of Tokyo..
+
+This study was supported in part by AMED Research Program on Emerging and Re-emerging Infectious Diseases (20fk0108401, to Takasuke Fukuhara; 20fk010847, to Takasuke Fukuhara; 21fk0108617 to Takasuke Fukuhara; 20fk0108146, to Kei Sato; 20fk0108270, to Kei Sato; and 20fk0108413, to Terumasa Ikeda and Kei Sato) and (20fk0108451, to G2P-Japan Consortium, Terumasa Ikeda, Takashi Irie, Keita Matsuno, Takasuke Fukuhara and Kei Sato); AMED Research Program on HIV/AIDS (21fk0410039, to Kei Sato); AMED Japan Program for Infectious Diseases Research and Infrastructure (21wm0125008, to Hirofumi Sawa and 21wm0225003, to Hirofumi Sawa); JST A-STEP (JPMJTM20SL, to Terumasa Ikeda); JST SICORP (e-ASIA) (JPMJSC20U1, to Kei Sato); JST SICORP (JPMJSC21U5, to Kei Sato), JST CREST (JPMJCR20H4, to Kei Sato); JSPS KAKENHI Grant-in-Aid for Scientific Research B (21H02736, to Takasuke Fukuhara; 18H02662, to Kei Sato; and 21H02737, to Kei Sato); JSPS Fund for the Promotion of Joint International Research (Fostering Joint International Research) (18KK0447, to Kei Sato); JSPS Core-to-Core Program (A. Advanced Research Networks) (JPJSCCA20190008, to Kei Sato); JSPS Research Fellow DC1 (19J20488, to Izumi Kimura); JSPS Leading Initiative for Excellent Young Researchers (LEADER) (to Terumasa Ikeda); World-leading Innovative and Smart Education (WISE) Program 1801 from the Ministry of Education, Culture, Sports, Science and Technology (MEXT) (to Naganori Nao); The Tokyo Biochemical Research Foundation (to Kei Sato); Mitsubishi Foundation (to Terumasa Ikeda); Shin-Nihon Foundation of Advanced Medical Research (to Terumasa Ikeda); Tsuchiya Foundation (to Takashi Irie); an intramural grant from Kumamoto University COVID-19 Research Projects (AMABIE) (to Terumasa Ikeda); Intercontinental Research and Educational Platform Aiming for Eradication of HIV/AIDS (to Terumasa Ikeda); and Joint Usage/Research Center program of Institute for Frontier Life and Medical Sciences, Kyoto University (to Kei Sato)..
+
+The raw data of virus sequences analysed in this study are deposited in Gene Expression Omnibus (accession number: GSE192472). Publicly available viral sequence data are available from GISAID database (https://www.gisaid.org)..
+
+The computational code to estimate the viral transmissibility (Fig. 1) is available in the GitHub repository (https://github.com/TheSatoLab/Estimation_of_transmissibility_of_each_viral_lineage)..
+
+
+Consortia
+.
+
+
+Author Contributions
+.
+
+Daichi Yamasoba, Izumi Kimura, Hesham Nasser, Keiya Uriu, Yusuke Kosugi, Ryo Shimizu, Ryoko Kawabata, Terumasa Ikeda, Takashi Irie performed cell culture experiments..
+
+Rigel Suzuki, Mai Kishimoto, Yuhei Morioka, Naganori Nao, Yasuko Orba, Michihito Sasaki, Kumiko Yoshimatsu, Hirofumi Sawa, Keita Matsuno, Takasuke Fukuhara performed animal experiments..
+
+Lei Wang, Masumi Tsuda, Shinya Tanaka performed histopathological analysis..
+
+Hiroyuki Asakura, Mami Nagashima, Kenji Sadamasu, Kazuhisa Yoshimura performed viral genome sequencing analysis..
+
+Jumpei Ito performed statistical analysis..
+
+Terumasa Ikeda, Takashi Irie, Keita Matsuno, Shinya Tanaka, Takasuke Fukuhara, Kei Sato designed the experiments and interpreted the results..
+
+Kei Sato wrote the original manuscript..
+
+All authors reviewed and proofread the manuscript..
+
+The Genotype to Phenotype Japan (G2P-Japan) Consortium contributed to the project administration..
+
+
+Conflict of interest
+.
+
+The authors declare that no competing interests exist..
+
+The dynamics of the five most predominant lineages in South Africa (a,b) and the UK (c,d) from January 1, 2021 to December 10, 2021..
+
+In a,c, the 7-day average of new COVID-19 cases reported per day (top), the frequency of top 5 viral lineages in the sequenced samples (middle), and the frequency of top 5 viral lineages predicted by our Bayesian statistical model (bottom) are respectively shown. The lineage frequency (middle and bottom) is summarized in three-day bins. The frequency of all viral lineages is shown in Extended Data Fig. 1..
+
+
+b,d, Estimation of the relative growth rate per generation (transmissibility) of each viral lineage in South Africa (b) and the UK (d). The relative values to Delta are shown. The posterior distribution (violin), posterior mean (dot), and 95% credible interval (bar) are respectively indicated..
+
+
+a, Growth kinetics of Omicron. An D614G-bearing B.1.1 virus, Delta and Omicron [multiplicity of infection (m.o.i.) 0.1] were inoculated into cells, and the copy number of viral RNA in the supernatant was quantified by RT–qPCR. Assays were performed in quadruplicate..
+
+
+b, Syncytium formation. Representative bright-field images of VeroE6/TMPRSS2 cells infected with SARS-CoV-2 (m.o.i. 0.01) at 24, 48 and 72 h.p.i. Scale bars, 100 μm. See also Extended Data Fig. 3a..
+
+
+c, Immunofluorescence staining of SARS-CoV-2-infected VeroE6/TMPRSS2 cells. VeroE6/TMPRSS2 cells were infected with infected with SARS-CoV-2 (m.o.i. 0.01) and were stained with anti-SARS-CoV-2 nucleocapsid (N). Representative images taken at 24 h.p.i. Higher-magnification views of the regions indicated by with squares are shown in the right images. Scale bars, 100 μm. See also Extended Data Fig. 3b..
+
+
+d, A plaque assay using VeroE6/TMPRSS2 cells. Left, representative figures. Right, the summary of the diameter of plaques (n = 15 for each virus, right). Each dot indicates the diameter of respective plaque..
+
+
+e–g, SARS-CoV-2 S-based fusion assay..
+
+
+e, Expression of S protein on the cell surface. Left, representative histogram of S protein expression (stained with an anti-S1/S2 polyclonal antibody) on the cell surface. The number in the histogram indicates the mean fluorescence intensity (MFI). Right, the MFI of surface S on the S-expressing cells. Assays were performed in triplicate..
+
+
+f, SARS-CoV-2 S-based fusion assay. Effector cells (S-expressing cells) and target VeroE6/TMPRSS2 cells were prepared, and the fusion activity was measured as described in the Methods. Assays were performed in quadruplicate, and fusion activity (arbitrary units) is shown..
+
+
+g, Western blot analysis of S-expressing cells. Left, representative blots of SARS-CoV-2 full-length S and cleaved S2 proteins as well as ACTB as an internal control. Right, the ratio of S2 to the full-length S plus S2 proteins in the S-expressing cells. Assays were performed in quadruplicate..
+
+
+h, Western blot analysis of VeroE6/TMPRSS2 cells infected with SARS-CoV-2 (m.o.i. 0.01) at 48 h.p.i. Expression of S protein in infected cells. Left, representative blots of SARS-CoV-2 full-length S and cleaved S2 proteins as well as TUBA as an internal control. Right, the ratio of S2 to the full-length S plus S2 proteins in the S-expressing cells. Assays were performed in quadruplicate..
+
+Data are mean ± s.d..
+
+Statistically significant differences versus B.1.1 and Delta (*P < 0.05) were determined by two-sided unpaired Student’s t-tests (a, e, f), two-sided Mann–Whitney U-test (d), or two-sided paired Student’s t-tests (g, h)..
+
+Infection of Syrian hamsters with Omicron..
+
+
+a–d, Time-course analysis. Syrian hamsters were intranasally inoculated with B.1.1 (n = 6), Delta (n = 6) and Omicron (n = 6). Six hamsters of the same age were mock infected. Body weight (a), Penh (b) and SpO2 (c) were routinely measured..
+
+
+d, Virus replication in the lung of infected hamsters. Three hamsters per group were euthanized at 1, 3, 5 and 7 d.p.i. for virus RNA quantification. Virus RNA in the hilum (top) and periphery (bottom) of lung (the regions are indicated in Extended Data Fig. 5) were determined by RT-qPCR..
+
+
+e, IHC of the SARS-CoV-2 N protein in the lung of infected hamsters. Representative IHC panels of the viral N proteins in the lung of hamsters infected with the B.1.1 virus (top), Delta (middle) and Omicron (bottom) at each timepoint are shown. Yellow arrows indicate the bronchus of each lung lobe..
+
+Higher-magnification views of the regions indicated by squares are shown in the bottom images. Scale bars, 2.5 mm (in lower magnification)..
+
+
+f,g, Histopathological features of lung lesions. The lung sections of infected hamsters were stained with haematoxylin and eosin (H&E)..
+
+
+f, Section of lower lobes at 5 d.p.i. The inflammatory area with type II pneumocytes are gated with red lines. The number in the panel indicates the percentage of the gated area in the section. Sale bars, 2.5 mm..
+
+
+g, H&E staining of the lungs of infected hamsters. Uninfected lung alveolar space and bronchioles are shown (left). Scale bars, 250 μm (uninfected lung alveolar space and bronchioles and the panels of infected hamsters at 1 and 7 d.p.i.); or 100 μm (3 and 5 d.p.i.)..
+
+
+h, Histopathological scoring of lung lesions. Representative pathological features are shown in our previous study
+2
+..
+
+Data are mean ± s.e.m. Each dot indicates the result from respective hamster..
+
+In a–c, statistically significant differences versus B.1.1 and Delta (*P < 0.05) at each time point were determined by two-sided Mann–Whitney U-test without adjustment for multiple comparisons..
+
+In d, statistically significant differences versus B.1.1 and Delta were determined by two-sided unpaired Student’s t-tests without adjustment for multiple comparisons..
+
+In h, statistically significant differences versus B.1.1 and Delta through time points were determined by multiple regression, and family-wise error rates calculated using the Holm method are indicated in the figure..
+

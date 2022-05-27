@@ -1,0 +1,176 @@
+Vaccination is expected to suppress COVID-19 infection. However, breakthrough infections have increased following vaccination because of the spread of variants of concern, notably Delta (B.1.617.2 lineage). Virological and serological data pertaining to post-vaccination infections are limited. Here, we conducted genome analysis determined the viral lineages that infected patients following vaccination. Changes in viral load, antibody levels, and viral antigen levels following infection were analyzed. At the time of infection, Delta-infected patients had a 6.2-fold and 12.3-fold higher viral load compared with Alpha and other lineages, respectively. Viral lineages (Delta:Alpha:Other) of infection were 0:12:0 in the fully vaccinated group, 1:11:0 in the partially vaccinated group, 9:16:0 in the shortly after vaccination group, and 254:229:165 in the unvaccinated group. Breakthrough infections occurred regardless of retention of high antibody titers following vaccination. At the time of diagnosis, Delta-infected patients showed high viral load with or without vaccination. However, no fully vaccinated patients developed severe disease, and the rapid increase in anti-spike antibodies occurred approximately 1 week after onset of symptoms. Concomitantly, a decrease in viral antigen levels was observed in fully vaccinated patients, shortening the time to negative result by approximately 2 days compared with unvaccinated patients. Collectively, even if breakthrough infection occurs, the rapid antibody response in fully vaccinated individuals contributes to prevention of severe disease, possibly because of suppression of viral replication..
+
+The COVID-19 pandemic has caused over 226 million cases and 4.65 million deaths as of September 17, 2021, and continues to cause significant morbidity and mortality worldwide. COVID-19 mRNA vaccines induce a strong immune response against SARS-CoV-2, leading to prevention of infection and lower risk of hospitalization and severe illness 
+1–4
+. A recent report showed that vaccination sustains neutralizing antibodies and effectively prevents COVID-19 for up to 6 months, with favorable long-term efficacy 
+5,6
+. Vaccination is currently progressing worldwide, and it is hoped that achievement of herd immunity will promote the end of the COVID-19 pandemic..
+
+Within the context of the global COVID-19 pandemic, new variants of concern (VOC) have emerged. The World Health Organization designated four VOC, including Alpha (B.1.1.7, first reported in the United Kingdom), Beta (B.1.351 in South Africa), Gamma (P.1 in Brazil), and Delta (B.1.617.2 in India). These VOC contain mutations in the spike (S) proteins of SARS-CoV-2, and antigenic drift may reduce the reactivity of neutralizing antibodies. Delta has presently become a dominant strain in many countries, and there is concern over its future spread. Delta is 40%–60% more contagious than Alpha, and almost two-fold more contagious than the original Wuhan strain 
+7–9
+. Delta is more transmissible and is associated with increased disease severity and hospitalization 
+10–12
+. Additionally, although vaccination has been effective, it is slightly less effective against the Delta variant compared with Alpha 
+12,13
+. It was also suggested that mRNA vaccine-induced long-term protection against the Delta variant of SARS-CoV-2 may be relatively decreased 
+14,15
+..
+
+However, integrated virological and serological analyses of data from cases infected following vaccination are insufficient. In this study, we determined viral lineages by genetic analysis and analyzed changes in antibody and viral antigen levels in patients infected with SARS-CoV-2 following vaccination..
+
+Since February 2020, a longitudinal and single-institute clinical cohort study was conducted Yamanashi Central Hospital, Japan. We analyzed observational data from COVID-19 mRNA vaccinated and unvaccinated populations to determine viral genomic, serological, and virological information on post-vaccination infection. Laboratory results, date of illness, and disease severity were extracted from electronic medical records. Date of illness onset and vaccination history were interviewed from the patients. The disease severity was assessed by a respiratory physician. Enrolled subjects were outpatients or hospitalized at Yamanashi Central Hospital between February 10, 2020 and September 6, 2021, and were infected with SARS-CoV-2 confirmed by RT-qPCR assay or antigen test using by nasopharyngeal swabs..
+
+A total of 697 patients were eligible in this study (mean age: 42.1 years; range: 0–102 years; 311 females, 386 males). Disease severity were categorized as follows: mild disease was defined as SpO2 >96%, no respiratory symptoms, cough only, and no shortness of breath; moderate I was defined as SpO2 93%–96%, no respiratory failure, shortness of breath, and findings of pneumonia; moderate II was defined as SpO2 <93%, respiratory failure, and the need for oxygenation; severe was defined as intensive care unit admission or the need for ventilator support. Patients receiving antibody cocktail therapy (casirivimab / imdevimab, Regeneron Pharmaceuticals, Inc., Tarrytown, NY, USA) were excluded because of elevated anti-S antibodies after administration. Patients were categorized into four groups according to vaccination history and time from vaccination: fully vaccinated (14 days after the second dose, n=12: Pfizer, n=12), partially vaccinated (14 days after the first dose to 13 days after the second dose n=12; Pfizer, n=10; Moderna, n=2), shortly after vaccination (13 days after the first dose, n=25; Pfizer, n=12; Moderna, n=9, unkown, n=4), and unvaccinated (n=648)..
+
+Nasopharyngeal swab samples were collected via cotton swabs and stored in viral transport medium (VTM) (Copan, Murrieta, CA, USA). Total nucleic acid was automatically isolated from nasopharyngeal swabs using a MagMax Viral/Pathogen Nucleic Acid Isolation Kit (Thermo Fisher Scientific, Waltham, MA, USA) on a KingFisher Duo Prime system (Thermo Fisher Scientific) as previously described 
+16,17
+. Briefly, we added 200 μL of VTM, 5 μL of proteinase K, 265 μL of binding solution, 10 μL of total nucleic acid-binding beads, 0.5 mL of wash buffer, and 0.5–1 mL of 80% ethanol to each well of a 96-well deep-well plate. Nucleic acids were eluted with 70 μL of elution buffer. Total nucleic acids were subjected to quantitative reverse transcription PCR (RT-qPCR)..
+
+To detect SARS-CoV-2, we performed one-step RT-qPCR in accordance with the protocol developed by the National Institute of Infectious Diseases in Japan 
+18
+. This PCR method amplifies the nucleocapsid (N) gene of SARS-CoV-2 as we described previously 
+19
+. The human ribonuclease P protein subunit p30 (RPP30) gene was used as the internal positive control (Integrated DNA Technologies, Coralville, IA, USA) 
+19
+..
+
+The RT-qPCR assays were performed on a StepOnePlus Real-Time PCR System (Thermo Fisher Scientific) with the following cycling conditions: 50°C for 5 min for reverse transcription, 95°C for 20 s, 45 cycles of 95°C for 3 s, and 60°C for 30 s. The threshold was set at 0.2. In accordance with the national protocol (version 2.9.1) 
+18
+, samples were assessed as positive if a visible amplification plot was observed and as negative if no amplification was observed..
+
+We performed whole genome analysis and successfully obtained sequence data from 577 patient samples as we described previously 
+20
+. Briefly, SARS-CoV-2 genomic RNA was reverse transcribed into cDNA and amplified using the Ion AmpliSeq SARS-CoV-2 Research Panel (Thermo Fisher Scientific) on the Ion Torrent Genexus System in accordance with the manufacturer’s instructions 
+20,21
+. Sequencing reads were processed, and their quality was assessed using Genexus Software with SARS-CoV-2 plugins. The sequencing reads were mapped and aligned using the torrent mapping alignment program. After initial mapping, a variant call was performed using the Torrent Variant Caller. The COVID19AnnotateSnpEff plugin was used for annotation of variants. Assembly was performed with the Iterative Refinement Meta-Assembler 
+22
+..
+
+The viral clade and lineage classifications were conducted using Nextstrain 
+23
+, and Phylogenetic Assignment of Named Global Outbreak Lineages 
+24
+. Sequence data were deposited in the Global Initiative on Sharing Avian Influenza Data EpiCoV database 
+25
+..
+
+Antigen levels in samples were determined quantitatively with the Lumipulse SARS-CoV-2 Ag test (Fujirebio, Inc., Tokyo, Japan) as previously described 
+26
+. Briefly, 700 μL of VTM was vortexed, transferred to a sterile tube, and centrifuged at 2,000 × g for 5 min. Aliquots (100 μL) of the supernatant were used for testing on the LUMIPULSE G600II automated system (Fujirebio). Samples with antigen level > 5,000 pg/mL were diluted with the kit diluent and retested, and the antigen level was calculated based on the dilution factor. Samples with antigen level ≥ 10 pg/mL were considered positive, those with antigen level ≥ 1.0 pg/mL and < 10.0 pg/mL were considered inconclusive, and a result of ≤ 1.0 pg/mL was considered negative as per the manufacturer’s guidelines..
+
+We measured the titer of anti-N protein antibody using the Elecsys Anti-SARS-CoV-2 antibody test (Roche Diagnostics, Basel, Switzerland) and the titer of anti-S protein receptor-binding domain antibody using the Elecsys Anti-SARS-CoV-2 S antibody test (Roche Diagnostics) on a cobas® 8000 automated platform 
+27
+. This assay utilizes the electrochemiluminescence immunoassay principle. Regarding the anti-N antibody, samples with a <1.0 cutoff index (COI) were considered negative, while those with a COI≥1.0 were considered positive..
+
+Regarding the anti-S antibody, samples containing <0.8 unit/mL (U/mL) were considered negative, while those containing ≥0.8 U/mL were considered positive according to the manufacturer’s instructions..
+
+The Institutional Review Board at Yamanashi Central Hospital approved this study and the use of an opt-out consent method (G-2019-30). The requirement for written informed consent was waived because this was an observational study. Patient participation in the study was optional following informed consent. All study procedures were performed in accordance with the relevant guidelines and regulations and as set out in the Helsinki Declaration..
+
+All statistical tests were performed in R (version 4.1.1) (http://www.r-project.org/). Plotting and analysis in R also made use of the ggplot2 (v3.3.5), dplyr (v1.0.7), tidyr (v1.1.3), gridExtra (v2.3), ggpmisc (v0.4.3), ggfortify (v0.4.0), and gtable (v0.3.0) packages. The Bartlett’s test was used to test for equality of variances. Statistical analyses (Wilcoxon rank-sum [Mann–Whitney U], pairwise t-test with Bonferroni correction, one-way test, Student’s t-test) were conducted. P < 0.05 was considered statistically significant. Linear regression lines were plotted using the stat_poly_eq function from the ggpmisc R package, together with the model’s Pearson’s correlation coefficient of determination (R2) and p-value..
+
+Delta is highly infectious and is replacing Alpha worldwide 
+23
+. To investigate possible explanations for the high infectivity of Delta, viral load was analyzed using RT-qPCR. We compared viral load among subjects infected with Delta, Alpha, or other strains (Other) (Figure 1 and Figure S1). The results showed that Delta-infected patients had significantly higher viral load compared with those with Alpha or Other (Figure 1A, Alpha vs. Delta, p=5.5×10−7; Other vs. Delta, p=4.4×10−10; Alpha vs. Other, p=0.16, pairwise t-test with Bonferroni correction). The mean ± standard deviation (SD) viral load (log10 copies/mL) of Delta was 6.1 ± 1.5 (range: 1.6–8.9), that of Alpha was 5.3 (0.7–7.8), and that of Other was 5.0 (1.6–8.0). The viral load in Delta-infected patients was 6.2-fold higher than that with Alpha and 12.3-fold higher than that with other strains. Therefore, increased viral load in the nasopharynx may be associated with the increased transmissibility of the Delta strain..
+
+To investigate which viral strains cause breakthrough infections, we examined the association between vaccination history and viral strain from all data obtained between February 10, 2020 and September 6, 2021. There were 49 patients who were vaccinated at least once (27 females, 22 males; mean age: 49.8 years, range: 16–96). According to vaccination history, the number of patients in each of the four groups was as follows: fully vaccinated (n=12), partially vaccinated (n=12), shortly after vaccination (n=25), and unvaccinated (n=648)..
+
+For each group, the viral lineages (Delta: Alpha: Other) of infections were as follows: 0: 12: 0 in infected patients from the fully vaccinated group; 1: 11: 0 in the partially vaccinated group; 9: 16: 0 in the shortly after vaccination group; and 254: 229: 165 in the unvaccinated group. In the present study, breakthrough infections that occurred after being fully vaccinated were only observed with Delta..
+
+Alpha showed a higher viral load in vaccinated patients with at least one dose of the vaccine compared with unvaccinated patients (mean ± SD, 5.2 ± 1.4 vs. 6.1 ± 1.4 log10 copies/mL, p=0.08, Student’s t-test), but there was no significant difference with Delta (6.0 ± 1.6 vs. 6.1 ± 1.5 log10 copies/mL, p=0.96, Student’s t-test) (Figure 1B). Regarding those who had been vaccinated more than once, viral load was similar for both Alpha and Delta (Figure 1B). This result may indicate that when exposed to high viral load, individuals can be infected even following vaccination..
+
+The severity of disease in vaccinated patients was as follows: in the fully vaccinated group, 11 had mild disease and one had moderate I; in the partially vaccinated group, nine had mild disease and three had moderate I; and in the shortly after vaccination group, 16 had mild disease, five had moderate I, and four had moderate II. Notably, in those who had received at least one dose of vaccine, there were no severe cases (0/49) requiring a ventilator..
+
+Vaccination robustly induces production of anti-S antibodies and contributes to protection against infection 
+28
+. To investigate whether a decrease in circulating antibody titer accounts for breakthrough infection, we measured the titer of anti-S antibodies at the time of infection..
+
+A total of 11 hospitalized patients had data on antibody levels at the time of admission (fully vaccinated [n=6], partially vaccinated [n=1], shortly after vaccination [n=4]). Antibody titers were measured at an average of 2.4 days after onset (range: 0–9 days), including in one asymptomatic patient (Table 1). The mean anti-S antibody titer was 628.3 U/mL (range: 0.1 –3,822 U/mL), and 9 of 11 patients were seropositive (>0.8 U/mL). Additionally, there were eight patients who had antibody titers >15 U/mL, indicating the presence of neutralizing antibodies 
+29
+. Therefore, these results indicate that infection can occur after vaccination even when a certain amount of anti-S antibody has been produced..
+
+To determine whether viral load in the nasopharynx with the Delta lineage changed according to vaccination status, viral load at diagnosis was determined using RT-qPCR (Figure 2)..
+
+Overall, no significant differences in viral load were observed in data pertaining to the Delta variant (pairwise t-test with Bonferroni correction, p>0.05 for each group). In patients infected with Delta, mean ± SD viral load (log10 copies/mL) was 6.5 ± 0.8 (5.1–7.6) in the fully vaccinated group (n=7), 5.5 ± 2.2 (1.6–8.1) in the partially vaccinated group (n=8), 6.2 ± 1.4 (3.6–7.9) in the shortly after vaccination group (n=14), and 6.0 ± 1.6 (1.6–8.9) in the unvaccinated group (n=147) (one-way test, p= 0.70, Figure 2). These results indicate that infection with the Delta variant resulted in retention of high viral load regardless of vaccination status..
+
+The mRNA vaccine induces anti-S antibody-specific memory B cells
+30–32
+. To determine when the anti-S specific humoral response begins to be active based on vaccination status, we compared titers of the anti-S and anti-N antibodies in serial blood samples..
+
+In most vaccinated patients (8/10 patients), anti-S antibodies were already elevated and seropositive in the first samples collected (Figure S2). Compared with baseline (result from first measurement), there were no significant differences between fold changes in anti-S and anti-N antibodies from Day 0 to Day 5 in fully vaccinated patients (Figure 3A and Figure S3–S5). However, from Day 6 to Day 8, anti-S antibody levels were significantly higher than anti-N antibody levels in fully vaccinated patients, and breakthrough infection induced a boosting effect at approximately 1 week. (Mann–Whitney U test, p=0.015, Figure 3A; p=0.004, Figure S4). Furthermore, both anti-S and anti-N antibodies tended to increase after 6 days in unvaccinated patients, but the ratio of increase in antibody response was heterogeneous among patients (Figure 3B and Figure S3–S5). These results indicate that in fully vaccinated individuals, vaccination induced immunogenic memory, and memory B cells were differentiated and actively produced anti-S antibodies..
+
+One mechanism whereby vaccination can prevent severe disease is neutralization of the virus owing to a rapid boosting effect in the production of anti-S antibodies (Figure 3A). To analyze whether vaccination decreased viral antigen levels after illness onset, we quantitatively measured antigen levels in patients infected with Delta..
+
+The linear regression model shows that antigen levels decreased faster in fully vaccinated patients compared with unvaccinated patients (Figure 4, fully vaccinated: y=4.68–0.364x [R2=0.79, p<0.001]; unvaccinated: y=4.49–0.294x [R2=0.55, p<0.001])..
+
+During the early period following the day of onset (Day 0 to Day 5), there was no significant difference in antigen levels (Figure 4). However, from Day 6 onwards, antigen levels declined more rapidly in vaccinated patients than in unvaccinated patients (Figure 4). The time to become negative (antigen level of 1.0 log pg/mL) was 1.8 days earlier in fully vaccinated subjects (10.1 days), compared with 11.9 days in unvaccinated subjects..
+
+Collectively, these results suggest that the extent of decline in viral antigen coincided with the timing of rapid upregulation of anti-S antibodies induced by breakthrough infection. Therefore, breakthrough infection induced a robust antibody response within 1 week in individuals following two vaccine doses, which may be important for preventing severe COVID-19..
+
+As the Delta strain spreads throughout the world, it has been reported that some individuals become infected following vaccination. Given these phenomena, for future control of infection, it is crucial to elucidate the clinical course of breakthrough infection in post-vaccination COVID-19 patients. The present study provides important genomic, virological, and serological insights into infection in vaccinated and unvaccinated individuals. First, infection occurred in individuals following vaccination, even though anti-S antibodies were detected in blood to some extent. However, in fully vaccinated patients, a rapid increase in anti-S antibodies was observed only approximately 1 week after onset of illness. Furthermore, a marked decrease in the amount of viral antigen was observed simultaneously with occurrence of the boost in anti-S antibodies. These observations suggest that even in fully vaccinated individuals, the risk of infection was not completely eliminated when exposed to the virus. However, rapid activation of the immune response prevented viral replication and high disease severity 
+33
+..
+
+Since the identification of Delta in India in late 2020, it has become the predominant strain worldwide. Delta has been reported to have a spike L452R mutation that increases its infectivity 
+34,35
+. Additionally, the spike P681R mutation enhances viral fusion, making Delta more infectious, thereby increasing viral load 
+36
+. A study in China showed that viral load in individuals infected with Delta was approximately 1,000 times higher than that in those infected with the original Wuhan strain 
+37,38
+. In a study with a large sample size (n=16,185), the viral load in Delta-infected subjects was approximately four times higher than that of subjects infected with non-VOC or Alpha 
+39
+. A recent study showed that Delta (B.1.617.2) has high replication efficiency and induces highly efficient syncytium formation 
+40
+. Consistent with these observations, our results showed that viral load in Delta-infected patients was significantly increased, and was 6.2 times that of the Alpha strain and 12.3 times that of the other strains. The higher viral load in the nasopharynx may increase the amount of virus in droplets and increase transmissibility..
+
+To achieve control of infection and implement preventive measures, it is important to understand the extent to which viral load at the time of infection changes between vaccinated and unvaccinated individuals. Previous reports showed that mRNA vaccination significantly reduced viral load at the time of infection 
+41,42
+. Given that these studies were conducted during a time when non-VOC and Alpha were predominant, it can be speculated that the vaccine was effective for suppressing viral load with these strains. However, in future post-vaccination infections, whether the viral strain is Delta must be considered. Our data indicated that there was no significant difference in viral load at the time of diagnosis (shortly after onset of illness) between fully vaccinated and unvaccinated patients. These data are also consistent with reports from the United States that were made at a time when the Delta strain was predominant 
+43
+. Because fully vaccinated individuals who become infected with the Delta variant can spread the virus to others, the Centers for Disease Control recommends that all individuals wear masks in areas with high or elevated infection rates, even if they are fully vaccinated 
+44
+..
+
+The Delta strain is associated with higher risk of infection following vaccination 
+45
+. A previous report showed that two doses of the BNT162b2 vaccine had 88% efficacy against Delta, while a single dose only had 30.7% efficacy 
+13
+. The neutralizing antibodies elicited by the COVID-19 vaccines, including BNT162b2 (Pfizer/BioNTech), mRNA-1273 (Moderna) and ChAdOx1 nCoV-19 (AstraZeneca), were retained against the Delta mutant, but tended to decrease slightly 
+46–48
+. These results support our findings that infection occurred, even though anti-S antibodies were adequately detected in fully vaccinated individuals..
+
+In contrast, vaccination appears to be an important strategy for preventing severe COVID-19. In the present study, we observed an increase in anti-S antibodies in fully vaccinated individuals on days 6–8 after symptom onset, but not in unvaccinated individuals. This is consistent with our previous observation of a strong boosting effect occurring within approximately 7 days after the first vaccination in previously infected individuals 
+28
+. More specifically, it is believed that a rapid activation of the immune response occurs, resulting in suppression of severe COVID-19. The present study also demonstrated that antigen levels decreased in accordance with the timing of the elevated antibody response. Consistent with these observations, vaccination also resulted in faster reduction of viral RNA load in patients infected with Delta 
+33
+. It has also been reported that the cutoff value at which the antigen level becomes negative, as measured in this study, correlates with the titer of cultivable viruses 
+49
+. Therefore, vaccination may contribute to a reduction in “viable” virus that can be infectious..
+
+In summary, the risk of infection with the highly contagious Delta variant persisted following vaccination. However, vaccination induced an antibody response within a short period of time (approximately 1 week), which may prevent pneumonia and severe COVID-19, and decrease the risk of death..
+
+We thank Richard Robins, PhD, from Edanz (https://jp.edanz.com/ac) for editing a draft of this manuscript..
+
+This study was supported by a Grant-in-Aid for the Genome Research Project from Yamanashi Prefecture (to M.O. and Y.H.), the Japan Society for the Promotion of Science (JSPS) KAKENHI Early-Career Scientists JP18K16292 (to Y.H.), a Grant-in-Aid for Scientific Research (B) 20H03668 (to Y.H.), a Research Grant for Young Scholars (to Y.H.), the YASUDA Medical Foundation (to Y.H.), the Uehara Memorial Foundation (to Y.H.), and Medical Research Grants from the Takeda Science Foundation (to Y.H.)..
+
+
+Conflict of Interest
+.
+
+The authors have no conflicts of interest..
+
+
+Ethical Approval statement
+.
+
+The Institutional Review Board at Yamanashi Central Hospital approved this study and the use of an opt-out consent method (G-2019-1). The requirement for written informed consent was waived because this was an observational study. Patient participation in the study was optional..
+
+Viral linages and viral load at diagnosis (A) Box plots show the viral load for each lineage including Alpha (n=246), Delta (n=176), and Other (n=155, not Alpha or Delta). Statistically significant differences in viral load were observed between Alpha and Delta (p=5.5×10–7, pairwise t-test with Bonferroni correction) and Delta and Other (p=4.4×10–10). (B) Viral load in patients vaccinated at least once and in unvaccinated patients. Alpha tended to show differences among the groups (p=0.08, Student’s t-test), while Delta did not show significant differences (p=0.96, Student’s t-test). Dots indicate the amount of virus in each sample..
+
+Vaccination status and viral load in the nasopharynx at diagnosis Boxplots show viral load at diagnosis according to vaccination status. Dots indicate the amount of virus in each sample. No significant differences in viral load were observed in each group (pairwise t-test with Bonferroni correction, p>0.05 for each group)..
+
+Rapid increase in antibody response from the day of symptom onset (A-B) Boxplots show fold changes of increases in anti-S and anti-N antibodies compared with baseline. Data are shown for fully vaccinated (A) and unvaccinated (B) patients. In fully vaccinated patients, the rise in anti-S antibodies was significantly higher than that of anti-N antibodies at 6–8 days after onset (p=0.015, Mann–Whitney U test). In unvaccinated patients, there was no significant difference at any time period..
+
+Changes in viral antigen levels based on vaccination status Correlation between antigen level and days from onset of illness in fully vaccinated and unvaccinated patients. The dotted red line indicates the cutoff for a negative antigen test result (1.0 log10 pg/ml). Correlation plots show results with a linear regression line with 95% confidence interval shading..
+
+M, male; F, female; NA, not available due to asymptomatic; U, unit; COI, cut off index.
+

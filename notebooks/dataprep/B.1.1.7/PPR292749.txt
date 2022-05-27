@@ -1,0 +1,182 @@
+SARS-CoV-2 infection raises neutralizing antibodies (NAbs). While studies have shown differing NAb kinetics, they generally point to the antibody arm of immunity providing most recoverees protection against contemporary strains. However, the effect against newly emerged variants of concern (VoCs) has remained uncertain. Here, applying neutralization tests to paired recoveree sera (N=38) of spring 2020 COVID-19 patients with clinical isolates of wildtype D614G and VoC1 and -2 strains (B.1.1.7 and B 1.351) from Finland, we show that NAbs of these patients are equally effective in inhibiting both contemporary and VoC1 strains whereas inhibition of VoC2 is reduced 8-fold (p<0.001) with 50% of sera failing to show NAbs. Our results align with an increased ability of VoC2 to reinfect previously SARS-CoV-infected populations..
+
+Neutralizing antibodies (NAbs) targeting the spike protein of SARS-CoV-2 are known to protect against infection
+1,2,3,4
+. Most of the neutralizing activity in human sera is due to the spike protein receptor binding domain (RBD)-targeting antibodies
+6,7,8
+. Some of the recently emerged variant SARS-CoV-2 lineages have raised concerns for possibility of lowered protective immunity of vaccinees and recoverees due to critical mutations causing neutralization escape..
+
+In autumn 2020, SARS-CoV-2 variant B.1.1.7 was identified in the United Kingdom. It quickly overtook the existing variants and became the dominant strain
+9,10
+. Similar emergence with subsequent surge in cases happened in Ireland, Israel, Portugal and now this strain also represents 
+
+
+
+3
+4
+
+
+
+of the circulating strains in the Helsinki region in Finland (Dr Maija Lappalainen, Diagnostic Center, HUSLAB, Helsinki University Hospital). The variant contains N501Y mutation in the RBD and Δ69/70 HV deletion in the spike protein, which enhance infectivity/transmissibility
+10,11
+. In addition, B.1.1.7 variant contains 17 other amino acid changing mutations, eight of which are located in the spike protein
+12
+. Later in 2020, B.1.351, sharing the N501Y mutation, was identified in South Africa. Amongst others, two additional mutations in RBD were reported (K417N, E484K). Like B.1.1.7, the B.1.351 strain rapidly became the dominating genotype even though a large portion of the population had already encountered SARS- CoV-2
+13,5
+. The E484K mutation presumably reduces the efficacy of NAbs
+8
+..
+
+In addition to B.1.1.7 and B.1.351, current variants of concern (VoCs) include P1/ B.1.1.248 identified in travelers returning from Brazil to Japan
+14
+. P1 shares K417T, E484K and N501Y mutations with B.1.351 in the RBD
+15
+. The evidence of increased transmissibility of the variant viruses in populations with high SARS-CoV-2 seroprevalence
+16
+ is alarming..
+
+The recently emerged variants of SARS-CoV-2 with phenotype affecting mutations in the RBD are of concern either due to increased transmissibility or because neutralization_escape variants_may lower the protective immunity of vaccinees and recoverees..
+
+Initial reports using small numbers of tested sera and a variety of techniques such as SARS-CoV-2 spike-variant pseudotyped lentivirus
+17,18
+ or VSV
+19
+, infectious clones and virus isolates
+20
+ have demonstrated differences in the levels of neutralizing activity of MAbs, convalescent patient and vaccinee sera. The trend in the results is, that the B.1.1.7-variant is neutralized nearly equally to the original virus type, whereas the B.1.351 variant is less well neutralized..
+
+Our aim was to study the ability of sera from early-epidemic COVID-19 patients to neutralize different SARS-CoV-2-variants. The samples included 38 sera from 18 laboratory-confirmed COVID-19 patients from spring and summer 2020 in Finland drawn 2-4 weeks after the disease and 2-8 months later (Table S1). Previously established microneutralization tests (MNTs) were performed using a protocol modified from Haveri et al.
+21
+ starting from 1:20 serum dilution in triplicate reactions (Table S1)..
+
+We first wanted to assure that the titers obtained reflect those against circulating wild-type strains in cells with relevant entry molecules. We and others have previously noted that SARS-CoV-2 readily adapts to Vero E6 cells poorly expressing transmembrane protease serine 2 (TMPRSS2) but rich in ACE2
+22
+. This can result in deletions around the furin cleavage site and force the viral entry to occur mainly via the endosomal route aided by alternate proteases. We therefore compared patient NAb titers in MNT employing a Vero E6 -cell (VE6) adapted strain Finland/1/2020 (passage 7)21 in either wild-type VE6 cells or VE6 cells expressing TMPRSS2 (VE6-TMPRSS2-H10-cells)
+23
+. VE6-TMPRSS2-H10-cells were also tested with C1P1-strain devoid of mutations around the furin-cleavage site isolated in Calu-1 cells. C1P1 strain represents a wild-type-strain with e.g. D614G mutation commonly found in the strains circulating in Finland around the time of sample collection
+22
+. The NAb titers were found to be significantly higher using a non-VE6-adapted C1P1-virus strain and VE6-TMPRSS2-H10-cells (Geometric mean titer (GMT) 133) than with Vero-adapted Finland/1/2020-strain with either cell line (GMT 53 with VE6-cells and 66 with VE6-TMPRSS2-H10-cells) (p<0.001). Titers were also slightly higher in VE6-TMPRSS2-H10-cells thanVE6-cells with a VE6-adapted strain, but the difference was not statistically significant (p=0.685). The overall higher titers of the tested samples on VE6-TMPRSS2-H10-cells with a C1P1-strain suggests that comparison against variant strains should be done using cell lines with relevant molecules affecting entry and a wild-type virus strain..
+
+Next, we sought to obtain isolates representing VoCs as determined by sequencing of nasopharyngeal swab samples from the associated clinical laboratory (HUSLAB). Strains representing typical B.1.1.7 (VoC1) and B.1.351 (VoC2) were isolated and used as low passage (p1 and p0) stocks through culture in VE6-TMPRSS2-H10-cells. We then compared the NAb titers of C1P1 and the two VoCs using VE6-TMPRSS2-H10-cells (Figure 1).
+
+
+Table S1). GMTs were 141 with VoC1-strain, and 17 with VoC2-strain. Titers of four samples remained below the first tested dilution (<20) with C1P1 strain, 19 with VoC2-strain, and none with VoC1-strain. Thetiters were significantly lower, with approximately 8 times lower GMT against VoC2, as compared to VoC1 and wild-type strain (p<0.001). There was no statistically significant difference between VoC1 andthe older strain (WT, p=1.000). When NAb titers for each virus strain were compared to titers of anti-spike-IgG (GMT 1710) and anti-nucleoprotein-IgG (GMT 1263) ELISA
+24,23
+, a significant positive correlation (p<0.001) with Spearman’s rho -values ranging between 0.584 (anti-NP and VoC2) and 0.824(anti-spike and C1P1) was found between MNT and ELISA result (Fig. 2 and Table S2). The anti-spike and anti-NP ELISA titers did not show statistically significant differences (p=0.960)..
+
+The data was then divided into subgroups based on whether the patients were treated at home or in the hospital and whether the time from onset of symptoms was under or over 150 days. NAb titers to all three virus strains and anti-spike- and anti-NP-IgG ELISA titers were higher in patients treated in the hospital than in patients treated at home (p<0.001) (Fig. 3 and Table 1). They were also higher in 150 days-group than in over 150 days-group in all cases but the difference was statistically significant only with C1P1 (p=0.007) and VoC1 (p=0.012) and not with VoC2 (p=0.247), anti-spike-IgG (p=0.235), and anti-NP-IgG (0.301) (Fig. 3 and Table 1). Exception was the patient COV-8, in whose case the titer increased between the first and second sample (taken 46 and 151 days after the onset of symptoms) both with C1P1 and VoC2 and remained the same with VoC1. With VoC2, 5/7 samples taken between days 150-200 were positive but none of the 6 samples taken after 200 days had detectable levels of NAbs, whereas with C1P1 and VoC1, a large proportion of the patients still had detectable levels of NAbs 200 days after the onset of disease. These results demonstrate that in most recoverees, substantial neutralizing activity against SARS-CoV-2 remains for months, but this may be overcome by the few amino acids differing in RBD of VoC2..
+
+The obtained results are in line with previous studies reporting lowered NAb levels against B1.351 variant when compared to B1.1.7 or the older dominant strains
+19,8,17,18,25
+. Although previous studies have shown that pseudotype neutralization results have good concordance with SARS-CoV-2 neutralization assays
+26
+, it is necessary to have confirmatory data also using actual low-passage replicating clinical isolates that contain sets of mutations present in circulating strains..
+
+The current understanding of SARS-CoV-2 NAb kinetics is based on results obtained using various techniques, cell lines and virus strains. Our observation that the TMPRSS2-expressing cells made a VE6 cell-based microneutralization test more sensitive could imply that the results obtained using different assay protocols, providing heterologous entry molecules for the virus, may not be directly comparable. Standardization of the assays could enable building a more comprehensive and accurate view of SARS-CoV-2 NAb levels and kinetics that are complicated also by person-to person variation in the ability of patient sera to neutralize variant viruses
+8,27
+..
+
+Further studies using diverse variant isolates and larger convalescent patient sample panels are needed for evaluating the neutralization escape potential of variant strains and the implications for development of vaccines and antibody-based therapeutics. Our results suggest the presence of occasional "pan-reactive" recoverees as potential donors for e.g. memory B cells for cloning antibodies for therapeutic purposes..
+
+In conclusion, our results support that the strains largely circulating in 2020 in Europe and globallyconfer antibody-mediated protection for a prolonged period towards the contemporary strains as well as the B.1.1.7 variant of concern rapidly spreading at least in Europe and US, but poorly against the B.1.351 variant, explaining its potential for surge in previously infected populations as reported from South Africa
+13,5
+..
+
+The study included 18 COVID-19 patients from spring and summer 2020, treated either at home or in the hospital either in regular ward or in intensive care unit (ICU) (Table S1). Informed consent was obtained from all patients participating in the study, based on an ethical permit of Hospital District of Helsinki and Uusimaa (Clinical picture, immunology, genetics and pathogenesis of COVID19 infection; HUS/1238/2020). Two or three serum samples had been taken from each patient: the first one right after the disease and the follow-up samples 2-8 months after the first sample..
+
+Vero E6 cells and a TMRPRSS2 expressing clone of Vero E6, VE6-TMPRSS2-H10
+23
+ were maintained in minimal essential eagle,s medium (MEM, Sigma-Aldrich) including 10% fetal bovine serum (FBS, Gibco), 2 mM L-glutamine, 100 IU/ml penicillin, and 100 |jg/ml streptomycin. Same media with 2% FBS was used for the infection experiments..
+
+Test were performed with four clinical isolates: a Vero E6 passaged virus strain SARS-CoV-2/Finland/1/2020 (passage 7)
+21
+, C1P1, a wild type representing highly similar strain in circulation in Finland during Spring 2020 (lineage B.1), and two strains representing lineages B.1.1.7, and B.1.351 (VoC1 and VoC2) (Table S2)..
+
+SARS-CoV-2/Finland/1/2020 and C1P1 were isolated and described earlier
+21,22
+ and B.1.1.7 and B.1.351 were isolated from COVID-19-patients. Patient nasopharyngeal swabs in saline buffer were obtained from the Helsinki University Hospital laboratory (HUSLAB). 200 μl of the transport medium was inoculated on Vero-E6-TMPRSS2-H10 cells and incubated for 1 h in +37°C, after which the inoculums were removed and replaced with Minimum Essential Medium supplemented with 2% FBS, L-glutamine, penicillin and streptomycin. Virus replication was determined by RT-PCR for SARS-CoV-2 RdRP
+28
+. The B.1.1.7 strain was propagated once in Vero-E6-TMPRSS2-H10 cells. The infectious virus titers for B.1.1.7 and B.1.351 were determined by plaque assay in Vero-E6 cells..
+
+The isolates were sequenced as previously described
+22
+..
+
+Microneutralization experiments were performed in a BSL3 level laboratory following the protocol published by Haveri et al.
+21
+ Finland/1/2020 strain was tested with both cell lines and the wild types with VE6-TMPRSS2-H10 cell line. Serum samples were heat-inactivated for 30 min at 56°C and dilution series were prepared in MEM in triplicates starting with 1:20 dilution. The virus-serum mixture was incubated for 1 hour at 37°C and then added to confluent cells. After 4 days of incubating at 37°C, the cytopathic effect (CPE) was visualized by staining the cells as follows: 30 min incubation with 100 μl/well of 36.5% formaldehyde, wash with 100 μl/well of aqua, 10 min incubation with 50 μl/well of crystal violet solution, and wash with 100 μl/well of aqua..
+
+Anti-SARS-CoV-2-NP and spike ELISA were done as described
+23
+ utilizing antigens produced and purified as described
+24,29,23
+..
+
+Anti-spike and anti-NP IgG end-point titers were determined by assaying three serial dilutions at fourfold steps in anti-spike and anti-NP EIAs, respectively. Titration curves were created by fitting (least squares) a log-log model 
+
+
+log
+
+(
+Absorbance
+)
+
+=
+
+B
+
+×
+
+log
+
+(
+Dilution
+
+factor
+)
+
++
+
+A
+,
+
+
+ onto EIA data (A and B, fitting parameters). The assayed dilution range of each sample was selected, based on initial screening at 1:50 dilution, to include the end point of titration. Dilution factor at intersection point of the titration curve and cut-off absorbance (absorbance of an anti-spike and anti-NP seropositive reference serum pool at 1:12800 dilution, approximately 0.2) was considered the end-point titer. Same reference pool was used for both anti-spike and anti-NP titers..
+
+Statistical tests were performed with IBM SPSS Statistics 25. Titers of <20 were set to 10 for calculations. Values 1, 5, and square root of 20 were also tested for titers <20 but those didn,t change the significance levels (0.05, 0.01, and 0.001) of statistical tests between virus strains. Due to the data not being normally distributed, non-parametric Related-Samples Wilcoxon Signed Rank Test and Related-Samples Friedman,s Two-Way Analysis of Variance by Ranks-tests were used for testing the significances of the differences between virus strains and non-parametric Mann-Whitney U test to test the differences between subgroups (0-150 days and over 150 days from the onset of symptoms, and whether patient was treated at home or at hospital)..
+
+We thank Esa Pohjolainen, Taru Miller, Simo Miettinen, Dina Mosselhy and Lea Hedman for their expert technical assistance, and staff at HUSLAB Virology and Immunology for providing samples for virus isolation..
+
+Jane and Aatos Erkko Foundation, EU Horizon (VEO, 874735).
+
+Academy of Finland, Helsinki University Hospital Funds (TYH2018322).
+
+
+Author contributions
+.
+
+Conceptualization: OV JV, EK, KA, RU, TS.
+
+Methodology: JV, VN, EK, KA, RU, JH, TS, SK.
+
+Investigation: JV, VN, EK, KA, RU, SP SM, AP MR, TS, JH, SK.
+
+Visualization: JV, RU.
+
+Data curation: SP, SM, AP, MR, JV RU, KA, EK, TS, SK, VN.
+
+Project administration: OV, EH.
+
+Resources: OV, AK, TS.
+
+Funding acquisition: KH, OV.
+
+Supervision: KH, OV, AK, TS.
+
+Writing - original draft: JV, EH, OV EK, RU, KA.
+
+Writing - review & editing: OV, EK, JV RU, KA, EH, JH, TS, SK.
+
+
+Competing interests: Authors declare that they have no competing interests..
+

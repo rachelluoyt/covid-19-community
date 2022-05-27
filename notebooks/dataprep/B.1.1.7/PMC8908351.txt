@@ -1,0 +1,790 @@
+Associate Editor: Carlos F.M. Menck.
+
+These authors contributed equally.
+
+Conflicts of Interest: The authors declare that there are no conflicts of interest that could be
+understood as prejudicial to this research..
+
+Author Contributions: YY, MM-R, and RSB contributed to the conceptualization, investigation, and
+formal analysis; JPBX and BF contributed to the investigation and formal
+analysis; WAS-Jr contributed to supervision (lead), conceptualization,
+investigation, writing-review, and editing; MCB contributed to supervision
+(lead), conceptualization, investigation, writing-original draft, and
+writing-review and editing.
+
+Our goal was to describe in more detail the evolutionary history of Gamma and two
+derived lineages (P.1.1 and P.1.2), which are part of the arms race that
+SARS-CoV-2 wages with its host. A total of 4,977 sequences of the Gamma strain
+of SARS-CoV-2 from Brazil were analyzed. We detected 194 sites under positive
+selection in 12 genes/ORFs: Spike, N, M, E, ORF1a, ORF1b, ORF3, ORF6,
+ORF7a, ORF7b, ORF8, and ORF10. Some diagnostic
+sites for Gamma lacked a signature of positive selection in our study, but these
+were not fixed, apparently escaping the action of purifying selection. Our
+network analyses revealed branches leading to expanding haplotypes with sites
+under selection only detected when P.1.1 and P.1.2 were considered. The P.1.2
+exclusive haplotype H_5 originated from a non-synonymous mutational step
+(H3509Y) in H_1 of ORF1a. The selected allele, 3509Y,
+represents an adaptive novelty involving ORF1a of P.1. Finally,
+we discuss how phenomena such as epistasis and antagonistic pleiotropy could
+limit the emergence of new alleles (and combinations thereof) in SARS-COV-2
+lineages, maintaining infectivity in humans, while providing rapid response
+capabilities to face the arms race triggered by host immuneresponses..
+
+According to the World Health Organization (WHO) and multiple researchers, the
+estimated average mortality rate, considering detectable/reported cases, for
+COVID-19 is lower (2.72%) than the disease caused by MERS-CoV (34.4%) and SARS-CoV
+(9.6%) (Xiao et al., 2020;
+ECDC, 2021a,b; Krishnamoorthy et
+al., 2021; Awadasseid
+et al., 2021). This number remains low even
+considering that the number of deaths caused by COVID-19 may be underestimated by
+50%, as seen in Wuhan, China (Liu, J. et
+al., 2021). Despite this relatively low mortality rate,
+SARS-CoV-2 infection has led to the deaths of 4,219,578 people (WHO, 2021a). Over the past 18 months since the
+first reported COVID-19 case, the WHO still recognizes that the global public health
+risks associated with COVID-19 remain very high (WHO, 2021b). Comparatively, SARS-CoV and MERS-CoV infected 8,098 and
+2,566 people and killed 774 and 866 people, respectively (WHO, 2003; Alfaraj et
+al., 2019; WHO,
+2020; Petersen et al.,
+2020). .
+
+SARS-CoV, MERS-CoV, and SARS-Cov-2 have high mutation rates (0.80-2.38 ×
+10-3 substitutions per site per year (Zhao et al., 2004; Cotten et al., 2014; Li R et al., 2020). These mutation rates are
+of the same order of magnitude as other RNA viruses, and can lead to the acquisition
+of enhanced virulence and high evolvability, favoring changes in the host and rapid
+dispersion. A successful zoonotic spillover also depends on the vulnerability of the
+new host’s defenses, and ecological and climatic conditions. Human populations also
+have cultural habits, with some of them facilitating the transmission of pathogens,
+i.e., hugs, kisses, sharing food (Olival et al., 2017; Duffy, 2018). Thus, Homo sapiens has become a
+potentially easy target of new pathogens in modern times because of its large
+population size, urbanization, ease of mobility of people between cities, countries,
+and continents, and close contact with wild, semi-wild, and domesticated animals.
+These conditions were in place for SARS-CoV, MERS-CoV, and SARS-CoV-2 so that the
+interspecific barriers were overcome, and related diseases have been reported (Kan et al., 2005; Zaki et al., 2012; Hedman et al., 2021)..
+
+However, there is a notable difference in the outbreak trajectories associated with
+these β-COVs, specializing in infecting humans and causing severe respiratory
+syndrome symptoms, as mentioned above. No complete scenario explaining such
+differences is well understood. However, it is possible to suggest that certain
+potential drivers, shaped by microevolutionary phenomena, can turn a local epidemic
+into a global pandemic, as found with SARS-CoV-2: stronger tropism involving host
+cells, high transmissibility, elevated transmission rates from asymptomatic
+individuals, substantial viral load, and relatively low lethality all powerful
+triggers for the emergence of evolutionarily successful viral lineages. All these
+conditions/factors together represent a “perfect storm”..
+
+COVs may have originated millions of years ago (Wertheim et al., 2013); as such, their natural hosts,
+species of vertebrates, have been under attack for an equivalent time. The success
+of zoonotic spillover, that is, transmitting a pathogen from a vertebrate animal to
+a human and vice versa, is a systematic process. Thus, COVs and
+vertebrates, including primates, are expected to have a long evolutionary history of
+biological arms races (Meyerson and Sawyer,
+2011; Enard et al.,
+2016; Wang W. et al.,
+2020). That is, the host defense system wins at a given evolutionary
+moment and context; in another, the pathogen attack system wins. There is constant
+selective pressure on the losing side to change, resulting in these two antagonistic
+stages alternating perpetually, unless one species involved goes extinct, putting an
+end to the ongoing arms race. This phenomenon can be recognized as a form of ‘Red
+Queen’ dynamics (Van Valen, 1973). .
+
+Regarding SARS-CoV-2, the coronavirus RaTG13 of the brown bat (Rhinolophs
+affinis) is a potential ancestor (Ji
+et al., 2020; Li R.
+et al., 2020; Wu
+et al., 2020; Zhou
+et al., 2020).Their genomes have 97.41% identity
+(Malaiyan et al., 2021);
+however, at least five amino acid (aa) substitutions (F486L, Q493Y, S494R, N501D,
+and Y505H) at critical sites of the Spike (S) glycoprotein receptor-binding domain
+(RBD) of RaTG13 are crucial for the Wuhan-SARS-CoV-2 lineage to acquire high tropism
+with its cognate human cell receptor (cell-surface peptidase angiotensin-converting
+enzyme 2, ACE2; Wan et al.,
+2020). The first strain of SARS-CoV-2 identified in Wuhan, China, in
+December 2019, was also characterized as having five critical amino acid differences
+in its RBD when compared with SARS-CoV (L455Y, F486L, Q493N, S494D, N501T;
+SARS-CoV-2 and SARS-CoV aa respectively; Wan et al., 2020; Andersen et al., 2020).
+However, at present, the intermediate host of SARS-CoV-2 remains unknown, and even
+the origin of SARS-CoV-2 is still controversial; many theories have been propagated,
+although unfortunately for non-scientific reasons. Despite this, similar to other
+novel viral pathogens that have caused epidemics or pandemics involving human
+populations, the overwhelming conclusion is that SARS-CoV-2 can be found in human
+hosts through a series of unhappy accidental encounters with animals (Rasmussen, 2021). For a more recent review on
+this topic, see Lytras et al.
+(2021) and Holmes et al.
+(2021)..
+
+The S glycoprotein of SARS-CoV-2 contains a cleavage motif for furin proteases (Coutard et al., 2020; Lau et al., 2020), that
+mediates efficient fusion of the virus with human cell membranes (Yan et al., 2020). In
+contrast, in SARS-CoV, furin-mediated cleavage of the S glycoprotein does not occur
+naturally (Simmons et al.,
+2004). Follis et al.
+(2006) introduced a functional furin cleavage site in the SARS-CoV S
+glycoprotein and observed potentiation of membrane fusion activity. Lau et al. (2020) showed that
+in vitro, SARS-CoV-2 replication is compromised in cells with
+deletions or point mutations involving the S1/S2 junction. The authors also
+highlighted the role of natural selection in shaping viral molecular characteristics
+(Lau et al., 2020)..
+
+In April 2020, Fam et al.
+(2020) reported the conservation of 30 ACE2 sites with records relevant
+for interactions with SARS-CoV-like S glycoproteins in H. sapiens
+populations (Fam et al., 2020). The authors concluded that
+SARS-CoV-2 has a similar potential to infect humans. Subsequent investigations
+corroborated these findings; although ACE2 single polymorphisms
+have been identified in a number of human populations, none of these SNPs markedly
+altered interactions between ACE2 and the SARS-CoV-2 S glycoprotein (Hashizume et al., 2021). The
+contrast between low ACE2 diversity in the target species and the relative diversity
+between species has been interpreted as a sign of the long evolutionary arms race
+between CoVs and potential mammalian hosts (Fam
+et al., 2020). However, it was predicted that
+successive SARS-CoV-2 mutations would occur, impacting the course of the COVID-19
+pandemic, including the dynamics of the evolutionary arms race between the virus and
+its more recent host, H. sapiens (Fam et al., 2020). .
+
+The combined impact of these SARS-CoV-2 and human ACE2 characteristics, shaped by
+evolutionary forces is responsible for the magnitude of the COVID-19 pandemic. For
+instance, SARS-CoV-2 has high tropism with human ACE2 (Andersen et al., 2020; Wan et al., 2020) and higher transmissibility
+(R0 = 2.5) than SARS-CoV (2.4), and even higher than the influenza virus (2.0),
+which caused the 1918 pandemic (Petersen et
+al., 2020). In addition, 59% of all SARS-CoV-2 transmissions
+came from asymptomatic individuals (35% from pre-symptomatic individuals and 24%
+from individuals who never developed symptoms), another powerful trigger for
+accelerated transmission (Johansson et
+al., 2021). .
+
+In April 2021, the WHO began to recognize the existence of SARS-CoV-2 VOCs and other
+variants of interest (VOIs) that pose enormous challenges to the management of the
+outbreak itself, vaccination, and the treatment of symptoms and outcomes linked to
+the major COVID-19 second/third wave that has plagued several countries more
+recently (Wang M et al.,
+2020; Awadasseid et al.,
+2021; WHO and other health agencies)..
+
+The first VOC identified was Beta (B.1.351; Nextstrain clade 20H/V2) in South Africa,
+which appeared in May-August 2020 (Tegally
+et al., 2020; World
+Health Organization, 2021c). This derived lineage is characterized by
+nine changes in the S glycoprotein beyond the 614G allele already present in its
+parental lineage, which was dominant in South Africa (Tegally et al., 2020). .
+
+The WHO and other reports identified several key SARS-CoV-2 S mutations in Beta
+(B.1.351): D80A, D215G, 241/243del, K417N, E484K, N501Y, D614G, A701V (WHO, 2021c,d,e,f). .
+
+Lineage Alpha (B.1.1.7; Nextstrain clade 20I/V1) emerged in southeast England in
+September-November 2020 and is rapidly spreading toward fixation (Davies et al., 2021a; World Health Organization, 2021b,c). Nine key mutations involving the S
+glycoprotein have been identified: 69/70del, 144del, N501Y, A570D, D614G, P681H,
+T716I, S982A, and D1118H (WHO, 2021c,d,e,f). .
+
+In early January 2021, Japanese authorities reported that four people from Amazonas,
+Brazil, had a new SARS-CoV-2 variant. Currently, the WHO has identified the Gamma
+lineage (B.1.1.28.1, P.1 or Gamma; Nextstrain clade 20J/V3) with the following key
+S mutations: L18F, T20N, P26S, D138Y, R190S, K417T, E484K,
+N501Y, D614G, H655Y, T1027I, and V1176F. Gamma probably originated in the state of
+Amazonas in November 2020 and in the capital Manaus. In this city, lineage B.1.1.195
+was replaced by B1.1.28, and then by B.1.1.28.1 (Gamma) in <2 months (Faria et al., 2021b). Soon
+after, Gamma quickly spread to other Brazilian states (Faria et al., 2021a, b; WHO, 2021c,d,e,f). .
+
+In May 2021, a new VOC was recognized: Delta (B.1.617, Nextstrain clade 21A) which
+has three sub-lineages: B.1.617.1, B.1.617.2, and B.1.617.3. Key S mutations: L452R,
+D614G, P681R, ± (E484Q, Q107H, T19R, del157/158, T478K, D950N; WHO, 2021c,d,e,f).
+Delta lineages were first reported in India in October 2020. The Delta VOC was
+responsible for the second devastating wave of COVID-19 in India (Ranjan et al., 2021). In June
+2021, researchers and WHO members speculated that this VOC could become dominant
+worldwide because of its increased transmissibility (Campbell et al., 2021; Reuters, 2021). .
+
+These VOCs have alleles that confer high transmissibility with some capacity for a
+second attack (reinfection), even after vaccination (Wibmer et al., 2021; Davies et al., 2021a; Jassat et al., 2021; Davies et al., 2021a; Davies et al., 2021b; Graham et al., 2021; ECDC, 2021a; NERVTAG,
+2021;Challen et al.,
+2021;Bager et al.,
+2021; Faria et al.,
+2021a,b; Buss et al., 2021; Taylor, 2021; Martins
+et al., 2021; Franceschi et al., 2021; Montagutelli et al., 2021; Bogler et al., 2020; Bivins et al., 2020). .
+
+In November 2021, the WHO classified the Omicron lineage as a VOC. Omicron is
+evolving, and the current situation in terms of epidemiology and transmissibility,
+clinical severity, risk of reinfection and potential impact on diagnostics, vaccines
+and therapeutics is quite preliminary, but will continue to be refined as more data
+become widely available (WHO, 2021h). .
+
+As genomic screening of SARS-CoV-2 strains expands, it has become possible to
+identify at least some causes and characteristics that have led to the current
+COVID-19 pandemic with dramatic consequences for humanity. In addition, several
+studies have tested natural selection involving the SARS-CoV-2 genome based on the
+proportion of synonymous to non synonymous substitutions (dN/dS) (Tang et al., 2020; Chaw et al., 2020; Li X.et al., 2020; Sohpal, 2021; Yi et al., 2021). The most prominent signal to emerge
+from these investigations is the combination of diversifying positive selection and
+purifying selection, depending on the site considered, within the gene encoding the
+S glycoprotein. Other studies have compared selective patterns in S
+with those in other regions of the viral genome. For instance, Koçhan et al. (2021) showed that the
+S gene, unlike the others, had higher dN/dS ratios throughout
+the evolution of the pandemic..
+
+In the present study, we investigated 4,977 SARS-COV-2 genomic sequences from Brazil
+and identified as belonging to the VOC Gamma lineage. Our goal was to determine in
+greater detail the evolutionary trajectory of this Brazilian autochthonous GammaVOC
+and its derived sub-lineages, P.1.1, P.1.2. .
+
+We downloaded 4,977 SARS-CoV-2 genomic sequences from Brazil, already classified as
+Gamma lineage, and publicly available on the GISAID platform (Elbe and Buckland-Merrett, 2017) (downloaded on May 25,2021).
+Next, we aligned the genomic sequences with the Wuhan genome as a reference
+(NC_045512.2) using MAFFT v7 software (Katoh
+et al., 2019) using default parameters..
+
+We chose sequence selection criteria based on lineage assignments made using the
+PANGO Lineages (PANGOLIN) platform to confirm the sequence lineages (O’Toole et al., 2021). The
+PANGOLIN tools have robust and reproducible criteria, are constantly revised and
+updated, and when applied to our dataset, resulted in the conservation of a larger
+number of sequences and consequently resulted in less loss of variability in the
+genomic alignment, in contrast to sequence classification criteria based on
+diagnostic sites or signature mutations (Faria
+et al., 2021a,b; WHO, 2021c,d,e,f). We also considered
+possible scenarios in which Gamma diagnostic sites could present selection signals. .
+
+Subsequently, we generated two datasets from the initial alignment: (a) only with
+sequences assigned by PANGOLIN as Gamma VOC (P.1); and (b) with sequences designated
+as Gamma and also including those designated as the derived lineages P.1.1 and
+P.1.2. The latter lineage has nine recognized mutations in addition to the P.1
+lineage-defining ones: ORF1ab (synC1150T, synC1912T, D762G,
+T1820I), ORF3a (D155Y, S180F), M (synC26954T),
+N (synC28789T), and S glycoprotein (A262S)(de Almeida et al., 2021).
+P.1.1 has 21 mutations, all found in Gamma. One difference involves two other
+alleles of the N gene, 203K and 204R, found in Gamma but not in the
+P.1.1 sub-lineage. The dataset with Gamma and derived lineages will be referred to
+as a “complete dataset” to facilitate reading. Additionally, for phylogeographic
+analyses, we worked with a third dataset that included more P.1.1 sequences
+deposited in the GISAID platform after May 25 (sequences downloaded until June 17,
+2021)..
+
+We used ModelFinder (Kalyaanamoorthy et
+al., 2017) to select the best-fit substitution model and
+inferred maximum likelihood trees of genomic sequence alignments of the two
+datasets using IQ-TREE2 with default settings (Minh et al., 2013). We then filtered the alignment
+by gene and open reading frame (ORF) using SARS-CoV-2 sequences available in
+NCBI gene records. We performed a series of selection analyses using HYPHY
+2.5.31 (Kosakovsky et al.,
+2020). We implemented three site-level methods: FUBAR (Murrell et al., 2013) and
+FEL (Kosakovsky and Frost, 2005), to
+detect sites subject to pervasive positive (diversifying) and negative
+selection, and MEME (Murrell et
+al., 2012), a method at the codon level to detect
+pervasive and episodic positive selection (diversifying). The MEME, FUBAR, and
+FEL tests use the ratio of non-synonymous to synonymous substitutions (dN/dS) as
+metrics. We established a p-value ≤ 0.1 for FEL and MEME for
+statistical significance thresholds and a posterior probability threshold ≥ 0.9
+for FUBAR (Spielman et al.,
+2019)..
+
+Notably, the dN/dS ratio was originally developed for the analysis of genetic
+sequences of divergent species. However, viral nucleotide substitution rates can
+be up to millions of times greater than those of their hosts. This rapid
+evolution is mainly due to high mutation rates. Despite controversies (Kryazhimskiy and Plotkin, 2008), approaches
+based on the dN/dS ratio are also appropriate for use in the context of virus
+populations, including to rescue the evolutionary history of SARS-CoV-2 (Kumar et al., 2020). .
+
+Haplotype networks are used to visualize genealogical relationships at the
+intraspecific level and to make inferences regarding the biogeography and
+history of SARS-CoV-2 Gamma populations. We used this methodology to visualize
+potential signs of expansion associated with lineages and/or groups of sequences
+(haplotypes) that carry positively selected alleles. Specifically, to analyze
+the networks in conjunction with the selection tests (FUBAR, FEL, and MEME), we
+used the following criteria: we chose haplotypes composed of >7 sequences,
+and subsequently, the mutations that led to these haplotypes from the main
+haplotype(s) were noted. .
+
+Haplotype detection was performed using DnaSP v6 software (Rozas et al., 2017), considering only the
+variable sites and disregarding gaps or missing data. Subsequently, we
+constructed networks using NETWORK software v10.2 (Fluxus Technology, 2020) using the median-joining
+algorithm (Bandelt et al.,
+1995). Maximum parsimony calculations (Polzin and Daneschmand, 2003) were used to identify
+unnecessary median vectors and links. Additionally, to simplify the complex
+network, we employed the “Frequency>1” criterion (Fluxus Technology, 2020), which ignores unique sequences
+in the dataset..
+
+To better understand the spread of P.1.1 and P.1.2 variants across spatiotemporal
+scales within Brazil, we employed a discrete diffusion model (Lemey et al., 2009) that
+maps phylogenetic nodes to their inferred locations of origin, as implemented in
+the software package BEAST v1.8.4. (Drummond
+et al., 2012). We worked with two separate data
+sets, one for P.1.1 (collected until June 17, 2021) and another for P.1.2
+(collected until June 6, 2021), both available on the GISAID platform. More
+P.1.1 sequences were identified, but no additional P.1.2 sequences considering
+those already downloaded on May 25, 2021. The genomes were classified into
+lineages using PANGOLIN, as previously described. The sequences classified as
+P.1.1 and P.1.2 were selected for a total of 18 and 224 sequences in each
+dataset, respectively. Subsequently, alignments were performed for each lineage
+using MAFT v7 as described above. .
+
+We employed the GTR + G model of nucleotide substitution, a uniform strict
+molecular clock (8-10 × 10-4 substitutions/site/year) (Naveca et al., 2021), and
+assumed an exponential population size growth coalescent process. We considered
+one discretization scheme considering the state’s capital where the samples were
+taken, using an asymmetric substitution model allowing Bayesian stochastic
+search variable selection (BSSVS). Markov chain Monte Carlo (MCMC) was run for
+>80 million generations and sampled every 10,000 generations. The convergence
+and mixing properties were inspected using Tracer 1.7.1 (Rambaut et al., 2018). After discarding
+10% of sampled trees as burn-in, a maximum clade credibility (MCC) tree was
+obtained using TreeAnnotator 1.8.4 included in the BEAST v1.8.4 package. We used
+the resulting MCC tree as input for SpreaD3 v0.9.7.1 (Spatial Phylogenetic
+Reconstruction of Evolutionary Dynamics using Data-Driven Documents, Bielejec
+et al., 2018), which allowed us to analyze and visualize
+the reconstructions resulting from Bayesian inference of the variants between
+February and June 2021. .
+
+We detected certain changes involving the sites that define the Gamma VOC according
+to Faria et al. (2021a, b)
+and the WHO (2021c) (Table 1). For instance, of the 4,977 sequences reported as Gamma
+in GISAID, we observed that 1,442 did not have a complete set of key mutations
+(alleles) that characterize it: ~29% relative to the initial number of sequences.
+Notably, 922 (18.5%) sequences presented a reverse mutation at position 417, that
+is, lysine residues (K) rather than threonines (T) in the S glycoprotein. We also
+observed 37 (~0.68%) sequences with the 614D allele (aspartic acid residue present
+in the Wuhan-SARS-CoV-2 sequence). 417T and 614G are considered diagnostic alleles
+for Gamma (WHO, 2021b,c,e)..
+
+
+Table 1Observed sequences without P.1 (Gamma) mutation
+signatures*. GeneGamma signature mutationsNumber of sequences without signature
+mutations%
+ORF1ab
+synT733C50.10synC2749T881.77S1188L941.89K1795Q10.02del11288-11296(3675-3677) SGF1923.86synC12778T1162.33synC13860T871.75E5665D901.81
+Spike
+L18F60.12T20N881.77P26S60.12D138Y2094.20R190S380.76K417T92218.53E484K150.30N501Y110.22D614G370.68H655Y40.08T1027I40.08
+N
+P80R480.96ins28269-28273--
+ORF8
+E92K941.89
+*According to Faria
+et al. (2021a, b) and WHO,
+2021c,d,e,f. Total sequences: 4,977.
+.
+
+
+*According to Faria
+et al. (2021a, b) and WHO,
+2021c,d,e,f. Total sequences: 4,977..
+
+When working with public datasets from various research and diagnostic centers, it is
+difficult to know whether the loss of one or more diagnostic alleles represents a
+methodological artifact or a real phenomenon involving the natural evolution of the
+Gamma lineage. Therefore, the situation is likely to be a combination of both.
+However, to minimize the chance of error and considering our approach to identify
+evolutionary footprints, we chose to classify lineages using the PANGOLIN platform
+(Table 2). The PANGOLIN tool preserves
+intra-clade diversity, as >93% of the available sequences were classified as
+belonging to the Gamma lineage. In addition, 6.4% of them could be assigned to other
+lineages, including lineages derived from Gamma, such as P.1.1 and P.1.2 (Table 2). .
+
+
+Table 2 - Classification of sequences according to PANGOLIN.LineageNumber of sequences%B.130.06B.1.1581.17B.1.1.28921.85B.1.1.7410.02B.1.56010.02B.1.56610.02P.14,66093.63P.1.1150.30P.1.21462.93
+.
+
+Notably, using the PANGOLIN tool, 33 and 902 sequences with alleles 614D and 417K,
+respectively, were preserved, indicating that these allelic reversions to an
+ancestral state may represent an actual phenomenon within Gamma. .
+
+
+Table 3 and Table S1 present a
+comparison of the positively selected sites, considering the two datasets (Gamma and
+the complete dataset). The same genes in both datasets presented sites under
+positive selection (S, N, M, E, ORF1a, ORF1b, ORF3, ORF6, ORF7a, ORF7b,
+ORF8, and ORF10;
+Table S1)..
+
+
+Table 3 -Comparison between positively selected sites detected in VOC P.1
+(Gamma) and its potential derived-lineages P.1.1 and P.1.2.Positive selectionGammaGamma, P.1.1, P.1.2Sites detected by at least one of the methods197214Sites detected by all three methods7752MEME detected sites for at least 1 branch12692Sites detected only by MEME (possible episodic
+selection)2320Diagnostic sites that are under selection912
+.
+
+Using the MEME method, Faria et al.
+(2021b) found 18 sites with positive selection signatures in N,
+ORF1a, ORF1b, and ORF3, including some Gamma S
+diagnostic sites. Notably, in our analysis, a number of these sites
+(e.g., E484K) did not exhibit evidence of positive selection. .
+
+Interestingly, diagnostic sites that lost the positive selection signal in our study
+were not entirely fixed, and apparently they were not on the way to becoming fixed
+within the Gamma clade. This was already noticeable through the data presented in
+Table 1, but these suggestions become
+more robust because the diagnostic sites that lose positive selection signatures do
+not appear to be subject to the powerful action of purifying selection (Table S2)..
+
+Our next step was to generate networks involving all 12 genes that showed sites whose
+diversity seemed to be the result of positive selection. We chose to show those that
+met the criteria of haplotypes composed of >7 sequences and with some signal of
+expansion based on network topology for more detail, see Material and Methods). For
+instance, star-like clusters of nodes surrounding a founder node are classic
+scenarios that reveal expansion events. It is also known that star phylogeny
+networks present many rare haplotypes, with one or a few mutational steps from a
+central haplotype at high frequency (Bandelt
+et al., 1995). However, because of the frequent
+transmission of viruses, rapid lineage expansion involving rare and random alleles
+can occur due to founder effects (Croucher and
+Didelot, 2015; Campbell et
+al., 2021). However, despite the expected scenario involving
+random phenomena, we hypothesized that the adaptive advantage led, at least in part,
+to the expansion of lineages within Gamma. .
+
+
+Table 4 shows the sites that met these
+criteria in both datasets [Gamma and Gamma/P1.1/P.1.2; S (L5F,
+T572I, A845S), ORF3 (L83F, K16N, L85F, D27Y),
+ORF1a (G150S, G519S, P2046T, L642F, K3353R),
+ORF1b (L314P, A1643V, D1264E, T1774I)], while others were
+unique to one or another dataset, suggesting potentially different evolutionary
+pathways from the ancestor (Gamma) and its two more recently derived lineages. .
+
+
+Table 4 -Haplotypes with more than seven sequences, a signal of expansion
+based on networks, and alleles in sites under positive
+selection.Gamma sequences Gamma, P.1.1, and P.1.2 sequences
+Spike HaplotypeNRNA sequence position/ Aminoacid changeBrazilian regionHaplotype1
+NRNA sequence position/ Aminoacid changeBrazilian region612
+1715 /T572I
+SE567
+2533/A845S
+SE1566
+2533 /A845S
+SE10980/A27VS, SE, N, NE1930
+13/L5F
+SE, S, CW, N, NE1312
+1715/T572I
+SE45311841 /G614DS2331
+13/L5F
+SE, S, CW, N, NE
+
+
+
+40935/S12FSE, S
+
+
+
+10192533/A845SSEORF32161
+249/L83F
+SE, S, CW2226
+249/L83F
+CW, S, SE1112161/A54VSE, NE317
+48/K16N
+SE1316604/V202LSE2010
+255/L85F
+SE1510
+255/L85F
+SE3633
+79/D27Y
+SE1927
+97/A33S
+SE
+
+
+
+2815
+48/K16N
+SE
+
+
+
+3233
+79/D27Y
+SE
+
+
+
+1008524/T175ISE
+
+
+
+ORF1a 26769626/A3209VSE, NE, S5910525/H3509YSE, NE3515448/G150SSE, NE6415448/G150SSE, NE1831212521/T4174ISE, NE, CW, N79306137/P2046L2
+SE, NE, CW204101555/G519SSE891910058/K3353RSE, NE206136136/P2046TSE222101555/G519SSE, CW21091924/L642FSE, CW224136136/P2046T2
+SE1731710058/K3353RSE, NE22891924/L642FSE, CWORF1b 250941/L314PSE,N,CW,S1156941/L314PCW, SE, N, S2194928/A1643VSE, N, S3285484/K1828T4
+SE43743792/D1264ES, SE3994928/A1643VSE, S, NE25385321/T1774ISE5985483/K1828T4
+SE
+
+
+
+60743792/D1264ES, SE, CW, NE
+
+
+
+6535653/P218LSE, N, CW, NE
+
+
+
+11719246/K82NSE
+
+
+
+135115321/T1774I3
+SE
+
+
+
+26185321/ T1774I3
+SE
+.
+
+N: Number of sequences present in each Haplotype. Brazilian regions: SE: Southeast;
+S: South; Central-West: CW; N: North; NE: Northeast. In bold are the changes in
+common between both datasets. 1Networks with haplotypes considering the
+complete dataset (Gamma plus P1.1 and P1.2 sequences) can be seen in Figure S1 A-D.
+2A non-synonymous mutation in different position at the same codon.
+3While one mutation clearly occurs in a sequence of an ancestral
+haplotype still existing, the other comes from a median vector automatically
+generated by the software. A median vector represents potential ancestral
+sequence/haplotype, but not represented in present sampling. 4A
+non-synonymous mutation in different position at the same codon..
+
+The simplified networks (Figure
+S1 A-D), considering our complete dataset, revealed a known star-like
+pattern, as well as some thought-provoking findings for gene/ORFs
+S, ORF3, ORF1a, and ORF1b. Some
+rare reticulations may be due to parallel mutations, homoplasy, recombination,
+and/or methodological errors. For example, the synonymous substitution C1818T in the
+RNA sequence is recurrent in S and causes several reticulations (Figure S1 A), but we do
+not know if it represents a natural SARS-CoV-2 genomic mutational hotspot, or a
+simple annotation or sequencing error..
+
+Haplotypes 5 and 23 (H_5 and H_23, Figure S1 A) have the selected sites A845S and L5F in the S.
+H_23 is present in all Brazilian regions, whereas H_5 is present only in the
+south-east, the most densely populated region of the country. It is noteworthy that
+the positive selection signal was not lost when considering the derived lineages
+(Table 4), similar to what happens with
+the ORF3 selected sites L83F and D27Y; ORF1a selected sites G150S,
+G519S, P2046T/L, and K3353R, as well as ORF1b selected sites L314P,
+D1264E, and T1774I (Table 4),all of which
+were present in haplotypes with some level of expansion (Figure S1 B: H_2, H_36;
+Figure S1 C: H_64,
+H_222, H_79, H_89; Figure S1
+D: H_11, H_60, H_261, respectively). Other branches that led to
+haplotypes with signs of expansion had sites under positive selection detected only
+when the complete data were analyzed (Table
+4). For example, H_5 originated from a non-synonymous mutational step
+(position 10525 of the RNA sequence/ H3509Y) from H_1 of ORF1a
+(Figure S1 C). ORF1b
+also presented positively selected sites under these conditions (H_32,
+5484,5483/K1828T; H_65, 652/ P218L; H_117, 246/ K82N). .
+
+Notably, some critical diagnostic sites, whose positive selection signals were
+detected by us (Table
+S1), did not seem to be relevant in the networks, indicating no apparent sign
+of expansion (according to our criteria), at least so far (e.g.,
+ORF1a T1820I and ORF3 D155Y diagnostic sites
+of P.1.2; de Almeida et al.
+2021). .
+
+On the other hand, Table
+S3 shows that only the P.1.2-derived lineage assembles a more exclusive
+set of sequences: 27% and 100% of the ORF3 and
+ORF1a sequences, identified by PANGOLIN as P.1.2, clustered in
+H_2 (Figure S1 B) and
+H_5 (Figure S1 C).
+Notably, H_5 (ORF1a) was composed of sequences with the potentially
+positively selected allele 3509Y. This finding indicated that P.1.2 has at least one
+site, not previously identified, that characterizes it as a target of natural
+selection and can endow a favorable fitness to this emerging lineage. .
+
+Concomitantly, our analysis revealed a large number of sites under purifying
+selection (Table S2),
+which maintain the general SARS-CoV-2 “status quo,” as a specialist to infect humans
+(Fam et al., 2020)..
+
+Phylogeographic analysis of P.1.1 and P.1.2 sequences (Figure S2 A and B) revealed that the
+former seems to have originated in the state of Goiás (central-west region, CW) and
+spread mainly to the southern (S) and south-eastern (SE) states, not reaching other
+areas; however, the number of sequences used in the analysis of P.1.1 was low, and
+this result should be taken with caution when making larger inferences. Variant
+P.1.2 seems to have originated in Rio Grande do Sul, the southernmost state in
+Brazil, with a broader distribution, although mostly restricted to the country’s
+east. Notably, H_5 (ORF1a), composed only of P.1.2 3509Y sequences,
+was present in the southeast and northeast regions of Brazil (Figure S1 C). This result
+suggested that H3509Y of ORF1a occurred after P.1.2 had dispersed
+from the S to the southwest (SW) and northeast (NE) regions..
+
+The perfect storm described herein, culminating in the ongoing tragedy of the
+COVID-19 pandemic, was only possible because of particular evolutionary events in
+the trajectory of SARS-CoV-2 that maintained its high transmissibility and
+relatively low lethality. The dominance of certain SARS-CoV-2 lineages over time
+relative to others is robust evidence of this fact and that the evolutionary arms
+race between SARS-CoV-2 and its host is in full swing. In this scenario, we must
+also compute the “Homo sapiens reaction,” including natural immune
+responses (probably shaped for millions of years due to likely recurrent attacks of
+CoVs; Meyerson and Sawyer, 2011; Enard et al., 2016; Wang W. et al., 2020) and
+those induced by current large-scale vaccine deployment, among other containment and
+pharmacological measures. In addition, Gamma was found in Brazil, a territory
+already swept by other SARS-CoV-2 lineages; the interaction between different sets
+of Gamma × non-Gamma lineages could also play an important role in determining
+whether a Gamma lineage would be able to expand..
+
+Because of limited genome size, as seen in viruses, relatively few nucleotide sites
+are free to vary, despite high mutation rates (Eigen, 1996; Holmes, 2003). Thus,
+convergent evolution (e.g., the parallel occurrence of identical
+alleles in distant lineages) is relatively common among RNA viruses (Cuevas et al., 2002). Weinreich et al. (2006)
+demonstrated how many mutational pathways are repeatedly selected in pathogenic
+microorganisms. The phenomena of epistasis (non-additive interactions among alleles)
+also dictates the complex course of viral evolution (Holmes and Rambaut, 2004; Fragata et al., 2019). In the presence of epistasis,
+the fitness effect of a combination of multiple non-interacting alleles of the same
+or related genes/pathways corresponds to the sum of fitness effects of the
+individual alleles (Ferretti et
+al., 2018; Østman et
+al., 2012; Fragata
+et al., 2019). Thus, epistasis limits the possible
+routes to high fitness, and orders which sequences of consecutive mutations are
+feasible, but can also open new functional evolutionary paths, promoting adaptive
+novelty (Usmanova et al.,
+2015; Starr and Thornton, 2016;
+Ferretti et al., 2016;
+Fragata et al., 2019).
+Sanjuán et al (2004)
+showed details of how the architecture of fitness in RNA viruses depends on
+epistasis. Recently, epistasis has been cited as a phenomenon behind the rapid and
+successful dispersion of the Omicron variant (BBC
+News Mundo, 2021). Another important phenomenon in the evolution of viral
+genomes is antagonistic pleiotropy, i.e., mutations beneficial in
+one host may be deleterious in others. Antagonistic pleiotropy may limit the range
+of adaptations and promote the evolution of specialization (Santiago et al., 2009). This concept is
+different from that of classic pleiotropy, characterized by genes/ORFs that affect
+more than one independent trait, a mechanism that promotes substantial modulation of
+variation (Wagner and Zhang, 2011), which
+likely also impacts the evolution of SARS-CoV-2. Below, we discuss how examples
+presented in this work illustrate the action of such mechanisms..
+
+It is known that a tyrosine (Y) residue at position 501 (located in the
+receptor-binding domain, RBD, of the S protein), rather than an asparagine (N;
+present in Wuhan SARS-CoV-2 genome sequence), is present in Alpha, Beta, and Gamma
+VOCs, potentially creating opportunities for these to become more infectious and
+partially resistant to therapeutics blocking RBD-ACE2 interactions (Liu H. et al., 2021; Narayanan and Procko, 2021). 501Y endows these
+lineages with the ability to escape from therapeutically relevant antibodies and the
+host immune system (Wibmer et al.,
+2021). Other derived lineages also harbor the N501Y mutation, signaling
+its recurrence (Lemmermann et al.,
+2021). VOCs Beta and Gamma share an additional RDB mutation, K417N/T
+(Abdool and de Oliveira, 2021), while UK
+researchers detected cases of Alpha lineages with the 484K allele, which also
+characterizes the Beta and Gamma lineages (Shamsian,
+2021; Faria et al.,
+2021b). Some studies have shown that lineages containing the 417N allele
+are more effective in escaping antibody neutralization than Gamma, which presents
+the 417T allele (Garcia-Beltran et
+al., 2021; Liu Y. et
+al., 2021). In addition, the 484K allele creates a new
+binding site for the amino acid at position 75 in human ACE2. This interaction seems
+stronger than the binding between ACE2 and the original main site located at
+position 501 (Ferrareze et al.,
+2021; Nelson et al.,
+2021). Other studies have shown that 484K reduces neutralization by
+polyclonal antibodies (Greaney et
+al., 2021; Oliveira
+et al., 2021). Oliveira et al. (2021) identified an immune dominant
+epitope (S415-429) recognized by 68% of sera from convalescent Brazilians
+infected with the ancestral SARS-CoV-2 lineage. This immune dominant RBD region
+harbors a mutational hotspot site at position 417. The same authors also performed
+simulations that indicated impaired RBD binding to previous infection- or
+vaccine-induced neutralizing antibodies in both Beta (417N) and Gamma (417T) VOCs
+(Oliveira et al., 2021).
+It is noteworthy that 614G started to appear as a diagnostic allele for VOCs Alpha,
+Beta, and Gamma only in the WHO report of April 27 (2021 g). Many recurring mutations lead to the exchange of amino acids D
+> G at position 614 of the SARS-CoV-2 S glycoprotein. Lineages with the 614G
+allele were rare before March 2020, but became dominant after May 2020, suggesting
+that the 614G allele might improve viral fitness (Plante et al., 2020). More recently, Xu et al. (2021) reported
+that the 614G allele could lower the energy barrier for conformational
+transformation from the RDB closed pre-fusion state to the fusion-prone open state,
+resulting in even greater affinity of SARS-CoV-2 S protein binding to ACE2. The
+SARS-CoV-2 lineage from Wuhan harbors the D614 allele. .
+
+Some positively selected sites have also been highlighted in studies by the GISAID
+platform group that applied the MEME and FEL methods to a database of approximately
+390,000 sequences per gene/ORF (Gamma sequences included). This team of researchers
+detected 213 sites with positive selection signatures, 27% of which were located in
+S; the majority had the same aa changes as we observed (Pond, 2020). For example, the positively selected site T175I
+(ORF3; Table S1), also referred to as a site where epitopes overlap, the minor
+allele (isoleucine-I) is found on other continents (Pond, 2020), indicating that it is recurrent in several lineages in
+addition to Gamma. The recurrence of identical alleles in lineages which are
+otherwise relatively phylogenetically distant appears to be a constant..
+
+All of these studies reinforce the functionality of these positions, and the same
+mutational pathways are repeatedly selected for. We found in Gamma sequences
+ancestral alleles at all of these sites (417, 484, 501, and 614), but in different
+combinations. In other words, in most cases, there are alternations between alleles
+(amino acid residues) present in the Wuhan sequence and derived alleles. Our results
+also showed no negative selection signals involving these positions (Table S2), indicating a
+certain margin for the evolvability (evolutionary capacity) of the SARS-CoV-2 S
+protein, but within an evolutionary trajectory also modulated by the phenomena of
+epistasis and pleiotropy..
+
+Relatively few alternatives can represent adaptive novelties in S (for example
+glutamine (Q) at position 484 in Delta). The potentially positively selected allele
+3509Y (ORF1a) in nine P.1.2 sequences that form an expanding
+haplotype also illustrates another adaptive novelty (Figure S1 C). The role of
+CoV ORF1a does not seem to be limited to viral transcription and
+replication. Graham et al.
+(2008) demonstrated its function in virulence, virus-cell interactions,
+and alterations to virus-host responses. More recent investigations (Emam et al., 2021) demonstrate
+that proteins encoded by ORF1a and ORF1b together
+(ORF1ab) are involved in SARS-CoV-2 pathogenicity and
+infectivity. Only functional studies will define whether there is a gain in fitness
+in P.1.2 due to 3509Y. These findings suggest a limitation to the emergence of
+variability inSARS-CoV-2 modulated by positive selection involving critical
+positions, as well as the likely existence of compensatory alleles due to epistasis
+and/or pleiotropy (both antagonistic and classical). .
+
+We also observed that many lineages with potentially advantageous alleles succumbed,
+while others, for no obvious or apparent reasons, expanded (Figure S1 A-D). This
+finding clearly illustrates the effect of stochastic events (i.e.,
+a rapid expansion of lineages with rare neutral alleles occurring due to founder
+effects after they reach a large urban center), already predicted to be important in
+viral evolution (Croucher and Didelot, 2015;
+Campbell et al., 2021).
+These two powerful forces (natural selection and random events) are not mutually
+exclusive because a variant under selection can spread more rapidly in urban and
+densely populated areas. .
+
+Finally, our findings should be considered with caution. For instance, although
+widely used in population studies involving organisms with high mutation rates
+(Kumar et al., 2020),
+methods based on the dN/d S ratio at the population level may result in
+false-positive results (Kryazhimskiy and Plotkin,
+2008). In addition, the quantitative and qualitative complexity of
+positive selection regimes using the present population genomic data cannot be
+accessed through our analysis..
+
+This research was supported financially by the Coordenação de Aperfeiçoamento de
+Pessoal de Nível Superior (CAPES - Finance code 001), the Conselho Nacional de
+Desenvolvimento Científico e Tecnológico (CNPq), the Fundação de Amparo à Pesquisa
+do Estado de São Paulo (FAPESP), and the Instituto de Pesquisa do Câncer de
+Guarapuava. The funders had no role in the study design, data collection and
+analysis, decision to publish, or manuscript preparation..
+
+The following online material is available for this article:.
+
+
+Table S1 - Results for positive selection tests (FUBAR, MEME and
+FEL).Click here for additional data file.
+.
+
+Click here for additional data file..
+
+
+Table S2 -Results for negative selection tests (FUBAR and FEL).Click here for additional data file.
+.
+
+Click here for additional data file..
+
+
+Table S3 - P.1.1 and P.1.2 sequences in genes/ORFs with sites under positive
+selection.Click here for additional data file.
+.
+
+Click here for additional data file..
+
+
+Figure S1 -Networks: a) Spike; b) ORF3; c) ORF1a; d) ORF1b.Click here for additional data file.
+.
+
+Click here for additional data file..
+
+
+Figure S2 - Geographical dispersion of lineages P.1.1 (A) and
+P.1.2(B).Click here for additional data file.
+.
+
+Click here for additional data file..
+

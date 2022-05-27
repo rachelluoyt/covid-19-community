@@ -1,0 +1,179 @@
+Since the first complete genome sequencing of SARS-CoV-2 in December 2019, more than 550,000 genomes have been submitted into the GISAID database. Sequencing of the SARS-CoV-2 genome might allow identification of variants with increased contagiousness, different clinical patterns and/or different response to vaccines. A highly automated next generation sequencing (NGS)-based method might facilitate an active genomic surveillance of the virus..
+
+RNA was extracted from 27 nasopharyngeal swabs obtained from citizens of the Italian Campania region in March–April 2020 who tested positive for SARS-CoV-2. Following viral RNA quantification, sequencing was performed using the Ion AmpliSeq SARS-CoV-2 Research Panel on the Genexus Integrated Sequencer, an automated technology for library preparation and sequencing. The SARS-CoV-2 complete genomes were built using the pipeline SARS-CoV-2 RECoVERY (REconstruction of COronaVirus gEnomes & Rapid analYsis) and analysed by IQ-TREE software..
+
+The complete genome (100%) of SARS-CoV-2 was successfully obtained for 21/27 samples. In particular, the complete genome was fully sequenced for all 15 samples with high viral titer (> 200 copies/µl), for the two samples with a viral genome copy number < 200 but greater than 20, and for 4/10 samples with a viral load < 20 viral copies. The complete genome sequences classified into the B.1 and B.1.1 SARS-CoV-2 lineages. In comparison to the reference strain Wuhan-Hu-1, 48 total nucleotide variants were observed with 26 non-synonymous substitutions, 18 synonymous and 4 reported in untranslated regions (UTRs). Ten of the 26 non-synonymous variants were observed in ORF1ab, 7 in S, 1 in ORF3a, 2 in M and 6 in N genes..
+
+The Genexus system resulted successful for SARS-CoV-2 complete genome sequencing, also in cases with low viral copies. The use of this highly automated system might facilitate the standardization of SARS-CoV-2 sequencing protocols and make faster the identification of novel variants during the pandemic..
+
+The online version contains supplementary material available at 10.1186/s12967-021-02912-4..
+
+Coronavirus disease-19 (COVID-19), declared as pandemic on March 2020 by WHO, is an infectious disease caused by the Severe Acute Respiratory Syndrome coronavirus 2 (SARS-CoV-2). COVID-19 represents a global public health concern due to the relatively large fraction of infected people who develop a severe and often fatal interstitial pneumonia [1–3]. Indeed, as of December 2019, SARS-CoV-2 infected more than 114 million individuals worldwide, causing more than 2.5 million deaths [4]..
+
+Italy was the first European country to be hardly hit by the SARS-CoV-2 epidemic. The first wave of infection mainly affected the Northern Italian regions, causing thousands of deaths, especially among the most fragile individuals [5]. As of March 1, 2021, Italy has been affected by 2,955,434 cases and 98,288 deaths (www.salute.gov.it)..
+
+Phylogenetically, SARS-CoV and SARS-CoV-2 share a most recent common ancestor and are classified within the subgenus Sarbecovirus in the genus Betacoronavirus [6]. The SARS-CoV-2 genome size varies from 29.8 to 29.9 kb. Its genomic organization consists of 10 open reading frames (ORFs) coding for ORF1ab polyproteins, spike (S), envelope (E), membrane (M), nucleocapsid (N) and accessory proteins [7]..
+
+Since the first description of the SARS-CoV-2 sequences in December 2019, an exponentially increasing number of sequences of the virus have been reported with over 550,000 complete genomes deposited in the GISAID database [8]. Based on mutation position and phylogenetic analysis, the SARS-CoV-2 complete genome has been classified in two major lineages, named A and B, and several sublineages [9]. The D614G mutation affecting the spike glycoprotein of SARS-CoV-2 strains, characterizes the B.1 lineage, which originated from southern Europe and become rapidly the most prevalent lineage worldwide. This variant has an increased infectiveness and allows fast spreading of the virus [10, 11]. The number of SARS-CoV-2 variants reported has increased exponentially. The variant B.1.1.7, recently identified in United Kingdom (UK), is rapidly becoming the most prevalent variant in many European countries [9]. In South Africa, the B.1.351 emerged independently from B.1.1.7 [12], while the P.1 variant has been isolated in Brazil [13]..
+
+The possibility that new variants will emerge in the next future with greater transmissibility, a different clinical pattern and a possible difference in the response to vaccines and antibody-based therapies, makes an active genomic surveillance of the virus essential. The development of a genomic surveillance practice requires the availability of standardized sequencing protocols, which can be easily implemented in virology diagnostic laboratories and therefore capable of generating robust data that can be immediately transferred for planning health interventions. In this respect, next generation sequencing (NGS) can provide high-quality, full-scale sequences of viral isolates collected from infected individuals. Analyses of whole genome sequences can provide insight into the pattern of distribution of specific variants and the dynamics of genetic diversity during epidemics..
+
+In this study, we present the results of an evaluation of the highly automated sequencer Genexus for the determination of the SARS-CoV-2 genomics sequence. For this validation, we used samples from the first wave of the pandemic in the Campania region in Italy, thus providing for the first time data on the progress of the epidemic in a region with low levels of spread of the virus in the first half of 2020..
+
+The SARS-CoV-2 RNA samples were collected at Department of Translational Medical Sciences—University of Napoli “Federico II”. The samples were obtained from nasopharyngeal swabs of 27 individuals who tested positive by standard SARS-CoV-2 diagnostic Real-Time PCR test during the period between 12 March and 27 April 2020 (Table 1).Table 1Demographic and epidemiologic characteristicsSample IDCollection dateMunicipalityPatient conditionContactsAgeSexp0102/04/2020NapoliIntensive therapy–72Mp0301/04/2020NapoliMild symptomsp3447Mp0431/03/2020VollaAsymptomatic–54Mp0625/03/2020NapoliAsymptomatic–48Fp0703/04/2020NapoliIntensive therapy–66Mp0903/04/2020NapoliMild symptoms–56Mp1130/03/2020NapoliAsymptomatic–27Fp1203/04/2020NapoliAsymptomatic–62Mp1430/03/2020NapoliMild symptoms–59Fp1530/03/2020NapoliAsymptomatic–57Mp1722/04/2020NapoliSub intensive therapy–75Mp1922/04/2020NapoliSub intensive therapy–84Fp2422/04/2020NapoliSub intensive therapy–71Mp3130/03/2020CasavatoreAsymptomatic–60Fp3412/03/2020NapoliMild symptomsp361Mp3622/03/2020Aversa (CE)Mild symptoms–58Mp3719/03/2020Gricignano (CE)Mild symptoms–23Mp3803/04/2020NapoliIntensive therapy–78Mp3922/03/2020Casaluce (CE)Mild symptoms–26Mp4031/03/2020NapoliAsymptomatic–51Fp4104/03/2020NapoliIntensive therapy–67Fp4219/03/2020Marcianise (CE)Mild symptoms–83Fp4430/03/2020BoscotrecaseAsymptomatic–35Fp4503/04/2020NapoliAsymptomatic–42Fp5930/03/2020NapoliMild symptoms–33Mp6022/03/2020NapoliSub intensive therapy–67Fp6130/03/2020NapoliMild symptoms–61M.
+
+Demographic and epidemiologic characteristics.
+
+The patients were all from the city of Napoli (NA) and nearby towns, with the exception of four individuals from small towns in the province of Caserta (CE). Eleven were females and 16 males, with a median age of 56 years (range 23–84). Nine cases were asymptomatic at the time of the swab, 10 with mild symptoms and 8 in sub-intensive or intensive therapy units. Two cases (p03 and p34) both with mild symptoms were tested following a close contact..
+
+RNA samples were extracted from 1 ml of Nasopharyngeal swab using the CE marked Abbott Sample Preparation System (Abbott Laboratories, Abbott Park, IL), an iron particle-based method for RNA preparation. To detect viral RNA, the samples were analysed using Abbott Real Time SARS-CoV-2 assay, a real-time reverse transcription polymerase chain reaction (rRT-PCR) test on the Abbott m2000 System, following the manufactures instructions. The Abbott Real Time SARS-CoV-2 assay is a dual target assay for the RdRp and N genes. The two SARS-CoV-2-specific probes are labelled with the same fluorophore. The assay has been reported to detect 100 viral copies/ml (3.1 genome equivalent/reaction) with 95.2% sensitivity..
+
+The samples used for this technology assessment were fully anonymized. The research protocol was approved by the Institutional Review Board (IRB) of the Istituto Nazionale Tumori “Fondazione Giovanni Pascale”..
+
+The extracted RNAs were quantified using the Qubit RNA High Sensitivity Kit (Invitrogen, USA). The number of viral copies were assessed with the TaqPath™ COVID-19 RT-PCR Kit (ThermoFisher Scientific, San Diego, CA), according to the manufacturer’s protocol..
+
+For quantification of SARS-CoV-2 copies by real-time PCR, a calibration curve was obtained from serial tenfold dilutions of the standard TaqPath™ COVID-19 Control. The assay was performed on AB ViiA 7 Dx Real-Time PCR System (ThermoFisher Scientific, San Diego, CA). Ct values for samples and controls were determined from amplification curves calculated from the ΔRn value of the 6-carboxyfluorescein (FAM)/6-carboxy-X-rhodamine (ROX) signals, using the ViiA 7 software. The automatic analysis function of the ViiA 7 software was used to set the background and threshold values..
+
+For the whole viral genome sequencing, a volume of 25 µl of a tenfold dilution of each sample was distributed in an Applied Biosystems™ MicroAmp™ EnduraPlate™ Optical 96-Well Clear Reaction Plate. The plate was sealed with a sheet of adhesive PCR plate foil and was placed on the Ion Torrent Genexus Integrated Sequencer (ThermoFisher Scientific, San Diego, CA)..
+
+All the following steps, including cDNA synthesis, library preparation and equalization, template preparation, sequencing and post-run analysis were fully automated on the Genexus system..
+
+The samples were sequenced on two Ion Torrent™ GX5™ Chip. The sequencing run was performed by using the Ion AmpliSeq SARS-CoV-2 Research Panel on the Genexus Integrated Sequencer (ThermoFisher Scientific, San Diego, CA), according to two preinstalled assays: “SARS-CoV-2 Low Titer Research Assay” for samples with viral load < 200 copies and “SARS-CoV-2 Research Assay” for > 200 copies..
+
+The Ion AmpliSeq SARS-CoV-2 Research Panel consists of 2 primer pools targeting 237 amplicons tiled across the SARS-CoV-2 genome, with an additional 5 primer pairs targeting human expression controls. The SARS-CoV-2 amplicons range from 125 to 275 bp in length..
+
+Post-sequencing run analysis was performed by Genexus Software with following plug-in: COVID19AnnotateSnpEff for variant annotation, IRMA for genome-assisted and Trinity for de novo sequence assembly..
+
+Complete genome sequences were quality checked using the FastQC tool and built using the pipeline SARS-CoV-2 RECoVERY 3.0 (REconstruction of COronaVirus gEnomes & Rapid analYsis) implemented in the Galaxy platform for computational research [14]..
+
+The Maximum Likelihood tree was built using 133 SARS-CoV-2 Italian complete genomes collected during the same period of the samples from this study and downloaded from the GISAID database [8] with the 21 Italian complete genomes here reported. The phylogenetic tree was built using IQ-TREE (v.1.6.10) [15] with the best fit model indicated by the Model Finder implemented in IQ-TREE and 1000 bootstrap replicates. The Mutation Browser v-1.3 database was used to compare the variants found in the complete genomes from GISAID database with those reported in our study [16]..
+
+In order to confirm the unreported variants detected by Genexus, we performed an independent sequencing analysis using Ion S5 XL system..
+
+The cDNA was prepared using 7 µl of viral RNA by Invitrogen™ SuperScript™ VILO™ cDNA Synthesis Kit (Thermo Fisher Scientific, San Diego, CA)..
+
+Libraries were prepared using the Ion AmpliSeq SARS-CoV-2 Research Panel according to the Ion AmpliSeq™ Library Kit 2.0 user guide (Thermo Fisher Scientific, MAN0006735 rev F.0) and all the reactions were performed in an Applied Biosystems™ Veriti™ 96-Well Thermal Cycler (Thermo Fisher Scientific, San Diego, CA). The final concentration of each cDNA library was determined on the Agilent 2100 system by the Agilent High Sensitivity DNA Assay (Agilent Technologies, Santa Clara, CA), following the manufacturer recommendations. Barcoded libraries were diluted to 30 pM, pooled in equal volume aliquots, and then loaded on to the Ion Chef™ Instrument (Thermo Fisher Scientific, San Diego, CA) for emulsion PCR, enrichment, and loading onto the Ion S5 520 chip. Two sequencing runs were performed on the Ion S5 XL System (Thermo Fisher Scientific, San Diego, CA). Reads were aligned with the Wuhan-Hu-1 NCBI Reference Genome (Accession number: MN908947.3) on the Torrent Suite v. 5.12.1..
+
+In addition, as proof of concepts, for 3 samples in which are available viral RNA we confirmed the variants also by Sanger method. The mutational sites analysed were: position 2488 and 2498 within orf1ab, 22,629 within spike and 25,621 within orf3a gene..
+
+The genomic region harbouring mutational sites was amplified using the following primers: orf1ab_Fw (5′-TGTAAAACGACGGCCAGTAAGCCTTGAATTTAGGTGAAACA-3′) and orf1ab_Rw (5′-CAGGAAACAGCTATGACCATTAGGTGCAAGGGCACAGT-3′); spike_Fw (5′-TGTAAAACGACGGCCAGTAACTTTAGAGTCCAACCAACAGAA-3′) and spike_Rw (5′-CAGGAAACAGCTATGACCCCTGGAGCGATTTGTCTGA-3′); orf3_Fw (5′-TGTAAAACGACGGCCAGTCGTTGCACTTCTTGCTGTTT-3′) and orf3_Rw (5′-CAGGAAACAGCTATGACCGCAAAGCCAAAGCCTCATTA-3′) to obtain respectively 317 bp, 290 bp and 263 bp amplicons. The nucleotides presented in italic type correspond to M13 consensus sequences and were used also for cycle sequencing with M13 consensus primers. PCR was performed in 50 µl reaction volume containing 1× AmpliTaq® Gold DNA polymerase buffer (Thermo Fisher Scientific, San Diego, CA); 2.5 mM MgCl2; 0.02 mM each deoxynucleotide; 0.2 µM each primer; 2.5 units AmpliTaq® Gold DNA Polymerase (Thermo Fisher Scientific, San Diego, CA) and 2 µl of cDNA template. The cDNA was prepared using 7 µl of viral RNA by Invitrogen™ SuperScript™ VILO™ cDNA Synthesis Kit (Thermo Fisher Scientific, San Diego, CA). PCR reactions were performed by incubating the samples at 95 °C for 10 min, followed by 40 cycles of 95 °C for 30 s, 58 °C for 30 s and 72 °C for 1 min. The final extension step was performed for 10 min at 72 °C and the samples were then chilled to 4˚C. PCR reactions were run in a Applied Biosystems™ Veriti™ 96-Well Thermal Cycler (Thermo Fisher Scientific, San Diego, CA). The PCR products were electrophoresed in an agarose gel to confirm successful amplification..
+
+Following PCR, amplification products were purified using the pre-sequencing Kit Illustra™ ExoProStar™ (GE Healthcare, Chicago, IL). Sequencing reactions were performed with the BigDye® Terminator Cycle Sequencing Kit v1.1 (Thermo Fisher Scientific, San Diego, CA) chemistry using both M13-F and M13-R sequencing primers to obtain forward and reverse sequences. Cycle Sequencing reactions were cleaned up using BigDye Terminator purification kit (Thermo Fisher Scientific, San Diego, CA). Purified sequencing reactions were analyzed using the Applied Biosystems 3500 Genetic Analyzer. The sequence data were analysed using the Sequencer software Ver. 4.10.1 (Gene Codes Corporation, Ann Arbor, USA)..
+
+Quantification of RNA extracted from swabs with the Qubit RNA High Sensitivity Kit (Invitrogen, USA) was possible only for 8/27 samples, due to the too low RNA concentrations of most samples (Table 2).Table 2Results of SARS-CoV-2 sequencing by Ion Torrent Genexus Integrated systemSample IDRNA quantificationNo. viral copies sequenced (25 μl)Total readsMapped reads (%)% complete genomeSequence nameQubit ng/μlReal time PCR copies/μlp01Too low< 20–104,23969,815 (66.9)100CAM-INTPas-14p03Too low74518631,710,4511,645,209 (96.2)100CAM-INTPas-1p04Too low60150431,728323,912 (75.0)100CAM-INTPas-16p061.2851,184127,9602,467,0922,323,266 (94.2)100CAM-INTPas-2p07Too low4621,1551,190,1121,127,406 (94.7)100CAM-INTPas-3p09Too low< 20–60,7396391 (10.5)84ap11Too low104926231,207,3271,133,720 (93.9)100CAM-INTPas-4p12Too low< 20–181,669156,664 (86.2)100CAM-INTPas-15p141.51< 20–79,4272003 (2.5)63.0ap15Too low< 20–317,5887843 (2.4)95.0ap17Too low12233058135,720124,336 (91.6)100CAM-INTPas-21p190.84418010,405748,062724,073 (96.8)100CAM-INTPas-5p24Too low84821201,535,8361,467,096 (95.5)100CAM-INTPas-6p311.1319798433,020381,523 (88.1)100CAM-INTPas-7p341.31543513,5881,502,5751,461,532 (97.2)100CAM-INTPas-8p361.19< 20–99,13524,489 (24.7)95.0ap37Too low203,140507,8501,776,7331,624,345 (91.4)100CAM-INTPas-9p38Too low79,570198,925300,518261,815 (87.1)100CAM-INTPas-10p391.0115,80639,5152,242,5282,082,937 (92.8)100CAM-INTPas-11p40Too low2459188,148129,527 (68.8)100CAM-INTPas-17p41Too low343585881,852,5391,759,592 (94.9)100CAM-INTPas-12p42Too low< 20–781,315656,572 (84.0)100CAM-INTPas-18p44Too low< 20–597,949367,619 (61.5)100CAM-INTPas-19p45Too low360900257,329223,036 (86.6)100CAM-INTPas-20p59Too low91122781,428,5771,383,059 (96.8)100CAM-INTPas-13p605.52< 20–1,202,2457406 (0.6)94.0ap61Too low< 20–96,3458783 (9.11)81.0aaNot submitted into the GISAID database.
+
+Results of SARS-CoV-2 sequencing by Ion Torrent Genexus Integrated system.
+
+aNot submitted into the GISAID database.
+
+The analysis performed with the TaqPath™ COVID-19 RT-PCR test found that nine samples had a viral load > 1000 copies/µl (range 1049–203,140), six had a load between 200 and 1000 copies/µl (range 319–911) and two samples carried < 200 copies/µl of the SARS-CoV-2 viral genome (values 24 and 60). Ten samples had viral loads < 20 copies (Table 2)..
+
+We used the SARS-CoV-2 Research Assay protocol for sequencing the 15 samples with a high viral titer (> 200 copies/µl) while the SARS-CoV-2 Low Titer Research Assay protocol was employed for the remaining samples with low (< 200 copies/µl) viral titer..
+
+The Ion Sphere Particles (ISP) loading was 92.83% for the SARS-CoV-2 Research Assay run and 90.1% for the SARS-CoV-2 Low Titer Research Assay run. In addition, 99.89% of the ISP was represented by libraries for both assay protocols. These results show the good quality of the sequenced libraries in both standard and low titer protocols, thus demonstrating the high performance of the panel in terms of target amplification and sequencing specificity..
+
+All samples returned reads mapping to the 5 human expression controls of the Ion AmpliSeq SARS-CoV-2 Research Panel, indicating that automated library generation on the Genexus Integrated Sequencer was successful..
+
+Reads not mapped to the human expression controls were mapped against the SARS-CoV-2 reference sequence to determine percent base reads on target. The mean percent of reads on target for the 12 cases with low viral titer was 41.53% (range 5–98%) with a median value of 36% [standard deviation (s.d.) ± 41] (Table 2). In contrast, the mean value for samples with high titer was 95.6% (range 80.6–99.8%) with a median of 98.2% (s.d. ± 8)..
+
+The complete genome (100%) of SARS-CoV-2 was successfully obtained for 21 samples with a mean coverage > 100× (max coverage 13,393×; min coverage 142×) (s.d. ± 4.378). In particular, the complete genome was fully sequenced for all samples with high viral titer (> 200 copies), for the two samples with a viral genome copy number < 200 but greater than 20, and for 4/10 samples with viral load < 20 (Table 2)..
+
+Phylogenetic analysis was performed on 21 sequences (Table 3). In comparison to the reference strain Wuhan-Hu-1 (Accession number: NC_045512.2), 48 total variants were observed with 26 non-synonymous substitutions, 18 synonymous and 4 reported in untranslated regions (UTRs) (Table 3). Ten of the 26 non-synonymous were observed in ORF1ab, 7 in S, 1 in ORF3a, 2 in M and 6 in N genes.Table 3Variants of Italian SARS-CoV-2 complete genomeGene namePositionMutationCodon changeAmino acids changeNo. Italian samplesReported before5′ UTR241C/T21Yesorf1ab nsp1586SynonymousctT/ctCL1071Yesorf1ab nsp21117SynonymousatT/atCI1041Yesorf1ab nsp21191NonsynonymouscCa/cTaP129L2Yesorf1ab nsp21524NonsynonymoustGt/tAtC240Y1Yesorf1ab_nsp22488SynonymousttC/ttTF5611Noorf1ab nsp22498NonsynonymousGaa/AaaE565K3Noorf1ab nsp33037SynonymousttC/ttTF10621Yesorf1ab nsp34235NonsynonymousAat/GatN506D1Yesorf1ab nsp34255SynonymousccG/ccTP5123Yesorf1ab nsp35812SynonymousgaC/gaTD10311Yesorf1ab nsp36629NonsynonymousCtt/TttL1304F1Yesorf1ab nsp37094NonsynonymousAct/GctT1459A1Noorf1ab nsp49157SynonymousttT/ttCF2011Yesorf1ab nsp611,008SynonymouscaC/caTH121Noorf1ab nsp611,083NonsynonymousttG/ttTL37F1Yesorf1ab nsp1213,748NonsynonymousAgt/GgtS103G2Yesorf1ab nsp1214,408SynonymousCta/TtaL32321Yesorf1ab nsp1215,243NonsynonymoustGt/tAtC601Y1Yesorf1ab nsp1316,456NonsynonymousTca/CcaS74P1Yesorf1ab nsp1519,839SynonymousaaT/aaCN732Yesorf1ab nsp1520,380SynonymousCta/TtaL2541NoS21,566NonsynonymousTtt/CttF2L1NoS21,575NonsynonymousCtt/TttL5F2YesS22,629NonsynonymousaAg/aGgK356R1NoS23,403NonsynonymousgAt/gGtD614G21YesS23,422SynonymousgtC/gtTV6202YesS23,569SynonymousggT/ggCG6691NoS23,575SynonymoustgC/tgTC6711YesS23,589NonsynonymousaCt/aTtT676I1NoS23,675NonsynonymousGtt/TttV705F1YesS23,849SynonymousTta/CtaL7632YesS25,135NonsynonymousaaG/aaTK1191N1YesORF3a25,621NonsynonymousGtt/TttV77F1NoUTR ORF3a-M26,522C/T2NoM26,530NonsynonymousgAt/gGtD3G3YesM26,858SynonymousttC/ttTF1121YesM26,915SynonymousagA/agGR1311NoM27,046NonsynonymousaCg/aTgT175M1YesN28,514NonsynonymousGat/TatD81Y1YesN28,881NonsynonymousaGG/aAAR203K4YesN28,882SynonymousAgG/agAR2034YesN28,883NonsynonymousGga/CgaG204R4YesN28,902NonsynonymousaTg/aCgM210T1YesN28,985NonsynonymousGgc/TgcG238C1YesN29,009NonsynonymousGtc/AtcV246I1Yes3′ UTR29,686C/T2Yes3′ UTR29,823T/A1Yes.
+
+Variants of Italian SARS-CoV-2 complete genome.
+
+The ORF1ab is the longest gene of CoV genome (21,289/29,903 bp) and is cleaved into non-structural proteins (NSP1-NSP16). Among NSPs, the NSP2 and NSP3 had the highest number of variants with 5 and 7 mutations, respectively..
+
+The most common variants were the C241T and the C3037T in NSP3, the C14408T in NSP12 within the ORF1ab, and the D614G within the S protein. We compared the variants revealed in our complete genomes with those reported in the SARS- CoV-2 Mutation Browser v-1.3 database, containing sequence analysis of 10,416 SARS-CoV-2 strains from 111 locations and 6678 mutating positions. Interestingly, 12 variants were never detected before, of which 5 were reported in ORF1ab and 4 in S gene (Table 3). We could confirm 11/12 previously unreported variants by resequencing samples with available RNA by using an S5 XL apparatus (Additional file 1: Table S1). Sequencing of the p12 sample carrying the F2L variant in the S protein failed. In addition, the variants F561, E565K in orf1ab nsp2, K356R in the spike gene and V77F in orf3 were also confirmed by Sanger sequencing in samples with available RNA..
+
+Following the GISAID classification, the variants C241T, C3037T, A23403G are the most common detected in several SARS-CoV-2 isolates throughout Europe. These mutations are characteristic of clade G and comprises the large Italian outbreak (since 29/01/2020 and still ongoing). Seventeen Italian complete genomes from this study showed the three mutations suggesting their classification in the clade G, lineage B.1. In addition, four sequences showed an additional mutation (G28882A) suggesting the classification in the clade GR, lineage B.1.1 originated from B.1, another clade mostly reported in Europe and in Italy. The classification within the G and GR clade was confirmed by phylogenetic analysis. The maximum likelihood tree showed 9 clusters within the G clade and 3 clusters within the GR clade..
+
+Within the G clade, 13 sequences did not cluster with any other sequence. Three were reported from the municipality of Napoli and did not cluster with sequences from this study (p01, p12, p38)..
+
+One cluster showed sequences from the municipality of Napoli, p17 and p07, while p40 and p04 were from different municipalities. The major cluster with sequences from this study had 6 sequences represented by p11, p03, p41, p06, p59 from Napoli and the p37 sequence out of the sub-cluster from the province of Caserta. Two clusters showed the presence of sequences reported in other Italian regions. The p44 strain clustered with hCoV-19/Italy/LAZ-INMI-8/2020 (EPI_ISL_424342) from Central Italy (Lazio region), hCoV-19/Italy/VEN-UniVR-6/2020 (EPI_ISL_492985) and hCoV-19/Italy/LOM-UniMI-L160/2020 (EPI_ISL_542155) collected at the beginning of March in Northern Italy (Veneto and Lombardia regions)..
+
+The p19 and p24 showed evolutionary correlation with sequences from Lazio, Marche and Abruzzo regions collected in March 2020: hCoV-19/Italy/LAZ-INMI-9/2020 (EPI_ISL_424343), hCoV-19/Italy/MAR-UnivPM-78955-2/2020 (EPI_ISL_516088), hCoV-19/Italy/LAZ-INMI11-B/2020 (EPI_ISL_451304), hCoV-19/Italy/ABR-IZSGC-TE7097/2020 (EPI_ISL_528929) with p34 and hCoV-19/Italy/ABR-IZSGC-TE5472/2020 (EPI_ISL_420564) out of the former cluster..
+
+Within the clade GR, one sequence did not cluster (p39) while p42 clustered with hCoV-19/Italy/LOM-UniMI-L182/2020 (EPI_ISL_542173) from Northern Italy (Lombardia region) and hCoV-19/Italy/SAR-AMVRC-28/2020 (EPI_ISL_458085) from Central Italy (Sardinia region). The p31 and p45 from different municipalities clustered together..
+
+The variants shared by p03 and p34, who have history contact, were inspected. The p34 sample shared two variants, P512 in ORF1ab NSP3 and D3G in M, with p19 and p24 samples, whereas p03 did not show these mutations, confirming the different origin of viral infection between the two cases. Based on the phylogenetic analysis related sequences were reported from different municipalities and the large municipality of Napoli showed the circulation of several viral sequences with point mutations shared within strains phylogenetically correlated or not. In addition, as reported in Table 1, p03 and p34 declared close contacts among them, however, they clustered in different position within the phylogenetic tree and showed different point mutations (Fig. 1).Fig. 1Maximum likelihood tree built using 133 SARS-CoV-2 complete genomes downloaded from GISAID database and 21 Italian strains reported in bold. The phylogenetic was built using IQ-TREE using the best fit model indicated by the Model Finder implemented in IQ-TREE and 1000 bootstrap replicates. Bootstrap > 70 are reported at nodes.
+
+Maximum likelihood tree built using 133 SARS-CoV-2 complete genomes downloaded from GISAID database and 21 Italian strains reported in bold. The phylogenetic was built using IQ-TREE using the best fit model indicated by the Model Finder implemented in IQ-TREE and 1000 bootstrap replicates. Bootstrap > 70 are reported at nodes.
+
+Since the first complete genome sequencing of SARS-CoV-2 on 31 December 2019, and the first Italian case of COVID-19 in Italy [17], more than 550,000 complete genomes have been sequenced worldwide and released on GISAID database after 1 year of pandemic. To date, the most used and successful sequencing method to obtain complete genome is NGS. We present here the complete sequencing of SARS-CoV-2 genomes using the Ion Torrent Genexus System, a highly automated sequencer. In this study, 21 out of 27 SARS-CoV-2 RNA, tested with Genexus System, were fully sequenced..
+
+The 6 samples not fully sequenced had a number of copies lower than the limit of quantification of the Real Time PCR assay (20 copies) and 3 of them had too low RNA for the Qubit quantification. The results suggest that samples had an amount of viral RNA closer to the limit of sequencing potential of the amplicon-based Ampliseq technology. However, despite the low number of copies and RNA, too low to be detected by the Qubit, four samples were fully sequenced suggesting that other factors related to the quality of the sample may also affect the success of library preparation and sequencing reaction..
+
+The results obtained, however, highlight the potentiality of the Genexus System: (i) the users are involved only in the sample preparation and quantification, (ii) the automated process allows the users to focus on NGS raw data check and subsequent bioinformatic analysis, (iii) the technology allowed the complete genome sequencing of 78% of the samples (21/27) obtained from routine SARS-CoV-2 diagnosis process, with additional 3 samples showing nearly completed sequencing of the genome (> 95%). Moreover, the Genexus System permits the sequencing of 32 multiplexed samples in less than 24 h, representing a useful method for SARS-CoV-2 surveillance during a pandemic event. The Genexus System could be useful to analyse in a few days, respect to the Sanger sequencing, several viral strains from patients with an abnormal clinical presentation such as a very late viral clearance or to identify possible new variants in situations of rapid increase of contagions..
+
+The complete genome sequences obtained were analysed by phylogenetic analysis and compared to the 133 Italian complete genomes on GISAID database collected in the same period of the samples analysed in this study. The sequences here reported were collected in March and April 2020 from nasopharyngeal swabs from Napoli province and nearby towns in the Campania region. The sequences clustered within the two lineages, B.1 and B.1.1, which were mostly detected in Italy and worldwide since February 2020, when the D614G mutation of the B.1 lineage was reported for the first time..
+
+The Italian sequences within the B.1 formed 9 clusters while other 3 clusters were in B.1.1, confirming the heterogeneity of circulating strains. In addition, most of the sequences under study (14/21) were collected from Napoli and formed 7 different clusters consistent with an area with high population density. Two clusters (e.g.: p19, p44) were formed by strains from this study, showing evolutionary correlation to SARS-CoV-2 sequences reported in other Italian regions and suggesting common origin of viral strains. The cluster formed by p40 and p04 sequences also showed the circulation of correlated sequences in different municipalities suggesting intra-municipality commutes..
+
+To date the only differences reported among SARS-CoV-2 are point mutations, excepting the deletion described in the B.1.1.7 and P.1, reported for the first time in December 2020 in the United Kingdom and Brazilian variants. The point mutations reported in this study and shared by all complete genomes are related to the B.1 and B.1.1 lineages as the D614G..
+
+Other mutations were reported in one or two sequences only and never reported before. Since these mutations never fixed in the viral population, we can speculate that a correlation between these SNPs and viral adaptation may exist. The genes with the high number of point mutations were the spike with 11, 6 in nsp3 and 7 in N, three genes under positive selection [18, 19]..
+
+It is interesting to note that two patients who tested positive after a business meeting (p03 and p34) actually have genomic sequences not closely correlated, thus suggesting different origins of the infection. The sequencing of the viral genome can therefore also better clarify some dynamics relating to the spread of the infection in hospitals or in communities..
+
+Since the appearance of SARS-CoV-2 several mutations have been reported in the spike gene and novel mutations are continuously described [10, 20–23]. Selected mutations such as the D614G might provide an advantage to the virus by increasing the cellular infectivity and virus transmissibility. Recently, a N501Y mutation on the Spike gene has been reported [24] showing a higher affinity to human ACE2 protein as compared to D614G. The surveillance on circulating strain is highly relevant today because the novel variants, with multiple mutations in their spike glycoproteins, are key targets of virus-neutralizing antibodies and raise the concern of vaccine efficacy against the novel strains..
+
+During a pandemic event the surveillance of circulating strains is crucial to understand the evolution of viral strains and the emerging of novel variants. This study is a first observation of variants detected in the Campania region; a region less affected than Italian Northern regions in the first phase of the pandemic in Italy. In particular, we reported the circulation of different variants within the Napoli province and the heterogeneity of different strains circulating between and within municipality. In addition, a novel automated technology as the Ion Torrent Genexus Integrated system allowed complete genome sequencing even of samples with relatively low viral titer in a relatively short timeframe, thus facilitating the continuous surveillance of novel variants..
+
+
+Additional file 1: Table S1. Confirmation of unreported variants by S5 and Sanger sequencing..
+
+Additional file 1: Table S1. Confirmation of unreported variants by S5 and Sanger sequencing..
+
+Coronavirus disease-19.
+
+Severe Acute Respiratory Syndrome coronavirus 2.
+
+Next Generation Sequencing.
+
+Middle East Respiratory Syndrome Coronavirus.
+
+Open reading frames.
+
+Spike.
+
+Envelope.
+
+Membrane.
+
+Nucleocapsid.
+
+6-Carboxyfluorescein.
+
+6-Carboxy-X-rhodamine.
+
+Limit of detection.
+
+REconstruction of COronaVirus gEnomes & Rapid analysis.
+
+Untranslated regions.
+
+Non-structural proteins.
+
+Angiotensin-converting enzyme 2.
+
+Publisher's Note.
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations..
+
+Anna Maria Rachiglio and Luca De Sabato contributed equally to this work.
+
+Not applicable..
+
+AMR, CR, RP, FB: NGS sequencing; MC, MF, DT: isolation of viral RNA; LDS: phylogenetic analysis; EC, GB, GP, GV, NN: study conception and design; LDS, AMR, GV, NN: analysis and interpretation of data; AMR, LDS, GV, NN: wrote the manuscript. All authors read and approved the final manuscript..
+
+Project “Caratterizzazione bio-molecolare del virus SARS-CoV-2 e dei cofattori dell'infiammazione implicati nella patogenesi della covid-19”, funded by the Campania region. NGS reagents for Genexus were kindly provided by Thermofisher..
+
+The datasets used and/or analyzed during the current study are available from GISAID database (https://www.gisaid.org)..
+
+The research protocol was approved by the Institutional Review Board (IRB) of the Istituto Nazionale Tumori “Fondazione Giovanni Pascale”..
+
+All authors approved the manuscript and agreed to publish..
+
+The authors declare no conflict of interest..
+

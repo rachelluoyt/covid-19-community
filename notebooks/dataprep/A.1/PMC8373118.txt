@@ -1,0 +1,1476 @@
+COVID‐19 is disastrous to global health and the economy. SARS‐CoV‐2 infection exhibits similar clinical symptoms and immunopathological sequelae to SARS‐CoV infection. Therefore, much of the developmental progress on SARS‐CoV vaccines can be utilized for the development of SARS‐CoV‐2 vaccines. Careful antigen selection during development is always of utmost importance for the production of effective vaccines that do not compromise recipient safety. This holds especially true for SARS‐CoV vaccines, as several immunopathological disorders are associated with the activity of structural and nonstructural proteins encoded in the virus's genetic material. Whole viral protein and RNA‐encoding full‐length proteins contain both protective and “dangerous” sequences, unless pathological fragments are deleted. In light of recent advances, peptide vaccines may present a very safe and effective alternative. Peptide vaccines can avoid immunopathological pro‐inflammatory sequences, focus immune responses on neutralizing immunogenic epitopes, avoid off‐target antigen loss, combine antigens with different protective roles or mechanisms, even from different viral proteins, and avoid mutant escape by employing highly conserved cryptic epitopes. In this review, an attempt is made to exploit the similarities between SARS‐CoV and SARS‐CoV‐2 in vaccine antigen screening, with particular attention to the pathological and immunogenic properties of SARS proteins..
+
+Careful antigen selection is essential for development of an effective and safe SARS‐CoV‐2 vaccine. Considering recent advances, peptide vaccines can be ideal substitutes for protein and RNA/DNA‐based vaccines. Peptide vaccines can avoid immunopathological sequences, focus immune responses on neutralizing B‐cell and on T‐cell epitopes, combine antigens from different viral proteins, and avoid mutant escape by employing conserved epitopes.
+
+.
+
+
+A. O.Shalash, W. M.Hussein, M.Skwarczynski, I.Toth, Key Considerations for the Development of Safe and Effective SARS‐CoV‐2 Subunit Vaccine: A Peptide‐Based Vaccine Alternative. Adv. Sci.2021, 8, 2100985. 10.1002/advs.202100985
+.
+
+SARS‐CoV‐2 (abbreviated here as SARS‐2) infection is the causative factor underlying coronavirus disease of 2019—more generally known as COVID‐19. The novel SARS‐2 outbreak, which initially presented in Wuhan in the Hubei province of China, rapidly transitioned into a worldwide pandemic, as declared by the WHO on March 11, 2020.[
+1
+] In the 16 months since the first documented case, well over 160 million people (confirmed cases) have been infected with SARS‐2 and it has claimed over 3.3 million human lives. The overall mortality rate of the infection has been estimated to be around 2.1%.[
+2
+] Currently (May 2021), the heaviest infection burden is in the United States, India, Brazil, France, Turkey, Russia, United Kingdom , Italy, Spain, Germany, Argentina, Columbia, Poland, Iran, Mexico, and Ukraine: each of these localities has more than 2 million infected cases. Positively, infections are mostly under control in some countries, including China, Canada, Australia, and Taiwan. However, it needs to be noticed that world infection burden is changing rapidly. The economic losses from the “lockdown” of cities and whole countries, the severely impacted tourism and transport industries, and the rapid shutdown of services provided by a diversity of small businesses across the globe have been estimated to be in the hundreds‐of‐billions of dollars.[
+3
+]
+.
+
+Three different zoonotic coronavirus epidemics have occurred in the past two decades. In addition to COVID‐19 disease, an outbreak of severe acute respiratory syndrome disease (SARS), which was caused by SARS‐1 virus, occurred in 2002 in the Guangdong province of China, and Middle East respiratory syndrome diseased, which was caused by MERS‐CoV virus, occurred in 2012 in Saudi Arabia (KSA). These viruses resulted in mortality rates of around 10% and 35%, respectively. The two previous outbreaks were well contained and, in each case, fatalities were limited to a few hundred.[
+1, 4, 5
+] In contrast, containment efforts for SARS‐2 failed, and global spread ensued. However, the extensive research conducted on MERS‐CoV and SARS‐1 infections provided solid background for the development of treatments for SARS‐2 and facilitated rapid advancement of several vaccine candidates and antiviral drugs to clinical trials.[
+6, 7
+] That being said, at present, there are still no approved therapeutic vaccines against any of the coronavirus infections: SARS‐1, MERS‐CoV, or SARS‐2. Recently, the DNA vaccine, nCoV‐19 ChAdOx‐1 (AstraZeneca/Oxford), and mRNA vaccines, mRNA‐1273 (Moderna), and BNT‐621 b1/b2 (Pfizer/Biontech), were approved for prophylactic human use. Several other vaccines, such as Ad26.COV2.S (Johnson & Johnson), Sputnik V (Gamaleya), and CoronaVac (Sinovac) have also been approved, but only for use in certain countries. Furthermore, the only approved antiviral medication (Remdesivir, Veklury) has very modest efficacy (15% survival compared to 11% for the placebo group, n = 521).[
+8
+] Likewise, it failed to demonstrate significant benefits in treatment of moderate or severe illness in small clinical trials.[
+9, 10
+]
+.
+
+Notably, peptide‐based vaccines against these coronaviruses have been overlooked. However, they may hold great potential in providing safe and protective immune responses against SARS‐2 infections. Therefore, this review summarizes the immunogenicity and protective capacity of SARS antigens, as well as the pathological dangerous sequences mapped within the highly similar SARS proteome. In addition, adjuvant choice, animal models of infection, SARS vaccination approaches with relative efficacy, and potential adverse responses are discussed..
+
+SARS‐2 virus is a positive‐sense (+) ssRNA‐enveloped virus of the Betacoronavirus genera, Coronaviridae family. SARS‐2 (Accession no. MN908947.3) has a similar overall genome identity to several other coronaviruses, such as bat coronavirus RaTG13 (96% similar, Accession no. MN996532.1) and SARS‐CoV (SARS‐1) (82% similar, Urbani strain, Accession no. AY278741.1). RaTG13 has 99% genome coverage, while SARS‐1 has 88% coverage of the SARS‐2 genome. MERS‐CoV (Accession no. NC_019843.3), the causative agent of MERS coronavirus infections, appears to the most divergent of the group, with only 30% genome coverage of SARS‐2, as calculated using the Blast‐n server.[
+11
+]
+.
+
+Upon entry into host cells, SARS‐2 viral single‐stranded RNA transcription occurs after the translation of replicase–transcriptase enzymes from viral RNA. It encodes four structural proteins: spike (S), membrane (M), envelope (E) and nuclear (N) proteins, and 16 nonstructural proteins (NSPs) (Figure 1). M‐protein plays a role in budding of the viral membrane and N‐protein is essential for the packaging of virus RNA.[
+12
+] S‐protein plays a virulent role mediating viral attachment and fusion into host cells.[
+13, 14, 15
+] E‐protein plays a key role in viral life cycle contributing to assembly and budding, and functions as ion‐channeling viroporin.[
+16
+] The open reading frames (ORFs: portions of RNA sequence encoding amino acids without stop codons) encode several NSPs that play various roles in viral replication and the disruption of host immune responses. NSP‐1 inhibits host mRNA translation, while viral RNA helicases and polymerases, encoded in ORF1‐NSPs 7–16, transcribe viral RNA. Viral proteases, for example, PLpro and 3CLpro, are encoded in ORF1‐NSPs 2–6, cleave the polyprotein precursor directly translated from viral RNA. Finally, in addition to NSPs, nine accessory factors are also encoded in viral RNA within several ORFs, that is, ORF 1, ORF 3, ORFs 6–9, and ORF 10, which interfere with host interferon production (Figure 1).[
+17
+]
+.
+
+SARS‐2 genome, spike protein, and receptor binding domain (RBD). A) Viral RNA‐encoding structural (S, E, M, and N) and nonstructural proteins (NSPs). B) S‐protein subdomains. C) Sequence and structural conformation of RBD. In the RBD sequence: the residues highlighted in red are critical ACE2‐receptor binding residues; grey highlighted residues are the binding motif (RBM); the blue arrows indicate strand structure; the red cylinders indicate helical structure; and the black bonds between cysteine residues are native disulfide bonds..
+
+S‐protein is a homotrimeric transmembrane class‐I fusion glycoprotein that coats the surface of the SARS‐2 viral membrane. S‐protein is responsible for binding to the host cell surface receptor, fusing, and then entering into the host cell to initiate replication (Figure 2).[
+18
+] Therefore, S‐protein plays a key role in pathogenesis, virulence, and tissue invasion. SARS‐2 S‐protein (SARS‐2‐S) is homologous to SARS‐1 S‐protein (SARS‐1‐S) and RaTG13 S‐protein, with identity similarities of 75% and 98%, respectively, as calculated by the ClustalW server.[
+19
+]
+.
+
+Schematic representation of A) binding, B) priming, C) S‐protein conformational changes, and the D) fusion process of SARS‐2 or SARS‐1 to a host cell bearing ACE2 receptor. A) SARS‐2 virus binds to the ACE2 receptor of a host cell via S‐protein RBD. B) Host proteases prime the S‐protein intra‐, or extracellularly. C) S‐protein adopts a hairpin coiled coils conformation and exposes the fusion peptide. D) Primed S‐protein with exposed fusion peptide drives virus fusion to the host cell, and viral RNA is injected for intracellular translation and transcription, and replication..
+
+Similar to other Betacoronaviruses, the SARS‐2‐S protein ectodomain has two main subunits and several domains: subunit 1 (S1) contains a receptor binding domain (RBD) located close to the S1/S2 cleavage site, while the S2 subunit contains fusion peptide (Figure 1B).[
+13, 14, 15, 20
+] S‐protein trimer in the prefusion conformation is metastable and it can only bind to a receptor in its open conformation, that is, when one or more of the three RBDs are adopting the up‐position. The open, or “one‐up, two‐down” RBD conformation of S‐protein trimer was found to be most stable with 58% prevalence, while “two‐up” and “three‐up” conformations were less prevalent with 39% and 3%, respectively, in SARS‐1‐S. The one‐up, two‐down RBD conformation was also found to be most prevalent in SARS‐CoV‐2‐S.[
+18, 21
+] SARS‐2‐RBD in up‐position binds to host cell angiotensin‐converting enzyme 2 (ACE2), which is expressed by lung type‐II pneumocytes and alveolar macrophages.[
+13, 14, 15, 18, 22, 23
+] It is also worth noting that ACE2 is expressed in several other tissues, including muscles, adipose tissue, and the brain, kidney, and intestinal tract.[
+24
+]
+.
+
+The binding of SARS‐2‐S to host cell receptor ACE2 causes conformational changes that facilitate priming of the S‐protein (Figure 2A). S‐protein RBD binding to ACE2 reveals the S1/S2 cleavage site, and the host's proteolytic enzymes (e.g., furin, TMPRSS‐2, and cathepsin‐L) cleave at the polybasic (arginine‐rich) sites at the S1/S2 position, at 681RRAR685, and S2ʹ position, at KR815.[
+21, 25
+] Cleavage by host enzymes sheds the S1 subunit, and exposes previously hidden S2 fusion machinery (Figure 2B,C).[
+26, 27
+] The remaining S2 subunit irreversibly changes conformation into a coiled coils bundle of six helices with hairpin‐like structure that mediates fusion between the viral membrane and host cell membrane (Figure 2D)..
+
+The RBD of the SARS‐2 S‐protein (SARS‐2‐RBD) has 75% sequence similarity to SARS‐1‐RBD. However, the similarity between the receptor binding motifs (RBM: amino acid sequence within the RBD that is in intimate contact with the ACE2 receptor) is lower (59%) (Figure 1C).[
+28
+] Albeit, several critical binding residues (CBRs) are conserved and some others are close analogous residues.[
+22
+] The 6‐fold stronger binding affinity of SARS‐2‐RBD to ACE2 (≈15 nm) compared to SARS‐1‐RBD is naturally attributed to the amino acid sequence differences of the RBM region and also to minor, but significant, conformational changes due to modified disulfide bonds within the RBD (Figure 3).[
+18, 22, 29
+] Recently, it was reported that the exclusion of just one or two disulfide loops within the RBD of the S‐protein could completely prevent virus entry into cells.[
+13
+]
+.
+
+Comparison of SARS S‐proteins. A) Graphically aligned SARS‐2‐RBD (purple, from protein database, PDB: 6M0J) and SARS‐1‐RBD (blue, from PDB: 2AJF). SARS‐2‐RBM is marked in green. B) Graphically aligned RBDs of both viruses with a surface mesh electrostatic map of S‐protein RBM (grey) in contact with ACE2, produced using Schrodinger Bioluminate software. The close similarity between these two viral RBDs suggests the presence of common neutralizing epitopes..
+
+ACE2 is a member of the dipeptidyl peptidase enzyme‐receptor family.[
+30
+] It is an important part of the blood pressure regulation renin angiotensin system (RAS),[
+31
+] as it cleaves angiotensin II (Ag‐II) and converts it into angiotensin (1–7), which reduces blood pressure. While SARS‐1 and SARS‐2 S‐proteins bind to ACE2 receptors to gain entry into a host cell, MERS‐CoV instead employs dipeptidyl peptidase‐4 (DPP‐4).[
+30
+] ACE2 expression reflects viral host and tissue tropism. ACE2 is highly expressed in several human tissues, like lung, kidney. and heart tissue,[
+32, 33, 34, 35
+] but has far lower expression in other tissues, for example, in the upper respiratory tract. This explains the very mild effects of SARS infections on the upper respiratory tract compared to the lower respiratory tract.[
+36, 37, 38
+] The high ACE2 expression in type‐II pneumocytes in the lower respiratory tract and in heart ventricular tissues explains the severe illness sequelae, including elevated viral RNA load in the ventricles of deceased patients.[
+38, 39
+] In the lungs, where the infection generally takes the strongest hold, SARS‐1 not only infects pneumocytes II, but also macrophages, as they too express ACE2.[
+40
+] This causes damage to lung tissues as well as alveolar macrophages..
+
+The binding of both SARS viruses, through RBDs, occurs at the anionic ridge of ACE2 at the entrance to the catalytic site (position 636–717), but not within the catalytic site itself.[
+20, 29, 41, 42
+] The RBD contains several amino acids that are able to form hydrogen bonds, and cationic amino acids that form electrostatic interactions or salt bridges with the anionic amino acids of the ACE2 ridge.[
+29
+] The binding mode of RBDs to ACE2 is similar for both SARS viruses, and neither require glycosylation of the S‐protein. CBRs for SARS‐2‐RBD are K417, G446, Y449, Y453, L455, F456, F486, A475, N487, Y489, Q493, G496, Q498, T500, N501, G502, and Y505. These residues are located in the RBM region, position 438 to 506, in the S1‐subunit of the S‐ectodomain; they carry similar amino acids to SARS‐1.[22,42] However, this does not mean that noncontact residues are unimportant; they impart the structural conformation necessary for the contact residues to bind effectively.[
+20, 41, 42
+]
+.
+
+Recently, SARS‐2 S‐protein was found to be able to bind to neuropilin‐1 (NRP‐1) receptors.[
+43
+] The presence of this receptor affects tissue tropism in the presence of ACE2. The relative infectivity is 1.6‐fold higher with a combined presence of ACE2 and NRP‐1, compared to ACE2 alone in human embryonic kidney cells.[
+13, 14, 43
+] The NRP‐1 receptor binds to the C‐terminus of RBD after S1/S2 cleavage by host enzymes. Therefore, S‐protein priming is critical for NRP‐1 to function as an entry receptor. Since priming occurs after conformational alteration to the S‐protein, which takes place due to ACE2 binding, NRP‐1 can enhance infectivity only in the presence of ACE2.[
+43
+] NRP‐1 is expressed mainly in smooth muscles, lung cells, cardiac myocytes, and dendritic cells (DCs).[
+44
+] It has been suggested that the presence of this alternative virus entry receptor, especially in the upper lung airways, could explain the more severe symptoms associated with SARS‐2 disease compared to SARS‐1 infections.[
+43
+] However, if this were the case, then the increased tissue tropism and virulence would be dependent on the co‐expression of ACE2 and NRP‐1, as well as the priming enzymes, in the tissues. Since ACE2 is only highly co‐expressed with NRP‐1 in a few tissues, the overall effect would not be highly significant, that is, in the absence of ACE2. Still, it could be beneficial to include immunogenic epitopes near or at the cleavage site of S1/S2 in peptide vaccine to prevent NRP‐1 from binding to the C‐terminus of RBD after priming..
+
+The SARS‐1 proteome comprises several structural and NSPs that play immunopathological roles.[
+45, 46
+] Unfortunately, no similar studies have been published on the immunopathology of sequences within SARS‐2 proteins so far. Coronavirus infections, especially SARS‐1 and SARS‐2,[
+47, 48
+] are associated with the suppression of type‐I interferons (IFNs‐I) in patients showing severe illness (compared to those with mild illness)[
+48
+] and the induction of pro‐inflammatory cytokine and chemokine production.[
+49, 50, 51, 52, 53
+] IFNs‐I (IFN‐α and IFN‐β) can stimulate the immune system to generate appropriate virus‐specific adaptive immune responses that counter and locally contain infection within afflicted tissues. Inflammatory cytokines, on the other hand, can deteriorate patient clinical status rapidly and even more severely than viral replication itself. This is supported by the deterioration of SARS‐1‐infected patients’ clinical conditions, characterized with severe coagulopathy, coinciding with the increase in inflammatory cytokine level and infiltration of monocytes and neutrophils, rather than the level of viral load, that is, replication‐associated damage.[
+54, 55
+] This highlights the essential importance of careful antigen and adjuvant selection in order to control the cytokine release profile and develop a safe adaptive immune response..
+
+Since most of the influential immunopathological sequences in SARS‐1 viral proteins are similar (or identical) to those of SARS‐2, it is expected that they play the same role in infection. This is also supported by similar clinical symptoms and cytokine release profiles exhibited by both types of SARS infections (Figure S1, Supporting Information).[
+49, 50, 51, 53, 56
+] SARS‐2 infection is characterized by leaky vasculature and infiltration of inflammatory neutrophils. In COVID‐19 severe illness, the spread of immunopathology radiates in the lower respiratory tract, resulting in fibrosis, diffuse alveolar damage, and pneumonia from the accumulation of cell debris, fluids and fibrils, thus compromising the gas exchange processes. The cytokine profile of SARS‐1‐infected patients is characterized by elevated expression of IL‐1ß, IL‐6, IL‐8, MCP‐1, and IP‐10 (CXCL‐10); this is similar to the elevated pro‐inflammatory cytokine expression of SARS‐2‐infected patients.[
+51, 57
+] Elevated IL‐6 cytokine level, which is prominent in both infections, induces vascular permeability and the production of IL‐8, MCP‐1, and more IL‐6.[
+58
+] In young patients, moderate levels of pro‐inflammatory cytokines and IFN‐γ have been reported; this could be a contributing factor to the comparatively low fatality rate of infected children.[
+53, 56, 59
+]
+.
+
+COVID‐19, like SARS disease, shifts the immune system toward an innate Th2 hyperreactivity response, while inhibiting Th1 responses by blocking IFN‐I signaling and production pathways. As a result, cytokine storm chemotaxis recruits inflammatory cell responses, which induce tissue‐damaging inflammatory immune responses, for example, IL‐8 recruits neutrophils, and CCL3 (MIP‐1α) signals a macrophage inflammatory response.[
+55
+] These latter immune cells contribute to immunopathology, for example, neutrophil infiltration, as reported in severe illness symptoms and in deceased patients.[
+49, 60, 61, 62, 63
+] Inflammatory cell recruitment results in acute damage to the lungs. Therefore, immunopathology‐causing sequences and viral components should be avoided for the production of safe vaccines..
+
+Alveolar macrophages and respiratory dendritic cells are vital antigen presenting cells (APCs), which are normally responsible for pathogen sampling and phagocytosis, as well as the development of adaptive immune responses through the production of necessary Th1 or Th2 interleukins, or both. The infection of alveolar macrophages, albeit not well investigated to date, may play a key role in pro‐inflammatory cytokine storm release.[
+45
+] Thus, activation of respiratory dendritic cells might be a more effective pathway to fight infection.[
+64
+] Indeed, 100% of mice survived SARS‐1 (MA15) viral challenge following early depletion of alveolar macrophages.[
+64
+]
+.
+
+The production of IFNs‐1, such as IFN‐α and IFN‐β, is important in developing strong immune responses against viral infections. The pathways of IFN‐I production and signaling are blocked by SARS viral proteins.[
+46
+] The production of IFNs‐I occurs through two main processes that start with either 1) the toll‐like receptor (TLR) pathway, or 2) the retinoic acid‐inducible gene 1 (RIG‐1) and melanoma differentiation‐associated protein 5 (MDA‐5) pathway (Figure 4).[
+65, 66
+] The TLR pathway starts with recognition of pathogen‐associated molecular patterns, including viral RNA or proteins, in the cytoplasm or on the cell surface (Figure 4, pathway A). RIG‐1 and MDA‐5 detect pathogenic patterns, mainly viral RNA in the cytoplasm (Figure 4, pathway B). Myeloid differentiation response‐88 (MyD88) and toll‐interleukin‐receptor (TIR)‐domain‐containing adapter‐inducing interferon‐β (TRIF) adaptor molecules are signal transduction adaptors of most TLRs. They initiate the transformational growth factor‐β‐activated kinase 1 (TAK‐1) cascade that activates nuclear transcription factors IRF‐3 and IRF‐7 by phosphorylation and translocation into the nucleus. This leads to the transcription of IFN‐I genes. In contrast, RIG‐1 and MDA‐5 employ adaptor protein mitochondrial antiviral signaling proteins (MAVs) that activate the complex formation of TNF receptor‐associated factor‐3 (TRAF‐3), along with several other factors and activators. These then phosphorylate IRF‐3 and IRF‐7, which results in their transport to the nucleus for IFN‐I transcription (Figure 4, pathway B).[
+67
+]
+.
+
+Schematic representation depicting IFN‐I production and signaling pathways. Pathways are depicted using black arrows between involved cofactors, adaptors, signal proteins and enzymes. Two pathways are involved in IFN‐I production: A) TLR‐TRAF3, and B) RIG‐1/MDA5‐MAVS, which are blocked by structural and nonstructural SARS‐1 proteins (blue lines and red x marks). C) A signaling pathway for IFN‐I production: IFNARs‐STAT1/2, which is blocked by nonstructural proteins ORF‐3a, ORF‐6, and NSP‐1. Simultaneously, inflammatory cytokine production pathways are stimulated through the TLR‐MAPK pathway (blue arrows) driving the translocation of NF‐κB or AP‐1 via S‐protein, N‐protein, and ORF‐3b..
+
+The major signaling pathways for IFN‐I (IFN‐α and IFN‐β) transcription genes occurs through interferon stimulating gene factor‐3 (ISGF‐3). This signaling pathway is initiated by the activation of Janus kinases (JAK‐1, TYK‐2) and signal transducers and activators of transcription (STAT‐1 and ‐2). Together, this is known as the JAK/STAT pathway (Figure 4, pathway C). Thereafter, the cell surface receptors (IFNAR) recognize IFNs, and JAK‐1 and TYK‐2 phosphorylate STAT‐1 and STAT‐2, which leads to the recruitment of transcription factor (IRF‐9) and the formation of the ISGF‐3 complex of IRF9, STAT‐1 and STAT‐2. The ISGF‐3 complex activates and amplifies the transcription of IFNs‐I.[
+68
+]
+.
+
+Several viral proteins, or their domains/peptidic fragments, inhibit the aforementioned IFN‐1 production and signaling pathways. Therefore, the incorporation of such fragments/epitopes as vaccine antigens should be avoided to prevent training the immune system to develop a pro‐inflammatory response upon viral infection. SARS‐1 NSP‐1,[
+69, 70, 71, 72
+] NSP‐3,[
+73, 74, 75, 76
+] NSP‐7, and NSP‐15,[
+74
+] as well as ORF‐6,[
+74, 77, 78
+] M‐protein,[
+79
+] and N‐protein,[
+74, 78, 80, 81, 82, 83
+] were found to inhibit IFN‐I production[
+70
+] (Figure 4); most of these protein sequences are highly conserved in SARS‐2 (Figure 5). NSP‐1, through degradation of host mRNAs,[
+70, 71
+] and ORFs‐3a and ‐6, through blocking IFNARs,[
+74, 77, 78, 84
+] inhibit signaling for IFN‐1 amplification in infected host cells. M‐protein inhibits TRAF‐3 complex formation, while N‐protein, NSP‐3, and ORF‐3a and ‐6 inhibit phosphorylation of IRF‐3 as a key step in IFN‐I production.[
+73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86
+] Moreover, NSP‐1, N‐protein, E‐protein, S‐protein, and ORF‐3a, ‐3b and ‐7a upregulate the expression of pro‐inflammatory chemokines and cytokines from infected host epithelial cells by activating NF‐κB. These proteins are highly similar (80–90%) to their counterparts in SARS‐2, except for ORF‐3b, which is absent in SARS‐2. It is likely that they play similar immunopathological roles in SARS‐2 infections..
+
+Alignment of SARS‐2, SARS‐1, and RaTG13 structural S‐protein sequences, as generated by ClustalW. The black and blue boxes represent T‐cell epitopes that bind in humans and mice, respectively. The thin and bold boxes represent experimentally immunogenic cytotoxic T‐cell/MHC‐I epitopes and CD4+ T‐cell/MHC‐II epitopes, respectively. The orange boxes show experimentally immunogenic or neutralizing S‐RBD B‐cell epitopes, while the green boxes show experimental immunopathological sequences..
+
+ACE2 plays a major role in tissue repair, homeostasis, and fluid balance, while increased levels of Ag‐II are associated with acute tissue damage.[
+31
+] It was found that administration of SARS‐1 S‐protein downregulates ACE2 expression, induces inflammatory responses, and exacerbates acute lung injuries in vivo in mice.[
+87
+] Low ACE2 expression levels lead to an increase in Ag‐II, which increases blood pressure, thrombus formation, reactive oxygen species, and upregulation of matrix metalloproteinase‐2 and ‐9, as well as inflammatory cytokines, for example, IL‐6.[
+88, 89
+] Increased levels of Ag‐II in the blood are associated with acute pulmonary tissue damage and inflammatory cytokine (e.g., IL‐6) release. These effect were reversible upon addition of recombinant rACE2, which resulted in lower IL‐6 and Ag‐II levels and an increase in angiotensin 1–7 levels.[
+90
+]
+.
+
+Clinical evidence supports the role of ACE2 in tissue infection tropism and severe illness sequelae in both SARS‐1 and SARS‐2 infections. Loss of RAS system balance, fluid balance, and high blood pressure have been reported in severe COVID‐19 illness.[
+91, 92, 93
+] All COVID‐19 mortalities have shown pneumonia and acute respiratory distress syndrome, characterized by severe inflammation and diffuse alveolar damage; a third of fatalities have additionally displayed pulmonary artery emboli.[
+89, 94
+] The damage afflicted in the lower respiratory tract and heart tissue of patients, especially in the ventricular myocytes, can result in hypoxic respiratory failure and ventricular remodeling leading to deteriorating condition and increased risk of death.[
+95
+] The transcription levels of viral RNA in heart tissue of SARS‐deceased patients were associated with a decrease in tissue ACE2‐expression, that is, below normal levels, an increase in macrophage infiltration, and a higher extent of tissue damage.[
+33, 95
+] Therefore, inhibiting SARS‐S binding to ACE2 should not only relieve the symptoms but also arrest the replication cycle of the virus by interrupting the fusion process, thus protecting deeper tissue and systemic invasion..
+
+S‐protein is the most surface‐exposed SARS‐2 protein. It is also the most immunogenic, as 90% of antibodies (Abs) in patients infected with SARS‐2 are directed against it. However, when full‐length S‐protein or DNA‐encoding S‐protein were employed as vaccine antigen against SARS‐1 in low dose, pro‐inflammatory responses were observed in mice and ferrets.[
+96
+] Furthermore, inflammation at the immunization site and within the liver was reported after injection of Vaccinia Ankara virus bearing S‐protein in ferrets, which was not present in blank virus negative controls.[
+97
+] The inflammatory component of the S‐protein sequence explains the high immunopathological scores in preclinical trials associated with S‐protein‐based subunit vaccines, and even S‐protein‐encoded RNA as vaccine antigen against SARS‐1 in mice, ferrets, and nonhuman primates.[
+96, 98, 99
+] Since a variety of studies have shown that S‐protein induces immunopathological reactions when used as antigen, studying the immunopathology of this protein and its fragments is critical for the development of a safe and effective peptide vaccine..
+
+SARS‐1‐S stimulated the production of IL‐6, TNF‐α, and IL‐8 in lung epithelial cells, in peripheral blood monocytes, and in murine macrophages, in vitro through AP‐1 and NF‐κB pathways (Figure 4).[
+100, 101, 102
+] Two inflammatory sequences were identified by spiking these cells in vitro, followed by analysis of the cytokine mRNA produced via qPCR. The first sequence, at position 324–488, overlapped with RBD and the second, position 609–688, was located at the C‐terminus of the RBD at the S1/S2 site. The sequences were not mapped further to minimal pathological epitopes.[
+100, 101, 102
+] Therefore, while immunopathological when whole, it is possible that only part of the sequence is dangerous. Controversially, there is no evidence that peptides derived from the RBD are immunopathological.[
+101
+] The RBD of SARS‐1‐S and SARS‐2‐S (75% similar) have proven to be protective, immunogenic, and inclusive of neutralizing epitopes.[
+28, 103, 104
+] Immunization against SARS‐1 using the RBD as vaccine antigen provided potent Abs in mice that neutralized SARS‐2‐S protein in vitro.[
+14, 28, 105
+] In a later study, RBD‐based vaccine did not cause immunopathology in animal models.[
+28, 104
+] Thus, an alternative explanation of the immunopathological role of the S‐protein 324–488 sequence is needed..
+
+Sequence binding may induce downregulation of host ACE2.[
+106
+] Suppression of the MAPK‐NF‐κB pathway is a normal function of ACE2 in rat lungs, where downregulation increases inflammatory cytokine production (Figures 4 and 5).[
+87, 107
+] This effect might explain the immunopathology of the S‐protein 324–488 sequence, rather than it having a direct effect on NF‐κB or AP‐1, because it overlaps with 83% of the RBD (Figure 5). This suggests that RBD, and even more so, RBD‐peptide fragments, may be safer and more effective antigens compared to full‐length S‐protein..
+
+Other SARS proteins could also prove unsafe for use as antigen. For example, envelop protein (E‐protein) has a short amino acid sequence of less than 100 residues, but it has several pathogenic functions that contribute to the virulence of SARS‐1. The short octamer (SARS‐1‐E: 67SEGVP
+D
+L
+L
+V
+75) at the C‐terminus of E‐protein (Figure 6) is essential for ion channel activity in host cells, thus contributing to virulence[
+108, 109
+] and the induction of pro‐inflammatory cytokines.[
+46, 110
+] The E‐protein octamer is similar to its counterpart in SARS‐2 (CTD of E‐protein: 68SRVP
+D
+L
+L
+V
+76), and most of the pathology‐related residues are the same between these two proteins (Figure 6). Mutant‐SARS‐1 lacking the E‐protein octamer did not trigger immunopathology in mice after infection.[
+46, 74
+] This suggests that the remaining E‐protein sequence might be safe as a vaccine antigen (Figure 6). However, E‐protein also induced T‐cell apoptosis when co‐incubated with Jurkat T‐cells in vitro.[
+111
+] T‐cell apoptosis is known to cause a feedback loop in the signaling of inflammatory cytokine production..
+
+Alignment of SARS‐2, SARS‐1, and RaTG13 structural E‐, M‐, and N‐proteins, as generated by ClustalW. The black and blue boxes represent T‐cell epitopes that bind in humans and mice, respectively. The thin and bold boxes represent experimentally immunogenic cytotoxic T‐cell/MHC‐I epitopes and CD4+T‐cell/MHC‐II epitopes, respectively. The orange boxes show experimentally immunogenic B‐cell epitopes, and the green boxes are experimental immunopathological sequences..
+
+Nucleocapsid protein (N‐protein) stimulates inflammatory cytokine production because of its C‐terminus amino acid sequence, SARS‐1‐N: 248TKKSAAEASKK‐PRQKRTATKQYNVTQAFGRRGPE281 (Figure 6). The sequence was not finely mapped further for short immunopathological sequence(s) and it was determined by deletion approach. The N‐protein immunopathological sequence corresponds to a very similar sequence in SARS‐2 located at a similar position, SARS‐2‐N: 247TKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPE280, which differs by just one residue (Q276A) in SARS‐2 (Figure 6).[
+80
+] Deletion of the fragment rendered the protein innocuous in vitro. This also suggests that the rest of the N‐protein sequence is safe to include as vaccine antigen, especially since it includes potent cytotoxic T‐cell epitopes..
+
+To date, SARS‐2‐S was found to trigger inflammatory cytokines (IL‐6, IL‐1ß, TNF‐α, CXCL‐1, CXCL‐2, and CCL‐2) production by human and mouse macrophages in vitro via TLR‐2 and TLR‐4 mediated activation of NF‐κB pathway. While SARS‐2‐E was found to induce inflammatory cytokines (CXCL‐10, CCL3, CXCL‐1) production via TLR‐2/MyD88 activation of NF‐κB pathway in mice.[
+112, 113, 114
+] However, the immunopathological sequences responsible for this immunopathological responses have not been identified/mapped. In summary, structural proteins (S, E, M, and N proteins) are of particular interest as vaccine antigens. However, they can induce inflammatory responses (S‐protein), inhibit IFN‐1 production (M‐proteins), or both (E‐ and N‐proteins) (Figure 6). The inhibition of IFN‐1 and upregulation of pro‐inflammatory responses continues with release/translation of the protein antigen; this could last longer for DNA‐ and RNA‐based vaccines compared to protein vaccines. Moreover, the effect would be more locally enhanced at the site of injection. Tseng et al. 2012[
+96
+] reported that intramuscular administration of either inactivated SARS‐1 or S‐protein to BALB/c mice incited lung immunopathology (lung lesions and eosinophilia) post‐infection challenge, despite the generation of neutralizing antibody (nAb) titers and a reduction of viral RNA titers in mouse lungs. Thus, it is worth mentioning that immunopathology is not associated only with local immune responses, in the same way that vaccines are not limited only to the injection site. Therefore, whole SARS proteins should not be used in their native full‐length forms as vaccine antigens. Peptide‐based subunit vaccines can overcome this issue by employing only immunogenic environment‐exposed sequences that produce noninflammatory neutralizing or opsonic immune responses.[
+115, 116, 117
+]
+.
+
+The development of an early “adaptive” immune response is essential for avoiding severe illness sequelae, in the alleviation of infection symptoms, and for infection recovery. In contrast, blocking early immune responses associated with macrophage activation proved beneficial in a SARS‐1 lethal mouse infection challenge. The early depletion of macrophages alleviated symptoms and recruited more professional DCs in the lungs, and 100% of mice survived; depletion of macrophages 1 day later resulted in lower survival.[
+64
+] Alveolar macrophages are involved in the innate immune response associated with the production of inflammatory cytokine storm, which results in fever, coughing, and inflammatory cell recruitment, while professional respiratory DCs help to develop adaptive immune responses faster.[
+118
+] This suggests that both timing and adaptive immune response type are vital factors for safe and effective recovery from infection..
+
+To initiate adaptive immune responses, APCs need to be activated by pathogen danger signals or vaccine adjuvant, then perform antigen uptake. Antigen uptake by APCs triggers processing of the antigen into short peptides that bind to APCs’ major histocompatibility complex I (MHC‐I) or MHC‐II molecules, allowing presentation on the APC surface. The activation of CD4+ T‐cells by MHC‐II‐T‐cell epitope complex is essential for both Th1 and Th2 immune responses. CD4+ T‐cells release cytokines and stimulate the maturation of B‐cells into differentiated class‐switched isotypes and phenotypes, including long‐lived plasma cells for immunological memory.[
+116, 119
+] Furthermore, CD4+ T‐cells activate antigen‐specific CD8+ T‐cells into cytotoxic T‐cells and memory T‐cells that can last for up to 10 years.[
+115, 120
+] Therefore, CD4+ T‐cell epitopes are essential for both cellular and humoral responses. On the other hand, antigen recognition by B‐cell receptors is an independent event that is necessary for humoral responses resulting in Ab production..
+
+SARS infection usually takes place through inhalation or mucosal contact with droplets, dry aerosol, or skin contaminated with the virus. The onset of symptoms usually occurs within 5 days of infection.[
+121
+] SARS‐2 replicates in type‐II pneumocytes in the lungs, and the innate immune system responds with localized inflammation, which results in the typical COVID‐19 symptoms. Further replication and translation of viral proteins suppresses IFN‐I production, while amplifying pro‐inflammatory cytokine production. This generates the cytokine storm that exacerbates the initially mild symptoms (Figure S1, Supporting Information). In severe cases, lymphocytes in the plasma decrease 2–3 days after infection. Consequently, lymphopenia (<500 cell per mL) in SARS‐2 infection cases correlates with illness severity. In the most common cases, T‐cell plasma count is initially low at around 200 cells per mL, but doubles, or even quadruples 10–16 days post disease onset, marking the beginning of the adaptive immune response (Figure S1A,B, Supporting Information). Response titers to S‐protein fragments vary during infection; anti‐S2 subunit titers are higher than anti‐RBD or anti‐S1 Abs[
+122, 123
+] 10–14 days following the onset of symptoms. In recovered patients, nAb levels increased slowly from day 15 (post‐onset), and patients developed high anti‐S‐protein‐specific IgG titers (110 ± 10 U mL−1) by day 22 (post‐onset).[
+50, 124
+] During recovery, usually 16–22 days post onset, monocyte counts increase, CD4+ and CD8+ T‐cells start to decrease in peripheral blood (Figure S1A,B, Supporting Information), and mature Ab‐producing‐B‐cell populations expand in peripheral blood. The detection and the increase of neutralizing Abs coincides with the resolution of symptoms,[
+121
+] which suggests a highly protective role of humoral immunity. In contrast, deceased COVID‐19 patients show T‐cell exhaustion and a high percentage (>40–60%) of immature B‐cells around 24 days after onset.[
+125
+] Thus, both cellular and humoral responses appear to be important for recovery..
+
+In SARS infections, serum levels of pro‐inflammatory cytokines, especially IL‐6, increase from normal (17 pg mL−1) to high levels (>41 pg mL−1), with these levels correlating to infection severity (Figure S1C,D, Supporting Information).[
+51, 61, 126, 127
+] Lymphocyte plasma count correlates negatively with nAb titers. This suggests the prevalence of a pro‐inflammatory response associated with a hyperreactive Th2 response.[
+128
+] Together, this means that it is necessary to engineer an interleukin profile produced by APCs that switches to the safer humoral response by strategically employing Th1/Th2 balanced adjuvants..
+
+CD8+ T‐cells are potentially protective against SARS‐2 infections, as they have been protective against previous SARS‐CoV infections.[
+64, 129
+] In severe COVID‐19 illness, peripheral circulating CD8+ T‐cell counts are low (Figure S1B, Supporting Information);[
+127
+] in general, the severity of illness is inversely correlated with CD8+ T‐cell counts. This suggests a protective role of CD8+ T‐cells. It was recently reported that antigen‐specific CD8+ T‐cell responses are highly protective: 90% of C57BL/6 mice (n = 8–16) given SARS‐1‐S‐specific CD8+ T‐cells epitopes, in the absence of SARS‐1‐specific CD4+ T‐cells or B‐cells, survived SARS‐1 lethal infection challenge compared to none in the negative control group.[
+129
+] Similarly, the passive transfer of CD8+ T‐cell epitope with prematured dendritic cells used to exclusively drive the maturation of CD8+ T‐cells resulted in superior protection in mice (100% survival) against lethal infection by SARS‐1.[
+64
+] Furthermore, in a recent study on COVID‐19 patients with moderate illness severity, the resolution of clinical symptoms and viral clearance mostly coincided with the development of adaptive immune responses: this was highlighted by mature B‐cells and cytotoxic T‐cell population expansion.[
+50, 130, 131
+] However, autopsies of COVID‐19 deceased patients have revealed an accumulation of monocytes and T‐cells in infected lung tissue.[
+127
+] Therefore, it is likely that in severe illness, cytokine storm‐driven chemotaxis draws unprofessional or nonspecific T‐cells to further contribute to an inflammatory apoptotic response in the lungs.[
+127, 132
+]
+.
+
+Moreover, T‐cell apoptosis was also reported following in vitro co‐incubation with SARS‐1‐E protein (has 95% sequence similarity to SARS‐2‐E), which attenuates T‐cell responses.[
+111
+] This was also supported by counts of exhausted or anergic cytotoxic T‐cells, which correlated positively with disease severity.[
+57, 127, 133
+] However, in a recent study, the depletion of CD8+ T‐cells did not affect viral clearance or immunopathology, while depletion of CD4+ T‐cells delayed viral clearance significantly and resulted in severely exacerbated immunopathology. In contrast, passively immunized mice had reduced viral titers, even with CD8+ T‐cell depletion.[
+118
+] Ultimately, this shows the importance of the humoral response for SARS protection and recovery..
+
+Despite the secondary importance of cytotoxic T‐cell responses in protection compared to humoral responses, memory CD8+ T‐cells may still play an important supporting role. Therefore, long‐lived cellular immune responses need to be analyzed. Cellular responses against conserved epitopes, for example, N‐protein, remained for 17 years in SARS recovered patients.[
+134
+] True memory CD8+ T‐cell maturation is driven not only by exposure to antigens but also by APC‐expressed Th1 cytokines (IL‐2, IL‐15, and IL‐18).[
+135
+] Thus, cellular responses are very long‐lasting via memory T‐cells against viral infections, especially against common conserved epitopes,[
+134
+] and they can play a synergistically protective role as demonstrated in humanized human leukocyte antigen system (HLA) transgenic mice against SARS‐1.[
+64, 129
+] Therefore, it is vital to 1) include interleukin analysis in future animal studies of vaccines, 2) carefully select adjuvants to exploit cellular immune responses besides humoral immunity, and 3) include T‐cell epitopes in peptide‐based vaccine development to improve the protective capacity of peptide vaccines. This also generates long‐lasting effects more productively, especially in line with recent findings regarding disappearing neutralizing Ab titers within few weeks of recovery of COVID‐19 patients, suggesting the potential for reinfection.[
+136
+]
+.
+
+Humoral responses are the primary means of protection against SARS‐1 and SARS‐2 infections.[
+50, 130, 131
+] Moreover, standardized convalescent patient plasma is used as a safe and effective treatment against SARS‐2 infection.[
+137, 138
+] A correlation (R = −0.69) between neutralizing anti‐RBD Ab titers and viral RNA titer reduction in bronchoalveolar lavage fluid was recently established in rhesus monkeys infected with SARS‐2.[
+139, 140
+] In convalescent patients, anti‐RBD IgG titers were at the level of 105, the titers levels correlated (R = 0.64) with 50% neutralization capacity of sera, which were 50% neutralizing in outpatients from as low as about 40‐fold dilutions.[
+141
+] This substantiates the major contribution and protective potential of humoral immunity though Ab neutralization mechanism. Moreover, plasma of convalescent patients is effective against SARS‐1 infections only when they carry virus nAbs.[
+128, 137, 141, 142
+] SARS‐1 viral titers reduced dramatically as nAb titers increased, even when passively supplied in mice,[
+143
+] monkeys, and humans.[
+144, 145
+] Moreover, passive immunization of mice with neutralizing anti‐S‐protein mouse‐adapted Abs (S3.1) derived from SARS convalescent patients, in the range of 0.2 to 1 mg, protected mice from lethal SARS‐1 infection challenge.[
+146
+] Further, when patients were treated with immune sera, nAbs dose of about 1 mg lowered the SARS‐1 viral load 103 folds[
+142, 147, 148
+] without the presence of the cellular immune component. The survival of mice infected with SARS‐1 correlated with anti‐S‐protein IgG titer levels and this relationship showed higher dependency with neutralizing Ab (nAb) titers (Figure 7). Anti‐SARS‐2‐S nAbs were found to be effective, even at levels as low as 7 ng mL−1, as determined in convalescent patient plasma.[
+123
+] Further, anti‐SARS‐2‐RBD IgG (U mL−1) in immune patient sera correlated very strongly with virus neutralization titers (VNT) (R2
+ = 0.86, n = 59) in vitro LogVNT50 =   − 1.53 + 0.94 · Log IgGAnti−RBD .[
+149, 150
+] This shows that anti‐RBD IgG concentrations up to 1.53 U mL−1 were ineffective, while above this value log 50% neutralization titer value increased proportionally to log anti‐RBD IgG concentration (U mL−1) (Figure 7C). The Abs were directed against the critical binding domains of S‐RBD (Figure 8).[
+141
+] In SARS‐2 infection, a high proportion of Ab titers are usually directed against the S2 subunit. These Abs may not be neutralizing; however, they might be protective through the Ab‐dependent cytotoxicity effect (ADCC) pathway.[
+103, 128, 151, 152, 153
+]
+.
+
+Dose response curves for A) mean IgG neutralizing Ab (nAb) titers and B) mean total anti‐S‐protein IgG titers expressed as the mean reciprocal serum dilution (n = 6–7 mice per group). Both are plotted against mouse survival, following the administration of SARS‐1‐S‐protein as antigen with TLR‐3‐ligand (poly I:C adjuvant) or without adjuvant.[
+154
+] Log10 of the total anti‐S‐protein titers of 3.5 offers 100% protection in (B), which was equivalent in protective efficacy to neutralizing Ab (nAb) log10 titers of 2 in (A), as both plots are from the same serum samples, (C) relationship between human immune sera against SARS‐2 and neutralization, fitting log IgG concentration and log SARS‐2 neutralization titer 50%, gave  LogVNT50 =   − 1.53 + 0.94 · Log IgGAnti − RBD, n = 59, R2 = 0.86.[
+149, 150
+]
+.
+
+Schematic representation of subunit vaccines’ evolution from A) whole‐pathogen (SARS‐2), to B) subunit protein (S‐protein), to C) immunogenic protein fragment (RBD), and finally D) peptide‐based vaccine antigens (red, pep1; blue, pep2)..
+
+S‐protein is the main antigenic target for SARS‐2 vaccine development; however, the protein is metastable. Therefore, it is important to stabilize its “active” conformation and prevent premature enzymatic degradation. A prefusion‐stabilized S‐protein developed using molecular clamping was recently employed as vaccine antigen.[
+155
+] Several copies of the heptad repeat region were employed to clamp the termini of each S‐protein protomer's soluble ectodomain (Figure 1). This ensured that conformational epitopes were correctly recognized by B‐cell receptors, in order to produce potent, effective, opsonizing or neutralizing Abs. To prevent priming by host protease enzymes, proline/glycine substitutions at cleavage sites S1/S2 and S2ʹ are necessary.[
+18, 123
+] Alternatively, instead of whole S‐protein, the RBD region can be employed as antigen. An RBD‐based vaccine (UB‐612) is currently in Phase 1 clinical trials (COVAXX Company). UB‐612 contains RBD‐protein combined with T‐cell epitopes from S2‐subunit, N‐protein, and M‐protein. These T‐cell epitopes can bind to human MHC‐I and MHC‐II to help provide synergistic cellular and neutralizing humoral responses. The clinical trial results of both S‐protein and RBD‐based vaccines are expected to be published in 2021, clinical trial identifier number: NCT03595995..
+
+Whole S‐protein‐based vaccines generate protective responses against SARS‐1 and SARS‐2 infections in mice and monkeys, even without adjuvant (Table 1). However, immunization with the vast majority of these vaccines resulted in exacerbated immunopathology, even when adjuvant‐free S‐protein‐based vaccines were used.[
+96, 97, 156
+] Surprisingly, vaccine administered with poly I:C and Th1‐type adjuvant was the exception.[
+154
+] This can be explained by the less inflammatory nature of Th1 humoral responses. Histopathological examination showed immunopathology represented by eosinophil infiltration and lesions in the lungs of mice. This suggests that immunopathological sequences (Figure 5) compromise the safety of S‐protein‐based vaccines. However, since the immunopathology is cytokine driven, adjuvants may play an important role in modulating interleukin profile‐driven immune responses. Thus, strategic use of adjuvant that switches the immune response from hyperactive Th2 to a safer humoral Th1 response may improve vaccine safety and efficacy.[
+154, 157
+] RBD‐based vaccines have generally been less immunogenic compared to full‐length S‐protein vaccines, but they are capable of producing nAbs and are associated with lower adverse events, that is, immunopathology. Although, several studies showed potent neutralization of Abs generated against RBD‐based vaccine antigens, but immunopathology was not well investigated in preclinical studies against SARS‐1,[
+158, 159, 160
+] or against SARS‐2 to date.[
+161
+]
+.
+
+Whole virus, whole S‐protein, and RNA‐encoding whole S‐protein vaccines against SARS‐1 and SARS‐2.
+
+(#).
+
+Day (D).
+
+Double‐inactivated SARS‐1 (DIV).
+
+(+/− alum) [0.25–2 mg].
+
+Female BALB/c mice (n = 12–13).
+
+IM (D 0, 28).
+
+106 TCID per 60 uL.
+
+IN, C (D 56).
+
+Th‐2‐type immunopathology erupted after challenge in all groups: Lesion scores were lower with alum, in decreasing order: PBS = S‐protein > DIV ≥ PIV. Eosinophil % were higher than for whole virus vaccines, in decreasing order: PIV ≥ DIV > S‐protein..
+
+The same pathology occurred in female C57BL/6J mice..
+
+Decreasing order of nAb titers: DIV ≥ S‐protein (titers = 29) > PIV. NAb titer response increased with vaccine dose, and was generally higher with alum for all vaccines..
+
+Viral titers with alum in increasing order: DIV (101.5) < PIV (101.7) < S‐protein (102); Viral load titers after challenge dropped further with alum for all vaccines at similar antigen doses (PBS control titers = 106.5–7.5). Higher vaccine doses did not improve protection or increase immunopathology..
+
+No differences in viral titer reduction were observed with DIV and PIV. Female C57BL/6J mice were also tested in parallel; similar nAb titer responses were generated with these vaccines..
+
+BBV152 inactivated SARS‐2.
+
+Dose of 3 µg, or 6 µg with alum and/or TLR‐agonist 7/8 as adjuvants (imidazoquinoline) in 0.5 mL.
+
+Human phase 1/2 clinical trial (n = 375).
+
+IM (D 0, 14).
+
+Placebo control, only alum (n = 75).
+
+CD46‐IFNAR− mice (n = 6).
+
+IP (D 0, 21).
+
+SARS‐1 105 PFU.
+
+IN, C (D 77).
+
+Modified Vaccinia Ankara‐bearing SARS‐1‐S‐protein.
+
+(109 pfu per ferret).
+
+Ferrets (n = 3).
+
+IP and SC (D 0, 14).
+
+SARS‐1 106 PFU.
+
+C (D 28).
+
+S1‐subunit [35 µg].
+
+S‐protein (wild‐type) [35 µg].
+
+S‐protein (proline substituted) [35 µg].
+
+RBD [100 µg].
+
+BALB/c mice (n = 5).
+
+IM (D 0, 7, 28).
+
+alum or CFA.
+
+Cynomolgus macaques (n = 2).
+
+IM (D 0, 14, 42) [20 µg].
+
+DNA‐encoding M‐protein.
+
+(pcDNA 3.1 vector).
+
+SCID‐hu mice injected with healthy human lymphocytes.
+
+IM (D 0, 7, 14).
+
+DNA‐encoding N‐protein.
+
+(pcDNA 3.1 vector).
+
+Adenovirus serotype 26 (nonreplicating) vector with RNA‐encoding SARS‐2‐S (wild‐type or proline‐substituted).
+
+(Ad26‐S).
+
+Rhesus macaques.
+
+(n = 4–5).
+
+IM, single dose.
+
+IN, C (42) SARS‐2 105 TCID.
+
+Adenovirus serotype 26 and 5 (nonreplicating) vector with RNA‐encoding SARS‐2‐S.
+
+[1011 PFU].
+
+Humans.
+
+Phase 3 (n = 21 977).
+
+IM, (D 0, 21).
+
+Placebo controlled, buffer (n = 5476)..
+
+mRNA‐1273.
+
+Lipid nanoparticle (SM‐102, SM‐3, DSPC, PEG2000‐DMG, cholesterol) dispersion with mRNA‐encoding SARS‐2‐S.
+
+[25 or 100 µg].
+
+Humans.
+
+phase 1 (n = 10).
+
+(NCT04283461).
+
+IM (D 0, 28) 25 µg or 100 µg.
+
+IM (D 0) 250 µg.
+
+At the 100‐µg dose, moderate to severe side effects, including pain and erythema at the injection site were observed; moderate side effects were observed at the 25‐µg dose..
+
+Ab titers were seroconverted 2 weeks after the first dose. By day 36 to 57 (8–29 days after the second immunization on day 28), nAb titers of 102 and total anti‐S‐protein titers of 3 × 105 were achieved from the 25‐µg dose, and 2.5 × 102 and total anti‐S‐protein titers of 106 for the 100‐µg dose. In vitro plaque reduction tests and nAb titers for the 100‐µg dose showed neutralization comparable to recovered patients’ sera. The responses were Th1‐biased and TNF‐α, IFN‐γ, and IL‐2 were elevated in the following rank order TNF‐α > IL‐2 > IFN‐ γ showing T‐cell activation, while Th2 interleukins (IL‐4 and IL‐13) were very low..
+
+mRNA‐1273.
+
+Lipid nanoparticle encapsulating mRNA‐encoding SARS‐2‐S.
+
+[100 µg].
+
+Humans.
+
+phase 3 (n = 30 420).
+
+IM (D 0, 28).
+
+Placebo controlled (n = 15 210).
+
+ChAdOx1 nonreplicating vector, with DNA‐encoding SARS‐2‐S.
+
+[2.5 × 1010 PFU].
+
+BALB/c (n = 5) and CD1 mice (n = 8).
+
+(IM).
+
+Rhesus macaques (n = 6).
+
+(IM) (D 0).
+
+2.6 × 106 TCID.
+
+SARS‐2.
+
+C (D 28).
+
+The vaccine prevented pneumonia in vaccinated animals and reduced immunopathology. Pneumonia signs lasted longer in control animals. The combined clinical score was half that of the control animals in total. Histological examination showed no pathological signs. However, IL‐6 was increased in vaccinated animals..
+
+A single IN vaccine dose elicited humoral and cellular responses. The response was Th1‐dominated, shown by cytokine profile and IgG subclasses, and reduced viral titers in the lungs of both mice and macaques. In mice, splenic T‐cells produced IFN‐g in response to peptide stimulation in vitro. Increased levels of IFN‐g, TNF‐a, IL‐4, and IL‐10 were detected in mice. Anti‐S1 or anti‐S2 subunit Ab titers were in the 102–3 level, while nAb titers were 102, with population expansion of IFN‐g+, CD4+, and CD8+ T‐cells. In pre‐challenge macaques, single immunization with vaccine elicited Ab titers of about 103, with only 5–40 nAb titers. At 7‐days post‐challenge, the viral load was reduced to 101.5, compared to 105 for the control group. IFN‐g, TNF‐a, IL‐6, and IL‐10 were all increased after challenge, but IL‐6 and IL‐10 levels dropped quickly 3 days post‐infection. Recently, ferrets (n = 8) were IM‐immunized twice with (2.5 × 1010 PFU) dose of vaccine and IN infected with (3  ×  104 TCID50) SARS‐2. The vaccine generated nAb titers of 320, and resulted in 15‐fold reduction of viral RNA titers in nasal washes.[
+177
+]
+.
+
+ChAdOx1 nCoV‐19 nonreplicating vector, with DNA‐encoding SARS‐2‐S.
+
+[5 × 1010 PFU].
+
+Human Phase 1/2.
+
+(n≈540).
+
+(NCT04324606).
+
+IM (0, 28).
+
+18–55 years old.
+
+ChAdOx1 nCoV‐19 (AZD1222) nonreplicating vector, with DNA‐encoding SARS‐2‐S.
+
+[5 × 10¹⁰ PFU].
+
+Human phase 2/3.
+
+8534 volunteers.
+
+Efficacy against B.1.1.7 lineage.
+
+Control groups, meningococcal conjugate (n = 4290).
+
+BNT162b1 RNA‐encoding S‐RBD protein.
+
+[10, 30, or 100 µg].
+
+Human phase 1/2.
+
+(n = 12).
+
+18–55 years old.
+
+IM (0, 20) [10 or 30 µg].
+
+IM, single dose [100 µg].
+
+BALB/c (4‐6 weeks).
+
+SC.
+
+2% Alhydrogel.
+
+Female BALB/c (n = 5).
+
+SC (D 0, 21, 42).
+
+SARS‐1.
+
+5 × 105 TCID.
+
+C (D 52).
+
+BALB/c (n = 5).
+
+SC (D 0, 21, 42).
+
+Ab, antibodies; C, challenge; CFA, complete Freund's adjuvant; D, day; DSPC, 1,2 distearoyl‐sn‐glycero‐3‐phosphatidyl choline; HLA, human leukocyte antigen system; IFA, incomplete Freund's adjuvant; IM, intermuscular; IN, internasal; IP, intraperitoneal; MHC, major histocompatibility complex; MPL, monophosphoryl lipid A; nAb, neutralizing antibody; PBMC, peripheral blood mononuclear cells; PEG‐2000‐DMG, 1,2‐dimyristoyl‐rac‐glycero‐3‐methoxypolyethylene glycol‐2000; PFU, plaque forming unit; SC, sub‐cutaneous; TCID, tissue culture infective dose 50%..
+
+Whole S‐protein‐based vaccine antigens include deleterious epitopes (Table 1, Figure 5). In SARS‐1 infections, some anti‐S‐protein Abs produced enhanced virus entry into host cells, supporting virulence and the spread of the infection.[
+162, 163
+] Anti‐S‐protein Abs caused an antibody‐dependent enhancement (ADE) effect in macaques upon challenge with SARS‐1 virus. Histopathological examination of the lung tissue showed that Ab‐enhanced infectivity resulted in exacerbated interstitial pneumonia, acute tissue damage, and diffuse alveolar damage.[
+163
+] The possibility of ADE has also been suggested for SARS‐2.[
+162, 164, 165
+] Thus, ADE‐triggering epitopes should be identified and excluded from SARS‐2 vaccines or, as a minimum precaution, vaccines should be tested for potential ADE‐related side effects.[
+165
+] While using whole S‐protein, or its encoding RNA/DNA as vaccine antigens, is protective, however this is the overall outcome, the vaccines might be more effective with the exclusion of ADE‐triggering sequences, which are not easily detected.[
+164
+]
+.
+
+DNA‐ and RNA‐based vaccines encoding SARS‐2‐S‐protein were employed in nonlive cationic lipid vectors, such as mRNA‐1723, or in live nonreplicating viral vectors, such as adenoviruses AD serotype‐26 or the chimpanzee adenovirus oxford strain‐1 (ChAdOx‐1). DNA and RNA‐vaccines often develop moderate to weak responses because the transfection efficacy of safe, nonlive cationic vectors is low. Moderna Co. developed an RNA liposomal formulation with cationic transfecting lipids (mRNA‐1273) to immunize human volunteers in a Phase 1 clinical trial. The mRNA‐1273 vaccine produced sera with neutralizing Ab titers comparable to convalescent patient sera.[
+166
+] However, immunization with mRNA‐1273 vaccine also resulted in moderate to severe side effects, including fever, pain, and erythema at the injection site and acute allergic/anaphylactic reactions.[
+167
+] Live, nonreplicating vectors are generally more effective in achieving high transfection levels, but they are also associated with more severe adverse events..
+
+Chadox‐1 carrying DNA‐encoding SARS‐2‐S has passed clinical trials and approved for human use.[
+157
+] In reported results of clinical trials, the immunized sera were neutralizing and passed the in vitro neutralization tests, including plaque reduction neutralization assay and the pseudovirion cell entry inhibition test.[
+157
+] Similar to mRNA‐1273, Chadox‐1 vaccine was highly effective, generated Th1‐biased responses, and potently neutralizing sera. Furthermore, the interleukin profiles of animal tested, including mice and rhesus macaque monkeys, showed reduced signs of immunopathology, including elevated IL‐6, but no pneumonia or diffuse alveolar damage.[
+168
+] However, immunization with chadox‐1 vaccine has also resulted in side effects, including pain, chills, fever, and malaise..
+
+More recently, Pfizer released another mRNA‐based vaccine product (BNT162b1) that has passed clinical trials and approved for human use.[
+149, 150
+] The mRNAs included encoded RBD in trimeric form loaded into a lipid transfection lipoplex system. According to data from clinical trials, it offered 90% protection after two doses of 30 µg of RNA. The sera of immunized patients had neutralizing Ab titers 1.9–4.6‐fold higher than convalescent patients. The vaccine elicited a Th1‐biased immune response with elevated IFN‐γ, as well as humoral and CD8+ T‐cell responses.[
+169
+] However, pain was experienced at the injection site in all patients after the first dose of either 30 or 100 µg, which turned into moderate pain after the second dose. This adverse reaction is partially due to the transfection lipoplex, but also to an inflammatory reaction to the antigen since the placebo generated less adverse reactions (22% of patients). The vaccine also induced muscle pain, chills, and fever after the first dose in a dose‐dependent manner; however, these events were not severe of grade 4.[
+149
+] In addition, Moderna and Pfizer/Biontech mRNA vaccines induced acute systemic reactions; when group of 64 900 healthy volunteers were immunized, 2% of them developed acute allergic reactions, and 0.02% anaphylactic reactions.[167] The side effects were absent in the placebo group, indicating immunopathology of the encoded RBD antigen. Therefore, while the induction of Th1‐type immune responses is important toward safe vaccine development, it is not sufficient on its own to produce safe vaccine, as demonstrated by these RNA‐based examples..
+
+B‐cell epitopes are mostly (90%) conformational, which implies that 90% of epitopes are discontinuous.[
+180
+] Thus, it is rather difficult to identify continuous peptide epitopes that are both protective/neutralizing and that maintain native structure conformation. The RBD is an obvious target for epitope screening for SARS‐2 vaccine development.[
+103
+] Epitopes should be a) protein‐surface exposed, b) contain a sufficiently long sequence to maintain conformational features, for example, full helices, to preserve native conformation, and c) contain some but not all of the CBRs necessary to bind RBD to ACE2. This ensures recognition by B‐cell receptors in native conformation. Epitopes should also be tested for their affinity toward ACE2 binding, which should be minimal. Other groups of promising epitopes are those at or near cleavage sites, thus preventing priming by TMPRSS2 or furin action at the S1/S2 or S2ʹ sites..
+
+Focusing immune response against known neutralizing or opsonizing epitopes has been found to be extremely effective in generating protective responses against several pathogens, especially viruses.[
+151, 152, 181, 182, 183, 184, 185
+] For example, a vaccine antigen triggered Ab response against influenza virus and generated a response that protected more mice from viral infection challenge, compared to the native fusion protein.[
+153
+] Improved immunogenicity was also observed when a similar approach was employed for gp120 of the HIV virus.[
+151
+] Therefore, focusing the immune response against fewer, but highly effective or neutralizing epitopes as a general strategy can be an effective approach that affords superior protection. Peptide‐based epitope combined with strong adjuvant that recruits APCs effectively, therefore, is a more direct and often potent approach compared to a large protein‐based antigen that contains hundreds of obsolete epitopes—most of which provide no or undesired immunity..
+
+Exposed epitopes are often more immunodominant compared to less accessible, buried sequences. Insertion of multiple copies of a cryptic epitope at different positions within a fusion protein sequence did not help to improve the immunogenicity of HIV protein‐based vaccine due to a lack of exposure of these epitopes.[
+184
+] Interestingly, immunodominant epitopes might not always be the most effective antigens for peptide‐based vaccine development. Cryptic epitopes are sequences that are initially less exposed and located at low profile sites that become exposed when structural conformation alterations take place during protein movements (breathing), binding, or functioning. These epitopes often remain highly conserved across pathogen strains and mutations. However, it is highly unlikely that completely buried epitopes could be made more immunogenic by insertion of multiple epitope copies in protein antigen. In contrast, the peptide‐based vaccine approach guarantees exposure of epitopes, and therefore their recognition by B‐cell receptors. Cryptic epitopes, once administered with a strong adjuvant, may neutralize a virus or trigger ADCC mechanisms.[
+141, 186, 187
+]
+.
+
+B‐cell receptors do not recognize whole RBD sequences; instead, they bind much shorter fragments (peptide epitopes). Thus, these epitopes are too small to bind effectively to ACE2, as they do not possess enough CBRs or are conjugated to bulky carriers (often used for peptide epitope delivery), which creates steric hindrance. Therefore, the administered antigen is available for B‐cell receptors without dose reduction associated with binding to ACE2, and without triggering the adverse effects associated with such binding. The binding affinity of SARS‐2‐RBD to ACE2 is around 15 nm.[
+23, 42
+] We explored the binding of peptide fragments of RBD to ACE2 (unpublished data) with the i‐tasser SPRING template server of Michigan University using protein–protein complex interaction reported by Guerler et al.[
+188
+] When we compared RBD/ACE2 binding to the binding of potentially neutralizing epitopes from the RBM region (pep1: 445VGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGV483), (pep2: 469STEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPY508), and one highly conserved cryptic epitope outside of the RBM region but within the RBD sequence (pep3: 366SVLYNSASFSTFKCYGVSPTKLNDLCFTNV395), the binding scores were 2‐ to 4‐fold lower than full‐length SARS‐2‐RBD; resulting in scores of 3.8, 6.8, 4.7, and 13.2 for pep1, pep2, pep3, and RBD, respectively (Figure 9). Thus, as expected, the loss of several CBRs greatly reduces binding affinity to receptors. Thus, employing RBD or soluble S‐protein as vaccine antigen will result in binding to human cells expressing ACE2, for example, muscles, adipose tissue, and kidney cells,[
+24
+] which would lead to antigen loss following subcutaneous or intramuscular administration. As such, peptide‐based vaccines offer a very promising approach, which could negate off‐target antigen loss, immunopathological effects, and lung injury due to ACE2 downregulation by S‐protein/RBD binding to ACE2.[
+87, 101
+]
+.
+
+Binding scores using the i‐tasser SPRING server for RBD and several RBD‐fragments to ACE2.[
+188
+]
+.
+
+Several recent observations support the theory that SARS‐2 behaves similarly to SARS‐1 and that humoral response remains the key to recovery. Similar to SARS‐1 infections, 90% of Abs produced against SARS‐2 in COVID‐19 patients are directed against S‐protein.[
+189
+] New epitopes specific for SARS‐2‐RBM (has 59% sequence similarity to SARS‐1‐RBM) within SARS‐2‐S‐RBD were mapped and found to overlap within the above mentioned Pep1‐3 sequences.[
+103
+] However, highly neutralizing anti‐SARS‐1‐S nAbs, such as m396, CR3022, 80R, and S230 were found to be ineffective against SARS‐2, and CR3014 was found to bind to SARS‐2‐S with rather low competitive affinity to ACE2.[
+41, 190
+] Yet, in a recent study, two old anti‐SARS‐1‐S neutralizing Abs were found to bind to SARS‐2‐RBM CBRs noncompetitively with highly neutralizing capacity; they lowered viral load titers by 103‐fold in mice.[
+142
+] Sera Abs from both SARS and COVID‐19 recovered mice and humans were found to bind to the RBD of S‐protein and block SARS‐2 cell entry.[
+41, 147, 148, 191
+]
+.
+
+The most potent nAbs are mainly directed toward conformational epitopes located in the RBD of SARS‐1‐S,[
+158, 159, 179, 192
+] which carry CBRs to ACE2 receptors.[
+15, 193
+] SARS‐2‐S binds to ACE2 in an identical manner to SARS‐1‐S, and has similar CBRs. The relative importance of each of the binding residues in SARS‐1‐RBD were determined by single residue mutations (Figures 1C and 5). These residues can be classified into moderately, highly critical, and essential residues for the binding of RBD to ACE2. Single residue alanine substation at T431, a moderately critical residue, reduced ACE2 binding to 50%, while single residue mutation at any of the essential residues K390, D429, or N473, reduced binding by almost 100%. Moreover, single mutation in any of the highly critical residues: R426, F485, Q492, Y494, D454, or R495, reduced binding by 90%. Recently, critical residues for SARS‐2‐S were aligned to the SARS‐1‐S 3D structure (Figures 1 and 3).[
+193
+] Glycosylation was found to be nonessential for ACE2 binding[
+194
+] and, therefore, glycosylation of selected epitopes is not required unless it is employed to maintain structural conformation.[
+194
+] Targeting several CBRs in RBD sequences should prevent mutant strain escape from neutralization. Such critical residues can be included in one‐ or two‐long peptide epitopes (G446, Y449, Y453, L455, F456, and A475) as in the Pep1 sequence, or (A475, F486, N487, Y489, Q493, G496, Q498, T500, N501, G502, and Y505) as in the Pep2 sequence (Figure 9)..
+
+Anti‐RBD Abs constitute about 90% of all the neutralizing Abs against SARS infection; thus, they are considered to be highly protective and neutralizing.[
+195
+] Other neutralizing epitopes are located in the N‐terminal domain of the S‐protein.[
+196
+] Unfortunately, it was recently observed that anti‐RBD neutralizing Ab titers decay rapidly within a few weeks (t
+1/2 of 49 days) after recovery from SARS‐2 infection.[
+195, 197, 198
+] Several cases of reinfection have been reported.[
+199, 200
+] Naturally acquired immunity against SARS‐2 typically decays rapidly after recovery and vaccinations may need to be repeated annually. Vaccines should aim to train the immune system more efficiently than natural infection through use of suitable adjuvants. Thus, immunization, and not natural infection, may be critical for generating and maintaining immunity..
+
+Helper T‐cell epitopes should also be taken into account during vaccine development to generate immunological memory and reproducibility of immune responses. In addition, CD8+ T‐cell epitopes are also recommended for synergistic and superior protective immune responses. Recently mapped in SARS‐1‐S and SARS‐2‐S, CD4+, and CD8+ T‐cell epitopes are nonconformational (Figure 5 and 6, and Table 2). A distinct advantage in peptide vaccines is that we are able to incorporate mapped T‐cell epitopes from other proteins in combination with neutralizing B‐cell epitopes in single molecularly defined construct. Recently, potent T‐cell epitopes in humans[
+201, 202
+] and in mice[
+203
+] were identified. The most promising CD4+ T‐cell epitopes within S‐protein are S2T(h)5“DYNYKLPDDFTGCVIAWNS,” S2T(h)6“RVVVLSFELLHAP,” and ST(h)25“NYNYKYRYLRGKLRPF.” The most potent CD8+ T‐cell epitopes were ST8 “NYNYLYRY,” ST9 “VNFNFNGL,” and ST10 “CYGVSPTKL.” Other immunodominant T‐cell epitopes were recently mapped in SARS‐2, and they were similar to those identified previously in SARS‐1. Further, HLA‐I A*02:01 restricted epitopes showed superior protection against SARS‐1 in lethal infection challenge using transgenic mice. HLA‐I A*02:01 is one of the most common human MHC‐I allele. Among these CTL‐epitopes, the most potent were S2T8
+269YLQPRTFLL277, ST3
+
+363VADYSVLYNS372, ST2
+
+958ALNTLVKQL966, S2T10
+976VLNDILSRL984, S2T18
+1000RLQSLQTYV1008, and ST1
+
+1192NLNESLIDL1200 from SARS‐2‐S, Orf12T1
+3183FLLNKEMYL3191, and Orf12T2
+1637TTDPSFLGRY1646 from SARS‐2‐ORF‐1, and N2T3
+322MEVTPSGTWL331 and NT1
+246TVTKKSAAEA255 from SARS‐2‐N. N‐protein, ORF‐1, and S‐protein‐based T‐cell epitopes were found to induce IFN‐γ production from T‐cells of COVID‐19 recovered patients in vitro via Elispot stimulation. In these experiments, stimulation of CD4+ T‐cells by the helper T‐cell epitopes, for example, N2T(h)1
+81DDQIGYYRRATRRIR95 produced IFN‐γ. CD8+ T‐cells also produced IFN‐γ via stimulation with T‐cell epitopes, for example, N2T3
+322MEVTPSGTWL331.[
+204
+] Interestingly, CD8+ T‐cell epitopes were able to protect 80–100% of either humanized HLA transgenic mice or BALB/c mice against lethal infection against SARS‐1. Since these epitopes are immunodominant in both SARS infections, it is highly likely that they play a similar protective role. Therefore, combining these T‐cell epitopes to support the principal protective humoral response may provide synergistic results and significantly improve host protection..
+
+Peptide‐based epitope mapping and peptide vaccine development against SARS‐1 and SARS‐2.
+
+HLA‐A2.1 restricted CD8+ T‐cell epitopes.
+
+ST1
+1174NLNESLIDL1182
+a)
+.
+
+ST2
+940ALNTLVKQL948
+.
+
+ST3
+349VADYSVLYNS358
+.
+
+ST4
+613DQLTPAWRI621
+.
+
+NT1
+246TVTKKSAAEA255
+.
+
+MT1
+143IIRGHLRMAG152
+.
+
+HLA‐A2.1/H2‐Db) hMHC‐I transfected C57BL/6 mice (n = 5).
+
+HLA‐A2 is highly expressed in Asians, Africans and Caucasians.
+
+CD4+ T‐cell epitopes were screened by measuring peptides’ (9‐ to 10‐mer) ability to stimulate IFN‐γ production and bind to HLA2.1‐MHC‐I of DCs and protect mice against lethal infection challenge. CD4+ T‐cell epitopes: ST1 and ST2 were potent inducers of IFN‐ γ and strong binders to MHC‐1, while ST3 & ST4 (located in the RBD), as well as MT1
+ and NT1
+ epitopes stimulated IFN‐γ production from convalescent patient T‐cells and mouse CD4+ T‐cells, but they were mild binders to HLA2.1 MHC‐I. ST1 was the strongest binder and inducer of IFN‐γ production..
+
+ST1, ST2, ST3, and NT1
+ epitopes are identical in SARS‐2, while ST4 and MT1
+ each differ by a single residue (I621V) and (M150I) from their SARS‐2 sequence..
+
+HLA‐restricted memory T‐cell epitopes.
+
+MT(hC)2
+147HLRMAGHSL155
+.
+
+NT2
+266TKQYNVTQAF275
+.
+
+NT(h)3
+101MKDLSPRWYFYYLGT115
+.
+
+ST(h)5
+516STDLIKNQCVNFNFN530
+.
+
+ST(h)6
+541SSKRFQPFQQFGRDV555
+.
+
+ST(h)7
+1081GTSWFITQRNFFSPQ1095
+.
+
+IV‐injected DCs pulsed with ST8, ST9, or both.
+
+Recombinant Vaccinia virus (rVV)‐encoding ST8, ST9, or both.
+
+ST8
+436NYNYKYRY443 (K440L).
+
+ST9
+525VNFNFNGL532 (100%).
+
+C57BL/6J (n = 8–16).
+
+DCs: 106 cells.
+
+IV (D 0).
+
+rVVs 2 × 106 PFU.
+
+IN (D 6).
+
+SARS‐1: (MA15) 5 × 104 PFU,.
+
+(IN), C (42)b)
+.
+
+Early clodronate or Poly I:C [5 µg].
+
+Post‐challenge T‐cell‐specific responses.
+
+ST10
+366CYGVSATKL374 (A370P).
+
+ST11
+521KNQCVNFNF529 (LS).
+
+ST12
+1061PAICHEGKAY1071
+.
+
+(E1067D, Y1071H).
+
+NT(h)4
+353 LNKHIDAYKTFPPTEPKK370 (100%).
+
+BALB/c mice.
+
+(n = 3–4).
+
+H2d HLA.
+
+SARS‐1 (MA15).
+
+IN 3 × 104 PFU.
+
+The early macrophage depletion group showed no histological evidence of immunopathology in mouse lungs, compared to progressive interstitial pneumonia and diffuse alveolar damage in the control (PBS) group..
+
+Early depletion of alveolar macrophages using clodronate or maturation of DCs using TLR3 ligand poly I:C resulted in 100% survival of mice after lethal challenge. In contrast, stimulation with lipopolysaccharide (LPS) or late clodronate‐induced macrophage depletion resulted in lower survival (0% and 25%, respectively); no control mice survived. Antigen‐specific CD4+ and CD8+ T‐cell stimulation showed expanded populations of IFN‐γ‐producing T‐cells and antigen‐specific populations. Activated CD8+ T‐cells increased 4‐12‐fold with ST
+10, CD4+ T‐cells increased 10‐fold with N
+T
+(h)4 epitope stimulation and 20‐fold by poly I:C. Passive transfer of mature activated DCs to naïve mice also resulted in 100% survival (similar to poly I:C and macrophage early depletion groups), and reduction in viral titers from 105–8 to 102 in the lungs, compared to the control group (no survivors). However, nAb titers and subclass were not evaluated..
+
+SB13
+471ALNCYWPLNDYGFYTTTGIGYQPYRVVVLSFEL503
+.
+
+SB14
+604
+TDVSTAIHADQLTPAWRIYSTGC
+625
+.
+
+SB15
+1146
+EIDRLNEVAKNLNESLIDLQELGKYEQYC1191
+.
+
+SB16
+597
+LYQDVNCTDVSTAIHADQLTPAWRIYSTGC
+625
+.
+
+[0.5 mg/kg].
+
+Rhesus macaque monkeys.
+
+(n = 6).
+
+IM (D 0, 14, 28, 42).
+
+SARS‐1 challenge.
+
+106 TCID50
+.
+
+Orf1B1
+1065SDDYIKLNGPLTVG1078
+.
+
+(K1071A & T1076K).
+
+SB17
+323CPFGEVFNATKF334 (K333R).
+
+SB18
+467CTPPALNCYWPLND 480 (LS).
+
+SB19
+545FQPFQQFGRDVSDF558 (LS).
+
+SB20
+651PIGAGICASYHT662 (LS).
+
+SB21
+663VSLLRSTSQKSI674
+(LS)
+.
+
+(RRAR inserted at this cleavage site).
+
+SB22
+695AIPTNFSISITTEV708
+(LS)
+.
+
+MB3
+165KEITVATSRTLS176 (100%).
+
+MB4
+5GTITVEELKQLL16 (Q14K).
+
+SB22
+460FSPDGKPATPPALNAYW476 (neutralizing).
+
+SB23
+609AIHADQLTPAWR628
+.
+
+(nonneutralizing).
+
+SB24
+460FSPDGKPCTPPALNCYWPLNDYGFYTTTGIGYQ492
+.
+
+ST(h)25
+435NYNYKYRYLRGKLRPF451
+.
+
+ST(h)26
+528NFNGLTGTGVLTPSSKRF545
+.
+
+ST(h)27
+633AGCLIGAEHVDTSYECDI650
+.
+
+ST(h)28
+649DIPIGAGICASYHTVSLL666
+.
+
+ST(h)29
+1082SWFITQRNFFSPQII1097
+.
+
+Orf3T(h)1
+36PLQASLPFGWLVIGV50
+.
+
+MT(h)5
+146GHLRMAGHSLGRCDI160
+.
+
+NT(h)5
+211GETALALLLLDRLNQ255
+.
+
+MB6
+1MADNGTITVEELKQLLEQWNLVI23
+.
+
+MB7
+132LMESELVIGAVIIRGHLRMAGHPLGRCDIK160
+.
+
+
+SARS‐2‐S B‐cell epitopes [25 ug dose]
+.
+
+S2B1
+330PNITNLCPFGEVFNATRFAS349
+.
+
+S2B2
+370STFKCYGVSPTKLNDLCFTN395
+.
+
+S2B3
+450NYLYRLFRKSNLKPFERDIS469
+.
+
+S2B4
+480CNGVEGFNCYFPLQSTGFQP499
+.
+
+
+SARS‐2‐S T‐cell epitopes
+.
+
+S2T(h)5
+420DYNYKLPDDFTGCVIAWNS439
+.
+
+S2T(h)6
+510RVVVLSFELLHAP521
+.
+
+BALB/c mice (n = 5).
+
+S2B2, S2B3, or S2‐RBD were conjugated to KLH and mixed with alum.
+
+SC (D 0, 14).
+
+
+SARS‐2 CD4+ T‐cell epitopes
+.
+
+N2T(h)1
+81DDQIGYYRRATRRIR 95
+.
+
+N2T(h)2
+266KAYNVTQAFGRRGPE280
+.
+
+N2T(hc)3
+321
+GMEVTPSGTWLTYIGAIKLD340
+.
+
+
+SARS‐2 CD8+ T‐cell
+.
+
+Within N2T(hc)3 MEVTPSGTWL.
+
+COVID‐19 convalescent patients (n = 37),.
+
+Unexposed patients.
+
+(n = 37), and.
+
+SARS‐patients (n = 24).
+
+S2B5
+655HVNNSYECDIPIGAGICA672
+.
+
+S2B6
+787QIYKTPPIKDFGGFNFSQILPDPSKPSKPSKRSFIEDLL822
+.
+
+
+B‐cell epitopes
+.
+
+S2B7
+451YLYRLFRKSNLKPFERDIST470.
+
+S2B8
+491PLQSYGFQPTNGVGYQPYRV510.
+
+S2B9
+391CFTNVYADSFVIRGDEVRQI410.
+
+S2B10
+331NITNLCPFGEVFNATRFASV350.
+
+S2B11
+341FNATRFASVYAWNRKRISN360.
+
+S2B12
+441LDSKVGGNYNYLYRLFRKSN460.
+
+COVID‐19 convalescent patients sera (n = 7).
+
+BALB/c Mice (n = 4).
+
+Cysteinylated peptides were conjugated to diphtheria toxoid (DT) and 25 µg were mixed with Alum.
+
+IM (D 0, 21, 28).
+
+N2T4
+ RTATKAYVN.
+
+N2T5
+ IIWVATEGA.
+
+N2T6
+ NTASWFTALT.
+
+S2T7
+ SIIAYTMSL.
+
+S2T8
+269YLQPRTFLL277.
+
+S2T9
+ RVVVLSFEL.
+
+Within S2T8
+269YLQPRTFLL277.
+
+S2T10
+976VLNDILSRL984.
+
+Orf12T1
+3183FLLNKEMYL3191.
+
+Orf12T2
+ TTDPSFLGRY.
+
+Orf12T3
+ VYIGDPAQL.
+
+Orf82T1
+ SKWYIRVGARKSAPL.
+
+S2T11
+ LTDEMIAQY.
+
+S2T12
+ QYIKWPWYI.
+
+S2T(h)13
+ ITRFQTLLALHRSYL.
+
+M2T1
+ NRFLYIIKL.
+
+M2T(h)2
+ LSYYKLGASQRVAGD.
+
+N2T7
+ KTFPPTEPKK.
+
+N2T8
+ ATEGALNTPK.
+
+N2T9
+ MEVTPSGTWL.
+
+N2T(h)13
+ KDGIIWVATEGALNT.
+
+N2T(h)14
+ GTWLTYTGAIKLDDK.
+
+N2T(h)15
+ RWYFYYLGTGPEAGL.
+
+Orf12T(h)4
+3326NHNFLVQAGNVQLRV.
+
+Orf12T(h)5
+531SPLYAFASEAARVVR.
+
+S2T(h)14
+816SFIEDLLFNKVTLAD.
+
+S2T(h)15
+236TRFQTLLALHRSYLT.
+
+S2T(h)16
+321QPTESIVRFPNITNL.
+
+S2T(h)17
+316SNFRVQPTESIVRFP.
+
+Within S2T8
+269YLQPRTFLL277.
+
+S2T18
+1000RLQSLQTYV1008.
+
+
+BALB/c Epitopes
+.
+
+N2T(h)16
+351 ILLNKHIDAYKTFPP365
+.
+
+S2T19
+268GYLQPRTF275.
+
+S2T20
+535KNKCVNFNF543.
+
+
+C57BL/6 Epitopes
+.
+
+Orf32T(h)
+266EPIYDEPTTTTSVPL280.
+
+M2T3
+174RTLSYYKL181.
+
+N2T17
+219GFSALEPL226.
+
+S2T21
+510VVVLSFEL517.
+
+S2T22
+538CVNFNFNGL546.
+
+S2T23
+820DLLFNKVTL828.
+
+Epitopes were initially mapped in hACE2‐transgenic BALB/c and C57BL/6 mice to identify potent CD4+ T‐cell and CD8+ T‐cell epitopes and to examine their protective efficacy. A nanomolar dose of each peptide was adequate to stimulate IFN‐γ production in T‐cells within mice lungs and bronchoalveolar fluid. S2T22 and S2T23 were the most potent epitopes in hACE2‐C57BL/6 mice, while S2T20 was the most potent for hACE2‐BALB/c..
+
+Immunization of mice (hACE2‐BALB/c or hACE2‐C57BL/6) with N2T(h)16, S2T19, or S2T20 resulted in only partial protection in challenge experiments: 5‐ to 10‐fold PFU reductions in SARS‐2 virus were observed on the second day post‐challenge..
+
+S2B13
+63TWFHAIHVSGTNGTKRFDNPV‐LP85
+.
+
+S2B14
+92FASTEKSNIIRGWIF106.
+
+S2B15
+139F LGVYYHKNNKSWM153.
+
+S2B16
+406EVRQIAPGQTGKIAD420.
+
+S2B17
+439NLDSKVGGNYNYLYR454.
+
+S2B18
+455FRKSNLKPFERDIS469.
+
+S2B19
+475GSTPCNGVEGFNCYFPLQSYGF‐QP499
+.
+
+S2B20
+495GFQPTNGVGYQPYR509.
+
+S2B21
+793PIKDFGGFNFSQILPDPSKP812.
+
+S2B22
+909GVTQNVLYENQKLI923.
+
+S2B23
+1106QRNFYEPQIITTDNT1120.
+
+ST1
+1174NLNESLIDL1182
+ is SARS‐1‐S derived T‐cell epitope, at position 1174 to 1182 of the full‐length Spike protein sequence. N and M, denote SARS‐1‐N and SARS‐1‐M proteins derived epitopes, while S2 denotes SARS‐2‐S derived epitopes, N2 and M2 denote SARS‐2‐N and SARS‐2‐M proteins derived epitopes, respectively. The B subscript denotes a B‐cell epitope, T subscript denotes T‐cell epitope, and T(h) subscript denotes a helper T‐cell epitope. SARS‐1‐derived epitopes with low sequence identity to SARS‐2 (LS) have more than 3 different residues..
+
+(IN), C (42) is challenge on day 42 from day zero (immunization), infection via intranasal route..
+
+Ab, antibodies; C, challenge; D, day; DC, dendritic cells; HLA, human leukocyte antigen system; IM, intermuscular; IN, internasal; IP, intraperitoneal; KLH, Keyhole limpet hemocyanin; LPS, bacterial lipopolysaccharide, pro‐inflammatory Th‐2 adjuvant; MA15, a mouse adapted SARS‐1 strain; MHC, major histocompatibility complex; nAb, neutralizing antibody; PFU, plaque forming unit; SC, sub‐cutaneous; TCID, tissue culture infective dose 50%..
+
+The neutralization efficacies of the currently approved vaccines dropped significantly when they were tested against recently emerged SARS‐2 variants. To date, mutations have been observed in viral structural and NSPs, including ORF‐1, S‐, E‐, and N‐proteins. Importantly, mutations in the RBD sequence have also been reported. SARS‐2‐S mutations have occurred in the P1 lineage (L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, and D614G), the B.1.1.7 lineage (del69–70 HV, del144 Y, N501Y, A570D, D614G, P681H, T761I, S982A, and D1118H), and the B.1.351 lineage (K417N, E484K, N501Y, D614G, and A701V). All approved vaccines have efficacies of ≥85% against the original SARS‐2 virus strain. However, the efficacy of the ChAdOx‐1 nCoV‐19 (AstraZeneca/Oxford) vaccine dropped to 70% and 81% against the B.1.1.7 (T20I and N501Y) and non‐(B.1.1.7) lineages (“UK variants”), respectively.[
+178
+] Similar reductions in efficacy were also found in the context of the South African variants, for example, B1.351 with a N501Y mutation.[
+205
+] Further, the mRNA‐1273 vaccine (Moderna) was found to have a 5‐ to 10‐fold reduced efficacy against the B.1.351 variant in nonhuman primates and in sera isolated from immunized humans.[
+206
+] However, it still provides sufficient protection against the B.1.1.7 lineage (based on pseudovirion nAb titers of >300).[
+207
+] The P1 variant, which is common in Japan and Brazil, possesses similar mutations (T20J and N501Y) to those reported to be highly resistant to vaccination with formulations utilizing the original SARS‐2‐S sequence..
+
+The main reason for reduced vaccine efficacy has been mutation at or near the SARS‐2‐S binding motif. However, the N‐terminus domain (NTD) of the S‐protein has been shown to include potent neutralizing epitopes[
+196, 208
+] and mutations in this region have also impaired vaccine efficacy. Immune sera against the original SARS‐2‐S were effective against the D614G mutation (nAb titers of 1800) in nonhuman primates[
+206
+] suggesting that this mutation is less detrimental to S‐protein‐based vaccine efficacy. However, it is important to note that these outcomes are mainly resultant from in vitro neutralization‐based assays. Contrary to humoral (antibody‐based) responses, convalescent patient T‐cells continue to recognize mutant strains,[
+209
+] as most T‐cell epitopes have remained conserved between variants. Combining cellular and humoral responses could protect vaccine efficacy against future emerging variants, even if the main neutralizing epitopes are altered. Therefore, vaccine efficacy against mutants cannot be determined by simple serum‐based naturalization assays; instead, infection challenge studies in mice and nonhuman primates are required, and, more importantly, longitudinal studies on post‐vaccinated human subjects.[
+178, 210
+]
+.
+
+Interestingly, one type of APCs: macrophages, express ACE2.[
+222, 223
+] This not only implies that macrophages are vulnerable to infection in the lungs, but also that S‐protein and its RBD when used as vaccine antigen could preferentially bind to macrophage surface‐expressed ACE2. All subunit‐based vaccine formulations contain an adjuvant and B‐cell epitope/s (possibly in the form of whole protein) intended to target pathogen recognition receptors on APCs, for example, dendritic cells, and B‐cells, respectively. The binding of S‐protein or its antigenic fragments to macrophage‐ACE2 can be an alternative to antigen binding to B‐cell receptors for the production of Abs.[
+115, 117
+] This leads to off‐target loss of antigen. Simultaneously, the effects from ACE2‐downregulation due to RBD‐ACE2 binding causes a switch toward inflammatory responses and delay in the development of adaptive immune responses due to the combined effects of antigen underdosing and ACE2‐downregulation.[
+87, 154
+] DNA‐ and RNA‐based vaccines may initially circumvent this major drawback of off‐target dose wasting and preserve the S‐protein in prefusion conformation.[
+168
+]
+.
+
+However, after the translation and secretion of S‐protein, nonspecific ACE2 binding could occur during antigen presentation. The gradual release of RNA‐translated S‐protein demonstrated much milder immunopathology compared to protein‐based vaccine antigens and developed the required noninflammatory adaptive immune response necessary for protection.[
+166
+] This effect was also observed when low‐dose S‐protein was utilized as vaccine antigen. However, relatively low nAb titers were observed and immunopathology was not completely prevented.[
+154
+] While the low efficacy of DNA and RNA vaccines results from limited transfection efficacy, the use of nontoxic and safe transfection agents, for example, lipoplexes, reduces the chance of side‐effects. In contrast, more effective nonreplicating viral vectors induce fever and have safety concerns.[
+224
+] These critical drawbacks can be completely avoided by employing peptide‐based subunit vaccines combined with suitable adjuvants to stimulate a specific effective immune response..
+
+Antibody subclass has an important role in protection against SARS infections, as each subclass varies in its involvement in inducing pro‐inflammatory responses, recruitment of inflammatory cells, and in opsonization by antibody‐dependent cytotoxic effects. Danger signals recognized by APCs drive interleukin production. The interleukin profile then drives immunoglobulin class‐switching, for example, IL‐10 drives immunoglobulin class‐switching to IgG4. Hence, proper adjuvant choice is one of the most crucial steps in vaccine development.[
+225, 226
+] For example, as an adjuvant, alum normally generates IgG1 as the dominant subclass with very minor IgG2a,c levels, while Th1‐supporting adjuvants, poly I:C and CPG ODN, generate IgG2a,c as the dominant subclass.[
+227, 228
+] Recently, SARS‐2‐S protein was tested for its efficacy in generating nAbs against SARS‐2 in combination with adjuvants, such as AS03, AS37, Alum, and Alum‐CPG1018. AS03 followed by Alum‐CPG1018 outperformed the other adjuvants tested in terms of generating stable, high levels of nAb titers > 103 (n = 5–6 mice per group).[
+229
+]
+.
+
+Soluble and transmembrane protein antigens recognized by B‐cells trigger the production of IgG1 and IgG3, while IgG4 and IgE production results from repeated exposure to allergens, which provokes inflammatory allergenic or anti‐inflammatory responses, respectively.[
+230, 231
+] For example, carbohydrate antigens almost exclusively result in IgG2 responses.[
+232, 233, 234, 235, 236
+] The natural ratio of IgG subtypes IgG1/IgG2 is 2:1, unless a strong, specific, class‐switching adjuvant is employed. In early viral infection stages, the levels of IgG3 are initially elevated and class‐switching follows to the less inflammatory IgG1 subclass.[
+233
+] APCs bear FCγR and FcRn receptors, which amplify signaling and interleukin production, including pro‐inflammatory cytokines (Figure 4). Activating FCγR receptors triggers inflammatory responses, including the release of chemo‐attractants, cytotoxic substances from immune effector cells, and pro‐inflammatory mediators, thus recruiting inflammatory immune cells. IgG3 and IgG1 bind very strongly to most FCγR receptors, whereas IgG2 binds very weakly to all of them except FCγR IIa.[
+237
+] Since IgG2 binds weakly to FCγR receptors, triggering IgG2 mediated responses should reduce undesired inflammatory responses. The strong binding of IgG1 and IgG3 to FCγR‐IIIb present on neutrophils could be one of the leading causes of lung immunopathology in early infection. In contrast, IgG2 does not bind to FCγR‐IIIb. This may explain the safe and protective Th1‐biased humoral responses achieved by combining SARS‐1‐S with TLR3 adjuvant (poly I:C) in mice facing infection challenge, although only total neutralizing IgG titers were evaluated in the study.[
+154
+] Similar IgG2 mediated protective responses with minimal immunopathology were induced by influenza vaccine in mice.[
+153, 154, 238
+]
+.
+
+IgG1 and IgG2 also bind to the FcRn receptor, which is widely expressed on epithelia, including respiratory epithelia and myeloid cells, thus complementing the role of IgA in mucosal immunity. Another inflammatory mechanism—binding of IgG to C1q protein—is also triggered by complement activation. IgG2 is the weakest C1q binder, compared to IgG3 and IgG1.[
+239, 240
+] In summary, IgG2 has prolonged circulation half‐life, contributes to mucosal immunity, and has reduced inflammatory effects, due to low C1q and FCγR binding, but retains the protective functions of opsonization and neutralization of Abs..
+
+Careful adjuvant selection is important in helping to develop adaptive immune responses; as engineering of the produced interleukin profile can directly drive maturation and recruitment of immune cells. APCs express several pathogen recognition receptors, including TLRs, for which MyD88 is an adaptor signaling protein and key for interleukin production. MyD88 signaling in APCs was found to be essential for protection against SARS‐1 infection in mice. In a recent study, MyD88 −/− C57BL/6 mice were more susceptible to infection by SARS‐1 MA15 strain (>90% of mice died), whereas all of the wild‐type black mice survived. In addition, CCR1 is the MCP‐1 cytokine receptor expressed in APCs, T‐cells and neutrophils. CCR1‐deficient mice exhibited exacerbated immunopathology, with only 60% survival.[
+143
+] CCR1 triggers pro‐inflammatory responses in early infection; however, it also induces protective innate responses to some extent in early infection. In contrast to innate responses, early recruitment of professional DCs and the avoidance of pro‐inflammatory cell recruitment alleviated symptoms and generated a more protective adaptive immune response.[
+118
+] Therefore, vaccine against SARS‐2 should preferably induce balanced Th1/Th2 or even biased Th1 and Th17 responses at the expense of Th2‐type responses. Therefore following Th1‐biased adjuvants have been suggested as promising immune stimulant for SARS vaccine formulations: a) IC30, cationic polypeptide with TLR9 agonist (Th1); b) GLA SE, a squalene‐based water‐in‐oil emulsion with TLR4 lipid agonist (Th1); c) CAF01, a cationic liposome with mincle receptor agonist (Th1/Th17); d) poly I:C, a double‐stranded RNA as a TLR3 agonist, (Th1/Th17); and d) MF59, a squalene‐based oil‐in‐water emulsion (Th1/Th2 balanced). Adjuvancy power, expressed as total IgG humoral responses, varies among these adjuvants. When hemagglutinin was applied as model antigen the level of Ab titers decreased in following order MF59 > GLA SE > CAF01 > alum, after two subcutaneous immunizations in mice.[
+241
+] The most common adjuvant used in vaccine formulations worldwide, alum, was not only the weakest among them but it also stimulates Th2 rather than desired Th1 immune responses..
+
+Several in vitro tests were developed to investigate potential protection against SARS infections via humoral responses. Pseudovirion cell entry inhibition, antigen‐Ab binding affinity, for example, by surface plasmon resonance, and competitive ELISA tests have all been used to assess specific inhibitory activities of produced Abs against viral fusion proteins. Binding affinity tests assess when generated Abs have a strong enough binding affinity to S‐protein or RBD to block S‐protein binding to ACE2. In competitive ELISA tests, plates are either coated with ACE2 or RBD followed by immune sera, then the other protein (RBD or ACE2, respectively) is added to explore how binding was affected or inhibited by the sera.[
+242
+]
+.
+
+Pseudovirion cell entry inhibition provides the closest simulation of cell infection. ACE2‐transfected HEK cells are often employed with a mixture of animal sera at different dilutions and pseudo‐virus particles (lentivirus) bearing S‐protein added to ACE2 cells. This allows for exploration of binding inhibition between S‐protein and ACE2 in an environment that mimics in vivo conditions. Recently, a strong correlation was demonstrated between nAb titers and the pseudovirion entry test (R
+2 = 0.83);[
+139, 157
+] this supports the suitability of employing simple in vitro tests, such as competitive ELISA, in preclinical vaccine candidate screening in early development stages. However, these tests, including pseudovirion entry, often fail to assess the true protective efficacy of Abs with nonneutralizing protective mechanisms, for example, opsonizing Abs. For example, Abs generated against several conserved epitopes in the influenza fusion protein (hemagglutinin) were protective in vivo, but did not exhibit cell entry inhibition in vitro. Similarly, this assay failed to assess the neutralization of a protective Ab (7D10) against a conserved neutralizing epitope at the NTD of MERS‐CoV‐S. The test failed, as 7D10 binds to the NTD of MERS‐CoV‐S only when the latter is bound to DPP‐4 receptor and the epitope is accessible.[
+197
+] In such cases, competitive ELISA tests are incompatible; however, pseudovirion cell entry test may assess efficacy depending on design.[
+197
+] Several studies demonstrated the protective power of nonneutralizing Abs against lethal SARS and influenza infections, even though they failed to demonstrate protection via in vitro pseudovirion cell entry inhibition tests.[
+153, 185, 186, 187, 238, 243
+] Therefore, depending on the mechanisms of protection offered by antigen‐specific Abs, the efficacy of in vitro assessment testing for evaluating protective role will vary..
+
+A variety of distinct animal models have been used to study SARS infections. Models were selected based on their ability to mimic pathological symptoms and the lethality of human infection. A few studies employed ferrets as animal models for SARS‐1 infection challenges;[
+96, 97, 244
+] however, these models are partially resistant to SARS‐2 infection.[
+245, 246
+] For example, while ferrets are susceptible to infection, they require high SARS‐2 dose (105.5 PFU) to enable quantification of viral RNA titers, and to exhibit histopathological symptoms, pneumonia, and lung lesions.[
+246
+] Viral RNA titers peak 2–6 days post‐infection, then viral clearance occurs by day 14 post‐infection. Ferrets are also immune to reinfection. To date, only two SARS‐2 infection challenge studies have utilized ferrets for the purpose of examining vaccine efficacy.[
+177, 247
+] In contrast, Syrian hamsters have been recently employed as a suitable infection challenge animal model for SARS‐2; this model is susceptible to infection using relatively low SARS‐2 dose (103.5 PFU).[
+248, 249
+] Importantly, viral RNA titers are detectable, days 2–7 post‐infection, in nasal turbinates, duodenum, feces, brain, and kidneys.[
+249
+] Infected hamsters exhibit similar transmissibility and histopathology to infected patients, including pneumonia, lung lesions, and inflammatory cells infiltration.[
+248, 249
+] The infection lasts for 14 days post‐infection, when infection is cleared, humoral immune responses protects the animals against reinfections. Hamsters have been recently used to evaluate vaccine efficacy.[
+170, 174, 250, 251
+] Thus, hamster represents a promising highly susceptible infection challenge model for SARS‐2..
+
+BALB/c mice are the most common models for SARS‐infection challenge, due to compatibility with pro‐inflammatory pathological responses in early stages of infection.[
+203, 252, 253, 254
+] Upon SARS‐1 infection, mice produce a wave of pro‐inflammatory cytokines (TNF‐α, IL‐6) and chemokines (CXCL‐10, CCL2, CCL3, CCL5) by day 2 post‐infection. In response to chemotaxis, NK‐cells, immature macrophages, and DCs are recruited to the lungs. On day 7 post‐infection, a second wave of cytokines and chemokines are produced, in addition to IFN‐γ, IL‐2, IL‐5, and CXCL‐9. Similar acute lung injury with diffuse alveolar damage occurs due to immunopathology. However, SARS‐1 infection in BALB/c mice is not highly lethal, which reduces the applicability of these mice for demonstrating the protection efficacy of vaccine candidates..
+
+Two approaches were adopted to develop more sensitive mouse models to mimic lethality and pathological symptoms. The first approach employed transgenic mice expressing human ACE2 (hACE2).[
+255
+] Transgenic hACE2 mice were able to mimic the infectivity of SARS‐cell entry observed in primary hosts.[
+35, 38, 256, 257
+] Infection of hACE2‐transgenic mice with TCID50 SARS‐2 doses of 3 × 104 and 7 × 105 resulted in 50% and 100% lethality, respectively, by fifth day post‐infection (n = 4–6). Thus feasible lethal infection challenge model was created.[
+258
+] Alternatively, lungs of regular mice can also be transfected/transduced, with hACE2 via adenovirus serotype‐5 (Ad5) encoding hACE2, by intranasal administration, thus rendering them susceptible to SARS‐2 infection. Infection of the hACE2‐Ad5‐transduced BALB/c or C57BL/6 mice with 2.5 × 108 PFU virus dose resulted in steady viral RNA lung titers of 1010 g−1, and PFU g−1of 105, at fourth to eighth day post‐infection. Additionally, this transduced mouse model exhibited sensitivity to neutralization by nAbs, detectable lung histopathological damage by hematoxylin and eosin tissue staining, and significant increase in cytokine storm, that is, IL‐6, CXCL‐10, and IL‐28a/b, with infection progression and a decrease in body weight.[
+253
+] The second approach involved developing a special SARS‐virus strain that was more suited for mouse lethal infection. MA15 SARS‐1 strain infected both black C57BL/6[
+259
+] and BALB/c mice[
+64
+] with SARS‐1. Recently, a similar approach was adopted for SARS‐2 infection in old and young BALB/c mice, on third day post‐infection with the N501Y mutant SARS‐2 strain, the infected mice had steady SARS‐2 viral RNA lung titers of 1011 g−1, detectable cytokine storm, a decrease in body weight with infection progression, and detectable lung histopathological damage via hematoxylin and eosin tissue staining.[
+252
+] Therefore, similar pathology in animal models is important to allow for not only vaccine efficacy, but also safety.[
+259
+] Ultimately, both of these approaches achieved the required degree of susceptibility to immunopathology and lethality in control mice, thus rendering them sensitive and suitable animal models for comparing the protective efficacy of vaccines while monitoring immunopathological adverse events, especially after infection challenge..
+
+Rhesus macaque monkeys are a common final preclinical model with close physiological, histological, immunological, and immunopathological responses to human infection by SARS‐1 and SARS‐2.[
+260
+] They possess highly homologous ACE2 to humans, which is expressed in similar tissues.[
+257, 261
+] The rhesus monkey model was recently employed to provide proof‐of‐concept on the safety and efficacy of S‐protein‐encoded DNA‐loaded chimpanzee adenovirus (Chadox‐1) vector.[
+168
+] These animal models are considered adequate for establishing preclinical efficacy and safety before proceeding to phase I human clinical trials..
+
+Even after the current COVID‐19 pandemic disaster is curbed, spillover from viral reservoir animal hosts to humans could occur again. In order to be as prepared as possible, it is extremely important to progress extensive research in vaccine development, molecular pathology, and surrogate in vitro efficacy tests to fast‐track effective medical interventions..
+
+It is highly likely—and possibly essential—that a peptide‐based subunit vaccine is produced against SARS‐2, as this type of vaccine has several advantages over protein and RNA‐based vaccines. Peptide‐based vaccine can a) incorporate epitopes from different proteins in one immunogenic construct, thus exceeding the efficacy of a single epitope, b) support the initiation of different protective immune mechanisms simultaneously, and c) avoid unnecessary immunopathological side effects. Moreover, peptide vaccines are easy to chemically synthesize, process and purify; are scalable for mass production to meet current global demand; are stable as dry, sterile powder; can be stored/transported without needing to be kept cold; and are devoid of biological contaminants. Furthermore, combining peptide vaccine with proper Th1 and Th17 interleukin‐inducing adjuvants is achievable to avoid hyperreactive Th‐2 responses that exacerbate immunopathology..
+
+Peptide‐based vaccines can enclose opsonic or neutralizing epitopes, or both. Neutralizing B‐cell epitopes that contain several CBRs prevent mutant escape; as mutations of these moieties will also reduce virus infectivity. Convalescent patient sera, even with low nAb concentration, can neutralize the virus. Three neutralizing epitopes (pep1‐3) are suggested here as potential neutralizing peptide vaccine antigens. Moreover, the incorporation of cytotoxic T‐cell epitopes and B‐cell epitopes in the vaccine may provide synergistic protective effects..
+
+In conclusion, peptide‐based vaccines against coronaviruses have been somewhat overlooked, but they hold great potential for delivering safe and protective immune responses against SARS‐2 infections..
+
+The authors declare no conflict of interest..
+
+Supporting Information.
+
+Click here for additional data file..
+
+This work was supported by the National Health and Medical Research Council (NHMRC Program Grant APP1132975). The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed..
+
+Ahmed O. Shalash received his B.Sc. in pharmaceutical sciences in 2009. After graduation, he joined the R&D drug formulation and development unit in the European Egyptian pharmaceutical industries and Medizen pharmaceutical Industries (8 years). He is an expert in pre‐clinical development of pharmaceutical products, including nanopharmaceuticals design and formulation, characterization techniques development, and establishing in vitro–in vivo correlations and mathematical models. He obtained his M.Sc. in pharmaceutics at Alexandria University, Egypt, in 2015. His M.Sc. research received several awards, including the USP Global Fellowship award in 2014. He is currently a Ph.D. candidate, at the University of Queensland, Australia..
+
+Waleed M. Hussein was awarded his PhD degree in organic chemistry, School of Chemistry and Molecular Biosciences, The University of Queensland, Australia in 2010. He started a postdoctoral position (2010–2012) in the same school on project targeting the design and synthesis of small inhibitor molecules against metallo‐beta‐lactamases and purple acid phosphatase. In 2012 up to now, he joined Prof. Toth's group to work on development of gene delivery, peptide‐based vaccines and tropical disease—immunity. In addition to his current position, he holds a position as an Associate Professor in Pharmaceutical Organic Chemistry Department, Faculty of Pharmacy, Helwan University, Egypt..
+
+Mariusz Skwarczynski completed his Ph.D. in chemistry at Wroclaw University of Technology, Poland. His postdoctoral training began at Tokushima Bunri University and then he joined the laboratory of Prof. Yoshiaki Kiso at Kyoto Pharmaceutical University, Japan. In 2004 he was awarded with Japan Society for the Promotion of Science fellowship to conduct research on paclitaxel prodrugs. In 2008 he joined Prof. Istvan Toth's group at University of Queensland (Australia) to work on drug, gene, and vaccine delivery. He received Vice‐Chancellor Fellowship at University of Queensland in 2010. Since then his research is mainly focused on nanotechnology‐based vaccine delivery strategies..
+
+Istvan Toth is a chemical engineer with a research focus on medicinal chemistry. He was awarded his Ph.D. in 1972 and has since worked in Hungary, Canada, and the United Kingdom before relocating to Australia in 1998. His major research interests are drug delivery, immunoadjuvants, synthetic vaccines, and gene delivery. His research has attracted over $90 million in competitive grants, research contracts, and investment funds in the past 10 years. He has over 350 peer‐reviewed publications, 45 patents. He is a key founder of Alchemia, Implicit Bioscience Pty Ltd., Neurotide Pty Ltd, and TetraQ..
+

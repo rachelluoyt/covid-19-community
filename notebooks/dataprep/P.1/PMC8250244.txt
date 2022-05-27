@@ -1,0 +1,841 @@
+The Spike protein is the target of both antibody‐based therapeutics (convalescent plasma, polyclonal serum, monoclonal antibodies) and vaccines. Mutations in Spike could affect efficacy of those treatments. Hence, monitoring of mutations is necessary to forecast and readapt the inventory of therapeutics. Different phylogenetic nomenclatures have been used for the currently circulating SARS‐CoV‐2 clades. The Spike protein has different hotspots of mutation and deletion, the most dangerous for immune escape being the ones within the receptor binding domain (RBD), such as K417N/T, N439K, L452R, Y453F, S477N, E484K, and N501Y. Convergent evolution has led to different combinations of mutations among different clades. In this review we focus on the main variants of concern, that is, the so‐called UK (B.1.1.7), South African (B.1.351) and Brazilian (P.1) strains..
+
+mutation rate.
+
+neutralising antibodies.
+
+COVID19 convalescent plasma.
+
+receptor‐binding domain.
+
+receptor‐binding motif.
+
+The COVID‐19 pandemic driven by SARS‐CoV‐2 is currently totalling more than 105 million cases and 2 million deaths around the world. Many prophylactic and therapeutic regimens
+1
+, 
+2
+ have been tested in randomised controlled trials (RCT), but to date only dexamethasone
+3
+ and remdesivir
+4
+ have shown evidences of clinical benefit. The Spike protein drives SARS‐CoV‐2 infectivity: 30–40 Spike homotrimers are exposed on the envelope of each virion,
+5
+, 
+6
+ and each monomer consists of 2 domains (S1 and S2). The S1 domain includes the receptor‐binding domain (RBD), whose most relevant region is the receptor‐binding motif (RBM) (Figure 1). Anti‐SARS‐CoV‐2 Spike antibodies can be grouped in 11 clusters according to epitopes or in 4 classes according to mechanism of action (Table 1). There have been many exploitations of passive immunotherapies based on anti‐Spike neutralising antibodies (nAb), which develop in close to 90% of patients and persist for at least 5 months.
+7
+ The nAbs isolated from SARS‐CoV‐2 patients are preferentially encoded by certain heavy‐chain germline genes and the two most frequently elicited antibody families (IGHV3‐53/3‐66 and IGHV1‐2) can each bind the RBS in two different binding modes.
+8
+ The first nAb‐based manufactured therapeutic has been COVID19 convalescent plasma (CCP), whose efficacy seems promising
+9
+ but for which randomised controlled trials are still pending.
+10
+ Antiviral monoclonal nAb have entered the market,
+11
+ and polyclonal IgG formulations (i.e., hyperimmune serum) will likely follow.
+12
+ All these antibody‐based therapeutics and vaccines suffer from one major risk: mutational escape of the Spike protein.
+13
+ Changes in Spike protein might also increase transmissibility, leading to increased re‐infection rates and reduced efficacy of vaccine campaigns.
+14
+ Please note that many of the references in this manuscript are preprints which have not yet been through the peer review process..
+
+Linearised representation of Single nucleotide polymorphisms (SNPs) and deletions commonly detected in the S1 and S2 domains of the Spike protein, with a focus on the receptor binding domain (RBD) and receptor binding motif (RBM). Circle size represents relative abundance of the mutation in worldwide genome repositories as of January 2021. Mutations within RBD are represented on grey background.
+
+Competition clusters for anti‐SARS‐CoV‐2 Spike monoclonal antibodies referred in the text.
+
+Coronaviruses belong to the order Nidovirales, which is known for viruses with the longest RNA genome.
+15
+ The genome of SARS‐CoV‐2 has 29,903 ribonucleotides, which encode 29 proteins. Although coronaviruses have a proof‐reading apparatus,
+16
+ their genomes remain subject to recombination as well as other copy‐choice transcriptional errors.
+17
+ Being a recent virus, the observed diversity is lower than for other RNA viruses.
+18
+ Most SARS‐CoV‐2 proteins exhibit little mutational variability, the proteins with highest mutation rate (MR) being the Spike, NSP12 (RNA‐dependent RNA polymerase [RdRp]) and NSP9c.
+19
+ The average MR of SARS‐CoV‐2 genome has been estimated from the related mouse hepatitis virus (MHV) at 10−6 nucleotides per cycle, and the MR at 4.83 × 10−4 subs/site/year, which is similar, or slightly lower, than what is observed for other RNA viruses.
+20
+ Heterogeneous mutation patterns are mainly reflections of host antiviral mechanisms that are achieved through apolipoprotein B mRNA editing catalytic polypeptide‐like proteins (APOBEC), adenosine deaminase acting on RNA proteins (ADAR) and ZAP proteins and probable adaptation against reactive oxygen species (ROS).
+21
+ Two particular mutation types, G→U and C→U, possibly the result of APOBEC and ROS, cause the majority of mutations in the genome and occur many times at the same genome positions along the global SARS‐CoV‐2 phylogeny (i.e., they are very homoplasmic).
+22
+
+.
+
+Nomenclature of genetic diversity within a given species is not regulated by the International Committee on Taxonomy of Viruses. Historically, genetic diversity is variably grouped in ‘clades’, ‘subtypes’, ‘genotypes’, ‘groups' or ‘lineages’. The main repositories for SARS‐CoV‐2 genomic sequences are listed in Table 2..
+
+Main SARS‐CoV‐2 gene sequence repositories and analysis tools.
+
+In April 2020, a preliminary work by the London School of Hygiene & Tropical Medicine on 5300 sequences from 62 countries identified two clusters (C1 and C2) further classified in 6 main clades (C1, C.1.1, C2, C2.1, C2.1.1 and C.2.1.2).
+23
+ These findings were replicated by a Chinese study in June 2020 using only 103 isolates, which first introduced the L and S lineage nomenclature.
+24
+
+.
+
+The Global Initiative on Sharing All Influenza Data (GISAID) repository contains more than 400,000 full SARS‐CoV‐2 proteome sequences (mostly from Europe, and in particular the UK) as of 20 December 2020, and classifies clades with progressive letters. In Winter 2020, the main clades were L, O, V and S. Later, clade G (with the associated D614G mutation in the Spike protein) emerged followed by the related GR and GH clades.
+25
+ An eighth clade named GV has since been described in the following months..
+
+Nextstrain
+26
+ sources data from public repositories such as NCBI, GISAID and ViPR, as well as GitHub repositories and other sources of genomic data. Nextstrain supports the year‐letter dynamic Phylogenetic Assignment of Named Global Outbreak LINeages (PANGOLIN) lineage nomenclature
+27
+ (https://github.com/nextstrain/ncov/blob/master/docs/naming_clades.md). Clades originally needed a frequency of at least 20% globally for two or more months, and are named with the year it was first identified and the first available letter within the alphabet. The parent clade is reported with the ‘.’ notation (e.g., 19A.20A.20C to indicate clade 20C). Then, in January 2021, it was acknowledged that lack of international travel made it slower for new clades to move past 20% global frequency, and consequently two alternative requirements were added: clade reaches more than 20% global frequency for two or more months: a clade reaches more than 30% regional frequency for two or more months, and a VOC (‘variant of concern’) is recognised.
+28
+
+.
+
+All the above‐mentioned different SARS‐CoV‐2 phylogenies are reconciled in Table 3, which details the separating (barcoding) SNPs. Globally, Jacob et al.
+29
+ showed positive selection of D614G, S477N (clade 20A.EU2), A222V (20A.EU1) and V1176F SNPs, an expansion of B.1 clade, especially strain containing Q57H (B.1. X), R203K/G204R (B.1.1. X), T85I (B.1.2‐B.1.3), G15S + T428I (C.X) and I120F (D.X). None of the SARS‐CoV‐2 variants described so far has been shown to increase infection severity; on the contrary, a clade 19B variant with lower severity was detected in Singapore in the Spring and then disappeared.
+30
+
+.
+
+Summary of main clade/lineages according to different naming schemes.
+
+Abbreviation: n.a., not available..
+
+Viruses with both S:D614G and RdRp:P323L mutations have lower ratios of nonsynonymous mutations per nonsynonymous site to synonymous mutations per synonymous site (dN/dS) compared to those without the two mutations, particularly at RdRp coding region and Orf8 gene. Instead, S gene had higher dN/dS ratios in the mutant genomes. While the S gene was under stronger negative selection in wild‐type genomes during the early stages, it is almost at equal levels between mutant and wild‐type genomes in the later stages. Instead, RdRp is under stronger overall negative selection in the mutant genomes, particularly during the early stages.
+31
+
+.
+
+Single‐nucleotide polymorphisms (SNP) and deletions, such as the ones reported in Table 3 and discussed below, can occur in individual patients and then expand at a global scale. As of February 2021, there were 2592 distinct SARS‐CoV‐2 variants.
+32
+ It has been reported that 95% of patients show within‐host diversity, mostly due to mutational hotspots.
+33
+ High‐confidence subclonal variants were found in about 15.1% of the NGS data sets with mutant spike protein, which might indicate coinfection with various SARS‐CoV‐2 strains and/or intrahost evolution.
+32
+ SNPs are rare because of proofreading efficiency of the SARS‐CoV‐2 RNA‐dependent RNA polymerase (nsp12) and the error‐correcting exonuclease protein non‐structural protein 14 (nsp14): P203L mutation in nsp14 almost doubles the genomic MR (from 20 to 36 SNPs/year).
+34
+
+.
+
+Deletions also represent a mechanism to drive sudden evolution: in antigenic terms, deletions can drive antigenic drift. McCarthy et al.
+35
+ showed two recurrent deletions in the Spike glycoprotein which compromise binding of a nAb: deletions in the N terminal domain (such as ΔH69/ΔV70 and ΔY144) are becoming increasingly prevalent.
+36
+ There are both putative
+33
+ and in vivo
+37
+ evidences of superinfection from SARS‐CoV‐2 strains belonging to different clades. While studies relying on clade assignment and statistics such as linkage disequilibrium have identified that recombination occurs at very low levels
+37
+, 
+38
+ (or is unlikely to be occurring at all
+24
+, 
+39
+, 
+40
+, 
+41
+, 
+42
+, 
+43
+) even when analysing vast quantities of sequencing data, a new method detected multiple recombination events using relatively small samples.
+44
+
+.
+
+Of interest, all the three major variant of concerns (VOC) discussed in details below and summarised in Table 4 (i.e., B.1.1.7, B.1.351 and P.1) harbour the deletion in ORF1ab (del11288‐11296 [3675‐3677 SGF]).
+45
+ Positive selection has been detected for 21 Spike signature mutations sites (convergent for 16 sites and nonconvergent for 5 sites) and 90 nonsignature mutation sites in these VOCs.
+46
+ Given consistent convergent evolution, we will separately discuss individual mutations first, and will later focus on VOCs..
+
+Comparison of B.1.1.7, B1.1.28‐derived clades, B.1.1.33 (E484K), B.1.351 and CAL.20C lineages with regard to mutations in Spike, other SARS‐CoV‐2 genes and evidences for reinfection.
+
+
+Note: ORF1ab mutations are represented by its amino acid positions relative to ORF1a (Nsp1‐Nsp11) and ORF1b (Nsp12‐Nsp16)..
+
+Structurally, the SARS‐CoV‐2 Spike protein shares similarity with the one from SARS‐CoV‐1 that emerged in 2003, with a major point of difference being an additional cleave in the S1 subunit. A first study reported the nucleotide MR of Spike gene from January to April 2020 at 2.19 × 10−3 substitution/site/year,
+47
+ which was significantly higher than the MR of the entire genome.
+48
+, 
+49
+ At 9th month, the MR remained unvaried at 1.08 × 10−3 ribonucleotide substitutions/site/year, without differences among clades.
+50
+ The global frequencies of different immune escape variants has been assessed in several research articles.
+51
+ It has been hypothesised that Spike protein mutations in novel SARS‐CoV‐2 ‘variants of concern’ commonly occur in or near indels.
+52
+
+.
+
+The residue D614 of the Spike protein began showing a D614G SNP missense mutation in January 2020 and showed an MR of 0.999 in October–November 2020,
+19
+ meaning it is almost universal. In the quaternary structure, the D614 established a stabilising hydrogen bond with T859 of the adjacent monomer: D614G compromises such hydrogen bonds providing higher flexibility, potentially modifies glycosylation at close residues (such as N616
+53
+), changes the inner motion of the RBD modifying its cross‐connections with other domains,
+54
+ affects the pH‐dependent responsiveness of SARS‐CoV‐2 and enhances its lysosomal trafficking.
+55
+ Clade G and its related strains GR and GH, are characterised by reduced S1 shedding, higher replication in nasopharynx and trachea
+56
+ and increased infectivity
+57
+: it increases syncytium formation and viral transmission via enhanced furin‐mediated Spike cleavage.
+58
+ More D614 than G614 spike associates with the proteins UGGT1, calnexin, HSP7A and GRP78/BiP which ensure glycosylation and folding of proteins in the ER. In contrast to G614 spike, D614 spike is endoproteolytically cleaved and the N‐terminal S1 domain is degraded in the ER even though C‐terminal S2‐only proteoforms remain present. D614 spike also binds more laminin than G614 spike, which suggests that extracellular laminins may function as cofactors for an alternative, S2‐only dependent virus entry.
+59
+
+.
+
+Interestingly, that particular mutation is not worrying for antibody‐based therapeutics and vaccines since it actually increases the susceptibility to neutralisation.
+60
+, 
+61
+ D614G first established in countries where transmission rates at the beginning of the pandemic were higher,
+23
+, 
+62
+ leading to huge expansions. The P323L mutation in the RNA‐dependent RNA polymerase (often referred as NSP12b:P314L) accompanies the D614G Spike mutation in most of the analysed sequences (MR = 0.994).
+19
+
+.
+
+The mutations A222V and L18F are far from the main D614G mutation and are found in the N‐terminal domain of the S1 subunit, within areas defined as possible B‐cell epitopes.
+63
+ The A222V mutation (which characterises the 20A.EU1 clade
+64
+) was already detected in March 2020 in Iran, expanded in Spain from June to August 2020 (MR from 0.42 to 0.87) and continued its expansion to Norway (MR = 0.40), Italy (MR = 0.27), Latvia (MR = 0.24), Switzerland (MR = 0.22), the UK (MR = 0.18) and other European countries. The sequences in October–November yielded MR values of ∼0.66–0.72.
+19
+
+.
+
+
+L18F in the Spike was marginally present in different countries in March 2020 (MRs ∼0.005) until it expanded into the United Kingdom, China and Colombia in August 2020. The last data in October‐November 2020 showed a MR in the UK of 0.41 and 0.14 in Norway (∼0.39 overall).
+19
+ It occurs in the B.1.1.7 strain detailed below.
+65
+
+.
+
+
+P681H affects one of four residues between the S1 and S2 domains which constitute the furin cleavage site (FCS). Such site is not found in related coronaviruses and in animal models it promotes infection of respiratory epithelial cells and transmission.
+66
+, 
+67
+, 
+68
+ It has been found both in the UK B.1.1.7 lineage described in details below and in B.1.1.207 lineage in Nigeria,
+69
+ but per se does not seem to lead to increased virus transmission. Similarly, N679S has been found in a few isolates in the US mid‐Atlantic region.
+70
+
+.
+
+Kemp et al.
+36
+ reported recurrent, independent acquisitions and transmissions of the Spike double deletion ΔH69/ΔV70 in multiple lineages, starting in Thailand and Germany in January 2020. ΔH69/ΔV70 diminishes protrusion of the 69–76 loop, increasing Spike‐mediated infectivity by approximately twofold. Interestingly for screening purposes, the deletion causes false negativity in the Spike target (so called S‐dropout variant or S‐gene target failures [SGTF]) of a 3‐target TaqPath® RT‐PCR COVID19 assay (Thermo Fisher Scientific),
+71
+, 
+72
+, 
+73
+ and is associated with higher viral loads.
+74
+ While this lone mutation exists, it is commonly seen in association with the different RBD mutations N439K, Y453F and N501Y (separately discussed below).
+36
+ In summary, it occurs in lineages B.1.375
+75
+, 
+76
+ and B.1.346 reported from USA,
+75
+ and in lineages B.1.1.7 (described below), B.1.1.298 (described below), B.1.177 (EU1), B.1.160 (EU2) and B.1.258∆
+77
+ reported from Europe. The deletion causes partial resistance to neutralisation by the COVA1‐21 mAb, but less than threefold reduction in neutralisation by former convalescent sera.
+78
+
+.
+
+The RBD is the hotspot of neutralisation. Despite RBD‐binding antibodies comprise a relatively modest proportion of all Spike‐binding IgG serum antibodies in naturally infected individuals (consistent with studies reporting that less than half of spike‐reactive B cells and monoclonal antibodies bind to RBD
+79
+, 
+80
+, 
+81
+, 
+82
+), RBD‐binding antibodies contribute the majority of the neutralising activity in most convalescent human sera,
+83
+, 
+84
+ both at early (∼30 days) and late (∼100 days) time points postsymptom onset.
+85
+ There are 56 individual amino acid changes between the RBD of SARS‐CoV‐2 and SARS‐CoV,
+86
+ including sites at which antibody escape has been observed for SARS‐CoV,
+87
+ which explains why the majority of SARS‐CoV‐induced neutralising mAbs do not to neutralise SARS‐CoV‐2 and vice versa. Mutations in the RBD (residues 333–527) outside the RBM have been described..
+
+
+V367F has no effect
+88
+ or improves ACE2 affinity via enhanced hydrogen‐bonding interactions
+13
+, 
+89
+ according to different reports. It is found in the A.23.1 lineage from Uganda together with F157L and Q613H.
+90
+
+.
+
+
+P384A abrogates neutralisation by COVA1‐16 mAb.
+78
+
+.
+
+
+K417N (which, as explained below in details, co‐occurs with E484K and N501Y in the 501. V2 South African lineage and in the P.1 Brazilian lineage) breaks the hydrogen bond with ACE2 reducing affinity.
+91
+ Despite the loss in the binding affinity (1.48 kcal/mol) between RBD and ACE2, the K417N mutation abolishes a buried interfacial salt‐bridge between RBD, and escapes neutralisation by mAbs CB6,
+92
+ COVA2‐07 and the public COVA2‐04,
+78
+, 
+93
+, 
+94
+ but mutations only modestly affect binding by a few CCP samples.
+95
+ Five out of the 17 most potent mRNA vaccine‐elicited mAbs were at least 10‐fold less effective against pseudotyped viruses carrying the K417N mutation.
+96
+
+.
+
+In terms of immune escape, the most dangerous mutations are the ones within the RBM (residues 438‐506): ACE2 binding is increased by mutations L455, A475, F486, Q493 and P499, and reduced by changes at R439, K452, T470, E484, Q498 and N501.
+97
+ Several mutations within the RBM, which increase affinity to the hACE2 receptor, deserve special attention. Nevertheless, the four RBM mutations that to date have the highest frequency among sequenced viruses (N439K, Y453F, S477N and N501Y) do not strongly affect binding by convalescent sera.
+85
+
+.
+
+
+N439K has twofolds higher binding affinity to ACE2, but this does not translate in higher replication kinetics or clinical severity. It was first identified in lineage B.1 in March 2020 in Scotland, and is now widespread on conjunction with the ΔH69/ΔV70 deletion, for example in B.1.258Δ.
+77
+ N439K mutation causes resistance to several monoclonal nAbs, including imdevimab (REGN10987), as well as from 8% of convalescent sera.
+98
+
+.
+
+
+G446V mutation reduced neutralisation by 30‐fold in one convalescent serum in one study
+95
+ but only less than fivefolds in another where KVG444‐6TST was tested
+78
+; neutralisation by COVA2‐29 mAb was very reduced in the latter study.
+78
+
+.
+
+
+L452R is predicted to increase affinity to ACE2 since position 452 belongs to so‐called 443–450 loop epitope (aa 443–452 and 494–501) a. L452R causes resistance to LY‐CoV555 (bamlanivimab), while the related mutation L452K causes resistance to neutralization by COVA2‐29 mAb.
+78
+ L452R is the is the only Spike mutation found in CAL.20A [99] (B.1.232, which also infected gorillas in San Diego zoo) and the most concerning and recently acquired mutation in the CAL.20C (B.1.429) strain which caused a peak in cases in Southern California since November 2020.
+99
+ L452R is also found in A.21, A.2.4, B.1.1.10, B.1.1.130 and C.16, while a single B.1.74 strain harbors the L452Q mutation..
+
+
+Y453F increases affinity to ACE2 (from −12.39 to −10.27 kcal/mol) and partially escapes detection by monoclonal nAbs CC12.1, CC12.3, COVA2‐04, CV07‐250,
+100
+, 
+101
+ etesevimab (also known as LyCoV016, CB6 or JS016)
+102
+ and casirivimab (REGN10933)
+102
+, 
+103
+ but not COVA2‐39 or CV07‐270.
+100
+, 
+101
+ It is the most concerning mutation of Cluster V variant discussed below in detail..
+
+
+LF455YL abrogates neutralisation by COVA1‐12 mAb and reduces that by COVA‐2‐07 and COVA2‐29 mAbs.
+78
+
+.
+
+
+TEI470‐2NVP prevents neutralisation by COVA2‐29, COVA2‐07 and COVA2‐02 mAbs, and reduces the activity of COVA1‐18 and COVA1‐21 mAbs by more than 100‐folds, but reduces the activity of convalescent sera only by twofolds.
+78
+
+.
+
+
+S477N is predicted to attenuate neutralisation by mAb and convalescent sera.
+104
+ It is the hallmark mutation of 20A.EU2 strain
+64
+ (including local variants such as Marseille‐4 strain in southern France and Algeria).
+105
+
+.
+
+
+E484K, caused by SNP G23012A, emerged worldwide in March 2020. It is found in the 501. V2 lineage from South Africa together with N501Y and K417N, in the B.1.1.33 (E484K), in several B.1.1.7 subclades (termed B.1.525), in the B.1.1.28‐derived lineages from Brazil and in the B.1.526 lineage from New York
+106
+ (discussed below and summarised in Table 4). Although preliminary reports suggested reduced affinity to ACE2,
+91
+ E484K actually results in more favourable electrostatic interactions and higher binding affinity to ACE2.
+107
+ Using 19 monoclonal nAbs, Liu et al.
+104
+ generated 48 escape mutations that attenuate neutralisation by mAb and convalescent sera, and inferred that E484K can evade both of them.
+104
+ This warning was later confirmed by Greaney, which identified the most critical site in E484, whose mutations can reduce neutralisation by CCP more than 10‐folds.
+85
+ A majority of the most potent mRNA vaccine‐elicited mAbs were at least 10‐fold less effective against pseudotyped viruses carrying the E484K mutation.
+96
+ In another study, serum neutralisation efficiency was lower against the isogenic E484K rSARS‐CoV‐2 (vaccination samples: 3.4‐fold; convalescent low IgG: 2.4‐fold, moderate IgG: 4.2‐fold and high IgG: 2.6‐fold) compared to USA‐WA1/2020.
+108
+ Another mutation at the same site (E484Q) has also been found in a smaller number of human isolates.
+95
+
+.
+
+
+G485R causes approximately three‐to‐five fold decreases in neutralisation titre for a few sera.
+95
+
+.
+
+
+F490S causes escape to several mAbs
+109
+ and was reported in 20 B.1.1.7 sequences from UK from 13 December 2020 to 5 February 2021.
+65
+
+.
+
+
+S494P increases complementarity between the RBD and ACE2.
+89
+ It causes approximately three‐to‐five fold decreases in neutralisation titre for a few sera
+95
+ and escape to several mAbs.
+109
+ It has been isolated in 369 B.1.1.7 sequences from UK from 12 November 2020 to 5 February 2021.
+65
+
+S494D destroys neutralisation activity by both COVA2‐29 and COVA1‐12 mAbs.
+78
+
+.
+
+
+N501Y occurs in the epitope defined by the ‘443–450’ loop and increases affinity to ACE2 by 10‐folds
+110
+, 
+111
+, 
+112
+ because of higher number of interactions with residues Y41 and K353 (ACE2),
+113
+, 
+114
+ increasing the overall binding affinity
+115
+ (estimate at −0.81 kcal/mol
+116
+ or −20 kcal/mol
+117
+ in different studies). It also reduced presentation across the majority of MHC‐II alleles.
+118
+ Modelling analysis showed that the N501Y mutation would allow a potential aromatic ring–ring interaction and an additional hydrogen bond between the RBD and ACE2.
+112
+ Of interest N501 in SARS‐CoV‐2 corresponds to S487 in SARS‐CoV, one of the residues whose mutations allowed the species jump from palm civet to humans.
+119
+ It was selected in six passages in aged mice
+120
+, 
+121
+ and increases transmissibility and virulence in a murine model.
+122
+ First isolated in Brazil and USA in April 2020,
+36
+ N501Y causes resistance to mAb COV2‐2499,
+95
+ modest effects on binding by majority of other mAb
+94
+ (e.g., COVA1‐12 and COVA2‐17
+78
+ or bamlanivimab/LY‐CoV555
+112
+), and minor reductions in neutralisation by convalescent sera
+78
+, 
+95
+, 
+121
+ or sera from individuals vaccinated with BNT162b2.
+112
+ Four out of the 17 most potent mRNA vaccine‐elicited mAbs were at least 10‐folds less effective against pseudotyped viruses carrying the N501Y mutation,
+96
+ but another study reported that vaccine‐elicited sera were able to neutralise a mouse‐adapted SARS‐CoV‐2 N501Y strain.
+121
+ N501Y is among the main mutations of different variants of concern, that is, B.1.1.7 from UK, B.1.351 from South Africa and P.1 from Brazil (discussed individually below and compared in Table 4). On December 2020, a different mutation, N501T was reported in Brescia (Lombardy) in a single immunocompromised patient (MB61): the same N501T mutation was observed in mustelids (minks
+101
+, 
+123
+ and ferrets
+119
+). An N501Y‐specific one‐step, real‐time RT‐PCR has been recently developed.
+124
+
+.
+
+Minks were reported infected from humans and back‐infected humans
+125
+ in the Netherlands,
+126
+ Denmark,
+101
+, 
+127
+ Canada, Italy, Spain, Sweden, Poland
+128
+ and the USA. Mink‐derived variants account for 40% of the total SARS‐CoV‐2 cases in the Netherlands, and are less lethal and transmissive compared to the native human strains.
+129
+ One of the Danish clusters (Cluster 5/ΔFVI‐spike) has four additional genetic changes (D614G, I692V and M1229I substitutions, and ΔH69/ΔV70 deletion). It does not decrease established humoural immunity or affect the neutralising response in a vaccine model based on wild‐type RBD or Spike. However, it binds the human ACE‐2 receptor with a fourfold higher affinity suggesting an enhanced transmission capacity.
+130
+ Following the lockdown and mass‐testing, Danish State Serum Institute (SSI) announced on 19 November 2020 that Cluster 5 in all probability had become extinct..
+
+This lineage (also known in NextStrain as 20I/501Y.V1 or locally as Variant Under Investigation [VUI] or Variant Of Concern (VOC) 202012/01 or colloquially as UK variant) was first reported in December 2020 in England, and accrues 14 lineage‐specific amino acid mutations and two deletions (see Table 4). Such lineage has actually evolved: the earlier 501Y lineage without amino acid deletion Δ69/Δ70 (501Y variant 1, which circulated mostly from early September to mid‐November) was 10% more transmissible than the wildtype (501N) lineage, while the currently dominant 501Y lineage harbouring the additional amino acid deletion Δ69/Δ70 (ambiguously named 501Y variant 2, which started circulating at late September) was up to 75% more transmissible than the 501N lineage
+131
+, 
+132
+ and continued to grow during a lockdown in which other lineages shrank.
+133
+ There were no evidence for changes in reported symptoms or disease duration associated with B.1.1.7,
+134
+ but mortality is increased by 35%.
+135
+ The reinfection rate 0.7% is similar to older strains.
+134
+ The B.1.1.7 variant is stable in ACE2 affinity by about −10.4 kcal/mol when compared to wild type.
+117
+ The replicative advantage of this strain has been estimated at 2.24.
+136
+ Such dominant strain carries 23 mutations in Spike, ORF8 and N
+137
+: 7 Spike mutations occur in S1 (ΔH69/ΔV70 and two changes in the RBD: N501Y, A570D) and four in S2 (P681H, T716I, S982A and D1118H).
+36
+ It first appeared on September 20 in South‐East England,
+138
+ and has been later detected across all continents. B.1.1.7 mutates at the same speed of other lineages: however, B.1.1.7 suddenly appeared with much divergence from the other strains, suggesting either introduction from a country with poor genomic surveillance, or viral evolution in an animal host before returning to human, or viral evolution occurring in a single immunocompromised patient with chronic infection (see paragraph below). From 17 December 2020 to 26 January 2021, 11 sequences out of 214,159 were reported harbouring the E484K mutation
+139
+: as of February 5, the sequences increased to 27
+65
+ and the variant, then also found across all continents and especially Nigeria, was termed B.1.525. Two more RBM mutations leading to potential immune escape were reported: F490S and S494P.
+65
+ Additionally, L18F substitution initiated a substrain characterised by replicative advantage of 1.70 in relation to the remaining VOC‐202012/01 substrains.
+65
+
+.
+
+Available SGTF data in community‐based diagnostic PCR testing indicate a shift in the age composition of B.1.1.7 reported cases, with a larger share of under 20 years old among reported B.1.1.7 than non‐B.1.1.7 cases.
+140
+ B.1.1.7‐specific primer sets have been recently designed.
+141
+, 
+142
+ Of interest, sera from persons vaccinated with BNT162b2 neutralised isogenic Y501 SARS‐CoV‐2 strain (generated on the genetic background of the N501 clinical strain USA‐WA1/2020)
+143
+ or B.1.1.7 Spike pseudotypes (Δ69‐70 + N501Y + A570D
+144
+, 
+145
+, 
+146
+ or the full set of mutations
+147
+) or authentic B.1.1.7
+148
+ with equivalent or less than threefold reduced titres compared to wild‐type strain. No impact was detected on neutralisation titres when using sera from human subjects vaccinated with mRNA‐1273
+149
+, 
+150
+, 
+151
+ or COVAXIN.
+152
+ Overall, B.1.1.7 causes resistance to neutralisation by the NTD–specific neutralising mAbs,
+153
+ such as COVA2‐17, COVA1‐12 and COVA1‐21,
+150
+ but most convalescent sera showed neutralisation reduced by less than threefolds.
+78
+, 
+148
+, 
+150
+, 
+151
+ Accordingly, only a single patient with previous B.2 infection has been reported as getting B.1.1.7 reinfection to date in UK, despite intensive genomic monitoring.
+154
+ Randomised bacterial display of SERA coupled with proteome analysis using PIWAS showed that the mutations seen in the B.1.1.7 strain would not result in loss of dominant antibody responses to linear Spike glycoprotein and nucleoprotein epitopes in the vast majority of COVID patients.
+155
+ According to Facebook mobility data (https://visualization.covid19mobility.org/?region=WORLD), in 16 out of 19 countries analysed, there is at least a 50% chance the variant was already imported by travellers from the UK by 7 December.
+156
+ Accordingly, the variant has been reported from many countries across all continents (https://cov‐lineages.org/global_report_B.1.1.7.html).
+157
+ The rise most likely occurred by global dispersal rather than convergent evolution from multiple sources.
+158
+
+.
+
+This lineage (also known colloquially as South African variant or VOC 202012/02 or in NextStrain as 20H/501Y.V2) was found since October 2020 in Nelson Mandela Bay, located on the coast of the Eastern Cape Province of South Africa. The strain harboured K417N, E484K and N501Y as a signature,
+70
+ and evolved from clade GH.
+159
+ It has been later identified in imported cases across all continents (https://cov‐lineages.org/global_report_B.1.351.html).
+157
+ K417N and E484K reduce the ACE2‐binding affinity by abolishing two interfacial salt bridges that facilitate RBD binding to ACE2, K417(S)‐D30 (ACE2) and E484 (S)‐K31 (ACE2). These two mutations may thus be more than compensating the attractive effect induced by N501Y, overall resulting in an ACE2‐binding affinity comparable to that of the wild‐type RBD. K417N and E484K abolish the salt bridges between Spike and selected mAbs, such as casirivimab (REGN10933),
+160
+ BD23, H11_H4 and C105,
+161
+ but not others, such as VH‐Fc ab8.
+162
+ The strain is fully resistant to bamlanivimab (also known as LY‐CoV555),
+160
+, 
+163
+ CA1, etesevimab (also known as LyCoV016, CB6 or JS016),and CC12.1, and, most importantly, convalescent sera were no longer neutralising in 48% of cases (only 7% retaining ID50 > 400).
+148
+, 
+150
+, 
+160
+, 
+164
+ Adaptive mutations in the surface/envelope gene might have had associated fitness costs that were subsequently recouped by secondary mutations elsewhere in the gene.
+165
+ B.1.351‐specific primer sets have been recently designed.
+142
+ Sera from human subjects vaccinated with mRNA‐1273 led to 2.7 and 6.4‐fold (still 1:190) geometric mean reduction in neutralisation against K417N  +  E484K  +  N501Y + D614G or full B.1.351 Spike pseudovirus, respectively, when compared to the D614G VSV pseudovirus.
+149
+ Similarly, sera from human subjects vaccinated with BNT162b2 led to 0.81‐ to 1.46‐fold geometric mean reduction in neutralisation against a E484K  +  N501Y + D614G Spike pseudovirus
+145
+, 
+146
+, 
+160
+ or authentic B.1.351,
+148
+ although still 1:500, a titre that was higher than the average titre with which convalescent sera neutralised D614G. Immunisation with a single dose of mRNA‐1273 or BNT162b2 vaccine generated a 1000‐fold increase in nAb titres against B.1.351.
+166
+ And finally sera from persons vaccinated with one of the two Chinese vaccines (BBIBP‐CorV or recombinant dimeric receptor‐binding domain [RBD] vaccine ZF2001) largely preserved neutralising titres, with slightly reduction, against 501Y.V2 authentic virus.
+167
+ One case of reinfection from B.1.351 4 months after non‐B.1.351 has been documented to date.
+168
+
+.
+
+The original B.1.1.28 lineage emerged in Brazil in February 2020.
+45
+, 
+70
+, 
+169
+ At least three Brazilian variants have been identified. P.1 (also improperly termed B.1.1.28.1 or B.1.1.248 or VOC 202101/02 or known in NextStrain as 20J/501Y.V3) was first reported in January 2021 in four Japanese travellers returning from Manaus, the capital of Amazonas state in northern Brazil. P.1 is associated with E484K, K417N and N501Y mutations. Of concern, that area had a 76% seroprevalence at October 2020 after a largely unmitigated first wave,
+170
+ but P.1 was able to cause a major second wave since January 2021.
+105
+ The clade has been later reported in many imported cases worldwide (https://cov‐lineages.org/global_report_P.1.html). E484K mutation enhances spike RBD‐ACE2 affinity and the combination of E484K, K417N and N501Y mutations induces conformational change greater than N501Y mutant alone.
+171
+ P.1‐specific primer sets have been recently reported.
+142
+ Based on similarity with cluster V RBD, it was predicted to highly resistant to both etesevimab (also known as LyCoV016, CB6 or JS016) and casirivimab (REGN10933)
+102
+: partial resistance to casirivimab
+160
+ and full resistance to bamlanivimab
+160
+, 
+163
+ was later confirmed. One case of reinfection has been documented months after B.1 primoinfection.
+172
+ Simultaneous infection by B.1.1.248 (either as major or minor haplotype) and B.1.1.33 or B.1.91, respectively, has been reported.
+173
+
+.
+
+
+P.2 (also improperly termed B.1.1.28.2 or B.1.1.28[E484K]) was first reported in Rio de Janeiro, having E484K as the lone Spike mutation, five mutations in the UTRs, orf8 and N: since the first report, two more mutations in orf1ab (U10667G > L3468V and C11824U  >  I3853I) emerged by the end of December.
+70
+, 
+169
+ At least two cases of reinfection have been documented months after B.1.1.33 primoinfection
+174
+, 
+175
+. P.2 was also detected in the northeast region of Brazil in the states of Bahia and Rio Grande do Norte.
+175
+
+.
+
+A third‐B.1.1.28‐derived variant under investigation has been named VUI‐NP13L, characterised by 12 lineage‐defining mutations.
+173
+
+.
+
+Recently, E484K has also been found in B.1.1.33 lineage from São Paulo and Amazonas, and has been termed B.1.1.33(E484K).
+176
+
+.
+
+The ‘gold standard’ for SARS CoV‐2 variants characterisation is the sequencing of PCR fragments of the viral genome. To date, the practical utility of this test is limited to epidemiological investigations but, since the potential clinical significance of the different variants is increasing, it might become more widely used as a diagnostic approach too. Indeed, increasing evidence exists describing tentative correlations between viral variants and effects on SARS‐CoV‐2 transmissibility, replication and/or antigenicity. Sequencing of the complete viral genome is the best approach for typing SARS CoV‐2 because it allows the recognition of all mutations/deletions/insertions affecting the whole viral sequence. However, this method is technically laborious and time‐consuming, and generally typing is based on the sequencing of selected fragments of the viral genome. Most commonly, the method of choice is the sequencing of the S gene in those regions known to be involved in mutations, generally comprised within RBD segment, which singly or in combination, can afflict the interaction with viral receptor and then analysing the sequence data to those of specific prototype SARS CoV‐2 isolates retrievable from GenBank. Nevertheless, sequencing cannot always be scaled or implemented in some settings..
+
+Alternative, easier‐to‐perform approaches including variant‐specific RT‐PCR and/or RFLP analysis of selected RT‐PCR amplicons are awaiting full validation in the field. Δ69–70 observed in the S gene causes negative results from a widely used commercial test targeting this specific region. The manufacturer claims that this version could effectively alert laboratories to the variant presence, with results furtherly confirmed by sequencing. As previously discusses, the Applied Biosystems TaqPath® COVID‐19 PCR assay (Thermo Fisher Scientific) was discovered to have a distinct signature (spike gene target failure [SGTF]) when testing viruses containing the Δ69/70 HV deletion. Detecting the ΔHV69/70 deletion alone is not definitive for the B.1.1.7 variant, as this deletion has arisen independently in at least five more lineages (B.1.1.298, B.1.160, B.1.177, B.1.258 and B.1.375), but tracking the frequencies of SGTFs helped the UK to track the B.1.1.7 variant. In the US and other countries, screening samples for the SGTF helped to identify potential B.1.1.7 variants for sequencing prioritisation. Thermo Fisher Scientific, however, has not released their Spike probe sequence, so the assay needs to be recreated to be used more broadly. Designed a Δ69/70 HV primer set that was able to distinguish between variant and non‐variant samples similar to the TaqPath® SGTF signature. They combined the Δ69/70HV set in a multiplexed PCR assay with the CDC N1 set as a positive control, and the CDC RNase P set as an extraction/sample control as an open‐source method to screen for viruses like B.1.1.7 with the Δ69/70HV deletion. Essentially it is an open‐source ‘hack’ of the TaqPath® assay.
+177
+
+.
+
+Recently, a PCR with differentially detects N501Y and ΔHV69‐70 has been proposed an effective screening for samples worth of being sequenced, and able to discriminate potential B.1.1.7 (Δ69‐70+N501Y−) from B.1.1.7 or B.1.351 (Δ69‐70‐N501Y+): the test was 100% specific when compared to PCR, with a limit of detection of 5000 copies/ml.
+178
+
+.
+
+Mapping sequence data with the available structures from the Protein Data Bank, it is possible to generate hypothesis about the role of mutations in biological binding and their implication in protein function. Moving from the evidence that antibodies generated against SARS‐CoV‐2 during the first COVID‐19 wave had reduced neutralisation capability against emerging Spike mutants,
+179
+ several studies investigated the effect of single mutations on nAb binding to Spike. Methodologically, there are several possible approaches. The most obvious is moving from patients getting reinfected from different clades, or from mutations detected in circulating Spike variants and to verify neutralisation from convalescent sera collected during the previous waves.
+13
+, 
+78
+
+.
+
+Alternatively, in silico modelling can be used. The ddG represents the difference in protein‐protein affinity upon mutation: it can be measured using the Rosetta Flex ddG method, and validated using surface plasmon resonance.
+180
+ GRID‐based pharmacophore model has been used to identify mutations in both Spike (N439K, L455F, G446V, G476S, S477I, S477N, E484Q and N501Y) and ACE2 that reciprocally affect binding and are recognised in sequence repositories.
+181
+
+.
+
+As a third possibility, deep mutational scanning (DMS) captures a full range of consequences from single mutations within the RBD, ranging from protein expression, to ACE2 binding, and mAb binding.
+110
+ The method was first deployed with yeast display libraries and applied to 10 human mAbs (nine neutralising and one cross‐reactive nonneutralising mAb isolated from convalescents),
+95
+ then evolved to phage display libraries and applied to the commercialised monoclonal antibodies etesevimab (LY‐CoV016), casirivimab (REGN10933) and imdevimab (REGN10987), as well as the REGN‐COV2 (REGN10933 + REGN10987) cocktail (https://jbloomlab.github.io/SARS‐CoV‐2‐RBD_MAP_clinical_Abs/).
+44
+ nAb binding is common within the fusion peptide and in the linker region before heptad repeat region 2. The complete escape maps forecast SARS‐CoV‐2 mutants emerging during treatment with mAbs, and allow development of escape‐resistant nAb cocktails. DMS was also applied to polyclonal antibodies in CCP.
+182
+
+.
+
+Lastly, mapping crystallographically determined interfaces between Spike mutants and nAb which do not disrupt ACE2 binding.
+183
+
+.
+
+The ‘Genome to Phenotype (G2P)’‐UK National Virology Consortium will study how mutations in the virus affect key outcomes such as how transmissible it is, the severity of COVID‐19 it causes, and the effectiveness of vaccines and treatments (https://www.ukri.org/news/national‐consortium‐to‐study‐threats‐of‐new‐sars‐cov‐2‐variants/)..
+
+Evolutionary modelling suggests that SARS‐CoV‐2 strains harbouring 1–2 deleterious mutations naturally exist, and their frequency increases steeply under positive selection by mAbs and vaccines.
+184
+
+.
+
+Several lines of evidence support the hypothesis that widespread deployment of antibody‐based therapeutics could drive Spike immune escape. DMS maps identify mutants arising after treatment with REGN‐COV2: it is of interest that such escape mutants already circulate.
+44
+
+.
+
+Continuous passaging of SARS‐CoV‐2 in the presence of a CCP unit with nAb titre more than 1:104 led to ΔF140 at Day 45, followed by E484K at Days 73 and an insertion in the NTD: these accumulating mutations led to complete lack of neutralisation.
+185
+ Accordingly, K417N, E484K and N501Y mutations were selected when pseudotyped SARS‐CoV‐2 was cultured in the presence of the vaccine elicited mAbs.
+96
+
+.
+
+Although within host SARS‐CoV‐2 mutation accumulation is typically very low,
+186
+ faster MR have been found in longitudinal studies of immunodeficient patients who have persistent SARS‐CoV‐2 infections for 2–4 months. In particular, this has happened in case reports after treatment with:anti‐Spike mAbs:Choi et al.
+187
+ reported a case having detectable SARS‐CoV‐2 for 154 days, with accelerated viral evolution in the Spike protein after treatment with remdesivir and the anti‐Spike REGN‐CoV2 mAb cocktail.CCP: the phenomenon does not seem very common or very fast, since none out of eight oncohematological patients (recipients of haematopoietic stem‐cell transplants or chimeric antigen receptor T lymphocytes) treated with CCP who remained SARS‐CoV‐2 positive for 2 months showed significant mutations compared to wild‐type strain.
+188
+
+o Avanzato et al.
+189
+ reported within‐host genomic evolution in a patient affected by chronic lymphocytic leukaemia and iatrogenic hypogammaglobulinemia treated with CCP and shedding infectious SARS‐CoV‐2 for 70 days, and subgenomic RNA for 105 days.o Kemp et al.
+190
+ reported an immune suppressed individual who showed little evolutionary change in the first 65 days while on remdesivir, but who developed D796H and ΔH69/ΔV70 mutations twice after two unsuccessful courses of CCP. In vitro, such mutant showed similar infectivity to wild type strain but resistance to many CCP donors.
+.
+
+anti‐Spike mAbs:.
+
+Choi et al.
+187
+ reported a case having detectable SARS‐CoV‐2 for 154 days, with accelerated viral evolution in the Spike protein after treatment with remdesivir and the anti‐Spike REGN‐CoV2 mAb cocktail..
+
+CCP: the phenomenon does not seem very common or very fast, since none out of eight oncohematological patients (recipients of haematopoietic stem‐cell transplants or chimeric antigen receptor T lymphocytes) treated with CCP who remained SARS‐CoV‐2 positive for 2 months showed significant mutations compared to wild‐type strain.
+188
+
+.
+
+o Avanzato et al.
+189
+ reported within‐host genomic evolution in a patient affected by chronic lymphocytic leukaemia and iatrogenic hypogammaglobulinemia treated with CCP and shedding infectious SARS‐CoV‐2 for 70 days, and subgenomic RNA for 105 days..
+
+o Kemp et al.
+190
+ reported an immune suppressed individual who showed little evolutionary change in the first 65 days while on remdesivir, but who developed D796H and ΔH69/ΔV70 mutations twice after two unsuccessful courses of CCP. In vitro, such mutant showed similar infectivity to wild type strain but resistance to many CCP donors..
+
+Without anti‐Spike treatment for COVID19, Spike mutations are even rarer after immunosuppressive treatment.
+188
+ Nevertheless, Bazykin et al.
+191
+ reported emergence of Y453F and Δ69‐70HV mutations (‘the ΔF combination’) (together with S50L, Δ141‐144, T470N and D737G) in a 47‐year old female with diffuse large B cell lymphoma treated with rituximab plus chemotherapy (R‐ICE regimen)..
+
+SARS‐CoV‐2 diversity and MR (1‐2 SNPs per month
+192
+) is currently half of the one for influenza viruses: currently, two SARS‐CoV‐2 viruses randomly picked from anywhere in the world harbour only 10 RNA bases of difference out of 29,903, but the ongoing massive infection in humans is increasing the likelihood of major genetic variation. Furthermore, border closures create a situation where, in‐country evolution could be unrecognised and whose consequences could be detected only after border reopening..
+
+Mutations within the RBM are nowadays accumulating: while there are evidences that virtually all anti‐SARS‐CoV‐2 CD8+ T‐cell responses should recognise these newly described variants,
+193
+ they have the potential to impact on antibody neutralisation. The common cold coronavirus HCoV‐229E evolves antigenic variants that are comparatively resistant to the older sera but remain sensitive to contemporaneous sera.
+194
+
+.
+
+Simulation results suggest prioritising SARS‐CoV‐2 vaccination by antibody status while doses of the vaccine remain in short supply is largely effective,
+195
+, 
+196
+ but on the other side it is almost always better to use vaccines targeting the faster spreading SARS‐CoV‐2 strain, even when the initial prevalence of this variant is much lower.
+197
+ Given the reported reduced neutralisation by vaccine‐elicited antibodies against single to triple K417N + E484K + N501Y mutants,
+96
+ it is likely that vaccines may need to be updated periodically to avoid potential loss of clinical efficacy, and in this regard mRNA vaccines are likely the easiest to be remanufactured..
+
+Only a few of the commercial mAbs have been screened for their capacity to neutralise minor strains of SARS‐CoV‐2. mAb cocktails should reduce the opportunities for immune escape: nevertheless, novel mutants rapidly appear after treatment individual mAb, causing loss of neutralisation. While escape occurs when combining mAbs targeting overlapping regions of Spike, this does not happen when combining noncompeting antibodies.
+198
+ Given the preserved affinity to ACE2 from Spike variants, ACE2‐Ig proteins are broadly effective against SARS‐CoV‐2 variants.
+102
+
+.
+
+Preparing to mutations first means adjusting the usage of CCP donations
+199
+: it has been formally proven that only a minority of convalescent samples lose all neutralising activity in contrast to mAbs from five different epitope clusters where neutralisation was completely abrogated by a single Spike mutation. While only a minority of sera from hospitalised individuals lose more than threefold potency against any individual mutant, more than half of the mild/asymptomatic serum samples showed a threefold drop in potency against at least one Spike mutant.
+78
+ If the main strain changes among epidemic waves, hyperimmune serum, monoclonal antibody and vaccine stockpiles become ineffective, while CCP manufacturing can immediately restart restoring product efficacy..
+
+The unavoidable delay in retargeting mAbs and vaccines, with its detrimental consequences, should stimulate continuous research in genomic epidemiology..
+
+The authors declare that there are no conflict of interests..
+
+Daniele Focosi conceived the design and wrote the first draft. Fabrizio Maggi critically revised the final version..
+

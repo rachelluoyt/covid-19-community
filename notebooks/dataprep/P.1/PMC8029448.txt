@@ -1,0 +1,1168 @@
+.
+
+At the time of preparing this Perspective, large-scale vaccination for COVID-19 is in
+progress, aiming to bring the pandemic under control through vaccine-induced herd
+immunity. Not only does this vaccination effort represent an unprecedented scientific
+and technological breakthrough, moving us from the rapid analysis of viral genomes to
+design, manufacture, clinical trial testing, and use authorization within the time frame
+of less than a year, but it also highlights rapid progress in the implementation of
+nanotechnology to assist vaccine development. These advances enable us to deliver
+nucleic acid and conformation-stabilized subunit vaccines to regional lymph nodes, with
+the ability to trigger effective humoral and cellular immunity that prevents viral
+infection or controls disease severity. In addition to a brief description of the design
+features of unique cationic lipid and virus-mimicking nanoparticles for accomplishing
+spike protein delivery and presentation by the cognate immune system, we also discuss
+the importance of adjuvancy and design features to promote cooperative B- and T-cell
+interactions in lymph node germinal centers, including the use of epitope-based
+vaccines. Although current vaccine efforts have demonstrated short-term efficacy and
+vaccine safety, key issues are now vaccine durability and adaptability against viral
+variants. We present a forward-looking perspective of how vaccine design can be adapted
+to improve durability of the immune response and vaccine adaptation to overcome immune
+escape by viral variants. Finally, we consider the impact of nano-enabled approaches in
+the development of COVID-19 vaccines for improved vaccine design against other
+infectious agents, including pathogens that may lead to future pandemics..
+
+This article is made available via the ACS COVID-19
+subset for unrestricted RESEARCH re-use and analyses in any form or by any
+means with acknowledgement of the original source. These permissions are granted for the
+duration of the World Health Organization (WHO) declaration of COVID-19 as a global
+pandemic..
+
+The challenge of developing a SARS-CoV-2 vaccine capable of intervening in the alarming
+rate of spread and mortality, the likes of which has not been seen since the 1918 influenza
+contagion, has been a daunting task. Remarkably, the 4–14 year time frame that was
+required for developing mumps, measles, polio, or human papilloma virus vaccines was
+condensed into a year to accomplish the same task for COVID-19.1.
+
+Infectious disease experts have cautioned for years about the pandemic potential of
+coronaviruses. These concerns were confirmed by the emergence of SARS-CoV-1 in 2003, with a
+case fatality rate of 15%, and the Middle Eastern Respiratory Syndrome Coronavirus
+(MERS-CoV) in 2012, with a fatality rate of 36%.2 These short-lived
+outbreaks stimulated interest in understanding coronavirus pathogenesis and immunity,
+leading to the development of experimental vaccines in animal models.3−8 Unfortunately, due to the
+finite duration of these disease episodes, none of the efforts resulted in vaccine
+development for human use. Nonetheless, these efforts provided critical information about
+the role of the trimeric spike (S) glycoprotein, which is responsible for SARS-CoV uptake
+into host cells through binding interactions with angiotensin-converting enzyme 2 (ACE2)
+receptors (Figures 1 and 2).3,6,7,9−11 In particular, it was revealed that the development of neutralizing
+antibodies against the receptor-binding domain (RBD) of the SARS-CoV-1 or MERS-CoV spike
+were effective in blocking viral uptake. This finding was instrumental in earmarking the
+generation of neutralizing antibodies against the spike protein as a viable vaccine strategy
+against coronaviruses.3,6,7,9−11 Moreover, research on experimental SARS-CoV-1 and
+respiratory syncytial virus (RSV) vaccines helped to refine a structural vaccinology
+approach in which the spike or fusion proteins were engineered to obtain a stabilized
+antigen conformation that optimizes the generation of neutralizing
+antibodies.12−14 These efforts subsequently
+became a blueprint for expedited SARS-CoV-2 vaccine development..
+
+SARS-CoV-2 components for generating protective antiviral immune responses. These
+include the spike or S glycoprotein, membrane or M protein, envelope or E protein, and
+nucleocapsid or N protein (associates with viral RNA genome; not shown). The current
+choice for vaccine generation is the S glycoprotein, which is capable of generating
+neutralizing antibody responses in addition to eliciting CD8+ and
+CD4+ T-cells. The spike protein exhibits a screw-like shape, composed of a
+larger head and a long, thin stalk.206 Three spike proteins interact
+to form a trimer that is held in place by a stalk (composed of S1 and S2 regions), which
+stands away from the viral surface and exhibits a host protease (furin) cleavage site,
+the role of which is explained in Figure 2.
+Adapted with permission from ref (206). Copyright
+2020 CAS..
+
+SARS-CoV-2 spike (S) glycoprotein. (A) S protein includes (i) the trimeric S1 subunit,
+which contains three receptor-binding domains (RBDs) (two of which are lying down, with
+one standing up); (ii) the membrane-associated S2 subunit, which includes a fusion
+peptide; (iii) a transmembrane (TM) anchor; and (iv) an intracellular tail.60 (B) Schematic to show the early stage of viral uptake.60 Viral uptake commences with proteolytic cleavage by furin, which
+separates the S1 and S2 subunits, enabling one RBD to stand up. Next, the second and
+then the third RBD domains stand up. The achievement of a prefusion complex (with three
+RBDs standing up) leads to two important outcomes: (i) exposure and immune recognition
+of S1 epitopes that were covered up by the RBDs in the lying down conformation and (ii)
+high affinity binding of RBDs to the host hACE2 receptor to enable viral docking. Once
+docked onto the host cell membrane, the contraction of the S2 fusion peptide blends the
+viral envelope with the host cell membrane. Adapted with permission from ref (60) under a Creative Commons Attribution License 4.0
+(CC BY). Copyright 2020 The Authors..
+
+As the explosive spread of SARS-CoV-2 infections and accompanying morbidity and mortality
+became apparent, vaccine producers recognized that curtailing the pandemic would require
+technologies that support rapid development, scalable manufacturing, and rapid deployment.
+An attractive approach, albeit one that had never been tested at large scale in humans, was
+the delivery of mRNA for in situ production of genetically optimized
+antigens.1,15−19
+Although the preclinical feasibility of mRNA-based therapeutics and vaccines was reported in
+the 1990s, practical implementation of this approach only became possible over the past
+decade. Early studies encountered major obstacles, including high innate immune reactivity
+to foreign RNA, rapid degradation by RNases in body fluids, and inefficient in
+vivo delivery to the translational machinery of host target
+cells.15−19.
+
+Pioneering work by Katalin Karikó and colleagues showed that exogenous RNA
+stimulates innate immunity, in part through activation of endosomally localized Toll-like
+receptors (TLRs, e.g., TLR3, TLR7, and TLR8), and that the immune
+reactivity of RNA can be systematically down-modulated by incorporation of modified
+nucleosides (e.g., m5C, m6A, m5U, s2U, or Ψ).17,20 Modified nucleosides increase both
+the safety profile and the expression efficiency of mRNA delivered in vivo;
+understanding this relationship was a critical step in advancing the technology to the
+clinic.21,22 The
+development of high-yield in vitro transcription systems for RNA
+production, methods for increasing translation using synthetic 5′ cap analogues and
+capping enzymes, and advances in template design and purification now facilitate rapid,
+robust, and scalable manufacturing of mRNA.16,23−25.
+
+Solutions to the remaining challenges of in vivo stability and delivery
+emerged with the advent of nanotechnologies for encapsulating mRNA into virus-sized
+(∼100 nm) cationic lipid nanoparticles (LNPs) that provide protection from
+extracellular RNases while also facilitating uptake and endomosomal release of mRNA in
+target cells.16,26
+Intradermal, intramuscular, or subcutaneous delivery of mRNA, packaged in cationic LNPs,
+results in prolonged antigen expression and the induction of B-cell and CD4+ T
+follicular helper (TFH) cell responses that originate in the germinal centers of
+secondary lymphoid organs. This outcome results in the production of potent and long-lived
+antibody responses.27,28
+In addition to CD4+ T-cells, mRNA vaccines also induce CD8+ T-cells
+that recognize and kill antigen-expressing cells, including SARS-CoV-2 infected
+cells.29−36.
+
+The design, implementation, efficacy, and safety profiles of mRNA-based nanoparticle
+vaccines expressing SARS-CoV-2 antigens, as exemplified by the COVID-19 vaccines recently
+developed by Moderna Inc. and Pfizer/BioNTech, are discussed below. We also review
+nano-enabled approaches for direct delivery of protein subunits, such as the Novavax
+vaccine, as well as in silico designed, self-assembling nanoparticles that
+mimic the virus display of the RBD. Table 1
+provides a short list of the large number of contemporary and next-generation vaccines that
+are currently entering or are already in clinical trials according to the World Health
+Organization (WHO) COVID-19 vaccine database.37 In addition to discussing
+nano-enabled platforms that either have received or are poised to obtain U.S. Food and Drug
+Administration (FDA) approval (vide infra), we briefly discuss future
+refinements, such as the development of nanoparticles that are capable of delivering
+multiple epitopes or of promoting B- and T-cell cooperation in lymph node germinal centers.
+Finally, challenges associated with vaccine durability, avoidance of vaccine side effects,
+and adapting vaccine coverage to include SARS-CoV-2 escape mutants are discussed..
+
+Efficacy data provided by the manufacturers upon completion of phase 3 clinical
+trials, using heterogeneous criteria that included, in most instances, looking at
+symptomatic infections but occasionally also considered serious infections and
+mortality.183 Efficacy was also observed be impacted by viral
+variants..
+
+Approval denotes permissible use in some countries (which are not specified here).
+Vaccines receiving emergency use authorization (EUA) in the United States are labeled
+separately..
+
+Antigen selection and composition are of key importance for vaccine development, in
+addition to the choice of adjuvant and ensuring efficacious vaccine delivery to the
+host’s innate and adaptive immune systems. The first vaccines to receive emergency
+use authorization (EUA) from the FDA following successful completion of phase 3 clinical
+studies are mRNA-delivering nanoparticles developed by Moderna, Inc. and
+Pfizer/BioNTech.38−51 The selection and inclusion of the COVID-19 spike protein
+as the preferred immunogen is premised on the observation that neutralizing antibodies to
+the S glycoprotein of SARS-CoV-1 can prevent virus uptake by host cells by interfering in
+ACE2 binding.4,9,52,53 The decision to use an mRNA source to express S
+protein in host cells is based on the scalability of nucleic acid technology, enabling
+billions of vaccine doses to be produced rapidly. The employment of nucleic acids, in turn,
+necessitated nanoparticle construction to protect RNA from being degraded, while also
+improving vaccine delivery to regional lymph nodes, where the expressed antigen is presented
+to the cognate immune system by antigen-presenting cells (APCs).16
+Nanoparticles also enable multicargo loading (e.g., antigens, epitopes,
+adjuvants), with the added potential to include surface modifications
+(e.g., targeting ligands or surface coatings) to facilitate lymph node and
+germinal center access.21,28 These advantages contribute to the current trend of using nanoparticles
+for vaccine delivery (e.g., the human papilloma virus vaccine), premised on
+the preference of APCs for encapsulated particles compared to soluble
+antigens.13,19,54−57 A wide variety of
+materials such as lipids, liposomes, polymers, dendrimers, and self-assembled proteins can
+be used for nanoparticle construction.25,39,58.
+
+In addition to guiding the choice of antigen selection, the development of experimental
+SARS-CoV-1 and MERS vaccines informed engineering of the RNA template to ensure high spike
+protein expression and to obtain an antigen conformation that provides maximum
+immunogenicity.5,6,59Figures 1 and 2 illustrate the
+structural composition of the homotrimeric S protein, with two subunits (S1 and S2)
+separated by a protease cleavage site.60 A key characteristic of the S1
+subunits is that their RBDs can either assume an “up” or a
+“down” conformation, with impact on spike immunogenicity.5−7,53,60−63 Upon release of virus particles from cells, the S1/S2
+junction is cleaved by a host protease, furin (Figures 1 and 2).60 This cleavage causes a
+conformational change that sequentially impacts one, two, and then all three RBDs to assume
+a “stand up” conformation. ACE2 binding enables virus docking and fusion of
+the virus with the mammalian cell membrane, a process requiring contraction of a fusion
+peptide in the S2 subunit (Figure 2). The
+three-dimensional (3D) conformation of the trimeric S protein when all RBD subunits are
+standing up, also called a “pre-fusion” complex, is critical for viral uptake
+as well as for exposing linear and conformational S1 epitopes required to generate
+neutralizing antibodies.64−67 Not only is the spatial distribution of the B-cell epitopes
+critical for spike protein cross-linking by neutralizing antibodies, but mutational
+alteration of these binding sites could also play a role in decreased vaccine efficacy and
+the possibility of immune escape by viral variants.68,69 We discuss this aspect further below..
+
+Based on structural vaccinology considerations, a key design feature of SARS-CoV-2 vaccines
+has been genetic engineering of the RNA constructs to enable S protein expression as a
+prefusion complex.6,59
+Mutational engineering was accomplished by eliminating the furin cleavage site plus
+introducing two proline substitutions (referred to as “2-P”) in the S2 peptide
+loop that is involved in the RBD stand-up conformation.6,59,70Figure 3 demonstrates attainment of a prefusion
+conformation for the MERS S-2P trimer, which was significantly more immunogenic than the
+monomeric S1 subunit in animal vaccination studies.6,20,71 Similar engineering
+approaches for preserving neutralization-sensitive epitopes have also been accomplished for
+other class I viral fusion proteins, such as RSV, HIV-1, and influenza. In addition to the
+2-P mutational approach of Moderna Inc. and Pfizer/BioNTech, other approaches for achieving
+antigen stabilization are possible, including substituting additional proline residues as
+well as developing self-assembling nanoparticles with improved RBD
+displays.70,72
+Arcturus/Duke-NUS and Imperial College London/Acuitas24 have also
+developed mRNA-delivering nanoparticles that have progressed to clinical trials (Table 2). Several other companies are pursuing similar
+strategies..
+
+Use of non-amplifying and self-amplifying mRNA (SAM) for expression of stabilized
+prefusion S1 complexes for MERS, SARS-CoV-1, or SARS-CoV-2 in host cells. (A) mRNA
+vaccines utilize non-amplifying or self-amplifying RNA constructs. Non-amplifying mRNA
+contains the basic RNA structure as it appears in the viral open reading frame (ORF) for
+S1.71 The major characteristics of nonreplicating mRNA vaccines are
+(i) relatively small mRNA size (∼2–3 kb); (ii) absence of additional
+potentially immunogenic viral proteins; (iii) ease of manufacturing; and (iv) facile
+genetic engineering to accomplish stable antigen expression.71 In
+contrast, SAM RNA encodes alphavirus replication machinery and 5′ capping
+functions in addition to spike protein sequences. SAM vaccines increase antigen
+expression for a duration of up to ∼2 months.71 On the
+downside, the replicon is less amenable to tolerating RNA-stabilizing synthetic
+nucleotide modifications and also expresses other viral proteins that may be
+immunogenic. Reprinted with permission from ref (71). Copyright 2019 Elsevier. (B) RNA stability and gene expression are
+enhanced by modifications of the mRNA cap, poly(A) tail, 5′ and 3′
+untranslated regions (UTRs), and the nucleoside bases.207 Multiple
+sequence elements are also engineered in the 5′ and 3′ UTRs to impact mRNA
+stability and expression. In addition, nucleoside substitution of uridine with
+pseudouridine or 1-methylpseudouridine impacts the stability and adjuvant properties of
+the RNA. Reprinted with permission from ref (207). Image by V. Altounian/SCIENCE. Copyright 2020 AAAS. (C) Lipid
+nanoparticle (LNP) construction and encapsulation are discussed in Figures 4 and 5.23
+Reprinted with permission from ref (23).
+Copyright 2018 John Wiley and Sons. (D) Encapsulated RNA is also engineered to include
+two proline (2-P) substitutions plus elimination of the furin cleavage site to allow
+expression of a stabilized prefusion complex. This feature allows the exposure of hidden
+epitopes, which are required for a robust neutralizing antibody response. The schematic
+shows the crystal structure and negative EM staining of a MERS S-2P complex.6 Reprinted with permission from ref (6). Copyright 2017 The Authors..
+
+Abbreviations: PC, phosphatidylcholine; PEG, polyethylene glycol; RBD,
+receptor-binding domain..
+
+The RNA vaccines in Table 2 include the use of
+non-amplifying or self-amplifying mRNA constructs.15,24,26,71,73 Whereas the Moderna vaccine delivers conventional single-stranded mRNA
+for spike protein expression, the vaccines developed by Pfizer/Biontech, Arcturus, and
+Imperial College include self-amplifying positive-sense RNA constructs that borrow
+expression and replication elements from an alphavirus genome (Figure 3).71 The Imperial College vaccine uses a gene
+sequence from the equine encephalitis alphavirus that encodes nonstructural proteins
+assisting RNA capping and replication, and the Arcturas vaccine uses a self-transcribing and
+replicating RNA (STARR) platform..
+
+The upscale production of RNA constructs for nanoparticle encapsulation begins with
+large-scale production of linearized plasmid DNA, using E. coli
+fermentation or enzymatic processes such as doggybone.23,74 mRNA is produced from DNA templates in
+bioreactors optimized for in vitro transcription by T7 RNA polymerase and
+5′ RNA capping with 7-methylguanosine to ensure optimal antigen
+expression.74,75
+Following RNA synthesis, template DNA is digested by DNase I and RNA is purified by
+tangential flow filtration (TFF) plus ion exchange chromatography to remove enzymes and
+impurities. A second TFF process is used to provide a buffered aqueous RNA solution for
+sterile filtration. In addition to engineering antigen stabilization, modified nucleosides
+are used to increase construct stability and to tune immunological “danger
+signals” (Figure 3).20−22,76 A frequently used approach is uridine
+substitution by pseudouridine or 1-methyl pseudouridine.20,22 The delivery of danger signals plays an
+important role in the self-adjuvanting properties of RNA vaccines, including generation of
+pro-inflammatory responses.77 Modifications of 5′ and 3′
+untranslated regions of mRNA constructs are also used to control stability and
+expression..
+
+To prevent RNA degradation before delivery to the host translational machinery, an
+effective packaging system is required. This prerequisite can be accomplished by making use
+of cationic lipid nanoparticles, which were originally developed for nucleic acid delivery
+for cancer immunotherapy and other vaccine applications (Figure 4).16,19,23,73 The use of
+cationic lipids effectively condenses mRNA into solid lipid nanoparticles that can be taken
+up by host APCs through endocytic or phagosomal pathways.71 These
+processing pathways also facilitate nucleic acid release into the cytoplasm, where the mRNA
+is expressed.78 The packaging and encapsulation of mRNA was originally
+developed by the use of ionizable, cationic lipids (such as
+1,2-dioleoyl-3-dimethylammoniumpropane, DODAP) which exhibit a high binding affinity for
+negatively charged RNA (Figure 5).23,78,79 In addition to DODAP, other lipids have been developed using a more
+flexible hinge region to link amino-lipid head groups to hydrophobic lipid
+tails.16,73,79−81 Examples include 1,2-dilinoleyloxy-3-dimethylaminopropane (DLinDMA) and
+dilinoleylmethyl-4 dimethyl aminobutyrate (DLin-MC3-DMA), which, in the presence of
+helper/structural lipids (e.g.,
+1,2-distearoyl-sn-glycerol-3 phosphocholine, DSPC) and cholesterol, lead to
+the formation of micellar structures in the presence of RNA.79−81 Finally, coating with poly(ethylene glycol) (PEG)-conjugated lipids
+leads to the formation of nanoparticles with colloidal stability.82.
+
+Lipid nanoparticles (LNPs) for the encapsulation and delivery of mRNA. RNA has
+theoretical advantages over DNA delivery because the RNA payload only has to reach the
+cytosol instead of making it to the nucleus. Moreover, RNA does not pose the danger of
+integration into host genomes, is easier to manufacture, and is only transiently
+expressed compared to DNA. Lipid nanoparticles differ from liposomes by the presence of
+an electron-dense core that forms during complexation of cationic lipids to a nucleic
+acid. Instead, liposomes are composed of a lipid bilayer with an aqueous
+interior.71 LNP formulations are typically made up of (i) an
+ionizable amino-lipid (discussed in Figure 5)
+for electrostatic complexing to RNA (in red), leading to the formation of hydrophobic
+inverted micelles; (ii) helper lipids providing structural components that stabilize
+cell membranes, including zwitterionic lipids (e.g., DOPE) or DSPC;
+(iii) cholesterol, promoting tight packaging of lipid components; and (iv) a glycol
+(PEG)-lipid, which provides a surface hydrating layer that improves colloidal stability
+with reduced protein adsorption.71 Reprinted with permission from ref
+(23). Copyright 2018 John Wiley and Sons..
+
+Role of cationic lipids in nucleic acid delivery nanoparticles. (A) Membrane lipids
+normally adopt a cylindrical molecular shape, which accommodates their incorporation
+into lipid bilayers of endosomal membranes.79 (B) However, when
+cationic and anionic lipids are mixed together, ion pairs form a cross-sectional area in
+which the head groups occupy a volume that is less than that of the lipid side chains,
+which are splayed in cone-shaped fashion.79 This conformation is also
+known as a hexagonal (HII) lipid phase, which has the capacity to interfere
+with the lipid bilayer in endosomes upon contact with the LNP (Figure
+6).78 (C) Ionizable amino-lipids are
+characterized by a cationic head group, a linker, and hydrocarbon side chains. These
+cationic lipids have acid dissociation constants (pKa) of
+less than 7.0, conferring neutral charge at physiological pH (7.4) but converting to a
+positive charge in acidified (pH <6.0) endosomal compartments.23
+Ionizable amino-lipids with a linker group (such as in DLinDMA) serve a number of
+purposes: (i) nucleic acid entrapment with high encapsulation efficiency; (ii)
+maintenance of a neutral particle surface charge under physiological pH conditions, such
+as in the interstitial and lymphatic fluids; (iii) endosomal escape under acidic,
+intracellular conditions, as explained in Figure 6.23 (D,E) Planar lipid bilayer of the endosomal membrane
+is composed mostly of anionic and helper lipids plus cholesterol, which differs from the
+hexagonal lipid phase, displayed by the cationic lipid nanoparticles (also see Figure 6). A, B, and C reprinted with permission
+from ref (79). Copyright 2010 Springer Nature. D
+and E adapted with permission from ref (78) under
+the terms of the Creative Commons Attribution 3.0 License. Copyright 2012 The
+Authors..
+
+In addition to their role in RNA complexation, cationic lipids also contribute to the
+assembly of a hexagonal (HII) lipid phase in the nanoparticles (Figure 5).79,81 The hexagonal phase is the result of binding interactions between
+cationic head groups and anionic bystander lipids. This phase leads to the formation of
+cone-shaped lipid structures, in contrast to the more cylindrical lipid assembly found in
+the planar lipid bilayers that compose endosomal membranes.79 Under
+acidifying endosomal conditions, lipid exchanges take place between the particle
+HII lipid phase and the endosomal membrane (Figure 6).78 The consequence of
+mixing particle and endosomal membrane lipids is the release of mRNA into the cytosol. This
+release may be assisted by an increase in hydrostatic pressure in the endosomal compartment
+as a result of the cationic lipids turning on the proton pump, leading to an influx of
+H+, Cl–, and H2O.78 Thus, the
+efficacy of mRNA release is directly related to the pKa of the
+cationic head group.79,83
+Cationic head groups may also contribute to the generation of immune danger signals by TLRs
+that are sensitive to surface charge..
+
+RNA delivery to the cytosol. The prevailing hypothesis is that the hexagonal lipid
+phase in nanoparticles within endosomes catalyzes lipid exchange that destabilizes the
+composition of the anionic endosomal membrane.78 The suggested flow
+of events is that lipid nanoparticle (LNP) entry into endosomes is followed by
+electrostatic interaction of cationic, ionizable lipids in the LNP with the anionic
+lipids in the endosomal membrane. This interaction leads to lipid exchange and fusion of
+the particle with the endosomal lipid phase, followed by nucleic acid escape to the
+cytoplasm, possibly assisted by the endosomal proton pump, which is activated by
+cationic lipids. Every proton leads to the importation of a chloride and water molecule,
+leading to increased hydrostatic pressure. Reprinted with permission from ref (78) under the terms of the Creative Commons
+Attribution 3.0 License. Copyright 2012 The Authors..
+
+Although LNP synthesis can be accomplished by sonicating lipid suspensions in a buffered
+aqueous solution, efficient industrial-level synthesis of RNA nanoparticles is based on a
+scaled-up process involving microfluidics mixing, as outlined in Figure
+7.23 Mixing of the RNA-containing aqueous
+phase with the ethanol-suspended lipid phase is accompanied by a progressive increase in
+solvent polarity, which acts as a driver for nanoparticle assembly. Assembly commences with
+the formation of hydrophobic inverted micelles when the cationic lipids are complexed to
+negatively charged RNA. A further increase in solvent polarity leads to the coalescence of
+lipid particle cores, followed by coating with PEGylated lipids and DSPC.23 The ultimate outcome is the formation of nanoparticles with electron-dense cores,
+surrounded by a PEGylated lipid monolayer (Figure 4)..
+
+Upscale synthesis process for manufacturing lipid nanoparticles (LNPs). (A)
+Microfluidic process is premised on an ethanol injection approach, which leads to
+precipitation of dissolved lipids when mixed with an aqueous solution in a microfluidic
+device. In this example, the device is equipped with a staggered herringbone
+micromixer.208 Reprinted with permission from ref (208) under a Creative Commons Attribution-Non
+Commercial 3.0 Unported License. Copyright 2015 The Royal Society of Chemistry. (B,C)
+Assembly of the nanoparticle components is driven by the increase in solvent polarity
+with introduction of the aqueous phase.23 The first interaction
+during the mixing of ethanol with the aqueous stream is binding of the cationic lipid
+with the negatively charged nucleic acid to generate hydrophobic, inverted micelles.
+With further increase in solvent polarity, the hydrophobic micelles coalesce into
+nanoprecipitates that generate the LNP core. With continuous mixing, more polar lipids
+(such as PEG-lipid and DSPC) coat the surface of the precipitates, resulting in
+particles with electron-dense cores surrounded by a lipid monolayer.23 Reprinted with permission from ref (23).
+Copyright 2018 John Wiley and Sons..
+
+The premier delivery platforms for DNA leading to the expression of SARS-CoV-2 spike
+protein are adenovirus-vectored vaccines, which fall outside the scope of this review (Table 1). Other examples of DNA delivery are the
+vaccines being developed by Entos Pharmaceuticals, Mediphage Bioceuticals, Zydus Cadila, and
+Inovio Pharmaceuticals.39,84,85 Entos Pharmaceuticals developed a proteolipid vesicle (PLV)
+for nucleic acid delivery, premised on Fusogenix nucleic acid transfer technology.86 These neutral lipid vesicles display a proprietary fusion-associated small
+transmembrane (FAST) protein that catalyzes lipid exchange between the PLV and the host cell
+plasma membrane. This highly efficient fusion of the vesicle with the lipid membrane results
+in delivery of the nucleic acid payload by a process that bypasses the endocytic route. To
+date, leading CoV-2 vaccine candidates have shown robust efficacy and safety in preclinical
+animal studies and have progressed to the clinical trial stage in humans. Utilizing a
+Ministring platform comprising mini-linear DNA vectors that encode the gene of interest plus
+eukaryotic expression elements (devoid of unwanted bacterial sequences), Mediphage
+Bioceuticals has developed virus-like particles (VLPs) for delivery of SARS-CoV-2 DNA
+sequences.87 This vaccine platform is in preclinical development..
+
+In addition to nanoparticles, some companies have developed plasmid-based technologies for
+electroporation-driven DNA delivery, with the prospect of providing SARS-CoV-2 vaccination
+through the expression of a spike protein. This includes the “plug-and-play”
+plasmid delivery platform (INO-4800) from Inovio Pharmaceuticals, which is injected
+intradermally, followed by electroporation that involve the company’s CELLECTRA
+device.84 To date, this vaccine effort has demonstrated efficacy and
+safety in preclinical studies and has advanced to a phase 2 clinical trial in humans. Zydus
+Cadila has also developed a DNA plasmid, ZyCoV-D, that has performed well in preclinical
+studies and recently advanced to a phase 3 vaccine trial in humans..
+
+An alternative approach to employing nanoparticles for CoV-2 vaccine development is to use
+full-length spike protein or viral subunits for encapsulation or self-assembly into
+nanoparticles. The value proposition of subunit vaccines is that nanoparticles enhance the
+efficacy of cargo delivery to endosomal APC compartments, from which the proteolytically
+cleaved peptides are transported to (i) the surface of APCs by vesicles containing type II
+major histocompatibility complexes (MHC-II) and (ii) the cytosol, from where the peptides
+are imported to vesicles that transport MHC-I complexes to the surface of most body
+cells.88 As a result, MHC-I-mediated peptide presentation to
+CD8+ T-cells is enabled, with the possibility of triggering the development of
+cytotoxic T-cells that kill virus-infected cells. In contrast, antigen presentation by
+MHC-II on APC surfaces leads to activation of different CD4+ lineages that will
+be discussed later. The efficacy of subunit vaccines is boosted by the inclusion of
+independent adjuvants into the nanoparticle..
+
+The current front-runner for protein-based antigen presentation efforts is the Novavax
+vaccine, which recently entered phase 3 clinical trials.39,61,89 NVX-CoV2373 is a
+self-assembled nanoparticle vaccine derived from the recombinant expression of full-length S
+protein by a Baclovirus expression system in moth cells (Figure 8).61 The expressed 2-P full-length S protein
+spontaneously assembles as prefusion complexes in the presence of Sorbitol 80 to form free
+trimers, dimers-of-trimers, trimers-of-trimers, or multitrimer rosettes (up to 14 trimers,
+Figure 8). Tight clustering of the spike proteins
+increases immunogenicity as demonstrated for other type I fusion proteins,
+e.g., influenza hemagglutinin. The Novavax vaccine includes a proprietary
+adjuvant, MatrixM,90 which consists of 40 nm honeycomb-like nanoparticles
+derived from plant saponins, mixed with cholesterol and a phospholipid (Figure 8). A significant advantage of the NVX-CoV2373 formulation
+is transportability and above-freezing storage temperatures (35–46 °F), compared
+to the deep freeze requirements of the mRNA LNP vaccines..
+
+COVID-19 vaccine development through self-assembly of stabilized, full-length
+SARS-CoV-2 S subunits into nanoparticles. (A) Novavax developed a full-length S protein
+subunit vaccine that is expressed as a stabilized protein with mutational deletion of
+the furin cleavage site plus 2 proline (2-P) substitutions (K986P and V987P) that confer
+an “RBD-up” conformation.61 This leads to expression of
+SARS-CoV-2 3Q-2P spike protein as a prefusion complex. When reconstituted in polysorbate
+80 (PS 80), the protein adopts tertiary structures that include free trimers,
+dimers-of-trimers, trimers-of-trimers or multitrimer rosettes (with as many as 14 trimer
+transmembrane domains being enclosed in micellar PS 80 cores).61
+Moreover, the vaccine is further reconstituted with the Matrix-M adjuvant. Reprinted
+with permission from ref (61). Copyright 2020
+AAAS. (B) Negative stain electron microscopy of the full-length spike (reconstituted in
+PS 80), admixed with the cage-like Matrix-M component (from plant
+origin).61,209
+The spike rosettes are circled in yellow, and Matrix-M adjuvant cages are circled in
+white.90 The imaging confirms the presence of trimeric spike as
+free trimers or as multitrimer rosettes. Matrix-M does not appear to interact with the
+spike nanoparticles. Reprinted with permission from ref (209). Copyright 2020 AAAS..
+
+An elegant demonstration of the use of protein self-assembly to generate a SARS-CoV-2
+vaccine was provided by Walls et al., who constructed a self-assembling
+nanoparticle that mimics RBD expression on the viral surface (Figure 9).72 Using a structure-based in
+silico design, a two-component nanoparticle was derived through the self-assembly
+of 60 RBD fusion protein subunits on the exterior surface of an icosahedral subunit,
+obtained by self-assembly of 120 computer designed components (panel B). The multivalent
+display of RBD subunits enabled generation of neutralizing antibody levels that were 10
+times greater than antibody titers obtained with stabilized spike complexes, delivered at a
+5-fold higher dose to animals.72 It is tempting to speculate that
+multivalent display of RBD subunits instructs the development of highly effective
+neutralizing antibodies capable of cross-linking spike proteins on the SARS-CoV-2 surface.
+The scalability of this platform introduces a further variation of structure-based vaccine
+design to be considered in future vaccine efforts..
+
+Self-assembly of an in silico-designed nanoparticle protein vaccine
+that displays the receptor-binding domain (RBD) as a highly immunogenic array that
+mimics natural virus structure. (A) Utilizing a structure-based in
+silico vaccine design approach, a self-assembling protein nanoparticle
+vaccine with resemblance of viral morphology was developed.72 Each
+particle is composed of two components, an icosahedral 120 subunit core (153–50B)
+that supports binding to 60 SARS-CoV-2 RBD domains (RBD-153–50A), conjugated to a
+153–50B-interactive domain. (B) Nanoparticles roughly resemble a virus, which may
+account for their enhanced ability to provoke a diverse, highly potent, and protective
+antibody responses during animal testing.72 The lead nanoparticle
+vaccine candidate is being manufactured for clinical trials. Reprinted with permission
+from ref (72) under a Creative Commons CC-BY
+license. Copyright 2020 Elsevier..
+
+In addition to Novavax, Sanofi Pasteur/GSK, Vaxine, and Clover
+Biopharmaceuticals/GSK/Dynavax are engaged in SARS-CoV-2 subunit vaccine efforts that have
+progressed to phase 1 clinical trials. These vaccines make use of adjuvants developed by
+GSK, Dynavax, and Vaxine. The GSK adjuvant (AS03) is composed of α-squalene and
+polysorbate 80 in an oil-in-water emulsion,91 while the Dynavax adjuvant
+(CpG 1018)92 consists of a 22-mer oligonucleotide that interacts with
+TLR9. The Vaxine adjuvant (Advax) is a microparticle composed of delta-inulin
+polysaccharides.93 Adjuvant choice is important in instructing the type
+of helper T-cell responses that are key to the attainment of vaccine efficacy and safety, as
+discussed below..
+
+An alternative approach for developing subunit vaccines is to use VLPs, which are
+constructed by the self-assembly of capsid proteins from mammalian, insect, or plant
+viruses.39,58,94,95 The production of VLPs is accomplished by
+fermentation processes or the use of molecular farming techniques. Medicago96 and iBio/CC-Pharming97 produce tobacco plant virus
+particles that include the CoV-2 S protein, and AdaptVac uses their ExpreS2ion vector for
+expressing the S2 subunit in insect cells.98 The Medicago vaccine, which
+utilizes the GSK adjuvant, has entered clinical trials, while the iBio/CC-Pharming and
+AdaptVac VLPs are in preclinical development (Table 1)..
+
+Another vaccine category making progress is epitope-based vaccines, which could rely on
+nanoparticle delivery of individual or epitope combinations. Currently, the primary goals of
+these particles are to enhance T-cell responses and to obtain improved cooperation between
+T- and B-cells for boosting the production of neutralizing antibodies.3,30,85,99−105 Peptide-based vaccines hold several advantages
+over conventional subunit vaccines, including low production cost, no need for microbial
+cultures, high specificity, high stability, and easy scalability. On the downside, the
+genetic variation of the human leukocyte antigen (HLA) allele gene pool in the population
+could mean that individual T-cell epitopes are not equally effective in every person,
+necessitating selection tools to identify promiscuous epitopes for MHC-II presentation to
+CD4+ T-cells or for MHC-I presentation to CD8+
+T-cells.3,30,64,99,103 The ability to design new
+peptide-based vaccines has received a major boost from the availability of epitope-mapping
+tools such as the immune epitope database (IEDB) for predicting B- and T-cell epitope
+sequences (Table 3).106,107 In addition, a number of
+immunoinformatics approaches have emerged to facilitate the prediction-making process for
+multiepitope vaccine design,30,64,65,94,100,102,104,108 including
+computational tools that predict epitope binding to diverse HLA alleles
+(e.g., the IEDB population coverage tool).107 It is
+also possible to use HLA ligandome analysis for calculating the probability of peptide
+interactions with consensus motifs, including 3D predictions for viral peptide docking to
+cytokine-inducing receptors (e.g., TLR2 and TLR4).65,109 Molecular dynamics simulations are
+used for molecular in silico predictions of vaccine antigenicity (Table 3).109 Collectively, these
+tools now enable multiepitope vaccine design to test the feasibility of obtaining
+cooperative B- and T-cell interactions, as well as possibly soliciting specific
+CD4+ and CD8+ T-cell responses (discussed in a later
+section).30,64,65,102,104,108,110.
+
+Abbreviations: HLA, human leukocyte antigen; TLR, Toll-like receptor..
+
+Although several peptide vaccines have been constructed and are in preclinical development,
+comparatively few CoV-2 peptide vaccines have advanced to the clinical stage. One example is
+EpiVacCorona, which was developed in Russia and is composed of synthesized SARS-CoV-2
+peptide antigens, conjugated to a protein carrier that is adsorbed onto an
+aluminum-containing adjuvant.111 This vaccine has advanced to phase 1 and
+2 clinical trials and has demonstrated the ability to induce protective immunity following
+intramuscular injection. The second example is a peptide vaccine (UB-612) developed by
+COVAXX plus United Biomedical that has entered phase 2 and 3 clinical trials.112 UB-612 is composed of eight components and was designed to induce a
+combination of neutralizing antibodies plus T-cell responsivity through the inclusion of a
+S1-RBD-sFc fusion protein, six synthetic peptides (one universal plus 5 SARS-CoV-2-derived
+peptides), a proprietary CpG oligonucleotide (TLR-9 binding agonist), and an aluminum
+phosphate adjuvant. Vaccination studies in guinea pigs and rats demonstrated the generation
+of high titers of neutralizing antibodies against S1-RBD, robust cellular immunity, and TH1
+skewing of the immune response. Subsequent challenge studies in a non-human primate animal
+model confirmed disease prevention and reduction of viral load. The third example is the
+development of the IMP-CoVac-1 vaccine by IMV Inc., which has entered a phase 1 clinical
+trial.113 This vaccine is based on the use of a lipid-based DPX
+platform that can be formulated with peptide antigens, which are capable of activating B-
+and T-cell responses. The vaccine can be stored for extended time periods in a dry form and
+is easy to reconstitute for injection. In addition to these examples, new vaccine products
+that are in preclinical development include a vaccine by Oncogen that incorporates synthetic
+peptides that mimic S and M protein epitopes,25,114 a vaccine by Vaxil Corporation that utilizes a signal
+peptide technology, an adjuvanted microspheric peptide platform by FlowVax, and the Ii-Key
+hybrid peptide platform developed by EpiVax Inc. in collaboration with Generex Biotechnology
+Corp.113.
+
+Despite being the first of their kind, the RNA vaccines developed by Pfizer/BioNTech and
+Moderna represent the fastest vaccine development attempts ever, replacing the previous
+record of 4 years held by the mumps vaccine. In addition to the authorization of these
+vaccines by the U.S. Food and Drug Administration (FDA), the Arcturas Therapeutics and
+Imperial College vaccines are poised to advance to phase 3 clinical trials at the time of
+writing of this Perspective (Table 2)..
+
+Prior to commencing human clinical trials, the antigen-specificity and immunogenicity of
+mRNA vaccine candidates were confirmed by animal studies, which demonstrated that
+dose-dependent neutralizing antibody responses to the S protein are capable of reducing lung
+infection and viral loads of mouse-adapted SARS-CoV-2 strains.38,40,44,47,115 Moreover, antibody subclasses recognizing the S protein
+showed dominance of the IgG2a subclass over IgG1, which is an indirect reflection of the
+differential triggering of T-helper 1 cell (TH1) versus T-helper 2 cell
+(TH2) immune responses.44 Whereas TH1 cells facilitate IgG2a class
+switching, TH2 cells favor IgG1 class switching. This notion was corroborated by the
+dominance of IFN-γ versus IL-4 production by splenocytes from
+immunized animals; IFN-γ is produced by TH1 cells, while IL-4 is produced by TH2
+cells.44 The importance of obtaining TH1 dominance is important for the
+prevention of side effects, as observed for MERS and SARS-CoV1 vaccines. Additional
+preclinical studies in non-human primates confirmed the generation of high titers of
+neutralizing antibodies capable of preventing SARS-CoV-2 infection in the upper and lower
+respiratory tracts.38,47
+These studies also assisted in dosimetry development and demonstrating that the
+intramuscular route of administration generates sufficient inflammatory effects to assist
+the recruitment of APCs and antigen presentation in regional lymph
+nodes.21,116,117.
+
+In addition to the success of the FDA-approved vaccines, Arcturus (ARCT-021) demonstrated
+effective induction of protective antibody levels in primates after a single injection of
+the mRNA-delivering LNP.118 Interestingly, this vaccine also provided
+protection to immune-deficient animals that were depleted of B-cells but not to mice
+depleted of CD8+ T-cells, demonstrating the independent contribution of cellular
+immunity in preventing SARS-CoV-2 infection.118.
+
+The success of first-generation vaccines in preclinical studies was duplicated by
+observations of protective immunity in human clinical trials, which have been extensively
+reviewed elsewhere (Table 2).38,40−43,45−47,50,119 In brief, all mRNA vaccines
+subjected to large-scale clinical trials have proven to be effective in generating high
+protective antibody titers against the S protein and its RBD in humans. In fact, the IgG
+titers to RBD or the S protein are frequently higher than antibody titers in convalescent
+sera of subjects recovering from natural COVID-19 infections. In addition, humoral immune
+responses were generally accompanied by evidence of CD4+- and
+CD8+-mediated T-cell immunity, including evidence of a TH1 skewed immune response
+(e.g., IFN-γ production). An unprecedented milestone was the
+demonstration that two rounds of intramuscular injection with the Moderna and
+Pfizer/BioNTech vaccines were ∼95% effective in preventing symptomatic disease (Table 2). A recent non-peer-reviewed update from
+Arcturus also demonstrated favorable immunogenicity and tolerability in phase 1 and 2 human
+studies, with all vaccinated subjects showing high antibody titers.118.
+
+Preclinical studies with the Novavax vaccine in mice and non-human primates also
+demonstrated the generation of high SARS-CoV-2 neutralizing antibodies, along with strong B-
+and T-cell responses.61,89 Subsequent phase 1 and 2 clinical trials confirmed the generation of
+vaccine-induced antibody titers that exceed the immunoglobulin titers after natural
+infections.120 The vaccine has recently entered phase 3 clinical
+trials..
+
+Among VLPs, the Medicago vaccine has entered phase 2/3 clinical trials, while the
+iBio/CC-Pharming and AdaptVac VLPs are still in preclinical development (Table 1).96,97 Medicago recently reported unpublished data indicating that 100% of
+human test subjects receiving the adjuvanted vaccine develop protective humoral and cellular
+immunity after two doses.96.
+
+All considered, the above data are indicative of a high success rate for CoV-2 RNA and
+subunit vaccines, now allowing comparisons of vaccine-induced versus
+natural immunity. We can now test the hypothesis that the generation of immunity against the
+spike protein may suffice in achieving herd immunity and be capable of bringing the pandemic
+under control. To succeed, the current vaccine drive has to overcome the logistic challenges
+of vaccinating a sufficient number of people to reach this level of protection. It is also
+urgent to complete this task in as short a time interval as possible to control the global
+viral burden, which contributes to the generation of potential immune escape viral
+variants..
+
+A key consideration for COVID-19 vaccine development is safety, with an emphasis on
+avoiding adverse outcomes encountered during experimental MERS and SARS-CoV-1 vaccination
+studies.47,50,95,115,121−124 These studies demonstrated two major adverse response
+categories, namely, (i) antibody-mediated disease enhancement (ADE) and (ii) the occurrence
+of a skewed cellular immune response in which eosinophil recruitment resulted in severe lung
+damage at the time of viral challenge in vaccinated animals.122
+Eosinophil lung damage was also observed during development of the RSV vaccine (which
+includes a type I fusion protein) in humans.95,115,121,125,126 The basis for ADE was ascribed to a non-neutralizing antibody response
+to MERS and SARS-CoV-1, which, instead of interfering in viral uptake, was accompanied by
+accelerated Fcγ-mediated uptake of antibody-bound viral particles by host phagocytic
+cells.122,127 As a
+result, the internalized virus triggered innate immune responses that led to pathological
+levels of cytokine and chemokine production. In contrast, eosinophil-mediated lung damage
+was ascribed to the development of an unbalanced TH2-mediated immune response, which is
+characterized by IL-4, IL-5, and IL-13 production, leading to eosinophil recruitment and
+lung damage.95,128,129 TH2 skewing of the immune response also favors IgG1 class
+switching by IL-4. Postulated reasons for the TH2 skewing of immune responses by some MERS
+or SARS-CoV-1 vaccines include antigen selection and the use of TH2 adjuvants
+(e.g., alum).123,129.
+
+The take-home message from prior vaccine efforts was to focus on the use of the spike
+protein or subunits as the major immunogenic target, plus the use of TH1-skewing
+adjuvants.93,123 In
+addition to relying on the intrinsic adjuvant properties of the RNA in nucleic acid
+vaccines, independent adjuvant use was introduced during development of VLP and subunit
+vaccines (e.g., MatrixM, Advax, the GSK adjuvants, STING agonists).124 The TH1-skewing effects of mRNA vaccines were confirmed by phase 1 (safety)
+clinical trials in humans.40,45 Clinical trials demonstrated that leukocytes from vaccinated human
+subjects predominantly produce TH1 (e.g., INF-γ, IL-2, TNF) compared
+to TH2 (e.g., IL-4, IL-13) cytokines. Moreover, no evidence for ADE or
+eosinophilic immunopathology were observed in phase 3 studies. When side effects did occur
+following administration of the Moderna or Pfizer vaccines, they were predominantly
+characterized by mild or moderate symptoms.29,40 The most frequently experienced side effects were localized
+pain at the injection site, occasional low-grade muscle and joint pain, fatigue, headaches,
+fever, and chills. Ultimately, their combined safety features plus the demonstration of
+∼95% efficacy in the clinical trials led to the Moderna and Pfizer/BioNTech vaccines
+obtaining EUA from the FDA.46.
+
+Although mild to moderate side effects continue to be the predominant experience during
+population vaccination efforts, a handful of subjects have reported more serious allergic
+side effects,130−133 such as the development of anaphylaxis, characterized by a
+severe drop in blood pressure, breathing problems, wheezing, and tissue swelling. This
+condition was infrequently observed in earlier clinical safety studies, which excluded
+people with serious allergic disorders from participating. Although the exact cause of the
+anaphylaxis is still a matter of debate, the Centers for Disease Control and Prevention
+(CDC) advises people with a severe allergic reaction to ingredients in the RNA vaccine not
+to take the injection.134 This recommendation includes not taking a
+second vaccine dose if there was a severe allergic reaction to the first dose. People who
+experience immediate allergic reactions to any other vaccine or injectable therapeutics are
+advised to seek medical attention before considering vaccine administration. In contrast,
+the CDC recommends that people who experience severe allergic reactions not related to
+vaccines or injectable medications (e.g., environmental, food, pet, or
+latex allergies) get vaccinated. The same advice applies to people with a history of
+allergies to oral medications or a family history of severe allergies.130.
+
+In considering possible ingredients that may contribute to anaphylactoid RNA vaccine
+responses, a potential role for PEG has been noted.130 Poly(ethylene
+glycol) is often used for coating nanoparticle surfaces to provide colloidal stability.
+Different molecular weight PEGs are also used as softeners or moisture carriers in consumer
+products such as toothpaste and shampoo and may also be included in biopharmaceuticals and
+laxatives. Although it has been documented that PEG is capable of generating IgM or IgG
+antibody responses that may lead to complement activation at the particle surface, an
+alternative opinion is that PEGylated nanoparticles (e.g., Doxil) may
+trigger a nonspecific complement activation-related pseudoallergic (CARPA) disorder.131 Yet another twist to the story is the discovery of IgE antibodies to PEG or
+PEGylated drugs that may play roles in anaphylaxis. However, there is also a group of
+experts who doubt that PEG is involved in anaphylaxis because of its low content in RNA
+vaccines.133.
+
+The best practical approach for at-risk people is to follow the CDC guidelines. It is also
+recommended that all subjects receiving the vaccine wait 30 min after administration to
+monitor severe side effects, which usually occurs within the first 15 min. Although it is
+possible to develop serological screening assays to detect PEG antibodies, the best advice
+for at-risk people not able to take RNA vaccines is to consider an alternative vaccine
+formulation that excludes PEG. If no alternative is available, it is theoretically possible
+to use a prophylactic cocktail composed of injectable H1 and H2 histamine receptor blockers
+plus dexamethasone to reduce the severity of the adverse responses, such as used for people
+with severe reactions to radiocontrast media.132 However, this strategy
+would require consultation with an allergist and performance of the procedure in an
+appropriate healthcare setting..
+
+How long does the protective immune response to COVID-19 last? The current expectation is
+that neutralizing antibody responses to spike protein will be of sufficient duration to
+bring the pandemic under control by providing herd immunity. Although there is good evidence
+that front-runner nucleic acid, subunit, and viral-vectored vaccines provide protective
+immunity against COVID-19 that lasts for at least 8 months, we are uncertain about the
+longer-term duration and completeness of the neutralizing antibody
+response.41,43 To
+address this question, we briefly review what is known about the development of protective
+immunity after coronavirus infections. The neutralizing antibody response to seasonal
+(“cold”) coronaviruses is of transient duration, allowing the occurrence of
+reinfections.33 In contrast, the protective antibody responses to
+SARS-CoV-1 and MERS lasted a minimum of 2–3 years after recovery. The current
+observation period has been insufficient for the evaluation of vaccine durability against
+SARS-CoV-2, but early studies performed on convalescent patient sera provide some clues. One
+study calculated the half-life of anti-RBD antibody decline to be ∼36 days;135 however, other studies failed to observe a decline over observation periods
+of 4–7 months.136,137 These variations could reflect differences in the severity of infection
+because it has been demonstrated that people with milder infections generate lower antibody
+titers that decline more rapidly.138 Severity of infection may also
+explain why the more virulent SARS-CoV-1 and MERS viruses generated more durable
+immunity..
+
+Longitudinal studies to determine the duration of the protective response after natural
+infection or vaccination are ongoing and of great importance for establishing future public
+health policies. An early predictor of what may happen comes from a comprehensive study
+looking at SARS-CoV-2 specific CD4+ and CD8+ T-cell responses as well
+as antibody levels in a cohort of 188 individuals over a time period of 8 months.139 This cohort includes people with a variety of disease severities, ranging
+from mild to severe, as typically observed across the United States. Neutralizing IgG
+antibody titers against the spike protein and RBD remained relatively stable, with only a
+modest decline over 6–8 months. Spike-specific memory B-cells increased during this
+time span, whereas memory CD4+ and CD8+ T-cells declined with
+estimated half-lives of 3–5 months. The decay kinetics of memory T-cell responses
+after COVID-19 are similar to the vaccination response to the yellow fever virus, which is
+known to confer long-lasting immunity.29 Although precise correlates of
+protection against secondary SARS-CoV-2 infection and disease are unknown, the presence of
+durable cellular and humoral responses in the majority of subjects being studied over 8
+months suggests that most individuals recovering from COVID-19 will have significant
+protection against further disease. These findings are further strengthened by the
+observations of Peng et al., who recently noted that disease severity may
+determine the type of T-cell response.31 Thus, whereas activated
+CD8+ T-cells tended to dominate in mild infections, CD4+ T-cells
+dominated after severe infections. Moreover, Grifoni et al. demonstrated
+good correlation between the appearance of spike-specific T-cells and antibody
+responses.140.
+
+How do CD4+ T-cells contribute to the generation of durable humoral immunity,
+and how can this cooperation be exploited during vaccine development? To get to the bottom
+of this question, it is important to understand how B-cells are activated in a
+microanatomical lymph node compartment known as the germinal center. Here, a memory
+CD4+ subset, known as follicular helper T-cells (TFH) cells,
+cooperates with germinal center B-cells to improve their survival, proliferation,
+immunoglobulin-class-switching ability, and somatic hypermutation (Figure
+10A).21,28,141 This improvement culminates in the production
+of antibodies with high diversity and affinity by B-cell precursors that ultimately
+differentiate into plasma cells and long-lived memory B-cells. Moreover, it has been
+demonstrated that there is a critical requirement for TFH cooperation with
+germinal center B-cells in the development of durable immunity to polio, smallpox, and other
+viral vaccines. Similar cooperativity is likely required for effective COVID-19 vaccination,
+as indicated by a post mortem study conducted by Kaneko et
+al. in 15 SARS-CoV-2 infected subjects succumbing to serious disease with high
+viral loads.27 Of particular significance, there was a severe disruption
+of thoracic lymph node architecture, compared to 29 age-matched controls succumbing to
+non-COVID-19-related causes (Figure 10). Not only
+did the COVID cases demonstrate a ∼70% decline in circulating B- and T-cells, but
+histological analysis backed by immunohistochemistry staining demonstrated comparable
+reduction in the number of germinal center B-cells and accompanying Bcl-6+
+TFH cells.27 These findings are in agreement with the low
+levels of somatic hypermutation in 403 monoclonal antibodies that were developed from
+B-cells recovered from the blood of convalescent subjects by Brouwer et
+al.(142).
+
+Lymph node germinal centers—key to memory B-cell development—are
+disrupted by COVID-19. (A) Naïve CD4+ T-cells are activated in
+the T-cell zone by antigen-presenting dendritic cells.141 This
+includes the generation of follicular helper T lymphocytes (TFH), which
+upregulate CXC-chemokine receptor 5 (CXCR5) expression before activating B-cells at the
+T–B border. Both cell types migrate to B-cell follicles to form germinal
+centers.141 Active cooperation of TFH with germinal
+center B-cells promotes immunoglobulin hypermutation, class switching, and affinity
+maturation, during which B-cells differentiate into memory cells and long-lived plasma
+cells (FDC, follicle dendritic cell; BCR, B-cell receptor; MHC, major histocompatibility
+complex; TCR, T-cell receptor). Reprinted with permission from ref (141) under a Creative Commons
+Attribution-Noncommercial (CC BY-NC 4.0) License. Copyright 2014 The Authors. (B)
+Acutely ill COVID-19 patients carrying high viral loads exhibit a striking absence of
+germinal centers, with a marked reduction of germinal center B-cells and TFH
+cells.27,210
+Although there is robust activation of nongerminal center B-cells, this does not give
+rise to long-lived memory B-cells or the production of high affinity antibodies.
+Reprinted with permission from ref (27).
+Copyright 2020 Elsevier..
+
+Are germinal centers involved in the development of antibody responses induced by
+SARS-CoV-2 vaccination? During the use of mRNA delivering vaccines against Zika virus,
+influenza hemagglutinin, and HIV-Env in mice and primates, Pardi et al.
+demonstrated that administered lipid nanoparticles induce robust cooperation of
+TFH cells with germinal center B-cells.21,143,144 Similar effects were
+observed during the vaccination of rhesus macaques against influenza by Lindgren et
+al., who also used nucleic-acid-carrying nanoparticles that could improve
+antibody production in lymph node germinal centers.145 These findings
+suggest that the same impact may be achieved by mRNA-delivering LNPs during SARS-CoV-2
+vaccination. Should that not be the case, a promising approach for augmenting memory B-cell
+responses in COVID-19 could be to develop vaccinating nanoparticles that improve antibody
+production in germinal centers. An example of how that might be accomplished is depicted in
+Figure 11, in which HIV-gp120 was encapsulated
+in self-assembling nanoparticles that form during the polymerization of a highly
+glycosylated bacterial protein, conjugated to a gp120 fusion protein.146
+Following intravenous (IV) injection of these glycan-rich nanoparticles, the polysaccharide
+ligands on the particle surface were shown to bind to manose-binding protein present in host
+serum, which led to complement activation and, subsequently, particle recruitment to
+germinal centers. As a consequence, a high titer of neutralizing antibodies was generated to
+the encapsulated, compared to the monomeric, antigen. Similar success was achieved by
+glycosylated nanoparticles delivering an HIV-gp160 (Env) trimer as well as influenza
+hemagglutinin.146 These findings suggest that the level of particle or
+antigen glycosylation could be a means of boosting the durability of neutralizing antibody
+responses by vaccines. Additional approaches for improving humoral immunity through the
+creative design of lymph node targeting nanoparticles were recently reviewed by Irvine and
+Read.147.
+
+Use of nanoparticle glycosylation to target lymph node germinal centers. Particulate
+HIV immunogens are more capable of activating low-affinity germline precursor B-cells
+than monomeric antigens, in addition to promoting TFH cooperation with
+germinal center B-cells.146 This capability can be used for
+nano-enabled enhancement of neutralizing antibody responses. (A) Engineered outer domain
+(eOD) of the soluble HIV-gp120 monomer was formulated into ∼32 nm nanoparticles
+by fusion to a glycan-rich bacterial protein, lumazine synthase, which self-assembles
+into a 60-mer (eOD-60mer).146 (B) Confocal microscopy of a lymph node
+showing that soluble monomers enter the subcapsular sinus of the lymph node but do not
+gain access to germinal centers (darker blue). During challenge with monomers, the
+centers exhibit sparse follicular dendritic cells (FDC) (lighter blue) and B-cells
+(green). However, administration of the eOD-60mer demonstrates access to the germinal
+center, loaded with FDC and B-cells.146 The mechanism of germinal
+center recruitment has been ascribed to glycans on the particle surface binding to
+mannose-binding protein. This signal triggers complement activation, which supports
+polymerized antigen access to the germinal center.146 (C)
+Quantitative expression of the number of TFH and B cells in the germinal
+centers. Reprinted with permission from ref (146). Copyright 2019 AAAS..
+
+Although initial efforts focused on achieving protection by generating neutralizing
+antibodies, a challenge for COVID-19 vaccine developers is uncertainty about the
+immunological correlates of vaccine efficiency.148 Do we evaluate
+immunological biomarkers (e.g., antibody titers), absence of symptomatic
+infections, decline in hospitalization, or decreased mortality rates? Although contemporary
+vaccine trials suggest that IgG levels provide a good proxy for vaccine efficacy, we know
+that neutralizing antibodies do not provide viral clearance from infected sites. Viral
+clearance requires the participation of cytotoxic CD8+ T-cells as well as the
+cooperation of CD4+ T-cells. A key question from a vaccination perspective,
+therefore, becomes to what extent do we rely on the sterilizing effects of antibodies as
+compared to the additional contribution of T-cells, including providing long-term efficacy?
+Not only do activated CD4+ and cytotoxic CD8+ T-cells play critical
+roles in defense against acute viral infections, but evidence has been collected during mild
+or asymptomatic infections that show the appearance of T-cells in the absence of significant
+antibody production (e.g., the appearance of T-cells in the circulation of
+sero-negative family members exposed to COVID-19).149,150 In addition, epitope-mapping studies have shown
+the appearance of cross-reactive T-cell responses to the spike or membrane (M) proteins in a
+total of 28% of healthy blood donors before the onset of the pandemic.149
+This result highlights the possibility that nonspike proteins could play an important role
+in cross-reactive immunity to multiple coronaviruses, a finding that is further corroborated
+by the detection of cross-reactive T-cells in 20–50% of uninfected people in
+high-impact COVID-19 communities.151.
+
+Although there is good evidence for T-cell involvement in the vaccine response to mRNA,
+protein subunit, and viral-vectored CoV-2 vaccines, it is becoming clear that the roles of
+T-cells require additional consideration for future vaccine development. Of particular
+interest is determining if there are differences in T-cell phenotypes stimulated by
+different vaccine types, with the possibility that there could be complementarity of action
+by combining current vaccines (e.g., adenovirus-vectored with mRNA
+vaccines).152 A more deliberate future attempt would be to exploit
+nano-enabled design features to improve T–B cooperation. In addition to the
+principles explained in Figures 10 and 11, another approach would be to develop a multiepitope vaccine strategy, such
+as the “string-of-beads vaccines” (SBV) concept, previously used for
+cytomegalovirus and influenza (Figure 12A).110,153,154 This strategy could entail the selection and combination
+of epitopes from diverse SARS-CoV-2 antigens (M, N, E, and S proteins) that are spliced
+together with the assistance of cleavable spacer sequences.110 Similar
+outcomes can also be achieved by the design of DNA or RNA minigenes, as demonstrated by
+Fomsgaard et al. for influenza.154 The selection of
+potentially synergistic epitope combinations will benefit from the use immunoinformatics
+tools, as described above.65,94,99,100,102,104,109 This approach could include the use of tools
+that enable the design of appropriate linker and codon adjustment strategies for minigene
+design.64,102
+Ultimately, it should be possible to use suitably designed nanocarriers to deliver
+multiepitope peptide sequences or minigene nucleic acid constructs to the host immune system
+for antigen presentation. Vaccine efficiency will depend on epitope selection as well as the
+correct choice of spacers to enable epitope release by the immunoproteosome.110.
+
+String-of-beads vaccines (SBVs) for multiepitope delivery. (A) Concept of SBVs for
+infectious disease agents (e.g., influenza and cytomegalovirus) is
+based on expressing multiple epitopes from pathogen antigens separated by cleavable
+spacers.110 It is envisaged that the design tools for the selection
+of multiple epitopes and their encapsulation in suitable nanocarriers will facilitate
+SARS-CoV-2 epitope delivery to regional lymph nodes, where individual epitopes will be
+released by proteolytic processing and presented by dendritic cells. Vaccine efficiency
+would depend on the optimal combination of B- and T-cell epitopes as well as the use of
+appropriate spacers to allow efficient epitope release.110 Reprinted
+with permission from ref (110) under the Creative
+Commons Attribution 4.0 International License. Copyright 2016 Springer Nature. (B)
+Multiepitope vaccines have received a boost from new immunoinformatic tools for vaccine
+design, using a series of prediction tools as outlined in Table 3. In this example, Yarmarkovich et al. report
+the design of multiepitope vaccines that deliver 65 × 33-mer SARS-CoV-2 peptides,
+making use of the following guidelines: (i) selection of peptide sequences from 15
+related coronaviruses; (ii) epitope ability to activate CD4+ and
+CD8+ T-cells by enabling interactions with diverse HLA gene sequences;
+(iii) B-cell activation by linear and conformational epitope sequences; (iv) high
+immunogenicity through sequence selection that is significantly dissimilar to the
+self-proteome; (v) vaccine safety.109 Reprinted with permission from
+ref (109) under the Creative Commons License
+CC-BY 4.0. Copyright 2020 The Authors..
+
+An example of multiepitope vaccine design, aiming for durable immunity through a
+combination of B- and T-cell epitopes, was recently demonstrated by Yarmarkovich et
+al.(109) These investigators developed 65 × 33mer-peptides
+using the design principles outlined in Figure 12B. Epitope selections included evolutionarily conserved coronavirus sequences,
+including T-cell epitopes for population-based HLA coverage, in addition to the inclusion of
+linear and conformational B-cell epitopes. To maximize immunogenicity, only viral regions
+with the highest degree of dissimilarity to the human immunopeptidome were chosen. This
+vaccine design also enables conjugated TH1 adjuvants to be included with the peptides.
+Although the efficacy of this design still awaits animal experimentation, we have outlined
+the success that was achieved by COVAXX using their eight-component multiepitope vaccine
+(UB-612) to induce protective immune responses in rats, guinea pigs, and a non-human primate
+model.112.
+
+Multiepitope vaccine design could also enable the generation of cross-reactive immunity
+that deliberately expands the contribution of different types of memory T-cells.155 The feasibility of this approach is supported by a number of studies
+showing broad-based T-cell reactivity in 20–50% of people with no known exposure to
+SARS-CoV-2.151 Memory T-cells can be classified as central memory,
+effector memory, and tissue-resident (TRM) memory T-cells, which can be expressed
+as CD4+ and CD8+ phenotypes.156,157 Lipsitch et al. recently
+conducted a thought experiment that considers multiple scenarios of how cross-reactive
+CD4+ memory T-cells may impact the development of SARS-CoV-2 transmission and
+herd immunity.155 In one hypothetical scenario, cross-reactive memory
+TFH cells were projected to participate in triggering more robust and rapid
+neutralizing antibody responses that reduce the magnitude and duration of symptomatic
+SARS-CoV-2 infections. This outcome was projected to enhance the durability of the immune
+response but to exert little effect on viral loads in the respiratory tract. This scenario
+was also postulated to lead to fewer hospitalizations and deaths, with a moderate impact on
+viral spread.155 A second scenario envisages a role for cross-reactive
+TRM cells that have the inherent capacity to induce rapid control of virus
+spread in the respiratory tract through their ability to recruit cytotoxic T-cells,
+resulting in rapid clearance from virally infected cells as a result of the failure of the
+sterilizing antibody defense.155 Thus, this form of T-cell memory could
+allay the development of severe disease at the time of re-exposure, leading to short
+asymptomatic infectious episodes with low viral loads. However, this immune response would
+be launched at the expense of generating durable memory responses. Although this thought
+experiment still needs to be experimentally tested, a key question now becomes whether it is
+possible through epitope selections and use of appropriate adjuvants to engage and activate
+specific memory phenotypes selectively in vaccine development? Although there is currently
+no answer to this question, it is tempting to speculate that future vaccine development
+efforts will be able to exploit the early surveillance role of TRM cells to boost
+neutralizing antibody defenses against SARS-CoV-2.156,157 Along similar lines, it may also be possible to
+select cross-reactive coronavirus regions to generate long-lived memory T-cells to develop a
+pan-coronavirus vaccine..
+
+There is presently great concern about the ability of COVID-19 vaccines to protect against
+viral variants that have emerged in the United Kingdom (UK), South Africa, and
+Brazil.158 Replication of the 29.9 kb single-stranded positive-sense
+RNA genome of SARS-CoV-2 requires the production of negative strand complementary RNA
+templates, which are copied into positive stranded viral genomes. In all cases, RNA
+synthesis is catalyzed by the viral replication–transcription complex that includes
+RNA-dependent RNA polymerase subunits that confer processivity (nsp7, nsp8) and a
+3′–5′ exonuclease (nsp14) that proofreads nascent RNA and excises
+misincorporated nucleotides—a rare activity among viral RdRp complexes.76 Coronaviruses are endowed with genomes that are among the largest of all RNA
+viruses, and the proofreading function of nsp14 is highly conserved in the Coronaviridae
+family. Proofreading helps maintain the integrity of coronavirus genomes and is likely
+essential for the evolution of their complexity and adaptability.76,159 Despite this relative stability,
+mutations do occur and their cumulative effects are a source of global concern..
+
+The mean rate of evolutionary change in SARS-CoV-2, or, more accurately, the rate at which
+alleles are fixed in the population, can be estimated using viral sequence information and
+sampling dates (Figure 13A).160,161 Current data from a curated global
+subsample of SARS-CoV-2 sequences suggest the virus is evolving at a rate of approximately
+7.5 × 10–4 substitutions per site per year, which corresponds to
+about one substitution every 16 days.161,162 Nucleotide insertions and deletions are often observed,
+but synonymous substitutions are the primary source of genetic variation. Given its recent
+spillover from a zoonotic reservoir, estimated to have occurred in late November 2019,
+further adaptation toward increased fitness in humans is to be expected.162 Indeed, the first “mutation of concern”, an Asp to Gly substitution at
+amino acid position 614 in the SARS-CoV-2 spike protein (D614G), was first identified early
+in the pandemic, becoming the globally dominant form of the virus by June 2020.163 The D614G substitution increases the efficiency of cell entry and
+replication in vitro(164) and enhances transmission in
+animal models165 and in human populations.166 The
+D614G mutation lies outside the RBD, and recent cryoEM studies suggest that it facilitates
+the transition of spike protein to the open conformation, thereby promoting receptor
+binding, membrane fusion, and viral infection.167.
+
+Global phylogeny of SARS-CoV-2 and the evolution of variant strains. (A) Phylogenetic
+tree showing evolutionary relationships between SARS-CoV-2 viruses from the ongoing
+COVID-19 pandemic, from 3913 genomes sampled between December 2019 and February 2021.
+The spike protein D614G substitution (arrow), which is carried by virtually all
+currently circulating viruses, emerged early in the course of the pandemic. Clade
+20I/501Y.V1 (UK variant B.1.1.7); 20C/501Y.V2 (South African variant B.1.351);
+20J/501Y.V3 (Brazil variant P1) are indicated. Figure is adapted from Nextstrain, under
+a C-BY-4.0 license.160,161 (B) Amino acid substitutions in the SARS-CoV-2 spike locus shared by
+variants from the UK (20I/501Y.V1; B.1.1.7), South Africa (20C/501Y.V2; B.1.351), and
+Brazil (20J/501Y.V3; P1) are shown along with other lineage-defining mutations. (C)
+Locations of the N501Y (left) and E484 K (right) substitutions in SARS-CoV-2 spike
+trimers (gray), showing the RBD of one subunit bound to the human ACE2 receptor (green).
+B and C are adapted from ref (211), CoVariants:
+SARS-CoV-2 Mutations and Variants of Interest, licensed under a GNU Affero General
+Public License (AGPL).211 Copyright 2020–2021 Emma
+Hodcroft..
+
+At least two waves of adaptation can be expected when a newly evolved pathogen acquires the
+ability to infect new host populations. While selection for increased transmission between
+immunologically naive hosts initially prevails, as the immune status of the host population
+increases due to natural infection or vaccination, further adaptations may take place in
+response to selective pressures to evade immunity. Substantial evidence indicates that both
+selective forces are now shaping the global phylodynamics of SARS-CoV-2, resulting in the
+emergence of new viral strains that display partially overlapping collections of mutations,
+presumably due to convergent evolution (Figure 13B).162,168,169 Three newly emerged variant strains, all decedents of the
+D614 lineage, are now attracting global attention..
+
+The most widely distributed variant SARS-CoV-2 strain, B.1.1.7 (also 201/501Y.V1, Figure 13), first emerged in southeast England in
+December 2020170 and rapidly became the predominant strain throughout the
+UK. As of February 23, 2021, its global distribution has expanded to include 93
+countries.171 The strain was initially defined by a collection of 14
+nonsynonymous substitutions and three deletions, with 8 of 17 mutations located in the spike
+protein. The extent of divergence of B.1.1.7 was surprising, as most branches in the
+SARS-CoV-2 phylogenetic tree show only a few defining mutations that accumulate slowly over
+time. Several alterations in spike protein had been observed in different lineages,
+suggesting they arose independently in response to similar selective pressures. These
+include a two amino acid deletion (H69-) in the N-terminal domain that had previously been
+associated with immune evasion,172 a substitution (P681H) located
+adjacent to the S1/S2 furin cleavage site that is essential for entry into human lung
+cells,173 and the N501Y mutation in the spike RBD that increases
+binding affinity for ACE2 receptors (Figure 13C).174 Although observations on the properties of individual
+mutations may be informative, the critical question is how they act together to affect virus
+behavior. Presently, B.1.1.7 has a substantial fitness advantage over other circulating
+lineages, with an estimated increase in person to person transmission of
+50–70%.175 Fortunately, there is little evidence for a
+clinically significant decline in antibody neutralization titers in convalescent
+sera,176 including sera from individuals previously vaccinated with the
+Moderna177 or Pfizer mRNA products.178 Whether
+B.1.1.7 causes more severe illness remains controversial, but a preliminary study reports an
+estimated 35% (CI 12–64%) higher hazard of death associated with infection by this
+strain.179 As the number of infections due to this hyper-transmissible
+lineage increases worldwide, so does the likelihood that further mutations will evolve..
+
+Two more variant strains have recently emerged that are also of major concern, one
+discovered in South Africa and designated B.1.351 (also 20H/501Y.V2) and the other first
+identified in Brazil (P.1, also 20J/501Y.V3). Both variants carry multiple mutations which
+include the N501Y allele found in B.1.1.7 as well as additional mutations that are shared
+with each other (Figure 13B). Most notable is the
+E484K substitution in the RBD (Figure 13C), which
+increases ACE2 binding in a manner that is further augmented by N501Y.180
+Accumulating evidence indicates that the E484K allele emerged independently on multiple
+occasions as a result of immune-driven selection.181 E484K facilitates
+measurable escape from neutralizing antibodies present in convalescent serum as well as a
+modest decrease in neutralization by serum from individuals that were vaccinated with the
+Moderna or Pfizer mRNA vaccines.182 Although the initial phase 3 clinical
+trials conducted by Moderna and Pfizer preceded the discovery of these strains, subsequent
+phase 3 trials with newer vaccines included populations with high rates of infection by
+variants of concern. In a recent trial by Johnson & Johnson involving 45,000 volunteers,
+the efficacy of their single-dose, adenoviral-vectored, Ad26.COV2.S vaccine in conferring
+protection against moderate to severe COVID-19 was 72% in the United States, 66% in Latin
+America, and 57% in South Africa, 28 days postvaccination.183 The lower
+efficacy in South Africa is suspected to be due to the rise of the B.1.351 variant. Despite
+this result, the protective efficacy against severe disease was 85% across all regions
+studied, with complete protection observed against hospitalization and death.53 A preliminary analysis of phase 3 clinical trial data by Novavax indicated
+that their two-dose nanoparticle vaccine, NVX-CoV2373, conferred nearly 90% protection
+against COVID-19 in the UK but just under 50% protection in South Africa.184 In all cases that were analyzed, vaccine failures were caused by the
+B.1.351 variant, and even more troubling was the finding that several trial participants
+became infected with B.1.351 despite having previously suffered from COVID-19..
+
+We are now at a critical point where advances in vaccine technology and deployment must be
+strategically aligned with viral evolution. This task could become increasingly challenging
+as the number of SARS-CoV-2 infections continues to expand. The recent discovery of B.1.1.7
+variants that have acquired the E484K substitution vividly illustrates this challenge,
+raising concern that hypertransmissive strains with increased capacity for immune evasion
+may have already emerged. Gaining control of the situation will require a number of parallel
+efforts. The first is to vaccinate as many people as possible on a global scale and to do it
+as quickly as we can to decrease the global viral pool participating in the formation of
+mutants. The second is to exploit the inherent adaptability of newly developed vaccine
+platforms. mRNA vaccines, for example, are rapidly modifiable to encode newly evolved
+antigens, and both Moderna and Pfizer have announced plans to build second-generation
+vaccines expressing B.1.351 variant spike proteins to provide variant-specific
+boosting.158,185
+Similarly, Novavax has announced plans to incorporate B.1.351 spike sequences in their
+self-assembling protein nanoparticles. Similar strategies could be used to issue
+immunological updates to vaccinated hosts over time to keep pace with the evolution of
+SARS-CoV-2..
+
+Should the above strategies fail to control immune escape variants, a longer-term strategy
+would be to boost T-cell contributions and to target CoV-2 antigenic sites that are not
+subject to the same rate of mutation as the spike protein.186 One
+possible approach is to develop multivalent vaccines that present multiple B-cell and T-cell
+epitopes, as described above..
+
+The global COVID-19 vaccine drive has introduced a new era in structure-based vaccine
+design, in addition to drawing on nano-enabled approaches to deliver engineered vaccines to
+the immune system.1,4,10,13,14,55,70,187,188 These efforts
+have advanced the structural vaccinology concept that was initially implemented to obtain
+stable expression of type I fusion proteins from RSV (F protein), HIV-1 gp160 (env),
+influenza hemagglutinin, and the spike proteins from MERS and SARS-CoV1. Moderna and Pfizer
+took this discovery forward by developing engineered nucleic acid constructs for the
+expression of the SARS-CoV-2 spike protein in a prefusion conformation, thereby enabling
+these vaccines to generate strong neutralizing antibody responses. A parallel development
+was the self-assembly of engineered full-length S protein and computerized design of a
+viral-like particle with multivalent RBD display.72 Not only are the
+strategies coming from current SARS-CoV-2 vaccination efforts reinvigorating vaccine design
+for RSV, influenza, HIV-1, and other pathogens, but they are also highlighting principles
+for continuously updating vaccine composition using rapidly reprogrammable platforms. This
+provides a new approach to vaccinology. With the current rate of technological improvement,
+we can expect that COVID-19 vaccines will emerge that are capable of generating high titers
+of neutralizing antibodies, eliciting robust TH1-mediated immune responses, inducing
+long-term memory, and providing broader protection against SARS-CoV-2 variants and other
+cross-reactive coronaviruses. Another important lesson from current vaccine efforts is the
+necessity of developing comprehensive and real-time surveillance, data analysis,
+high-throughput approaches for genotyping and phenotyping viral isolates, as well as
+efficient methods for altering, testing, approving, manufacturing, and deploying newly
+synthesized CoV-2 vaccines.160,163 Just as software updates are a fact of life, vaccine updates should be
+similarly expected and expedited..
+
+Although it is too early to make firm predictions about the outcomes of the current vaccine
+drive, it is reasonable to expect major impacts on symptomatic as well as severe disease,
+hospitalization, and mortality, even prior to reaching the herd immunity threshold,
+estimated to occur when 70–85% of the population is protected. There are already
+indications from the phase 3 clinical trials conducted by Johnson & Johnson that their
+adenoviral-vectored vaccine is 66% effective at preventing moderate to severe COVID-19, with
+85% efficacy against the most serious illness.183 The vaccine also
+prevented mortality among the 43,000 participants in that trial. In addition, it has
+recently been demonstrated that Pfizer’s vaccine trial data hold up in the real-world
+vaccination drive in Israel.189 This study compared almost 600,000 people
+receiving the Pfizer vaccine between December 20, 2020, and February 1, 2021, against a
+cohort of similar size that was not vaccinated. After two vaccine doses, the vaccinated
+subjects were 94% less likely to develop symptomatic illness and 87% less likely to be
+hospitalized. It is also of interest that this outcome was achieved in a study cohort where
+a large number of the infections could be ascribed to the UK CoV-2 variant (B.1.1.7). It is
+important to take into consideration that the Israeli vaccination campaign is far ahead of
+most other countries, and we need to keep an eye on what will happen in other sectors of the
+world where vaccination may proceed less rapidly due to inadequate supply lines, ineffective
+vaccine distribution, lack of societal acceptance, and the rapid evolution of new viral
+variants..
+
+If and when herd immunity can be achieved remain unanswered questions. There are an
+increasing number of predictions that COVID-19 will become an endemic
+disease.190−192 A Nature
+survey among immunologists, infectious disease experts, and virologists (who are active in
+the coronavirus field) recently found that 90% of the respondents were of the opinion that
+the coronavirus will become endemic, with the implication being that the virus may continue
+to circulate for a number of years in small cohorts in the global community.190 Although this circulation could lead to the continuation of infection,
+similar to disease occurrence related to common cold coronaviruses, the failure to eradicate
+SARS-CoV-2 completely does not mean that disease severity, mortality, or social isolation
+will continue at current levels, particularly if the vaccination campaign can push
+populations close to herd immunity. Interestingly, the factors that were identified as
+possible drivers for endemic SARS-CoV-2 circulation in the survey were listed, in decreasing
+order of importance, as immune escape, waning immunity, uneven vaccine distribution, vaccine
+hesitancy, lack of political will, and the presence of animal reservoirs.193.
+
+The authors declare the following competing financial interest(s): Andre E. Nel is a
+co-founder and equity holder in Westwood Biosciences Inc. and NAMMI Therapeutics. He also
+serves on the Board for Westwood Biosciences Inc. Jeff F. Miller is a co-founder, equity
+holder and board member of Pylum Biosciences, Xyphos Inc, and Dermolytica Inc., and SAB
+member of Notitia Biosciences..
+
+We thank Holly Bunje for assistance in obtaining permission to use published material for
+the figures and proofreading the manuscript, as well as updating the references. Research in
+Dr. Nel’s lab is supported by the National Cancer Institute of the National
+Institutes of Health under Award Number, 1R01CA247666-01A1. Research in Dr. Miller’s
+lab is supported by the Kavli Foundation and the Shaffer Family Foundation..
+

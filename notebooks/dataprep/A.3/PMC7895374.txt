@@ -1,0 +1,592 @@
+Competing Interests: The authors have declared that no competing interests exist..
+
+SARS-CoV-2 is the new coronavirus responsible for COVID-19 disease. The first two cases of COVID-19 were detected in Venezuela on March 13, 2020. The aim of this study was the genetic characterization of Venezuelan SARS-CoV-2 isolates. A total of 7 full SARS-CoV-2 genome sequences were obtained by Sanger sequencing, from patients of different regions of Venezuela, mainly from the beginning of the epidemic. Ten out of 11 isolates (6 complete genomes and 4 partial spike genomic regions) belonged to lineage B, bearing the D614G mutation in the Spike protein. Isolates from the first outbreak that occurred in the Margarita Island harbored an in-frame deletion in its sequence, without amino acids 83–85 of the NSP1 of the ORF1. The search for deletions in 48,635 sequences showed that the NSP1 gene exhibit the highest frequency of deletions along the whole genome. Structural analysis suggests a change in the N-terminal domain with the presence of this deletion. In contrast, isolates circulating later in this island lacked the deletion, suggesting new introductions to the island after this first outbreak. In conclusion, a high diversity of SARS-CoV-2 isolates were found circulating in Venezuela, with predominance of the D614G mutation. The first small outbreak in Margarita Island seemed to be associated with a strain carrying a small deletion in the NSP1 protein, but these isolates do not seem to be responsible for the larger outbreak which started in July..
+
+Nucleotide sequence data have been deposited into the GenBank database under the accession numbers MT907515-MT907521, MW015946-MW015954 and MW040500-MW040503..
+
+On March 11, the World Health Organization declared a pandemic COVID-19, the disease caused by a new coronavirus which emerged in Wuhan at the end of 2019. Since then, at the end of January 2021, more than 100 million persons worldwide have contracted the disease, with more than 2,000,000 deaths [1]. Once originated in China, the epidemic center evolved first in Asia, then in Europe, and in August 2020, the epicenter was located in the Americas, including Latin America..
+
+SARS-CoV-2, the new coronavirus responsible for COVID-19 disease, belongs to the family Coronaviridae, genus Betacoronavirus, and shares with its predecessor SARS-CoV the subgenera Sarbecovirus. After interaction of the Receptor Binding Domain (RBD) of the viral Spike protein with the viral receptor ACE2, SARS-CoV-2 enters the cell through a fusion mechanism. The viral fusion protein is exposed by priming with a proteolytic enzyme [2]. The viruses of this family possess the largest known continuous RNA genome (around 30,000 nt). The RNA-dependent RNA polymerase complex (RdRP) possess proofreading capacity, implying that the mutation rate of these viruses is lower than the one observed for other RNA viruses [3, 4]. On the other hand, these viruses display also a high frequency of recombination, horizontal gene transfer, gene duplication, and alternative open reading frames, which allow them to jump from one species to another [5]..
+
+The first case of COVID-19 was detected in Venezuela on March 13, 2020 (Fig 1). The first viral introductions were mainly through air flight passengers, mainly from Europe, during the month of March. Immediately after the two first cases, quarantine and the use of face mask was mandatory. The second wave of viral introductions started in April and includes migrants returning from neighboring countries, mainly Colombia and Brazil. The aim of this study was the genetic characterization of Venezuelan SARS-CoV-2 isolates and the analysis of the ongoing epidemic in two settings: the Margarita Island and the second most populous city, Maracaibo..
+
+The cases are referred to as the date of report and downloaded from the web page http://www.ucv.ve/cendes. The arrows indicate the date of collection of the samples for which complete genome sequences were obtained..
+
+Clinical samples were processed at the Instituto Nacional de Higiene “Rafael Rangel”, as part of the national diagnostic response to the COVID-19 pandemic, and sent as anonymous samples to Laboratorio de Virología Molecular, Instituto Venezolano de Investigaciones Científicas (IVIC), for sequencing. The samples were chosen according to the following criteria: from the beginning of the epidemic (for complete genome sequencing), from different locations of the country, and exhibiting low Ct values for efficient PCR amplification. This study was approved by the Human Bioethical Committee of IVIC..
+
+Total RNA was extracted from nasopharyngeal or nasal swabs samples using the QIAamp Viral RNA Mini Kit (Hilden, Germany). Nested RT-PCR was carried out using the SuperScript III One-Step RT-PCR Platinum Taq HiFi System (Invitrogen, Thermo Fisher Scientific, USA) with specific Artic primers [6] to produce 3 cDNA/tube in six reactions. In some cases cDNA was generated using SuperScript IV VILO Master Mix with ezDNAase (Invitrogen, Thermo Fisher Scientific, Lithuania). The first and second rounds of PCR were performed using high-fidelity Taq platinum DNA polymerase (Invitrogen, Thermo Fisher Scientific, USA) to generate overlapping amplicons, of approximately 2000 nt and 1000 nt respectively. These amplicons cover the entire genome. PCR purified fragments were sent to Macrogen Sequencing Service (Macrogen, Korea) for sequencing. Both strands of DNA were sequenced..
+
+Nucleotide sequence data have been deposited into the GenBank database under the accession numbers MT907515-MT907521, MW015946-MW015954 and MW040500-MW040503..
+
+Sequence alignment was performed by the MUSCLE algorithm and the phylogenetic analysis by the Maximum Likelihood method (1000 bootstrap replicas) with MEGA7 [7]. The best-fitting nucleotide substitution model was chosen according to the Akaike Information Criterion (AIC). The phylogenetic inference was also performed with the Bayesian criterion (TN93). The results were similar, but the tree generated with the GTR+G model exhibited better bootstrap values. The evolutionary history was inferred by using the Maximum Likelihood method and the General Time Reversible model. The tree with the highest log likelihood (-42092.99) is shown. The percentage of trees in which the associated taxa clustered together is shown next to the branches. Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using the Maximum Composite Likelihood (MCL) approach, and then selecting the topology with superior log likelihood value. A discrete Gamma distribution was used to model evolutionary rate differences among sites (3 categories (+G, parameter = 0.05000)). The tree is drawn to scale, with branch lengths measured in the number of substitutions per site. This analysis involved 42 nucleotide sequences. Codon positions included were 1st+2nd+3rd+Noncoding. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 29723 positions in the final dataset. Reference sequences from different lineages [8] were included in the phylogenetic analysis and lineages assigned with the Pangolin COVID-19 Lineage Assigner (https://pangolin.cog-uk.io/)..
+
+NSP1 protein sequences from NCO45512_Wuhan1, MT344955_2 aa del, and 3NE_3 aa del were modelled at SWISS-MODEL servers. NSP1 structures were modeled based on the 7K3N Crystal Structure of NSP1 from SARS-CoV-2 from PDB database as a template used to generate homology structures. Homology structures were analyzed and superimposed by using UCSF Chimera (ver. 1.4)..
+
+A total of 7 full genome sequences were obtained from different regions of Venezuela, mainly from the beginning of the epidemic (Figs 1 and 2). One isolate (the oldest studied one, collected on March 16, 2020) belonged to lineage A.2 (bearing a D in position 614 in the spike). The other 6 isolates belonged to lineage B: two B.1, two B1.1, one B.1.117 and one B.1.5, all with the mutation D614G (Figs 2 and 3). Other 4 isolates from Maracaibo city (Zulia State), for which a 1000 nt sequence surrounding position 23403 was available, also bear the mutation D614G (Accession numbers MW040500-MW040503), for a total of 10/11 D614G isolates. The samples obtained at the beginning of the epidemic (March 2020) were from individuals returning from Spain, except the 3NE sample collected in Margarita Island (Nueva Esparta State). In contrast, the other samples from Maracaibo were collected in May 2020 and were even community cases or from migrants from Colombia (Fig 2). These samples were indeed related to isolates from Colombia (Fig 3)..
+
+The cases are referred to as the date of collection. The country of provenance is indicated for the cases with a recent history of travel and who got probably infected in this country. In the case of Margarita Island, the cases were due to contact with a person coming from the USA and who spent some days in the Dominican Republic (DR). Map of Venezuela was edited and modified from https://freevectormaps.com..
+
+The evolutionary history was inferred by using the Maximum Likelihood method (500 bootstrap replicas) and the General Time Reversible model. Sequences are shown by their GenBank accession number or GISAID Initiative (https://www.gisaid.org) identifier, and country of origin. Venezuelan samples are shown in colors with their isolate name. Lineages are shown in different colors. CRI: Costa Rica, MEX: Mexico, ECU: Ecuador, VEN: Venezuela, ARG: Argentina, BRA: Brazil, JAM: Jamaica, CHL: Chile, COL: Colombia, PER: Peru, CAN: Canada, GTM: Guatemala, JPN: Japan, USA: United States of America, ITA: Italy, SUR: Surinam, PRT: Portugal..
+
+Each sample harbored a distinct mutation pattern along the whole genome and exhibited a different sequence (Figs 3 and 4). In addition to the D614G mutation in the spike protein characteristic of lineage B (A23403G), all the Venezuelan sequences belonging to lineage B bore the mutation C241T in the UTR, C14408T in the RdRP, and the synonymous mutation C3037T (Fig 4)..
+
+The position of the mutation in the viral genome is shown..
+
+Isolate CoV3NE harbors an in-frame deletion in its sequence, lacking amino acids 83–85 of the NSP1 of the ORF1. Another sample from the same outbreak also exhibited the deletion in its sequence. Similar deletions in this region have been reported in sequences from USA (Fig 5B). The March outbreak of COVID-19 in Margarita Island (Fig 5A) had its origin among a group of young baseball players from Venezuelan´s from League A, who had contact with an American baseball scout who came from Philadelphia and traveled to the Dominican Republic before arriving at the Venezuelan island..
+
+A: COVID-19 cases in Nueva Esparta, according to official data. The cases are referred to the as the date of the report and were downloaded from the web page http://www.ucv.ve/cendes. The horizontal lines indicate the period of time when the samples analyzed were collected. B: Phylogenetic tree of the N-terminal region of SARS-CoV-2 genome (nt 40–1946). Genetic distance was estimated by observed divergence, and the phylogenetic tree was constructed with the neighbor-joining method. Samples from Margarita Island (NE) are in red (isolates with deletion) and pink (isolates without deletion), as in C. Samples in blue are from other regions of Venezuela. *Only 812 nt were available for this sequence. C: Amino acid alignment of the N-terminal region of the SARS-CoV-2 NSP1 protein, showing the deletion in NE Venezuelan isolates. Other isolates are named according to their GenBank accession number..
+
+Mercatelli et al. [9] described the mutations present in 48,635 sequences available in GISAID Initiative database. We analyzed the number of isolates harboring deletions in these sequences, and found that 1148 sequences out of these 48,635 exhibited at least one deletion. A total of 5,177 deletions were present in these 1,148 sequences, implying an average of 4.5 deletions in these sequences. More than half of these deletions (2,834) were present in the NSP1 protein (Fig 6). Deletions in the region comprising amino acids 82–85 of NSP1, similar to the one found in this study (Fig 5C), were the most frequent among these sequences..
+
+Number of sequences (out of the 48,635 analyzed by Mercatelli et al. [9]) harboring deletions in a viral protein..
+
+As noted in Fig 5A, COVID-19 epidemics increased again in Margarita Island since July 2020. In order to evaluate if the strain with the deletion in NSP1 was still the responsible for the new cases, the first 1,900 nt were sequenced in isolates from August. The sequence of 1,900 nt from the 5´ end of the genome of 5 isolates was obtained. None of them carry the deletion, and their sequences were different to the one found in the isolates originally circulating in the Island (Fig 5B and 5C). The 5 sequences exhibit at least one nt difference in these 1900 nt, suggesting multiple viral introductions to the Island after July. Other sequences exhibiting a deletion of 2 or 3 amino-acids at the same position were available in the GenBank. These sequences were not related however, to the one found in the isolates from Margarita Island (Fig 5B and 5C), suggesting independent deletion events in these isolates..
+
+The structure of the SARS-CoV-2 NSP1 protein with the 83–85 aa deletion (3NE_3 aa del) was modeled by structure homology in SWISS-MODEL. Structure comparison between 3NE_3 aa del with the NSP1 protein of the first reported isolate of SARS-CoV-2 (NCO45512_Wuhan1) and the NSP1 protein structure with 84–85 aa deletion (MT344955_2 aa del) showed a structural change (Fig 7A). However, the superimposed NSP1 protein structures (Fig 7B) show that these mutations do not affect the core of the protein (elements of the secondary helical structures) and may indicate that this deletion is located in a flexible region..
+
+A: Comparison of complete NSP1 protein structures between the NSP1 protein structure from the first SARS-CoV-2 isolate reported (NCO45512_Wuhan1), and NSP1 protein structure with two amino acid residues deleted (MT344955_2 aa del), and NSP1 protein structure reported in this study with three amino acids deleted (3NE_3 aa del). 7K3N PDB Crystal Structure of NSP1 protein from SARS-CoV-2 was used as a template. B: Superimposed structures of the NSP1 proteins from NCO45512_Wuhan1 (Cyan), MT344955_2 aa del (Yellow), and 3NE_3 aa del (Pink). Swiss-Model structure homology-modeling servers was used to generate NSP1 SARS-CoV-2 protein structures [10]..
+
+High diversity was found among the Venezuelan viral isolates sequenced from the early period of the Venezuelan epidemic. The sequences were similar to the one found in other countries of Latin America, with the predominance of lineage B isolates [11–14]..
+
+All the lineage B Venezuelan sequences bore the mutation C14408T, which produces the amino acid mutation P314L in the Nsp12 protein, the polymerase in the RdRP. The genomes bearing this mutation were initially associated with significantly higher number of mutations compared to the non-mutated ones [15]. The T14408 is now the most common nucleotide found in the majority of SARS-CoV-2 isolates around the world [16]. As previously described [9], C/T was the most frequent substitution in these complete genome sequences (Table 1). The most probable explanation for this relative abundance is that these genomes are subjected to APOBEC and/or ADAR deaminase activity [17, 18]..
+
+Another non-synonymous mutation A23403G, yielding the mutation D614G in the Spike protein, has been widely described. This mutation is not located in the RBD of the Spike protein, the specific region which interacts with the ACE2 receptor. However, in vitro studies with pseudotyped viruses expressing the SARS-CoV-2 spike showed that this mutation facilitated the entry of the virus into the cell, probably through favoring the fusion process. It has been suggested that this variant is more easily transmitted, which might account for its present predominance in the new epidemic foci [11, 19]. This variant has also displaced the original one in new infections in many parts of the world [11]. The higher transmissibility nature of the isolates carrying this mutation is not completely demonstrated, however, and there is no evidence of higher severity associated with this variant [20]..
+
+Several deletions have been described in SARS-CoV-2, probably due to the recombinogenic capacity of this viral family [9, 21–24]. As shown in this study, deletions were significantly more frequent in the NSP1 protein, and particularly in the region deleted in the Venezuelan isolates from Margarita Island. NSP1 is the first protein coded at the 5´UTR region of the SARS-CoV-2. This protein is a virulence factor, which plays a role in suppressing host innate immune functions by inhibiting the expression of type I IFN, inhibiting host protein synthesis, and promoting the degradation of host mRNAs [25, 26]. Some deletions in the NSP1 protein of SARS-CoV have been shown to attenuate this virus. Particularly, a deletion of 10 amino acids in SARS-CoV, comprising the 3 amino acids deleted in the CoV3NE isolate, exhibited a small reduction in viral titer when infecting delayed brain tumor (DBT) mouse cells expressing the murine ACE2 receptor. Nevertheless, attenuation of the viral strain was not observed with this deletion, but with others nearest the C-terminal region of the protein [27]. No fatalities were observed in this first outbreak in Margarita Island. However, it is important to consider that many of the infected persons were young. Structural analysis in NSP1 protein showed a change in the N-terminal domain with the presence of 2 or 3 amino-acid deletions. Both the 2 and 3 amino-acid deletions seemed to induce a structural change in a flexible region of the NSP1 protein. This region has been shown not to play an important role of cellular protein translation [28], but has been suggested to play a role in the regulation of cellular mRNA stability or in suppressing host innate immune functions. More studies are needed to evaluate if the deletion found in the CoV3NE isolate affects the replication capacity of this virus. Another deletion in NSP1 protein has been found circulating in some countries in Europe, the USA, and Brazil [24]. This deletion is located in the C-terminal region of the NSP1 protein, and may affect the activity of this protein in the host´s gene expression regulation..
+
+The largest deletion described so far in the SARS-CoV-2 genome is located in the ORF8. Since a strong immune response has been observed against this protein, this deletion was originally associated with immune evasion [29]. The function of ORF8 is not completely clear. This protein may be associated with immune evasion according to preliminary evidence. In Singapore, although patients infected with viruses carrying this deletion developed clinically significant illness, infections tended to be milder compared with those caused by the wild-type virus, with less pronounced cytokine release during the acute phase of infection [30]..
+
+As expected, high diversity was observed between the different isolates from Maracaibo city, since a significant number of introductions shaped the ongoing outbreak in this city. The same seems to occur since July in Margarita Island, after a probable single introduction of the deleted genomic strain in the first wave of the epidemic. This first strain was introduced by air travel to the island, but since then, air connections have been reduced drastically. The apparent diversity of SARS-CoV-2 isolates circulating in this second wave of the epidemic, might have been introduced by contacts with continental Venezuelan inhabitants, traveling by boat to the island..
+
+In conclusion, a high diversity of SARS-CoV-2 isolates was found circulating in Venezuela, with the predominance of the D614G isolates. The first small outbreak in Margarita Island seemed to be associated with a strain carrying a small deletion in the NSP1 protein, but these isolates do not seem to be responsible for the larger outbreak which started in July..
+
+
+30 Oct 2020
+.
+
+PONE-D-20-31900.
+
+SARS-CoV-2 genetic diversity in Venezuela: predominance of D614G variants and analysis of one outbreak.
+
+PLOS ONE.
+
+Dear Dr. Pujol,.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+Please submit your revised manuscript by Dec 14 2020 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file..
+
+Please include the following items when submitting your revised manuscript:.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'..
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'..
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter..
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols.
+
+We look forward to receiving your revised manuscript..
+
+Kind regards,.
+
+Marta Giovanetti, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+Journal requirements:.
+
+When submitting your revision, we need you to address these additional requirements..
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at.
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and.
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf.
+
+2. We note that Figure 2 in your submission contain map images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright..
+
+We require you to either (a) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (b) remove the figures from your submission:.
+
+(a) You may seek permission from the original copyright holder of Figure 2 to publish the content specifically under the CC BY 4.0 license..
+
+We recommend that you contact the original copyright holder with the Content Permission Form (http://journals.plos.org/plosone/s/file?id=7c09/content-permission-form.pdf) and the following text:.
+
+“I request permission for the open-access journal PLOS ONE to publish XXX under the Creative Commons Attribution License (CCAL) CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Please be aware that this license allows unrestricted use and distribution, even commercially, by third parties. Please reply and provide explicit written permission to publish XXX under a CC BY license and complete the attached form.”.
+
+Please upload the completed Content Permission Form or other proof of granted permissions as an "Other" file with your submission..
+
+In the figure caption of the copyrighted figure, please include the following text: “Reprinted from [ref] under a CC BY license, with permission from [name of publisher], original copyright [original copyright year].”.
+
+(b) If you are unable to obtain permission from the original copyright holder to publish these figures under the CC BY 4.0 license or if the copyright holder’s requirements are incompatible with the CC BY 4.0 license, please either i) remove the figure or ii) supply a replacement figure that complies with the CC BY 4.0 license. Please check copyright information on all replacement figures and update the figure caption with source information. If applicable, please specify in the figure caption text when a figure is similar but not identical to the original image and is therefore for illustrative purposes only..
+
+The following resources for replacing copyrighted map figures may be helpful:.
+
+USGS National Map Viewer (public domain): http://viewer.nationalmap.gov/viewer/.
+
+The Gateway to Astronaut Photography of Earth (public domain): http://eol.jsc.nasa.gov/sseop/clickmap/.
+
+Maps at the CIA (public domain): https://www.cia.gov/library/publications/the-world-factbook/index.html and https://www.cia.gov/library/publications/cia-maps-publications/index.html.
+
+NASA Earth Observatory (public domain): http://earthobservatory.nasa.gov/.
+
+Landsat: http://landsat.visibleearth.nasa.gov/.
+
+USGS EROS (Earth Resources Observatory and Science (EROS) Center) (public domain): http://eros.usgs.gov/#.
+
+Natural Earth (public domain): http://www.naturalearthdata.com/.
+
+3. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information..
+
+[Note: HTML markup is below. Please do not edit.].
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+Comments to the Author.
+
+1. Is the manuscript technically sound, and do the data support the conclusions?.
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented. .
+
+Reviewer #1: Yes.
+
+Reviewer #2: Partly.
+
+Reviewer #3: Yes.
+
+**********.
+
+2. Has the statistical analysis been performed appropriately and rigorously? .
+
+Reviewer #1: Yes.
+
+Reviewer #2: No.
+
+Reviewer #3: N/A.
+
+**********.
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?.
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified..
+
+Reviewer #1: Yes.
+
+Reviewer #2: No.
+
+Reviewer #3: Yes.
+
+**********.
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?.
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here..
+
+Reviewer #1: Yes.
+
+Reviewer #2: No.
+
+Reviewer #3: Yes.
+
+**********.
+
+5. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #1: "The Prevalence and Hearing Outcome of Congenital CMV Infection in an Urban Area of East Asia: Population-based Study" by Yang et al. is well-written and provides a relatively comprehensive view about Congenital cytomegalovirus prevalence in Taipei, Taiwan. Although the study has limitations already recognized by the authors, this manuscript provide advances in our understanding about the relevance the early identification of cCMV in neonates increasing the quality of life of patients and better follow-up of the public service to these patients telling a nice story. I think it would be suitable for publication in PLoS One after careful revision of English language..
+
+Reviewer #2: - Highlights sentences do not reflect the content of this article..
+
+- Today there are many Sars-CoV-2 genomes in different databases. We still need to insert a larger number of genomes for this type of analysis..
+
+- Complementary methodologies are required for phylogenetic and phylogenomics analysis..
+
+- Explain the parameters that have been selected for the models used in this article..
+
+- Provide the criteria used for the analysis of these variants..
+
+- The data presented do not support the conclusion suggested by the authors..
+
+- Improve the image resolution in all figures..
+
+Reviewer #3: In this study, the authors analyzed full genomes sequences obtained from different regions of Venezuela. They found that the majority of the isolates belongs to lineage B and they bear the mutation D614G in the Spike protein. They also found an in-frame deletion (amino acids 83-85) of the nsp1..
+
+- The authors mentioned both in the abstract and in the results section that nsp1 exhibits high frequency of deletions. The authors should add the following references of recent studies that showed deletions in nsp1 of SARS-CoV-2:.
+
+o F. Benedetti, G.A. Snyder, M. Giovanetti, S. Angeletti, R.C. Gallo, M. Ciccozzi, D. Zella, Emerging of a SARS-CoV-2 viral strain with a deletion in nsp1, Journal of Translational Medicine 18, (11) (2020) 3-29..
+
+o T. Phan, Genetic diversity and evolution of SARS-CoV-2, Infect Genet Evol 81, (11) (2020)104- 260..
+
+o M.R. Islam, Genome-wide analysis of SARS-CoV-2 virus strains circulating worldwide implicates heterogeneity, Scientific Reports 10, (12) (2020) 14-40..
+
+- Does the deletion in nsp1 analyzed by the authors correlate with potential decreased viral pathogenicity? Does it impact the core structure of nsp1? The authors should better clarify how this deletion can impact the functionality and the pathogenesis of SARS-CoV-2..
+
+- What are the percentage of mutations? The authors should revise Table 1 and add the number of sequences carrying the mutations/deletions and the related percentages to make the table better informative..
+
+- A few typos need to be corrected.
+
+**********.
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files..
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public..
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy..
+
+Reviewer #1: No.
+
+Reviewer #2: No.
+
+Reviewer #3: No.
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.].
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step..
+
+
+27 Nov 2020
+.
+
+PONE-D-20-31900.
+
+SARS-CoV-2 genetic diversity in Venezuela: predominance of D614G variants and analysis of one outbreak.
+
+Journal requirements:.
+
+When submitting your revision, we need you to address these additional requirements..
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at.
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_ sample_title_authaut_affiliations.pdf.
+
+We have edited our manuscript according to the style requirements..
+
+2. We note that Figure 2 in your submission contain map images which may be copyrighted. All PLOS content is published under the Creative Commons Attribution License (CC BY 4.0), which means that the manuscript, images, and Supporting Information files will be freely available online, and any third party is permitted to access, download, copy, distribute, and use these materials in any way, even commercially, with proper attribution. For these reasons, we cannot publish previously copyrighted maps or satellite images created using proprietary data, such as Google software (Google Maps, Street View, and Earth). For more information, see our copyright guidelines: http://journals.plos.org/plosone/s/licenses-and-copyright..
+
+We require you to either (a) present written permission from the copyright holder to publish these figures specifically under the CC BY 4.0 license, or (b) remove the figures from your submission:.
+
+The map was edited and modified from https://freevectormaps.com, with no copyright. This information is included in Fig 2..
+
+3. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information..
+
+Note: HTML markup is below. Please do not edit.].
+
+There is no more supporting information since the cited paper is now published..
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+Comments to the Author.
+
+1. Is the manuscript technically sound, and do the data support the conclusions?.
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented..
+
+Reviewer #1: Yes.
+
+Reviewer #2: Partly.
+
+Reviewer #3: Yes.
+
+We modified the text to a less affirmative style because of some limitations of this study (see below), in Abstract and Conclusions..
+
+2. Has the statistical analysis been performed appropriately and rigorously?.
+
+Reviewer #1: Yes.
+
+Reviewer #2: No.
+
+Reviewer #3: N/A.
+
+More information was included the model used for phylogenetic analysis (see Materials and Methods, page 6 lines 100-103). There is no other statistical analysis in this study..
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?.
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified..
+
+Reviewer #1: Yes.
+
+Reviewer #2: No.
+
+Reviewer #3: Yes.
+
+In terms of Data Availability, we submitted previously all our sequences to GenBank. .
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?.
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here..
+
+Reviewer #1: Yes.
+
+Reviewer #2: No.
+
+Reviewer #3: Yes.
+
+We have revised the manuscript for English accuracy..
+
+5. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #1: "The Prevalence and Hearing Outcome of Congenital CMV Infection in an Urban Area of East Asia: Population-based Study" by Yang et al. is well-written and provides a relatively comprehensive view about Congenital cytomegalovirus prevalence in Taipei, Taiwan. Although the study has limitations already recognized by the authors, this manuscript provide advances in our understanding about the relevance the early identification of cCMV in neonates increasing the quality of life of patients and better follow-up of the public service to these patients telling a nice story. I think it would be suitable for publication in PLoS One after careful revision of English language..
+
+These comments do not refer to our manuscript and then were not addressed..
+
+Reviewer #2: .
+
+- Highlights sentences do not reflect the content of this article..
+
+We do not know exactly which highlights sentences the reviewer is referring to. We have modified the abstract in order to better reflect the content of the article, including the new information of modelling. As stated before, we modified the text to a less affirmative one..
+
+- Today there are many Sars-CoV-2 genomes in different databases. We still need to insert a larger number of genomes for this type of analysis..
+
+We acknowledge the comment of the reviewer and agree that this study involves a relative low number of sequences produced from Venezuelan isolates. However, since the sequences were chosen at the beginning of the epidemic and from different locations, representative of the initial outbreaks occurring in the country, we think that the study is at least a partial reflection of the initial viral diversity found in Venezuela. Indeed, none of the isolates were genetically identical, supporting this hypothesis. The manuscript also includes the analysis of 48.635 SARS-CoV-2 sequences available in GISAID data base and described previously by other authors, but we analyzed in detail the frequency of deletions in these sequences. A new figure is added to better describe this analysis (Fig 6). In addition, the revised version includes a more in-deep analysis of the strain exhibiting a deletion in NSP1, with a new figure (Fig 7). .
+
+- Complementary methodologies are required for phylogenetic and phylogenomics analysis..
+
+We acknowledge the comment. Several phylogenetic inferences were performed (see below in parameters), arising basically the same topology for the phylogenetic tress. .
+
+Modelling of the deleted NSP1 protein was included in this new version and discussed (Figure 7, Abstract, end of Results in page 15 and Discussion in page 18)..
+
+- Explain the parameters that have been selected for the models used in this article..
+
+The parameters used for the models for phylogenetic inference were described in Materials and Methods (Page 6). A short description was added in the legend of Figure 3 (Page 10). In our work, the phylogenetic tree was constructed based on the GTR+G model according to the Akaike criterion. The phylogenetic inference was also performed with the Bayesian criterion (TN93). The results were similar, but the tree generated with the GTR+G model exhibited better bootstrap values..
+
+- Provide the criteria used for the analysis of these variants..
+
+The criteria of selection of samples were added in Page 5, lines 79-81: samples from different part of the country and from the beginning of the epidemic, with low Ct value to guarantee efficient amplification. This information was included in the first paragraph of Page 5..
+
+- The data presented do not support the conclusion suggested by the authors..
+
+As sated before, we have modified the conclusions to a less affirmative style..
+
+- Improve the image resolution in all figures..
+
+Image resolution of figures was improved..
+
+Reviewer #3: In this study, the authors analyzed full genomes sequences obtained from different regions of Venezuela. They found that the majority of the isolates belongs to lineage B and they bear the mutation D614G in the Spike protein. They also found an in-frame deletion (amino acids 83-85) of the nsp1..
+
+- The authors mentioned both in the abstract and in the results section that nsp1 exhibits high frequency of deletions. The authors should add the following references of recent studies that showed deletions in nsp1 of SARS-CoV-2:.
+
+o F. Benedetti, G.A. Snyder, M. Giovanetti, S. Angeletti, R.C. Gallo, M. Ciccozzi, D. Zella, Emerging of a SARS-CoV-2 viral strain with a deletion in nsp1, Journal of Translational Medicine 18, (11) (2020) 3-29..
+
+o T. Phan, Genetic diversity and evolution of SARS-CoV-2, Infect Genet Evol 81, (11) (2020)104- 260..
+
+o M.R. Islam, Genome-wide analysis of SARS-CoV-2 virus strains circulating worldwide implicates heterogeneity, Scientific Reports 10, (12) (2020) 14-40..
+
+The references were included and discussed (Page 18, line 271 and Page 19, line 291-292). Thank you very much..
+
+- Does the deletion in nsp1 analyzed by the authors correlate with potential decreased viral pathogenicity? Does it impact the core structure of nsp1? The authors should better clarify how this deletion can impact the functionality and the pathogenesis of SARS-CoV-2..
+
+We wish to thank the reviewer for this comment. We include a modelling analysis of the deleted NSP1 proteins and found indeed some differences compared to the wt protein. Information was included in Abstract, Materials and Methods, Results, Discussion and a Figure 6 was added, as stated before. A new co-author, responsible for this analysis, is also included..
+
+- What are the percentage of mutations? The authors should revise Table 1 and add the number of sequences carrying the mutations/deletions and the related percentages to make the table better informative..
+
+The Table was substituted by a figure which is more informative (Fig 4). .
+
+- A few typos need to be corrected..
+
+The manuscript was corrected for English accuracy..
+
+Submitted filename: Response to reviewers.docx.
+
+Click here for additional data file..
+
+
+19 Jan 2021
+.
+
+PONE-D-20-31900R1.
+
+SARS-CoV-2 genetic diversity in Venezuela: predominance of D614G variants and analysis of one outbreak.
+
+PLOS ONE.
+
+Dear Prof. Pujol,.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+Please submit your revised manuscript by Mar 05 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file..
+
+Please include the following items when submitting your revised manuscript:.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'..
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'..
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter..
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols.
+
+We look forward to receiving your revised manuscript..
+
+Kind regards,.
+
+Ahmed S. Abdel-Moneim, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+Comments to the Author.
+
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation..
+
+Reviewer #2: All comments have been addressed.
+
+**********.
+
+2. Is the manuscript technically sound, and do the data support the conclusions?.
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented. .
+
+Reviewer #2: Partly.
+
+**********.
+
+3. Has the statistical analysis been performed appropriately and rigorously? .
+
+Reviewer #2: N/A.
+
+**********.
+
+4. Have the authors made all data underlying the findings in their manuscript fully available?.
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified..
+
+Reviewer #2: Yes.
+
+**********.
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English?.
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here..
+
+Reviewer #2: Yes.
+
+**********.
+
+6. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #2: We noticed that the authors responded to the reviewers' requests..
+
+Note that there are still two points that need to be revised: increase the number to 1000 bootstrap iterations for better analysis and all Figures need improvement in resolution and colors, in particular Figure 7..
+
+The Figure 6 needs to be done with two scales in order to identify the lowest values..
+
+**********.
+
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files..
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public..
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy..
+
+Reviewer #2: No.
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.].
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step..
+
+
+29 Jan 2021
+.
+
+PONE-D-20-31900R1.
+
+SARS-CoV-2 genetic diversity in Venezuela: predominance of D614G variants and analysis of one outbreak.
+
+There are still two points that need to be revised: .
+
+increase the number to 1000 bootstrap iterations for better analysis .
+
+Bootstrap iterations were increased to 1000. New Figure is included and the bootstrap replicas was corrected to1000 in Materials and Methods, page 6..
+
+and all Figures need improvement in resolution and colors, in particular Figure 7..
+
+Figures are now included with better resolution and colors were slightly modified in Figure 7, for better appreciation..
+
+The Figure 6 needs to be done with two scales in order to identify the lowest values..
+
+The scale of Figure 6 was changed to a logarithmic one for better evaluation of lowest values..
+
+Submitted filename: Response to reviewers.docx.
+
+Click here for additional data file..
+
+
+3 Feb 2021
+.
+
+SARS-CoV-2 genetic diversity in Venezuela: predominance of D614G variants and analysis of one outbreak.
+
+PONE-D-20-31900R2.
+
+Dear Dr. Pujol,.
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements..
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication..
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org..
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org..
+
+Kind regards,.
+
+Ahmed S. Abdel-Moneim, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+
+8 Feb 2021
+.
+
+PONE-D-20-31900R2 .
+
+SARS-CoV-2 genetic diversity in Venezuela: predominance of D614G variants and analysis of one outbreak .
+
+Dear Dr. Pujol:.
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department. .
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact onepress@plos.org..
+
+If we can help with anything else, please email us at plosone@plos.org. .
+
+Thank you for submitting your work to PLOS ONE and supporting open access. .
+
+Kind regards, .
+
+PLOS ONE Editorial Office Staff.
+
+on behalf of.
+
+Dr. Ahmed S. Abdel-Moneim .
+
+Academic Editor.
+
+PLOS ONE.
+

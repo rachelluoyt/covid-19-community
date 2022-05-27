@@ -1,0 +1,31 @@
+lineage,string contains lineage,ID
+Alpha,"Abbreviation: SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2..
+
+WHO has reported that instances of alpha variants have been diagnosed in around 170 countries and various territories across the globe.",PMC9088647
+B.1.1.7,"This strain clade 201/501Y.V1, Pango lineage B.1.1.7, and GISAID clade are all recognized alpha variants by various scientific names.",PMC9088647
+Beta,"Numerous official designations are assigned to the beta variant, including strain clade 20H/501.V2 and Pango lineage B.1.351.",PMC9088647
+B.1.351,"26
+ There are three mutations of significant importance in the spike area of the lineage, B.1.351 genome, K417N, E484K, N501Y, and a further five spike mutations, L18F, D80A, D215G, R246I, A701V, that have so far raised little concern.",PMC9088647
+P.1,"56
+ Safety and immunogenicity study of a SARS‐CoV‐2 variant vaccine (mRNA‐1273.351) is currently ongoing sponsored by The National Institute of Allergy and Infectious Diseases (NIAID) (NCT04785144)..
+
+Lineage P.1, frequently referred to as the gamma variant, is a cause of COVID‐19.",PMC9088647
+Gamma,"56
+ Safety and immunogenicity study of a SARS‐CoV‐2 variant vaccine (mRNA‐1273.351) is currently ongoing sponsored by The National Institute of Allergy and Infectious Diseases (NIAID) (NCT04785144)..
+
+Lineage P.1, frequently referred to as the gamma variant, is a cause of COVID‐19.",PMC9088647
+P.2,Gamma variant is particularly found from the other Brazilian zeta variant (Lineage P.2).,PMC9088647
+Zeta,Gamma variant is particularly found from the other Brazilian zeta variant (Lineage P.2).,PMC9088647
+Epsilon,"These resembling variants, B.1.427 and B.1.429 (epsilon variant), were initially identified in California (USA).",PMC9088647
+B.1.429,"These resembling variants, B.1.427 and B.1.429 (epsilon variant), were initially identified in California (USA).",PMC9088647
+B.1.427,"These resembling variants, B.1.427 and B.1.429 (epsilon variant), were initially identified in California (USA).",PMC9088647
+B.1.617,"B.1.617.2 (Delta variant) is a variant of lineage B.1.617 of SARS‐CoV‐2, which is the reason for India's second wave in this pandemic of COVID‐19.",PMC9088647
+B.1.617.1,"83
+ The B.1.617.1 strain is 6.8‐fold more resistant to neutralization by sera from COVID‐19 convalescent and Moderna and Pfizer vaccinated patients, according to a live virus experiment.",PMC9088647
+C.1.2,"92
+ Researchers discovered that this new C.1.2 variation is evolving and mutating at a faster pace inside its genome than other VOC or VOI along with the Delta variant.",PMC9088647
+Lambda,"“The variant is related to the lambda and beta variants, which are linked to innate immunity.",PMC9088647
+B.1.1.529,"K417N, N440K, G446S, S477N, T478K, E484A, Q493K, G496S, Q498R, N501Y, Y505H, and P681H are the most common spike protein mutations found in omicron variant.”
+94
+ According to preliminary laboratory findings, three doses of the Pfizer‐BioNTech COVID‐19 vaccine neutralize the Omicron variation (B.1.1.529 lineage), but two doses had much lower neutralization titers.",PMC9088647
+Mu,"Second, despite the P681H mutation, the fusogenicity of Mu and Omicron is much lower than that of other variations.",PMC9088647

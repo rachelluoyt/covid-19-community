@@ -1,0 +1,611 @@
+Whereas accelerated attention beclouded early stages of the coronavirus spread, knowledge of actual pathogenicity and origin of possible sub-strains remained unclear. By harvesting the Global initiative on Sharing All Influenza Data (GISAID) database (https://www.gisaid.org/), between December 2019 and January 15, 2021, a total of 8864 human SARS-CoV-2 complete genome sequences processed by gender, across 6 continents (88 countries) of the world, Antarctica exempt, were analyzed. We hypothesized that data speaks for itself and can discern true and explainable patterns of the disease. Identical genome diversity and pattern correlates analysis performed using a hybrid of biotechnology and machine learning methods corroborate the emergence of inter- and intra-SARS-CoV-2 sub-strains. Interestingly, some viral sub-strain patterns progressively transformed into new sub-strain clusters indicating varying amino acid and strong nucleotide association derived from same lineage. A novel cognitive approach to knowledge mining from enriched genome datasets and output classification targets, helped intelligent prediction of emerging or new viral sub-strains. Classification results outsmarted state-of-the-art methods and sustained an increase in sub-strains within the various continents with nucleotide mutations dynamically varying between individuals in close association with the virus adaptability to its host/environment. They also offer explanations for the growing concerns and next wave(s) of the virus. Defuzzifying confusable pattern clusters for comparative performance with the proposed cognitive solution is a possible future research direction of this paper..
+
+The coronavirus disease pandemic had forced complete shutdown on all economies of the world
+1,2
+. Since then, its breadth and depth have grown exponentially, causing disruptions that require a hybrid of computational approaches–to discover the changing nature of the virus as it transmits from country to country. While there exist claims that the virus has remained unchanged, a growing number of studies have reported the emergence of several sub-strains
+3,4
+. The rapid human to human transmission of the pathogenic SARS-CoV-2 to most parts of the world has exhibited differences in disease severity and fatality even within a demographic region of a country. This disparity has been attributed to factors such as gender, age, ethnicity, race, and co-morbidities. However, the dissimilarity in genome sequencing of early viral samples obtained from infected individuals in European, North American, Asian, and Oceanian regions disgorged several studies aimed at analyzing and understanding the evolutionary history and relationships among the different SARS-CoV-2 strains..
+
+SARS-CoV-2 is a β-coronavirus–an enveloped non-segmented positive-sense RNA virus (subgenus–sarbecovirus, subfamily–Orthocoronavirinae)
+5
+, which proliferation begun in December 2019 in Wuhan China. It has since been confirmed that two strains of the new coronavirus (the L- and S-strains) are spreading around the world today
+6
+, and the fact that the L-type is more prevalent suggests that it is “more aggressive” than the S-type. Greater proportion of research progress on SARS-CoV-2 has taken the biotechnology dimension
+7,8
+, specifically focusing on species characterization and variants analysis through features extraction. However, Artificial Intelligence (AI) and Machine Learning (ML) methods are expanding biotechnology capacity into the bioinformatics realm, through intelligent genome probing for precise viral classification. So far, AI/ML research on SARS-CoV-2 has permeated four key areas of medicine and healthcare, namely, screening and treatment
+9,10,11,12
+, contact tracing
+13
+, prediction and forecasting
+14,15
+, and drugs and vaccine discovery
+16,17,18
+..
+
+To understand the origin and structure of SARS-CoV-2, a sequence of the viral genetic material is required. Sequencing viral genomes is performed to identify regions of similarity that may have consequences for functional, structural, or evolutionary associations
+19
+. Furthermore, it can reveal the possibility of future health risks and vaccine remedies. Phylogenetic tree and genomic tree (also referred to as hierarchical clustering) are common determinants for representing genetic diversity and evolutionary relationships of sequenced genomes. While phylogenetic tree reflects slow evolution within the genome (point mutations), hierarchical clustering describes major genetic re-arrangement events (insertions or deletions). Converting massive amount of complete genome sequences into meaningful biological representations has limited progress of discovering viral sub-strains and detailed transmission routes. Although numerous algorithms/tools have evolved to target specific gene sites/locations for “on-the-fly” online phylogeny representations, incomplete representation and clustering errors abound–as different genome sites undergo different evolutionary changes, resulting in disparate multi-dimensional patterns at different sites. Attempts at estimating phylogenies by comparing entire genomes have been made by focusing mainly on gene content and gene order comparisons. While early attempts concentrated on morphological characters with the premise that direct genes comparison makes more sense, modern attempts use sequences from homologous genes
+19
+ but are burdened by the fact that a gene's evolutionary history may differ from the evolutionary history of the organism, as some genes sufficiently conserved across the species of interest may escape detection. Alignment-free genome comparison methods are therefore becoming popular
+19,20
+ and have evolved to crash the heavy computational requirements of traditional alignment-based methods. Randhawa et al.
+21
+ for instance proposed an alignment-free approach based on ML, for fast, inexpensive, and taxonomic classification of complete COVID-19 genomes in real time..
+
+Variants of SARS-CoV-2 have emerged with reported new peaks of infection. A variant is a strain when it has a different characteristic. Variants with few mutations belong to the same lineages. Lineages are important for showing how a virus spreads through communities or populations. Interestingly, the less virulent strains are disappearing while those showing significant mutant variations prevail. A few documented cases of the spread of the viral sub-strains are observed based on locations, as follows: In USA, 4 sub-strains and 11 top mutations were discovered from the analysis of 2754 complete SARS-CoV-2 genome sequences, where 2 out of 4 discovered sub-strains were potentially more infectious
+22
+. These sub0strains and 5 mutants were first detected in China, Singapore, and the United Kingdom
+23
+. In England, a sub-strain of replicative advantage was also discovered as variant of SARS-CoV-2, characterized by 9 spike protein mutations consisting of 3 deletions and 6 substitutions
+24
+. Some of these variants were prevalent in Netherlands, Switzerland, and France. In Southwestern Wisconsin, Southeastern Minnesota, Northeast Iowa, the sequencing of whole viral genomes of COVID-19 positive patients showed the spread of sub-strains to individuals in 13 cities from epicenters of the infection
+25
+. However, no viral sub-strain was observed in China
+26
+..
+
+Vaccine types are also being circulated with several conspiracy theories and disbeliefs about the virus existence spreading across the globe. There is fear that emerging sub-strain variants may confer resistance to antibody neutralization, as evolving variants of concern are rapidly growing lineage to SARS-CoV-2 with high replicable mutants that may hinder the efficiency of existing vaccines and expand in response to the increasing after-infection or vaccine-induced seroprevalence
+24
+. Currently, most COVID-19 vaccines target the vital spike protein. Although mutations may reduce their efficacy, they do not obliterate their effects. Inactivated virus vaccines that target the whole virus have been developed in China, as the immune responses they induce target more than a single part of the spike protein. Inactivated vaccines target an even greater array of viral proteins, inducing several protective immune responses, which instils redundancy in the protective immune responses..
+
+Mining additional knowledge from clinical data would assist complete features extraction, missing information recovery, hidden patterns understanding, and facilitate output targets labeling – for intelligent genome characterization and prediction. Most biotechnology/bioinformatics tools are ‘black boxes’ and not open to contributions from the research community including reproducible research. Furthermore, extracted features are incomplete to aid meaningful knowledge integration. To support the growing field of medical- and bioinformatics, this paper adopted a novel approach to genome sequence mining. Transitions in nucleotide (dinucleotide) and changes in gene (mutation) information were exploited as input features or predictors, as these features have direct connection to the behavior of the virus. A hierarchical agglomerative clustering method was applied on the extracted features to detect optimal natural clusters for determining the evolutionary group of the various isolates, across countries. Using a self-organizing map (SOM), patterns of unique SARS-CoV-2 genome sequences including the reference genome, were discerned to visually establish which sub-strain group(s) the various genome samples or isolates belong. By decoupling the SOM map through correlation hunting, a cognitive map that associates similar isolate clusters was obtained. The generated patterns and isolate similarity information provided details for enriching the input dataset through a supervised labelling of the classification targets. Statistical analysis validated the variability degree of the SARS-CoV-2 isolates. This research has therefore made substantial contributions to knowledge, as it provides the following:
+
+
+(i)
+
+Rapid Open Source, Scalable and Replicable Algorithms–This research includes rapid prototype modules that permit community contributions. As opposed to most biotechnology and bioinformatic tools, useful intermediate results are produced – to provide further insights into the prevalence and transmission of COVID-19 and related pandemics. Our research is therefore replicable, as available algorithms and data can be exploited to reproduce and validate the research.
+
+
+(ii)
+
+Realtime Contact Tracing of Undocumented Source of Infection–Tracing infectious disease routes for efficient documentation of infected cases is very crucial in emerging pandemic situations. Unsupervised genome pattern clustering and cognitive knowledge mining information obtained in this research can be used to explain the diversity of SARS-CoV-2, and for understanding which of the viral sub-strain(s) maintain(s) the reference genome pattern or is spreading within a particular country or been acquired from a different country.
+
+
+(iii)
+
+Annotation-free DNA Sequences Processing–an unsupervised approach to mining raw DNA sequences that does not require detailed gene or genome annotation is adopted in this paper, to enable easy extraction of feature vectors.
+
+
+(iv)
+
+Intelligent Genome Characterization–This research enables the accurate characterization of infected patients. By exploiting intelligent techniques, cognitive knowledge that uncovers hidden sub-strains interactions between nucleotide sequences is obtained
+
+
+(v)
+
+Complete SARS-CoV-2 Isolates Processing by Gender–To engage meaningful research of SARS-CoV-2, characterization and prediction by gender is crucial. This resource, which is often missing in the literature was excavated from GSAID and made available in this paper. We present a metadata of the excavated SARS-CoV-2 genomes by gender. Our metadata permits intelligent mining of SARS-CoV-2, as ambiguities in annotation labels inherent in GISAID has been resolved in this paper. Input features and classification target labels of unique isolates based on SOM cluster analysis and cognitive knowledge mining is also available. These resources can be integrated into expert decision support systems for efficient contact tracing and global disease surveillance.
+
+
+.
+
+
+Rapid Open Source, Scalable and Replicable Algorithms–This research includes rapid prototype modules that permit community contributions. As opposed to most biotechnology and bioinformatic tools, useful intermediate results are produced – to provide further insights into the prevalence and transmission of COVID-19 and related pandemics. Our research is therefore replicable, as available algorithms and data can be exploited to reproduce and validate the research..
+
+
+Realtime Contact Tracing of Undocumented Source of Infection–Tracing infectious disease routes for efficient documentation of infected cases is very crucial in emerging pandemic situations. Unsupervised genome pattern clustering and cognitive knowledge mining information obtained in this research can be used to explain the diversity of SARS-CoV-2, and for understanding which of the viral sub-strain(s) maintain(s) the reference genome pattern or is spreading within a particular country or been acquired from a different country..
+
+
+Annotation-free DNA Sequences Processing–an unsupervised approach to mining raw DNA sequences that does not require detailed gene or genome annotation is adopted in this paper, to enable easy extraction of feature vectors..
+
+
+Intelligent Genome Characterization–This research enables the accurate characterization of infected patients. By exploiting intelligent techniques, cognitive knowledge that uncovers hidden sub-strains interactions between nucleotide sequences is obtained.
+
+
+Complete SARS-CoV-2 Isolates Processing by Gender–To engage meaningful research of SARS-CoV-2, characterization and prediction by gender is crucial. This resource, which is often missing in the literature was excavated from GSAID and made available in this paper. We present a metadata of the excavated SARS-CoV-2 genomes by gender. Our metadata permits intelligent mining of SARS-CoV-2, as ambiguities in annotation labels inherent in GISAID has been resolved in this paper. Input features and classification target labels of unique isolates based on SOM cluster analysis and cognitive knowledge mining is also available. These resources can be integrated into expert decision support systems for efficient contact tracing and global disease surveillance..
+
+Several studies have dwelled on the characterization of SARS-CoV-2 genome for tracing the evolution, strains, and diversity of the virus. In Tang et. al
+6
+, for instance, a population genetic analysis of 103 SARS-CoV-2 genomes was performed. Their analysis revealed two dominant types of SARS-CoV-2 namely the L type (~ 70%) and S type (~ 30%). In another study, Stefanelli et al.
+
+27
+ investigated the phylogeny of 2 patients in Italy; a Chinese tourist from Wuhan and an Italian diagnosed, isolated, and hospitalized in January and February 2020. They found the Italian patient's strain to be different from the tourist's strain, as it clustered with strains from Germany and Mexico, while the Chinese tourist's strain was grouped with strains from Europe and Australia. Similarly, Somasundaram et. al
+28
+ systematically explored the phylogenetic and viral clade of 28 Indian isolates of SARS-CoV-2. A total of 449 complete genome samples from USA, Europe, China, East Asia, Oceania, Middle East (Kuwait and Saudi Arabia) and India were collected from Global initiative on Sharing All Influenza Data (GISAID: https://www.gisaid.org/). A phylogenetic analysis by maximum likelihood was achieved using IQ tree. Out of the Indian isolates, 26 samples were equally distributed into 2 clusters (A and B). Cluster A consisted of mostly Oceania/Kuwait and 13 Indian samples, while cluster B contained Europe and some of Middle East/South Asian samples together with another 13 Indian samples. The remaining 2 Indian isolates which neither belonged to cluster A nor cluster B, were present in the cluster with mostly China and East-Asia samples. However, the use of small datasets and the lack of travel history rendered their findings inconclusive.
+
+Application of machine learning in the combat of COVID-19 has inspired new discoveries as well as improved methods based on experience of previous/related epidemic. Familiar areas of application center around medical imaging, disease tracing, epidemiology modeling and medicine (analysis of protein structure and drug discovery) and virulent nature of the virus. Whereas the processing of input data for informed decision support is necessary, the types of data exploited in the case of SARS-CoV-2 and related pandemic are mainly demographic and control or clinical data contributed by patients/volunteers around the world. Table 1 presents a summary of works carried out on ML/AI in related areas of application, indicating the objective, number of isolates collected and data source, methods, results/findings, and drawbacks. From the related works, we observe the following: (i) Most of the works explore hybrid tools that combine biotechnology and ML/AI methodologies, which have advanced precision in approach and solution to the pandemic. (ii) While 50% of the works rely on limited genomic evidence, others are mainly simulation studies. (iii) The fulcrum of most of the works revolve around characterization and forecasting with comparative analysis of SARS-CoV-2 evolution, and relationship between it and (other) related viruses. (iv) All the works are silent on the gender dimension. (v) None of these works to the best of our knowledge has engaged the possibility of SARS-CoV-2 sub-strains discovery..
+
+The abundance of repetitive DNA in human genome assembly has introduced huge gap of multi-megabase heterochromatic regions that challenges standard mapping and assembly algorithms. Consequently, the composition of the sequence and potential functions of these regions have largely remained unexplored. Furthermore, existing genome tools cannot readily engage complete genome analysis to predict complex details and reveal hidden patterns, essential to offer explanations to the increased diversity of viral diseases. This work is therefore motivated by the existing gap between scientific knowledge and clinical application. Despite current advancement in state-of-the-art predictions, application of personalized genomics into clinical practice is yet to flourish. By identifying relevant genetic variants using experiential knowledge we provide inference of the genetic impact of the variants on functional genomic elements..
+
+The general workflow describing the proposed hybrid computational framework is presented in Fig. 1, and the sequence of steps implementing the workflow is given on Supplementary Table S1. Each genome sequence was mapped or transformed into an equivalent genomic signal (a discrete numeric sequence) using the following encoding of the individual nucleotide (i.e., A=1; C=2; G=3; T=4). As base input, we maintained nucleotide pairs above 29000 bp (the input vector), indicating approximate (maximum) length of DNA sequences of the raw SARS-CoV-2 genome. Next, all repeated sequences were removed using a Microsoft Excel macro that deletes duplicate columns. The Excel macro implementing this process is found on Supplementary Table S2. A similarity threshold of 0.90 was then imposed to further trim near similar genomes, resulting in unique sequences of isolates distributed per continent containing 88 countries (male=71 countries; female=66 countries), by gender (SupplData8.xlsx), as follows (Africa: M=371, F=477; Asia: M=514, F=510; Europe: M=311, F=283; North America: M=294, F=199; South America: M=185, F=153; Oceania: M=9, F=6). A vector representation for pairwise Euclidean distance computation among the vectors in the form of a distance matrix was achieved using a SOM program developed in MATLAB. As the distance matrix is extremely high-dimensional, suitable representative sequences of the isolate clusters, decoupled into a cognitive map for efficient labeling the classification targets were obtained. A k-fold cross-validation was finally performed by dividing the data into k parts. At each iteration i, the ith fold was used for testing, while the other folds were used for training..
+
+Dinucleotide transitions and nucleotide mutations were computed for male and female isolates and averaged across the various continents namely Africa (Data S1: SupplData1.xlsx), Asia (Data S2: SupplData2.xlsx), Europe (Data S3: SupplData3.xlsx), North America (Data S4: SupplData4.xlsx), South America (Data S5: SupplData5.xlsx), and Oceania (Data S6: SupplData6.xslx). We discuss in this section an analysis of the average base transitions and mutations, and how they influence the overall behavior of the datasets..
+
+Average dinucleotide transitions of SARS-CoV-2 genomes computed across various continents are presented in Fig. 2. These transitions are represented as quadrilaterals dissected along its diagonals. Wang et al.
+
+44
+ found that the SARS-CoV-2 reference genome has 29.94% of A, 32.08% of T, 19.61% of G and 18.37% of C. Hence, the expected dinucleotide transitions proportion is the product of the two nucleotide bases. For instance, the CG dinucleotide in the viral genome is 3.60% (i.e., 19.61% × 18.37%). Therefore, we arrive at the following computations for the respective dinucleotides/features in this study: AA=8.96%; CC=3.37%; GG=3.84%; TT=10.29%; AC=5.50%; AG=5.87%; AT=9.60%; CG=3.60%; CT=5.87%; GT=6.29%; TG=6.29%; TC=5.87%; TA=9.60%; GC=3.60%; GA=5.87%; and CA=5.50%. Comparison of our results therefore corroborates Wang et al.
+
+44
+ on CG dinucleotide reduction of SARS-CoV-2, as the CG transitions for both male (M) and female (F) isolates across the various continents present lowest dinucleotide transitions compared to the rest of the transitions. Furthermore, slightly different variations exist between the male and female transitions, which may not be unconnected with genome sequencing errors and the presence of new viral sub-strain(s)..
+
+Observed transitions variants between male and female isolates (M − F) computed from Fig 2, across the various continents are shown in Table 2. Positive numbers indicate male frequency dominance while negative numbers indicate female frequency dominance. Table 2 reveals that female isolates from Africa greatly dominated the dinucleotide transitions space compared to male isolates. This wide difference may not be unconnected with sequencing errors observed in the raw genomes for African isolates. Other continents however show negligible variations..
+
+Mutations in base pairs are important for understanding the pathogenicity of SARS-CoV-2. These computations were compiled after direct pairwise comparisons with the reference genome, averaged across the various continents, to produce Fig. 3. As expected, changes in base pairs were observed after pairwise comparisons. Also, genome sequences with very negligeable changes or (no significant mutations) from the reference genome were noticed across the various continents for male and female isolates (see Table 3). Overall, total insignificant mutants of 587, representing 14.98% of the total number of isolates was observed for male patients, while female patients showed 258 insignificant mutants, representing 9.06% of the total number of isolates..
+
+In an analysis of SARS-CoV-2 mutations in the United States, CT mutant variants were found to have strong gender dependence
+22
+. Observed mutation variants between male and female isolates (M − F) computed from Fig 3, across the various continents are shown in Table 4. Positive numbers indicate male frequency dominance while negative numbers indicate female frequency dominance. Table 4 reveals that female isolates from Asia greatly dominate the nucleotide mutations compared to male isolates. This trend is consistently followed by female isolates from South America with dominant transitions compared to male isolates. However, other mutation statistics have mixed dominant values with varying degree of dominance. The result indicates that nucleotide mutations (not only the CT mutant) dynamically vary between individuals and are more associated with the virus adaptability to its host/environment..
+
+Li et. al
+45
+ investigated the angiotensin-converting enzyme 2 (ACE2)–the receptor agent for the SARS-CoV-2 virus–a known contributor to viral infections susceptibility and/or resistance
+46
+. ACE2 generates small proteins by cutting up larger protein angiotensinogen, in turn affecting the nucleotide/protein. They compared ACE2 expression levels across 31 normal human tissues between males and females and between younger and older persons using two-sided student's t-test. By examining the expression patterns, they found that protein expression levels were similarly expressed between males and females or between younger and older persons in experimented tissues. Furthermore, men showed worse prognosis than women. Their findings however lacked experimental and clinical data validation. Using clinical evidence, we provide results of hierarchical clustering analysis to examine the arrangement of the nucleotide (protein) sequences/clusters across the entire genome through mutant accumulation, for male and female patients. Three distance measures were experimented, the ward, complete and single methods. Results show that the ward method has the highest agglomerative coefficient of (male=0.9746; female=0.9683), indicating more compact clusters; closely followed by complete (male=0.9579; female=0.9523); average (male=0.9423; female=0.9445); and single (male= 0.8710; female=0.9058) methods. Using the unique isolates, the HCA or AGNES plots (see Fig. 2 of methods section) presents 2 natural clusters A and B, suggesting inevitable viral strains mutant accumulation (group A), while few mild divergent strains (group B) with specific mutations are geographically different. Hence, for the male isolates (Fig. 2a), 68 isolates belonged to cluster A while 3 isolates belonged to cluster B. For the female isolates (Fig. 2c), 63 isolates belonged to cluster A while 3 isolates belonged to cluster B..
+
+To determine if differences exist in the genome sequences between genders, an independent t-test was imposed on the AGNES dis(similarity) scores. Results showed that male patients had statistically insignificantly longer genome sequences (0.9726 ± 0.0377) compared to female patients (0.9673 ± 0.0344), t(3280) = 1.710, p = 0.0871. However, there was no statistically significant difference in mean similarity between the nucleotide (protein) structures of the two groups at 95% confidence interval, hence, no significant genetic variations were observed. Our result therefore corroborates the findings in Li et al.
+44
+ and validates the claim that no significant genetic variation exists in human SARS-CoV-2 genomes for both groups..
+
+Component planes visualization reveals the distribution of single feature values on a SOM map. The component planes permit an investigation of continents that share similar sub-strain(s) of SARS-CoV-2 and which sub-strain(s) permeate the different regions. To account for the variability of SOM neighborhood structure at every SOM run, the reference genome was included as part of the experiment datasets during each training phase. Hence, 4 reference genome pattern possibilities were generated to establish the very topology suitable for the trained datasets. Our topologies possess random (but controllable) discontinuities that permit more flexible self-organization with high-dimensional data, thus, preserving the map structure as much as possible. The training was carried out by gender, per continent. To ensure clear visualization of the generated maps, most of the gender-specific runs were split into 2 runs. This method was adopted to reduce the computational burden accompanying the huge datasets in this study. A total of 18 SOM maps were generated (see Figs. 4–8). We observed single-, double- and multiple-source transmissions. Overall, 7 pattern clusters were discovered as documented in Table 5. Cluster 1 represents the reference genome. Clusters 2, 3, 4, 5 and 6 are inter-continent pattern clusters or sub-strain(s). Cluster 7 indicates discovered intra-country pattern clusters or sub-strains. Wang's et al.
+22
+ analysis suggests the presence of four sub-strains in the United States. Our results therefore sustain an increase in sub-strains within the various continents and offer explanations for the growing concerns and next wave(s) of the virus..
+
+A distribution of discovered clusters (7 in this case) by gender, across the various continents under study, is presented on Table 5. Notice that cluster 7 has the highest proportion of data points, indicating increased intra-country transmissions; save North America, where cluster 3 has the highest proportion of data points, an indication of increased inter-country transmissions. A further analysis across the continents reveals that the African, Asian, and South American isolates clustered around sub-strains G1, G2 and G5 (where G represents a generic sub-strain) with number of isolates and cluster proportions for male and female patients distributed as follows:
+
+
+Africa – G1: 186 (M=20.22%, F=23.27%), G2: 185 (M=23.18%, F=20.75%), and G5: 89 (M=6.74%, F=13.34%). The least sub-strains proportions come from Reference: 31 (M=3.77%, F=3.56%) and G4: 0 (M=0%, F=0%).
+
+
+Asia – G1: 255 (M=27.31%, F=24.04%), G2: 168 (M=17.47%, F=16.36%), and G5: 150 (M=16.47%, F=13.74%). The least sub-strains proportions come from cluster 4: 27 (M=1.61%, F=3.84%) and G4 (M=0.40%, F=0.20%).
+
+
+South America – G1: 75 (M=24.86%, F=18.95%), G2: 91 (M=23.24%, F=31.37%) and 6: 20 (M=3.78%, F=8.50%). The least sub-strains proportions come from cluster 4: 15 (M=4.32%, F=4.58%) and G4: 2 (M=0%, F=1.31%).
+
+
+.
+
+Africa – G1: 186 (M=20.22%, F=23.27%), G2: 185 (M=23.18%, F=20.75%), and G5: 89 (M=6.74%, F=13.34%). The least sub-strains proportions come from Reference: 31 (M=3.77%, F=3.56%) and G4: 0 (M=0%, F=0%)..
+
+Asia – G1: 255 (M=27.31%, F=24.04%), G2: 168 (M=17.47%, F=16.36%), and G5: 150 (M=16.47%, F=13.74%). The least sub-strains proportions come from cluster 4: 27 (M=1.61%, F=3.84%) and G4 (M=0.40%, F=0.20%)..
+
+South America – G1: 75 (M=24.86%, F=18.95%), G2: 91 (M=23.24%, F=31.37%) and 6: 20 (M=3.78%, F=8.50%). The least sub-strains proportions come from cluster 4: 15 (M=4.32%, F=4.58%) and G4: 2 (M=0%, F=1.31%)..
+
+European and North American isolates clustered around the Reference genome, the G1 and G2 sub-strains, with number of isolates and cluster proportions for male and female patients distributed as follows:
+
+
+Europe – cluster 1: 80 (M=13.18%, F=13.78%), cluster 2: 185 (M=34.73%, F=27.21%) and cluster 3: 45 (M=4.18%, F=11.31%). The least sub-strains proportions come from cluster 4: 17 (M=2.57, F=3.18%) and cluster 5: 12 (M=0.64, F=3.53%).
+
+
+North America – cluster 1: 50 (M=9.18%, F=11.56%), cluster 2: 79 (M=25.17%, F=2.51%) and cluster 3: 113 (M=35.03%, F=55.28%). The least sub-strains proportions come from cluster 4: 15 (M=2.38%, F=4.08%) and cluster 5: 0 (M=0%, F=0%).
+
+
+.
+
+Europe – cluster 1: 80 (M=13.18%, F=13.78%), cluster 2: 185 (M=34.73%, F=27.21%) and cluster 3: 45 (M=4.18%, F=11.31%). The least sub-strains proportions come from cluster 4: 17 (M=2.57, F=3.18%) and cluster 5: 12 (M=0.64, F=3.53%)..
+
+North America – cluster 1: 50 (M=9.18%, F=11.56%), cluster 2: 79 (M=25.17%, F=2.51%) and cluster 3: 113 (M=35.03%, F=55.28%). The least sub-strains proportions come from cluster 4: 15 (M=2.38%, F=4.08%) and cluster 5: 0 (M=0%, F=0%)..
+
+Due to paucity of data, the Oceanian isolates have data for only cluster 1: 2 (M=24.86%, F=18.95%). Table 6 summarizes the clusters distribution, by gender across the various continents..
+
+While mutations are expected, there is need to initiate robust surveillance mechanism for continuous monitoring of the public health implications and rapid response to new strains of COVID-19. To intelligently predict the viral sub-strains for both genders, novel cognitive map that preserves chains of similar isolates were generated from SOM component planes using the Python programming language. The extracted clusters are necessary for supervised labeling of the classification targets. By disassembling the SOM correlation hunting matrix space, we attribute these associations to disparate classes of discovered viral sub-strains. The outcome is a cognitive map of 7 clusters simulating the discovered SOM patterns and countries/isolates linked to these patterns for male and female patients (see Supplementary Table S3). Each sub-strain cluster holds similar isolates that belong to a related pattern bounded by certain degree of association or correlation range, established by the SOM, and captures all isolates discovered within this range. We also captured from the SOM component planes any progression in patterns showing sub-strain(s) development leading to well separated cluster image(s). The cognitive knowledge can help the contact tracing of cases in emerging disease situations as well as establish how the reference genome has evolved over time. This additional knowledge also permits further characterization of the viral sub-strains, as our results allow unique SARS-CoV-2 base pairs sequence identification (which do not appear in other viral sub-strains) but could be useful as baselines for designing new primers that permit further insights and examination by experts..
+
+The k-fold cross validation method is known to estimate the robustness of the model on new data and was used to drive the validation phase of the NN. As the model is fit on training data, we obtain more realistic estimates of how well the model prediction will work on new cases. The experimental setup performed twenty (20) runs of stratified k-fold cross validation
+47
+ on the male and female datasets using the Neural Network (NN) model. The number of groups was split into (k) such that each data sample spanned 3, 5, 10 and 15 yielding 60, 100, 200 and 300 calls respectively on the training and testing mode of each dataset. This was done to ensure that the best possible value of k was chosen alongside the NN model. The performance of the NN model on the datasets was finally evaluated using the Classification Accuracy, Root Mean Squared Error (RMSE), Mean Absolute Error, Precision, Recall and Area Under the Curve (AUC). Results obtained on Table 6 and Table 7 confirm the suitability of ANNs in predicting COVID - 19 subs-trains for male and female patients, respectively. Furthermore, the metric specific result from each dataset compared using paired t-test, depict no statistically significant difference between the male and female features with p values>0.05 on each metric at 95% confidence level. The deployed model is helpful for classifying new datasets and for building expert support system for efficient SARS-CoV-2 sub-strains discrimination..
+
+On Table 8, a summary of important performance metrics extracted from the literature for ANN with or without cross validation method, is presented to enable a comparison of our approach with state-of-the-art. We observe that the proposed approach performed better with very high classification accuracy, precision, and recall rates, indicating good generalization and correct prediction. Furthermore, increase in number of validation folds (k) did not improve the performance of the system, indicating a stable neural network..
+
+In clinical diagnostics, image processing and computer vision are revolutionizing image-based diagnosis. Similarly, in the field of genetics, genomic research is poised to improve care through genotypes definition of other organisms. AI-based and Big Data analytics have also offered promising applications through processing of large and complex genome datasets. The future of individualized medicine has however imposed limitations, challenges and biases during implementation and stiffened successful deployment of AI in medical applications, particularly those utilizing human genetics and genome datasets. Although addressing underrepresented data in training datasets can resolve bias, while model retraining can assist in improving performance, confusable symptoms relative to the disease have posed a major bottleneck for future applications. This work has created a foundation for future studies on emerging infectious diseases by investigating the variation and functions of SARS-CoV-2 genomes for possible discovery of patterns exhibited by human isolates. The case of symptomatic and asymptomatic patients presents inconsistencies and is inconclusive in this paper. This aspect of infectious disease therefore demands more research efforts on prompt detection of asymptomatic cases..
+
+Publicly available datasets of coronavirus cases around the globe deposited between December 2019 and January 15, 2021 were excavated from GISAID (https://gisaid.org – a database of SARS-CoV-2 partial and complete genome compilations distributed by clinicians and researchers, the world over). A total of 8864 isolates (5130 male samples, and 3734 female samples) from different countries of the world were collected and processed, across 6 continents, Antarctica exempt (as no deposit of SARS-CoV-2 data was found as at the time of excavation). Complete genome lengths of above 29000 bp with <1% undefined or ambiguous bases (‘N’s) were excavated from 88 different countries (male=71 countries; female=77 countries) distributed across the following continents: Africa (Data S1: SupplData1.xlsx), Asia (Data S2: SupplData2.xlsx), Europe (Data S3: SupplData3.xlsx), North America (Data S4: SupplData4.xlsx), South America (Data S5: SupplData5.xlsx), and Oceania (Data S6: SupplData6.xslx). Table 1 documents the continent, isolate distribution by country, isolate distribution by gender, and total isolates excavated. Metadata on the extracted genome sequences consisting of the following columns (Isolate Code: Country+isolate number, Country, Accession Number, Gender, Age, Status, Specimen source and Additional Information) were also documented (see Data S7: SupplData7.xlsx). The Additional Information column holds both location and host information such as transmission history, treatment history, date sample was taken, etc. FASTA files of the genome isolates can be located at GISAID using the Accession Number. Specimen sources include swabs (nasal, oral, throat, nasal and oral); fluids (bronchoalveolar lavage, saliva, sputum, stool) and unknown. We observed that the GSAID database was inconsistent in rendering the patient status, as numerous incoherent annotations introduced inherent redundancy. To assist efficient documentation and processing of data, a taxonomy re-classifying the patient status is given in Fig. 1. This taxonomy subsumes the incoherent annotations (annotations in square text boxes) into unique specifications (annotations in oval shapes), for intelligent data mining
+48
+. Age range of 1 month and 107 years were collected..
+
+The presence of ambiguous nucleotides may potentially mask the genomic signature encoded within nucleotide frequencies. Although sequencing errors in the form of ambiguous nucleotides (e.g., strings of letter “N”) were noticed in the datasets, the affected nucleotide positions were ignored during preprocessing, such that the nucleotide positions maintained their current position and did not shift. A total genome sequence size of (8864 × 29000 − 8864 × 30165) bps = (257,056,000 − 267,382,560) bps was excavated, processed, and stored in comma separated value (CSV) file..
+
+
+Table 2 documents patient status statistics for symptomatic and asymptomatic cases. As observed, there are more hospitalized cases (7580) compared to non-hospitalized cases (391), with more male patients, hospitalized (M=4318, F=3262). Furthermore, more males died of COVID-19 than females (M=541, F=248). Asymptomatic cases however represent (37/5130; 0.72%) and (41/3734; 1.10%) of the total male and female isolates, respectively..
+
+A HP laptop 15-bs1xx with up to 1TB storage running on Windows 10 Pro Version 10.018326 Build 18362 was used for processing the excavated genome sequences, algorithms/programs, and other ancillary data. The system had an installed memory (RAM) of 16 GB with the following processor configuration: 1.60 GHz, 1801 MHz, 4 Core(s) and 8 logical processors. Although our system performed satisfactorily and produced the desired results, higher system configurations would improve the computational speedup..
+
+The dataset is configured with observations (nucleotides) represented in rows, while columns are variables (genome sequences ordered by countries). The number of columns corresponds to selected countries while the sequences have varying lengths. The data table is further converted into as.matrix format where all values of raster layers objects have columns for each layer and rows for each cells with numeric (continuous) values. In order to make the variables comparable through the elimination of arbitrary variable units, they are transformed (standardized) such that they have mean of zero and standard deviation of unity
+49
+, using equation (1). 
+(1)
+
+x
+(
+s
+)
+=
+
+x
+i
+
+−
+
+
+m
+e
+a
+n
+(
+x
+)
+
+
+s
+d
+(
+x
+)
+
+
+,
+
+ where sd(x) represents the standard deviation of the feature values..
+
+The procedure for implementing the HAC are as follows: Compute all the pairwise similarities (distances) between observations in the dataset and represent the result as a matrix. The resultant matrix is square and symmetric with diagonal members defined as unity–the measure of similarity between an element and itself. The matrix elements are computed by iterating over each element and calculating its (dis)similarity to every other element. Suppose A is a similarity matrix of size N × N, and B, a set of N elements. Aij
+ is the similarity between elements Bi
+ and Bj
+ using a specified criterion (Euclidean distance, squared Euclidean distance, manhattan distance, maximum distance, Mahalanobis distance, cosine similarity). The selected criterion however depends on the nature of the experimental datasets. This paper adopts the standardized Euclidian distance criterion, as this measure is widely used and has shown good performance in the modeling variances in biological sequences..
+
+After computing the distance between every pair of observation point, the result is stored in a distance matrix. Then, (i) every point is put in its own cluster (i.e., the initial number of clusters corresponds to the number of variables); (ii) the closest pairs of points are merged based on the distances from the distance matrix as the number of clusters reduces by 1; (iii) the distance between the new cluster and the previous ones is recomputed and stored in a new distance matrix; (iv) steps (ii) and (iii) are repeated until all the clusters are merged into one single cluster..
+
+The distance separating the clusters is specified via linkage methods
+48
+ which includes, complete, average, single, and ward. Complete linkage computes the similarities and uses the maximum distance between clusters for merging while calculating cluster distances and adopting minimum inter-cluster distance merging. Average linkage calculates the average distance between groups of genome sequence before merging; while the total within-cluster variance is minimized with ward's method and the pair of clusters with minimum between-cluster distance are merged. We rely on all the four techniques for assessment and adopt the distance measure with the highest agglomerative coefficient for cluster formation. The resultant cluster solution is finally visualized as a tree structure called a dendrogram (or phylogenetic) tree. As the tree is traversed upwards, observations that are similar to each other are combined into branches, which are themselves fused at a higher height. The height of the fusion, provided on the vertical axis, indicates the (dis)similarity between two observations. The higher the height of the fusion, the less similar the observations are. Fig. 2. show cluster plots and genomic plots generated using the ward minimum variance criterion..
+
+While there are natural structural entities in some datasets that provide information on the number of clusters or classes, others including the dataset containing genome sequences are structured without boundaries. Cluster validation (an unsupervised methodology aimed at unravelling the actual count of clusters that best describes a dataset without any priori class knowledge) is therefore essential. This paper adopts three widely used criteria to validate the number of clusters in the genome sequence dataset namely, silhouette, elbow
+50
+, and gap-statistics with the aim of minimizing the total intra-cluster variation (total within-cluster sum of square) as given in equation (2). 
+(2)
+
+m
+i
+n
+i
+m
+i
+z
+e
+
+(
+
+
+
+∑
+
+i
+=
+1
+
+k
+
+w
+
+
+(
+
+
+c
+k
+
+
+)
+
+
+)
+
+
+ where ck
+ is the kth cluster, and, w(ck
+) is the within-cluster variation. The total within-cluster sum of squares (wss) measures the compactness of the clustering solution. The following steps are applied to achieve the optimal clusters: (i) Compute clustering algorithm (e.g., k-means clustering) for different values of k; by varying k from 1 to 10 clusters, for instance. (ii) For each k, calculate wss. (iii) plot the curve of wss according to the number of clusters k. (iv) the location of a bend (knee) in the plot is generally considered as an indicator of the appropriate number of clusters..
+
+Silhouette criterion is used to validate the clustering solution using pair-wise difference between the within-cluster distances, and by maximizing the value of this index to arrive at the optimal cluster number
+51
+. Elbow criterion plots the variance resulting from plotting the explained variation as a function of the number of clusters and picking the elbow of the curve as the number of clusters to use. Gap-statistics compares the total intra-cluster variation for different values of k with their expected values under null reference distribution of the data. The reference dataset is generated using Monte Carlo simulations of the sampling process. The silhouette, elbow and gap-statistics methods rely on k-mean algorithm
+52
+. In this paper, the k-means algorithm is implemented in R script consisting of R functions for the silhouette, elbow, and gap-statistics implementation. The decision on the choice of the optimal number of clusters is based on the results of the three methods. The clustering solution is visualized using the fviz_cluster function in R programming language for the grouping and extraction of genome sequences and finally represented in tree format using dendrogram..
+
+The SARS-CoV-2 reference genome
+53
+ (Severe acute respiratory syndrome coronavirus-2 isolate Wuhan-Hu-1, complete genome) obtained from the NCBI: www.ncbi.nlm.nih.gov) contains 4 conventional DNA nucleotide bases, A, C, G, T. Hence, there are 42 = 16 unique dinucleotide pairs that can be constructed from these bases, namely: 
+(4)
+
+ω
+=
+{
+AA
+,
+AC
+,
+AG
+,
+AT
+,
+CA
+,
+CC
+,
+CG
+,
+CT
+,
+GA
+,
+GC
+,
+GG
+,
+GT
+,
+TA
+,
+TC
+,
+TG
+,
+TT}
+
+
+.
+
+If we denote the frequency of the ith dinucleotide as di
+, then, a genomic sequence with 16-dimensional feature vector in the form of equation (5) are possible, 
+(5)
+
+
+f
+ω
+
+=
+{
+
+d
+
+AA
+
+
+,
+
+d
+
+AC
+
+
+,
+
+d
+
+AG
+
+
+,
+…
+,
+
+d
+
+TT
+
+
+}
+
+
+.
+
+The frequencies of the dinucleotide transitions are obtained by accumulating each dinucleotide along the extracted genome sequences. We ignore ambiguous nucleotides absent in the reference genome. Suppose we have n total genome length. By allowing a single sliding iteration window there exists n − 1 bubble counts. Hence, the dinucleotide frequencies of di
+ can be obtained by counting all nucleotides that correspond to i..
+
+Several techniques for biological sequence alignment (multiple or pairwise) have flourished the literature
+54
+ and are continually being refined, but most of these techniques suffer from the lack of accuracy and partial interpretations. A direct pairwise alignment of each nucleotide with the reference genome was achieved by computing the recurrence of mutated nucleotides down the sequence line. For this study, the sequence of established SARS-CoV-2 reference genome (NC_045512; 29903 bp) sequenced in December 2019 was used. Suppose n represents the total length of a genome; By permitting a single sliding iteration window, a mutation may be any of the following pair: 
+(8)
+
+m
+=
+{
+AC
+,
+AG
+,
+AT
+,
+CA
+,
+CG
+,
+CT
+,
+GA
+,
+GC
+,
+GT
+,
+TA
+,
+TC
+,
+TG}
+
+
+.
+
+If we denote the frequency of the ith nucleotide pair as pi
+, then, genomic sequence pairs with 12-dimensional feature vector in the form of equation (9) are possible, 
+(9)
+
+
+f
+m
+
+=
+{
+
+p
+
+AC
+
+
+,
+
+p
+
+AG
+
+
+,
+
+p
+
+AT
+
+
+,
+…
+,
+
+p
+
+TG
+
+
+}
+
+
+.
+
+Several mathematical techniques have been deployed for identifying underlying patterns in complex data. These techniques, which cluster data points differently in multidimensional space are important to discover fundamental patterns of gene expression inherent in data. The clustering technique adopted in this paper is the self-organizing map (SOM) and has been used extensively in the field of bioinformatics, for visual inspection of biological processes, genes pattern expressions–as maps of (input) component planes analysis. SOM is a neural-network that projects data into a low-dimensional space
+55
+, by accepting a set of input data and then mapping the data onto neurons of a 2D grid (see Fig. 3). The SOM algorithm locates a winning neuron, its adjusting weights, and neighboring neurons. Using an unsupervised, competitive learning process, SOMs produce a low-dimensional, discretized representation of the input space of training samples, known as the feature map. During training, weights of the winning neuron and neurons in a predefined neighborhood are adjusted towards the input vector using equation (3), 
+(3)
+
+
+w
+
+i
+d
+
+
+t
++
+1
+
+
+=
+
+w
+
+i
+d
+
+t
+
++
+r
+f
+(
+i
+,
+q
+)
+
+(
+
+
+x
+d
+
+−
+
+w
+
+i
+d
+
+t
+
+
+)
+
+;
+1
+≤
+d
+≤
+D
+.
+
+ where r is the learning rate and f(i, q) is the neighborhood function, with value 1 at the winning neuron q; and decreases as the distance between n and q increases. At the end, the principal features of the input data are retained, hence, making SOM a dimension reduction technique. The batch unsupervised weight/bias algorithm of MATLAB (trainbu) with mean squared error (MSE) performance evaluation, was adopted to drive the proposed SOM. This algorithm trains a network with weight and bias learning rules using batch updates. The training was carried out in two phases: a rough training with large (initial) neighborhood radius and large (initial) learning rate, followed by a finetuned training phase with smaller radius and learning rate. The rough training phase can span any number of iterations depending on the capacity of the processing device. In this paper, we kept the number of iterations at 200 with initial and final neighborhood radius of 5 and 2, respectively, in addition to a learning rate in the range of 0.5 and 0.1. The fine training phase also had a maximum of 200 epochs, and a fixed learning rate of 0.2. Selection of best centroids of the genome feature within each cluster was based on the Euclidean distance criterion. The algorithm configures output vectors into a topological presentation of the original multi-dimensional data, producing a SOM in which individuals with similar features are mapped to the same map unit or nearby units, thereby creating smooth transition of related genome sequences to unrelated genome sequences over the entire map..
+
+Comparing component planes help detect similar patterns in identical positions indicating correlation between the respective components. Local correlations can also occur if two parameter planes are similar in some regions. Both linear and non-linear correlations including local or partial correlations between variables are possible. We achieve the correlation hunting
+56
+ automatically, by decoupling the SOM correlations, to explore patterns among the pairwise genome samples for distinct identification of transmission pathways or routes. The extracted correlation matrices are pairwise relations of the viral sub-strains' transmissions..
+
+Knowledge mining has served huge benefits for quick learning from big data. We apply Natural Language Processing of the genome datasets to extract knowledge of similar strains of the virus. A simple iteration technique is imposed on the SOM isolates (i = 1,2,3, …, n), where n is the maximum number of isolates, as follows: For each isolate pattern, compile similar patterns with the rest of the isolates (i.e., i + 1, i + 2, …, n). Concatenate compiled isolate(s) into a list (j
+1, j
+2,…, jm
+) where j is an element of the list. Dump the compiled list into CogMap(ki
+ ∈ j
+1, j
+2,…, jm
+)..
+
+Artificial Neural Networks (ANNs) are networks inspired by the neurological structure of the human brain. They are complex computer code written with simple, highly interconnected processing elements inspired by human biological brain structure for simulating the human brain and processing data/information models. Although five core ANN areas have been explored, namely: Multi-Layer Perceptron, Radial Basis Network, Recurrent Neural Networks, Generative Adversarial Networks, and Convolutional Neural Networks; this paper adopts the Multi-Layer Perceptron model (MLP)–a class of feedforward ANNs, with at least three layers of nodes: an input layer, a hidden layer, and an output layer (Fig. 4). Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation57 for training. The output classes (C1-C7) were derived from the sub-strains discovered from learning the SOM..
+
+
+Authors Contributions:
+.
+
+All authors contributed equally to the final draft of this paper..
+
+M.E. * conceptualized the research idea, contributed to the research methods, preparation of figures, framework/tools design, implementation and interpretation of the results..
+
+M.E.1 provided literature materials, performed critical review as well as data validation..
+
+U.I. contributed to the research methodology, framework/tools design, preparation of figures, implementation, and interpretation of results..
+
+F-M.U. structurally edited the original draft and contributed to the software design component and implementation..
+
+I.E. contributed to the biotechnology and bioinformatics components of the paper, as well as the research methods..
+
+A.M. was involved in formal analysis of the study data, research methods and implementation..
+
+M.E.2 structurally edited the original draft, involved in research data validation and interpretation of results..
+
+Y.T. contributed to the biotechnology/bioinformatics components of the paper and editing of the original draft..
+
+I.U. was involved in critical review of literature and research data validation..
+
+E.A. was involved in the critical review as well as a formal analysis of the study data..
+
+O.E. contributed to the study background, research methods and biotechnology components of the paper..
+
+G.J. was involved in the data curation, collection/excavation, and processing of the human SARS-CoV-2 genomes..
+
+E.D. was involved in data curation, collection/excavation, and processing of the human SARS-CoV-2 genomes..
+
+
+Competing Interest: There are no competing interests..
+
+The workflow begins with the excavation of FASTA files of human SARS-CoV-2 genome sequences from GISAID. These files were stripped and processed into a genome database (DB) as multiple columns of nucleotide sequence. AI/ML techniques were then applied to extract knowledge from the genome datasets as follows: Using ML techniques, compute dis(similarities) scores between the various pairs of genome sequences and obtain a genomic tree of highly dis(similar) isolates grouped in the form of a dendrogram/phylogenetic tree. Determine the optimal number of natural clusters–to provide additional knowledge for supervised learning. Separate the viral sub-strains using SOM component planes–for possible transmission pathway/pattern visualization. Perform nucleotide alignment of the entire genome sequences (owing to varying sequence lengths of the different genome isolates, a cutoff at the last nucleotide of the genome isolate or the reference genome serves as the maximum pair for comparison), remove duplicate columns while imposing a similarity threshold–to yield unique genome sequences. Extract genome features by computing dinucleotide transitions and mutation frequencies. Generate cognitive map–for intelligent sub-strains prediction. Label classification targets of extracted features using derived SOM clusters and cognitive map. Learn and predict new/emerging sub-strains using ANN with k-fold validation method..
+
+Thick arrows indicate transition, while dotted arrows represent transversion. Looped (dotted) arrows represent same base transition. Inscriptions on/near the arrows represent transition/transversion frequencies for male and female isolates..
+
+Thick arrows indicate transitions, while dotted arrows represent transversions. Inscriptions on/near the arrows represent transition frequencies for male and female isolates..
+
+Component planes 1 (encircled) represent the SARS-CoV-2 reference genome. The male and female isolates have 2 SOM maps each with country and (component plane map position(s)) distributed as follows: Male – (a) Map 1: Cameroon (2), Ghana (3-15), South Africa (16-200). Map 2: South Africa (2-63), Gambia (64-66), Algeria (67), Egypt (68-81), Tunisia (82-90), Morocco (91-92), Mozambique (93-96), Nigeria (97-107), Senegal (108–156), Rwanda (157–173). Female – (b) Map 1: Ghana (2), South Africa (3-240). Map 2: South Africa (2-186), Gambia (187), Algeria (188), Egypt (189–194), Tunisia (195–203), Madagascar (204), Nigeria (205–208), Senegal (209–237), Rwanda (238–239)..
+
+Component planes 1 (encircled) represent the SARS-CoV-2 reference genome. The male and female isolates have 2 SOM maps each with country and (component plane map position(s)) distributed as follows: Male – (a) Map 1: Singapore (2-18), Iraq (19), China (20-71), Kuwait (72-74), Malaysia (75-94), Sri Lanka (95-109), Bangladesh (110–119), India (120–249). Map 2: India (1-145), South Korea (146–149), Kazakhstan (150), Indonesia (151–164), Turkey (165–180), Iran (181–184), Taiwan (185–191), Vietnam (192–200), Israel (201), Saudi Arabia (202–221), Mongolia (222–224), Oman (225–231), Lebanon (232–240), United Arab Emirates (241–251). Female – (b) Map 1: Singapore (205), Iraq (6), China (7-54), Malaysia (55-79), Sri Lanka (80-85), Bangladesh (86-90), India (91-249). Map 2: India (2-129), South Korea (130–131), Kazakhstan (132–136), Indonesia (137–149), Turkey (150–159), Iran (160–162), Taiwan (163–176), Vietnam (177–193), Israel (194–197), Philippines (198–199), Saudi Arabia (200–217), Pakistan (218–219), Oman (220–227), Lebanon (228–233), United Arab Emirates (234–247), Bahrain (248)..
+
+Component planes 1 (encircled) represent the SARS-CoV-2 reference genome. The male and female isolates have 2 SOM maps each with country and (component plane map position(s)) distributed as follows: Male – (a) Map 1: Switzerland (2), Faroe Island (3-7), Belgium (8-9), Poland (10-23), Greece (14-29), Romania (30-43), Spain (44-102), Georgia (103–105), Italy (106–161). Map 2: Italy (2-59), Russia (60-73), France (74-112), Slovakia (113), Hungary (114–118), Cyprus (119), Ukraine (120–125), Sweden (126), Austria (127), Croatia (128–129), Bosnia and Herzegovina (130), Czech Republic (131–152). Female – (b) Map 1: Switzerland (2), Faroe Islands (3-6), Belgium (7-8), Greece (9-19), Germany (20-26), Romania (27-47), Spain (48-95), Georgia (96), Italy (97-161). Map 2: Italy (2-28), Russia (29-55). France (56-87), Slovakia (88-90), Moldovia (91-93), Hungary (94-100), Ukraine (101–104), Austria (105), Finland (106), Bosnia and Herzegovina (107), Czech Republic (107–123)..
+
+Component planes 1 (encircled) represent the SARS-CoV-2 reference genome. The male isolates have 2 SOM maps while the female isolates have 1 map, each with country and (component plane map position(s)) distributed as follows: Male – (a) Map 1: Mexico (2-46), USA (47-150). Map 2: USA (2-23), Panama (25-102), Saint Martin (103–105), Guadeloupe (106–109), Canada (110–112), Costa Rica (113–145), Dominican Republic (146). Female – (b) Map 1: Mexico (2-34), USA (35-106), Panama (107–165), Saint Martin (166–168), Guadeloupe (169–176), Canada (177–182), Costa Rica (183–196), Dominican Republic (197–200)..
+
+Component planes 1 (encircled) represent the SARS-CoV-2 reference genome. For South American isolates, the male isolates (a) and female isolates (b) have 1 SOM map each. For Oceanian isolates, the male and female isolates (c) are condensed into 1 map, each with country and (component plane map position(s)) distributed as follows: Male – (a) Map 1: Venezuela (2-3), Chile (4), Argentina (5), Colombia (6-62), Ecuador (63-72), Peru (73), Brazil (74-186)..
+
+Female – (b) Venezuela (2), Argentina (3), Colombia (4-47), Ecuador (48-50), Brazil (51-154). Male and female – (c) Map 1: Male – Australia (2-7), Guam (8-9), New Zealand (10). Female – Australia (11-15), New Zealand (16)..
+
+Notice 2 distinct groups (or clusters) A and B separated between closely similar and dissimilar isolates, with the A group having heavy isolates concentration than the B group. For males (Fig. 2b), group A consists of 68 isolates with 7 sub-groups as follows: 1 (CHL, SAU); 2 (CHN, TUN, KAZ, SGP, POL, FRA, USA, GUM, ESP, ROU); 3 (ITA, MEX, TUR, ZAF, FRO, NZL, PER, RUS, AUS, CRI); 4 (SVK, IRQ, CZE, HUN, HRV, OMN, CAN, ARG, CHE, EGY, KWT, SOU, MYS, SAI, Iran, AUT, VNM, GMB, ISR, MNG, GEO, UKR, DZA, BEL, MAR, BIH, GLP); 5 (ECU, ARE, BGD, TWN); 6 (CMR, NGA, IDN, LBN, BRA, MOZ, IND, SEN, COL, PAN, GRC, LKA, VEN). Group B consists of 1 sub-group as follows: 1 (DOM, GHA, RWA). For Females (Fig. 2d), group A consists of 63 isolates with 6 sub-groups as follows: 1 (TWN, KAZ, SAU); 2 (AUT, DEU, FRA, TUN, ROU, USA); 3 (LBN, GMB, ECU, AUS, IND, CRI, ARE, ESP, ZAF, ITA, MEX); 4 (BIH, GEO, BEL, NZL, CZE, HUN, MDG, FIN, ARG, TUR, FRO, OMN, CAN, GLP, SAI, EGY, MYS, CHE, UKR, SOU, RUS, PAK, MDA, SVK, ISR, VNM, NGA, BGD, BHR, IRQ, Iran, DZA, VEN); 5 (DOM, IDN, CHN, SGP); 6 (SEN, PAN, BRA, COL, LKA, GRC)..
+
+Each neuron is assigned a vector of weights (w = w
+
+i1, w
+
+i2, ‥ wiN
+) with dimension similar to the input vector i (i = 1, 2, …, L); where L is the total number of neurons in the network. The input nodes have p features, and the output nodes, q prototypes, with each prototype connected to all features. The weight vector of the connections consumes the prototype of each neuron and has same dimension as the input vector. SOMs differ from other artificial neural networks as they apply competitive learning, against error correction learning such as backpropagation, and the fact that they preserve the topological properties of the input space using a neighborhood function..
+
+A 3-layered network, with one output layer and one hidden layer. The input layer consumes the knowledge-enriched genome datasets comprising of extracted patterns of SOM learning of the respective genome isolates and additional knowledge sieved from analysis of the genome sequences (i.e., number of natural clusters discovered from the genomic tree, discovered SOM sub-strain clusters, and link sequences derived from cognitive maps of the various isolates).
+

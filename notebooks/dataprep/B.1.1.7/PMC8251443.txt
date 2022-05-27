@@ -1,0 +1,81 @@
+The novel Severe Acute Respiratory Syndrome Virus 2 (SARS‐CoV‐2) pandemic was declared by the WHO in March 2020, with the number of new cases per day exceeding 50 000 globally.
+1
+ The spread of SARS‐CoV‐2 across the world threw the pharmaceutical industry into a race for the first COVID‐19 vaccine. Since then, COVID‐19 new infection rates have increased substantially with the emergence of new SARS‐CoV‐2 variants, notably in the United Kingdom (B.1.1.7), South Africa (S.501Y.V2), and Brazil (B.1.1.28). Despite the success in formulating several highly efficacious vaccines in such a short period of time, certain reservations remain. Public hesitancy towards vaccination is of particular concern as it undermines the strategy of herd immunity.
+2
+ This wide‐spread hesitancy towards vaccination necessitates the availability of alternative treatment options that could be more readily accepted. More worrisome, however, is the emergence of novel SARS‐CoV‐2 mutations and their resulting impact on the efficiency of vaccines and spike protein directed neutralizing monoclonal antibodies (NMAb). Data presented below examines the efficacy and use of NMAbs as post‐exposure prophylaxis..
+
+NMAbs function through inhibiting the viral spike protein (S‐protein) which binds to host cells, and therefore, inhibition of the S‐protein blocks viral entry into host cells. The S‐protein consists of two subunits, S1 and S2, with the receptor binding domain (RBD) residing on the S1 subunit. The RBD binds to the transmembrane metalloprotein, angiotensin converting enzyme 2 (ACE‐2), found abundantly in lung, small intestine epithelia as well as renal and arterial linings, supporting corresponding clinical presentations of COVID‐19.
+3
+ With the consideration of public hesitancy towards vaccination, coupled with a continuous influx of newly infected COVID‐19 patients, establishing a suitable therapy for post‐exposure prophylaxis is essential. Countries with vaccination hesitancy rates significantly below herd immunity threshold should consider investing in options for the prompt treatment of new positive cases.
+2
+
+.
+
+Efforts have been taken to utilize the neutralization of the S‐protein of SARS‐CoV‐2 as a method of post‐exposure prophylaxis and this can occur in one of three ways: functionally mimicking ACE‐2 to bind the viruses RBD and stopping the ACE‐2‐RBD complex (1), binding to RBD without mimicking ACE‐2 (2), and binding RBD but without stopping ACE‐2‐RBD binding (3)..
+
+When conducting a search of all clinical trials testing the efficiency of NMAbs against SARS‐CoV‐2 with interest placed on trial start date, phase of study, number of participants, combination therapy (Y/N), and novel SARS‐ CoV‐2 therapy (Y/N), a significant increase in the number of clinical trials testing novel NMAbs targeting SARS‐CoV‐2 spike protein could be demonstrated (Figure 1). The main contributors to enrolment totals initially were Regeneron's SARS‐CoV‐2 spike protein combination therapy REGN10933 + REGN10987 now called REGN‐COV2. Since the beginning of the first novel SARS‐CoV‐2 NMAb trials, not only do we see initial trials progress to advanced clinical trial stages, but we also observe additional novel NMabs. This includes Astrazeneca's AZD8895, AZD1061, and Tychan's TY027 which is a fully engineered human IgG NMab stated to decrease disease severity in acutely infected COVID‐19 patents.
+4
+
+.
+
+Scatter graph to show number of current novel NMAb trials (indicated by Y/N criteria: Y = YES; N = NO; n = 59) versus enrolment number; Y = specific anti‐SARS‐CoV‐2 Nmab, N = alternative target.
+
+Many new NMAbs have undergone testing and some show potential. VIR‐7831 is a fully humanized anti‐SARS‐CoV‐2 NMAb characterized by S309, an antibody that is able to neutralize SARS‐CoV‐2. Importantly, the antibody binds to a highly conserved epitope found on the spike protein, challenging mutational escape. VIR‐7831 was developed from S309 and has affinity for both coronaviruses. Currently, Vir Biotechnology Inc. are investigating its use in early COVID‐19 infection in non‐hospitalized patients. The trial is assessing key safety, tolerability, efficacy, and PK parameters, and results are expected July 2021 (NCT04545060).
+5
+
+.
+
+Similar to VIR‐7831, BRII‐196/198 blocks viral entry and neutralizes SARS‐CoV‐2 infection in vivo by binding to a highly conserved epitope on the spike protein. Specifically, BRII‐198 binds to a different site on the spike protein, and its combination with BRII‐196 resulted in synergistic effects. It is now expected to continue into phase II/III clinical trials as part of the NIH's Accelerating COVID‐19 Therapeutic Interventions and Vaccines program (ACTIV). Here, it will be evaluated for safety and efficacy in people with mild to moderate COVID‐19 severity who are at risk of disease progression (NCT04501978).
+6
+ Previous ACTIV trials included Eli Lilly's LY‐CoV555 (bamlanivimab) which is currently authorized for use in mild‐to‐moderate COVID‐19 and has recently received additional authorization for its use in combination with etesevimab.
+7
+
+.
+
+NMAbs have shown to be effective in reducing viral load in both animal and human trials.
+8
+, 
+9
+ However, the impact on clinical outcomes has not been described in detail. Specifically, Regeneron's REGN‐COV2 reported a response in sero‐negative patients with high viral load in their interim analysis, with similar safety outcomes compared to placebo group.
+10
+ Fuelled with preclinical success, the combination therapy NMAb had high hopes for translating the reduction of viral load into clinical impact. In a recent publication, Regeneron presented descriptive data on the impact of REGN‐COV2's ability to remove post treatment healthcare visits.
+10
+ While the NMAb did decrease the need for a future single healthcare intervention (6% ‐ control vs. 3% ‐ REGN‐COV2), when a two‐sample Welch's t test was conducted using the clinical efficacy values and enrolment rates provided by the authors, the results indicated a non‐significant difference in future healthcare visits between the experimental and control groups (REGN‐COV2: M = 0.03, SD = 0.18; control: M = 0.06, SD = 0.25; t
+143.85 = 1.08, p = .28, d = 0.14)..
+
+Moreover, the evolution of SARS‐CoV‐2 via hypermutation events in response to pressured selection may impair recognition and therefore neutralization capacity of such NMAbs. A study conducted by Greaney et al.
+11
+ found several main epitopes within the RBD that related to current different strains that had an effect on receptor binding. Specifically, the E484K mutation (within S.501Y.V2 and B.1.1.28 lineages, South Africa and Brazil, respectively) demonstrated an increased affinity for the ACE‐2 receptor.
+11
+ Further, they also showed substantial variation in impact of mutations among individuals as well as within the same individual over time. Driven by positive selection in the presence of convalescent serum antibodies, mutations in the spike protein took place that allowed for a marked reduction in neutralization capacity, allowing subsequent binding to the ACE‐2 receptor. Another recent study, conducted by the centre for mathematical modelling of infectious diseases, found the N501Y mutation (within B.1.1.7 lineage, currently circulating in the United Kingdom) had a 50% increase in transmissibility, mirroring the drastic increase in COVID‐19 cases seen in recent times in the United Kingdom.
+12
+
+.
+
+Interestingly, Kemp et al. recently documented an evolutionary response by SARS‐CoV‐2 in the presence of antibody therapy in an immunocompromised individual.
+13
+ Administration of convalescent plasma resulted in the emergence of strains bearing specific mutations (notably D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein) that conferred increased infectivity and reduced susceptibility to a convalescent plasma therapy. Importantly, it is noteworthy that the individual was immunocompromised and receiving chronic treatment for COVID‐19; this raises questions regarding the likelihood of similar events occurring in immunocompetent individuals with shorter treatment times. Nevertheless, it highlights an important occurrence and indication that this subpopulation may require specific infection control measures. Moreover, an earlier study conducted by Andreano et al.
+14
+ investigated the evolution of SARS‐COV‐2 in the immune population, observing the effect of the authentic virus, co‐incubated with highly neutralizing plasma from a COVID‐19 convalescent patient. This plasma was found to initially neutralize the virus, however, over time in similar fashion, specific mutation events allowed for complete resistance to neutralization.
+14
+
+.
+
+Taking these mutations into account with the relative lack of success of convalescent plasma, it is evident that a robust and broad effect of future SARS‐CoV‐2 biological treatments must be ensured in order to guarantee viral escape is minimized. It also raises the notion that caution with administration of new treatment options should be exercised. Weighing treatment options against potential selection pressure and subsequent viral mutation could prove to be decisive, in particular, in cases of chronic COVID‐19 disease presentation and associated lengthy treatment times. As S‐protein variants that resist neutralization are now present at low frequencies in circulating SARS‐CoV‐2 populations, monoclonal antibody combinations as opposed to polyclonal convalescent sera are favoured to mitigate viral escape.
+15
+ The combination NMAbs such as BRII‐196/BRII‐198 and REGN‐COV2 are stated to prevent viral escape by binding to two distinct neutralizing epitopes.
+8
+, 
+16
+ In this instance, in order for viral escape to take place, two simultaneous viral mutations at two separate distinct genetic sites would need to take place..
+
+Studies are being conducted imminently regarding current COVID‐19 vaccines' effective protection against mutated SARS‐CoV‐2 strains. While a recent study observing the effect of Pfizer's BNT162b2 vaccine on N501 and Y501 mutations found little difference in neutralizing titers,
+17
+ such studies should also be replicated in NMAbs as they represent an avenue for therapeutic intervention in high‐risk individuals. Indeed, the emergence in the United Kingdom and South Africa of natural variants with similar changes demonstrates SARS‐CoV‐2's capability to escape an effective immune response and that monoclonal antibodies able to control emerging variants are in high demand..
+
+Perpetuating viral mutation is the largest hurdle for the continued efforts for post‐exposure prophylaxis. It is paramount that we remain vigilant and focused on mutation events in the RBD such as the E484 region. Moreover, amongst clinical effectiveness and safety concerns, producing effective NMAbs that meet supply and demand in a cost‐effective manner will be challenging. Finally, it will be a priority to identify those patients who could receive the highest benefit from the NMAbs, thus maximizing the appropriate use of resources. Despite all of these challenges, an alternatively promising therapy for COVID‐19 is eagerly anticipated..
+
+There are no competing interests to declare..
+
+All authors have made equal contributions to the article..
+

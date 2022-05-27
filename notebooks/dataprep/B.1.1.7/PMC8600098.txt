@@ -1,0 +1,48 @@
+Dear Editor,.
+
+The SARS-CoV-2 variant of concern (VOC) B.1.617.2 (Delta) has rapidly spread to constitute more than 95% of the circulating lineages in France by August, 2021, and the situation is similar worldwide [1]. The Delta variant has been associated with greater transmissibility and higher viral loads in both unvaccinated and fully vaccinated individuals [2]. A reduced sensitivity to antibody neutralization has also been reported [3]..
+
+We evaluated at 3 months post-exposure, the serum neutralizing activity against the Delta variant on two cohorts of fully vaccinated individuals and unvaccinated COVID-19 recovered cases..
+
+Two groups were included in the study: (1) vaccine group, i.e. individuals vaccinated with two doses (second dose within a month after the first one) of BNT162b2 (Pfizer-BioNTech) and (2) recovery group, i.e. subjects who recovered from an RT-PCR-confirmed COVID-19. The absence of previous infection in the vaccine group was confirmed by a negative serology before vaccination. In this group, a serum sample was collected 3 months after the first vaccine dose. Subjects in the recovery group were diagnosed between March and December 2020, and received no vaccine within 3 months post-diagnosis, at the time of serum sampling..
+
+Total anti-SARS-CoV-2 antibodies (targeting S region) were detected using the WANTAI SARS-CoV-2 Ab and ELISA assays (Eurobio Scientific)..
+
+Neutralizing antibodies were investigated using a live virus neutralization assay. Briefly, serial twofold dilutions (starting from 1:10) of the heated serum (56 °C for 30 min) were incubated for 1 h at 37 °C with a viral solution containing 100 TCID50 of SARS-CoV-2 and then added to Vero E6 cell monolayers in a 96-well plate. The cytopathic effect was recorded after 3 days, and the serum virus neutralization titer (NT50) was defined as the reciprocal value of the highest dilution that showed at least 50% protection of cells. A sample with a titer ≥ 20 was defined as positive..
+
+The strains of Alpha (B.1.1.7 lineage) and Delta (B.1.617.2) SARS-CoV-2 variants have been previously isolated from clinical specimens and propagated in Vero E6 cells. The whole-genome sequencing was performed with the the COVIDSeq library preparation kit (Illumina®), and sequences were submitted to GISAID (accession reference EPI_ISL_1653931 and EPI_ISL_3750532 respectively)..
+
+Data were compared using the Man–Whitney test, the Wilcoxon rank test or the Fisher's exact test when appropriate..
+
+A total of 117 and 97 individuals were included in the vaccine and recovery groups, respectively. All included subjects were aged less than 60 years old. The median age was 44 years in the vaccine group and 50 years in the recovery group..
+
+Sera from vaccinated individuals were tested against both Alpha and Delta variants..
+
+A neutralizing activity against Alpha was detected in all samples, while few sera (8/117) showed no activity against Delta. The median neutralizing antibody titer against Alpha was around 320. With the Delta variant, the neutralizing antibody titer was significantly decreased by fourfold when compared to the Alpha strain (p < 0.0001) (See Fig. 1a).Fig. 1Serum neutralizing activity against SARS-CoV-2 variants. a Neutralizing activity against Alpha and Delta variants was determined in sera collected at 3 months post-immunization in individuals fully vaccinated with two doses of BNT162b2 (n = 117); b serum neutralizing activity against Delta variant was compared at 3 months post-exposure between BNT162b2 vaccinees (n = 117) and unvaccinated COVID-19 recovered cases (n = 97). Median and interquartile marks are shown in grey. ns nonsignificant; ****p < 0.0001.
+
+Serum neutralizing activity against SARS-CoV-2 variants. a Neutralizing activity against Alpha and Delta variants was determined in sera collected at 3 months post-immunization in individuals fully vaccinated with two doses of BNT162b2 (n = 117); b serum neutralizing activity against Delta variant was compared at 3 months post-exposure between BNT162b2 vaccinees (n = 117) and unvaccinated COVID-19 recovered cases (n = 97). Median and interquartile marks are shown in grey. ns nonsignificant; ****p < 0.0001.
+
+Then, we tested sera from unvaccinated COVID-19 recovered cases against Delta for comparison with vaccinated subjects. The median neutralization titers were 80 and 40 in vaccinees and recovered cases, respectively (Fig. 1b). The median neutralizing antibody titer was thus not different between both populations. However, the proportion of individuals with no detectable neutralizing activity was higher in the recovery group (23.7% and 7.7% in recovery and vaccine groups, respectively, p = 0.002)..
+
+The overall picture of the COVID-19 pandemic has become more complicated since the emergence of numerous SARS-CoV-2 variants worldwide. The currently predominant Delta variant raises issues regarding its sensitivity to immune response..
+
+In this study, we investigated the sensitivity of this variant to serum neutralization from both vaccinees and unvaccinated recovered patients..
+
+As compared to the Alpha variant, we observed a significantly reduced sensitivity of the Delta variant to neutralization with sera collected at 3 months post-BNT162b2 vaccination. This finding is in agreement with previous studies which reported lower titers against the Delta variant than against the Alpha variant, due to escape mutations in the spike protein [3].
+
+However a neutralizing activity was still detected in most of the vaccinees (92.3%), suggesting the efficacy of vaccination against Delta variant COVID-19 severe cases [4].
+
+The evaluation of neutralizing activity of convalescent sera against Delta variant found a significantly higher proportion without detectable neutralizing activity, as compared to the vaccine group..
+
+This observation reinforces the idea of a need for vaccination in individuals with previous COVID-19. According to the current strategy in France, one dose of vaccine is recommended in recovered population at least 3 months after the diagnosis. Of note, the recovered cases have been infected between March and December 2020, probably with the D614G reference virus which was the most predominant strain in France at that period (GISAID), and thus an escape of the Delta variant from antibodies induced by the D614G strain is not unexpected..
+
+The main limitation of this work is the lack of characterization of T-cell immunity, which may be more cross-reactive than the humoral response; however, levels of neutralizing antibodies were reported to be highly predictive of immune protection from symptomatic SARS-CoV-2 infection [5]. Further studies evaluating the global immune response over longer survey periods will help to better characterize the post-infection and post-vaccination protection against the Delta variant..
+
+In conclusion, the spread of the Delta variant, even in some vaccinees and recovery cases, is probably associated with a reduced sensitivity to neutralizing antibodies, in addition to the decline over time..
+
+This research was supported by the Centre Hospitalier Universitaire de Lille and I-Site, Université de Lille..
+
+None..
+
+This study was performed in accordance with the Declaration of Helsinki. Included patients were from the Lille COVID Research Network (LICORNE) cohort (ethics committee approval number ECH20/09) and the MONITOCOV study (ethics committee approval number ID‐CRB 2021-A00119-32)..
+

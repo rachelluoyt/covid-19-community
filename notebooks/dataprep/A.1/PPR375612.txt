@@ -1,0 +1,225 @@
+Evolution of SARS-CoV-2 in immunocompromised hosts may result in novel variants with changed properties, but the mode of selection underlying this process remains unclear
+1
+. While escape from humoral immunity certainly plays a role in intra-host evolution
+2–4
+, escape from cellular immunity is poorly understood
+5–7
+. Here, we report a case of long-term COVID-19 in an immunocompromised patient with non-Hodgkin's lymphoma who received treatment with rituximab and lacked neutralizing antibodies. Over the 318 days of the disease, the SARS-CoV-2 genome gained a total of 40 changes, 34 of which were present by the end of the study period. Among the acquired mutations, 12 reduced or prevented binding of known immunogenic SARS-CoV-2 HLA class I antigens, suggesting that virus immunoediting is largely driven by cytotoxic CD8 T cell clones. The two changes with the strongest effect, nsp3:T504A and nsp3:T504P, were experimentally assessed in a cytotoxic assay of the patient's CD8 T cells. Both these changes were associated with immune escape, with a stronger effect observed for nsp3:T504P, the change which ultimately got fixed. Together, these results suggest that CD8 T cell escape may be an underappreciated contributor to SARS-CoV-2 evolution in humans..
+
+SARS-CoV-2 evolution in the global human population has involved accumulation of mutations that increase viral transmissibility and cause immune escape
+1
+. A similar set of mutations is also observed in intra-host evolution of SARS-CoV-2 during long-term COVID-19, particularly in immunocompromised patients
+2–4, 8–15
+ treated with monoclonal antibodies and/or convalescent plasma
+13,16
+. Both the mutations that spread rapidly in the general population and those that accumulate in intra-host evolution facilitate entry of viral particles into host cells
+17,18
+ and/or affect binding sites of neutralising antibodies
+2–4,19,20
+..
+
+In addition to escape from humoral immunity, SARS-CoV-2 evolution can also involve escape from cellular response. Indeed, the landscape of antigen presentation, which is determined by the particular set of patient's HLA alleles, has a significant impact on the course of COVID-19
+21–23
+. Consistently, in the general population, SARS-CoV-2 acquires changes that reduce binding of viral antigens to HLA I molecules, weakening antigen recognition by corresponding cytotoxic T clones
+5,6
+. However, at the population level, accumulation of T cell escape mutations is complicated by the diversity of HLA molecules, and the changes that lie at the origin of SARS-CoV-2 variants of concern are insignificant for CD4 and CD8 T cell reactivity in most patients
+7
+. Long-term COVID-19 may facilitate T cell escape, as the selection pressure favoring such an escape remains constant throughout the disease. Indeed, intra-host escape from T cells of both types was described for other long-term infections including HIV-1 and hepatitis C
+24–28
+. Here, we report a case of long-term evolution of SARS-CoV-2 in an immunocompromised patient involving escape from T cell mediated immunity..
+
+Patient S, a female previously diagnosed with Non-Hodgkin's diffuse B-cell lymphoma IV stage B, tested positive for SARS-CoV-2 for the first time on April 17, 2020. In the preceding week, she had had close contact with patient A, who later died of COVID-19 pneumonia; paraffin blocks with post-mortem material were subsequently analyzed for SARS-CoV-2 by PCR, followed by RNA extraction and sequencing, as a probable source of infection. Patient S has undergone three periods of positive tests, alternating with two periods of negative tests, between April 17, 2020 and March 1, 2021, spanning a total of 318 days (see Fig. 1a, Extended Data Table 1). She had symptoms of severe COVID-19 between June 6 - September 1, 2020 (Extended Data Fig. 1a,b), and again between January 9 - March 1, 2021 (Extended Data Fig. 1c), including subfebrile fever and pneumonia with typical COVID-19 patterns. We isolated live virus from swab samples obtained in both of these periods (August 20, 2020 and February 19, 2021)..
+
+Between April 30, 2020 and February 16, 2021, patient S received several cycles of chemotherapy under several different regimens, including monoclonal antibody rituximab. On December 28, 2020, autologous haematopoietic stem cell transplantation (auto-HSCT) was performed. In January 2021, near the end of the study period, patient S received three doses of convalescent plasma. Six nasopharyngeal swab samples suitable for next generation sequencing, together spanning 308 days of the disease, were obtained, alongside two blood samples (Extended Data Table 1)..
+
+Whole-genome sequencing was performed on six nasopharyngeal swab samples obtained from patient S in August 2020 - February 2021, as well as in an April 2020 sample obtained from patient A (Fig. 1a). Phylogenetic analysis (Supplementary Note 1) indicates that both PCR positive periods of patient S in August 2020 and January-February 2021 constitute a single infection. Indeed, all patient S samples form a single clade within the B.1.1 lineage on the global SARS-CoV-2 phylogeny, with the patient A sample as its ancestor (Fig. 1b). No other Russian samples available in GISAID nest within the patient S clade (Fig. 1b), indicating that the virus evolved in patient S has not seeded observable onward transmission..
+
+The two August 2020 samples were characterised respectively by 12 and 18 mutations specific to patient S. In turn, the January-February 2021 samples gained additional 10 to 21 changes. Overall, a total of 40 changes compared to the ancestral state were observed in at least one of the samples, 34 of which were observed by the end of the study period (Supplementary Note 2). This corresponds to the point substitution rate of 15.3×10−4 per nucleotide per year, which substantially exceeds the evolutionary rate of SARS-CoV-2 in the general population (permutation test, p<10−4; Fig. 1c). Nearly all accumulated changes were detected in samples obtained before convalescent plasma transfusions (Fig. 1a,d; Extended Data Table 1), indicating that these transfusions could not have affected the observed viral evolution..
+
+The accumulated mutations were distributed throughout the viral genome, affecting 18 of the 26 viral genes (Fig. 1d). However, there was an excess of nonsynonymous changes in the genes encoding surface proteins: out of the 25 changes, 8 (41%) fell in the spike gene which by length constitutes 13% of the viral genome, while 2 (9%) fell in the envelope gene which constitutes 0.8% of the genome (two-sided Binomial test, p = 0.018 and 0.016, respectively). Many of the observed amino acid substitutions were indicative of positive selection in the general population (Supplementary Note 3), and some were previously implicated in antibody escape (Supplementary Note 3). However, virus evolution did not lead to detectable reduction in sensitivity to neutralizing antibodies by the end of the study period compared to a prototype viral strain (Extended Data Fig. 3)..
+
+To understand the functional features of immune response in patient S, we analysed her blood samples collected at multiple timepoints spanning the course of the disease. Flow cytometry revealed the absence of B lymphocytes throughout the period of PCR positivity (Extended Data Fig. 4a). Blood serum samples were also analyzed by ELISA for IgG antibodies specific to the SARS-CoV-2 S-antigen; a weak IgG response was registered in one of the samples but no response in the remaining samples. No neutralizing antibodies were detected at any time point by a VN assay using live SARS-CoV-2 strain (Extended Data Table 1)..
+
+By contrast, a pronounced SARS-CoV-2 specific T-cell response was detected. Indeed, in vitro stimulation with an overlapping peptide pool (OPP) caused the expansion of SARS-CoV-2-specific CD4 and CD8 effector memory T-cells (Tem) at both time points (Extended Data Fig. 4b,c)..
+
+Given the lack of B-cell but the presence of T-cell immune response in patient S, we hypothesized that the 31 amino acid sequence-altering mutations acquired by SARS-CoV-2 may have led to escape from T cell immunity. First, we asked if these mutations affect presentation of the peptides carrying them by the HLA alleles of patient S (Extended Data Table 3). For this, we adapted an existing pipeline
+29
+ to calculate the PHBR (patient harmonic best rank) score (Fig. 2a) for both the ancestral and the derived state at site of each of the 30 mutations (except ORF8:Q18*, Supplementary Note 4). Most sites could be presented in their ancestral state by at least one HLA allele of both classes (27 out of 30 by HLA I, and 24 out of 30 by HLA II). We found that five of the observed mutations substantially (>3-fold) increased the PHBR score for the peptides presented by HLA I, indicating impaired presentation (Fig. 2b). One of these mutations, S:del141-144, also increased the PHBR score for HLA II (Fig. 2c)..
+
+While an increase in PHBR score can help a peptide escape antigen presentation, this can only affect T cell response if the corresponding peptide is recognised by T cells. To specifically address the effect of mutations on immunogenic peptides, we used IEDB
+30
+ to obtain the list of SARS-CoV-2 peptides that were shown to be immunogenic in complexes with the HLA alleles carried by patient S. There were 17 such peptides for HLA I alleles, together overlapping the sites of 11 of the mutations (some of the sites were covered by more than one peptide) (Extended Data Table 4). All these mutations were fixed in the course of intra-host evolution by the end of the study period. No HLA class II immunogenic peptides covering the changed sites were found in IEDB. To focus on the immunogenic peptides, we calculated the imBR (immunogenic best rank) for each of these sites in the ancestral state and compared it to the corresponding value for the derived state. The mutations strongly decreased presentation of immunogenic peptides, indicating that they cause escape from CD8 T cell response (Fig. 2b,d). Together with ORF8:Q18* which prevented presentation of the bulk of the ORF8 protein (Supplementary Note 4), this totals to 12 changes with cytotoxic T cell escape effect..
+
+Next, we assessed the change in T-cell response caused by the observed mutations. We focused on the two mutations causing the largest PHBR fold change (Fig. 2b). These were the two mutations at position 504 of the nsp3 protein, nsp3:T504A and nsp3:T504P, which were fixed sequentially at the first (T1, August 20, 2020) and the second (T2, February 19, 2021) sampled time points respectively (Fig. 1d). We asked how well the peptides covering these three amino acid variants elicited T-cell response in samples corresponding to these time points. We used the highest ranking peptides covering the mutated site in its ancestral (PTDNYITTY) and derived (PADNYITTY, PPDNYITTY) states; PTDNYITTY was previously shown to be immunogenic in complex with the HLA-A:01*01 allele which is carried by patient S
+31–33
+..
+
+In the T1 sample, when just nsp3:T504A was detected at intermediate frequencies (Fig. 1d), in vitro stimulation of CD8+ T cells indicated response to both the ancestral (PTDNYITTY) and the derived (PADNYITTY) peptide changed by nsp3:T504A (Fig. 3). This response was mediated primarily by polyfunctional IFNγ+IL2−TNFα+ effector memory T-cells. The response to PADNYITTY was slightly weaker, suggesting a partial escape caused by nsp3:T504A. Stimulation by PPDNYITTY corresponding to the nsp3:T504P allele caused no cytokine response in the T1 sample. In the T2 sample (Fig. 1a), when nsp3:T504P was already fixed, still no cytokine response to PPDNYITTY was observed, confirming invisibility of this peptide to cellular immune response due to weak binding with HLA. Response to PTDNYITTY and PADNYITTY also vanished at T2; this could indicate that the CD8 T cell clones specific to T and A amino acids became irrelevant with the loss of the corresponding viral variants, and got no antigenic re-stimulation that could drive clonal expansion after auto-HSCT
+34
+..
+
+It has been suggested that escape from humoral immunity in immunosuppressed patients may give rise to SARS-CoV-2 strains with increased fitness in the general population
+1
+. Similarly, escape from cellular immunity in the course of intra-host evolution could affect immune response to descendant SARS-CoV-2 strains outside the host where it evolved. We aimed to estimate the possible effect of the viral evolution in patient S for the human population at large. For this, we compared the BR (Fig. 2a) fold change caused by the mutations observed in patient S for the globally most frequent HLA alleles of each family that together cover 95% of worldwide population frequency
+35,36
+. This set of alleles includes all 12 HLA alleles of both classes (I and II) of patient S, which happen to be quite frequent globally (Extended Data Table 3)..
+
+As expected, the mutations observed in immunogenic epitopes tended to escape the HLA I alleles of patient S to a larger extent than other frequent HLA I alleles (Fig. 4a,b); no such difference was observed for HLA II alleles (Fig. 4c,d). Nevertheless, these same mutations also reduced binding for other globally frequent HLA I alleles (mean BR fold change = 1.59, Fig. 4e), although not HLA II alleles (mean fold change = 1.02, Fig. 4f). This indicates that the within-host evolution in patient S indeed could facilitate escape from cytotoxic T cells in the global population..
+
+We have described a case of unprecedentedly long COVID-19 characterized by a large amount of intrahost evolution. For over 10 months, an evolving SARS-CoV-2 lineage accumulated changes at a rate which substantially exceeded that in the general population, suggesting prevalent viral adaptation. Some of the observed changes recapitulated mutations previously observed in other immunocompromised patients and/or variants of concern (Extended Data Fig. 7, Supplementary Note 3). This is consistent with the hypothesis that immunocompromised patients represent a hotspot of viral adaptation, causing “saltations” in the otherwise clock-like evolutionary rate of SARS-CoV-2
+1
+; notably, such a jump could have happened at the origin of the B.1.1.7 (“alpha”) variant which has attained global dominance in early 2021
+1,37
+..
+
+Unlike previously described cases, however, the case described here is characterized by an unusual immune environment. The absence of own B cells, convalescent plasma therapy or monoclonal antibodies therapy during most of the study period indicates that the bulk of viral mutations have accumulated in the absence of humoral immune response. Instead, our data shows that evolution was largely driven by T cell escape. Our computational analysis revealed that many mutations changed the amino acid composition of known immunogenic CD8 T cell antigens and worsened or prevented their presentations on HLA class I alleles of the patient. We experimentally validated the escape effect of two of these mutations..
+
+These results indicate that immunoediting by cytotoxic CD8 clones is an underappreciated factor in intrahost evolution of SARS-CoV-2. Similar to antibody escape, the T cell escape mutations acquired within an individual host may give rise to new epidemiologically important variants if they spill over to the general population. We predict that the changes observed in this study would also substantially affect SARS-CoV-2 antigenicity in the general population in case of onward transmission of the evolved variant. While no such transmission was detected in this case, our results emphasize an additional dimension of SARS-CoV-2 evolution which merits careful surveillance..
+
+Special informed consent was obtained from the patient before the specimen for additional tests were taken. RT-PCR of swabs and sequencing of viral RNA was performed in the Smorodintsev Influenza Research Institute. All specimens were obtained and transported according to standard sampling protocol. RNA from nasopharyngeal swabs was extracted using QIAamp Viral RNA Mini Kit (QIAGEN). RNA from patient A post-mortem FFPE specimens was extracted using RNeasy FFPE Kit (QIAGEN). Samples were tested for SARS-CoV-2 viral RNA by real-time RT-PCR on thermal cycler CFX96 (BioRad) using “Intifica SARS-CoV-2” Kit (Alkor Bio). Whole-genome amplification of SARS-CoV-2 virus genome for samples from August 2020 and from January 2021 was performed using BioMaster RT-PCR Premium kit (Biolabmix) and primers from ARTIC Network protocol version 3
+38
+ and ARTIC Network protocol version 1
+39
+ with modifications, respectively. Nextera XT (Illumina) kit was used for library preparation in August 2020 and DNA Prep (Illumina) kit was used for library preparation in January 2021, and the libraries were sequenced using the MiSeq platform (Illumina) with version 3 600-cycle chemistry..
+
+The DNA of patient S was extracted from peripheral blood using QIAmp Blood DNA Mini kit. DNA sample was prepared and captured with the SureSelect Human All Exon kit v7 (Agilent), and whole exome was sequenced using MGISEQ-2000 at Pirogov Russian National Research Medical University (Moscow, Russia)..
+
+Flow cytometry assays were performed using cryopreserved PBMCs. Cells were isolated from patients' heparinized blood by gradient centrifugation with lymphocyte separation medium Lymphosep (BioWest), frozen in freezing medium containing 10% DMSO (AppliChem) in FBS (Gibco) and stored in liquid nitrogen until usage..
+
+For B-cells analysis presented in Extended Data Fig. 4a, PBMCs samples were towed in a 37ºС water bath and stained with fluorescently-labeled antibodies to surface markers CD19-APC/Fire 750 (Clone: SJ25C1, Biolegend), BV421-CD20 (Clone: 2H7, Biolegend), CD3-BV605 (Clone: OKT3, Biolegend). PBMCs from a healthy volunteer were used as a control. B-cells were identified as a live CD3-/CD19+/CD20+ population..
+
+The T-cell response was assessed by intracellular cytokine staining. For further analysis, cells were towed in a 37ºС water bath and stimulated for 6 hours with 5 μg/ml of the overlapping peptide pool mixture containing the entire Nucleocapsid (N) (GenScript) and RBD region of SARS-CoV2 Spike (S) protein (Miltenyi Biotec) (for Extended Data Fig. 4b,c) or one of the peptides PTDNYITTY, PADNYITTY or PPDNYITTY (for Fig. 3) in the RPMI medium (Gibco), containing 10% of FBS (Gibco), 1% of penicillin-streptomycin solution (Gibco), Brefeldin A (BD) and costimulatory CD28/CD49 reagent (BD). Negative control samples were stimulated with the complete medium; for positive control, PMA/ionomycin (Sigma) combination was used. Surface markers were stained with fluorescent antibody panel containing CD3-APC/Fire (Clone: SK7, Biolegend), CD4-AF647 (Clone: SK3, Biolegend), CD8a-AF600 (Clone: HIT8a, Biolegend), CD45RA-PE/Dazzle (Clone: HI100, Biolegend), CD197-BV421 (Clone: G043H7, Biolegend). Intracellular cytokines were stained using IL-2-FITC (Clone: MQ1-17H12, Biolegend), IFNγ-PE (Clone: 45.15, Beckman Coulter), TNFα-BV785 (Clone: MAb11, Biolegend) antibodies. Cells were permeabilized with BD Cytofix/Cytoperm™ Fixation/Permeabilization Solution Kit (BD) according to the manufacturer's instructions. Data were collected on a CytoFlex flow cytometer (Beckman Coulter). The results were analyzed using the Kaluza Analysis v2.1 program (Beckman Coulter). Interleukin (IL) 2, interferon γ (IFNγ) and tumor necrosis factor (TNFα) response was measured in effector memory T cells (Tem). To identify Tem, lymphocytes were gated based on their size and granularity. Live CD3+T cells were identified and subdivided into CD4+ and CD8+ T cells. These populations were further subdivided based on the expression of CD45RA and CD197(CCR7). CD3+CD4+ or CD3+CD8+ lymphocytes with the CD45RA-/CCR7- phenotype were considered Tem cells. Cut-off values for the definition of cytokine-producing T cell responses stimulated with SARS-CoV-2 peptides were ≥5 events and a ≥2-fold difference in the magnitude of TNF+, IFNγ+ or IL-2+ Tem cells compared to the non stimulated control..
+
+Live viruses (samples 30579V and 30769V from August 20, 2020 and 22748V and 23680V from February 19, 2020) were isolated from patient S swab samples in Vero E6 cells (IZSLER #BSCL87). Culture was inoculated for 2 hours with swab material diluted 1/10 in DMEM (Biolot) supplemented with 2% HI-FBS (Gibco), 1% anti-anti (Gibco) and then incubated for 3 days until first CPE signs. Samples were subsequently passaged one time in Vero cells (ATCC #CCL81)..
+
+A total of 16 serum samples were obtained during the first wave of the COVID-19 pandemic in spring-summer 2020 from recovered volunteers with PCR-confirmed SARS-CoV-2 infection and tested in a microneutralization assay..
+
+Microneutralization was performed with hCoV-19/St_Petersburg-3524V/2020 virus (GISAID EPI_ISL_415710, with the ΔF combination of mutations absent, designated as Reference), and 30769V and 23680V viruses isolated from the patient S (designated patient S August 2020 and patient S January 2021, respectively). Serum was heat inactivated (56°C, 60 min), serially diluted 2-fold starting from 1/10, mixed with 25 TCID50 of virus, incubated for 1h at 37°C and inoculated into Vero cells in triplicates in 96-well plate. 5 days after inoculation, neutralizing antibody titer was calculated as the reciprocal of the highest serum dilution preventing CPE..
+
+Serum samples obtained from patient S were tested for virus specific antibodies in ELISA and in microneutralization assay with either Reference or patient S viruses. ELISA was performed with "SARS-CoV-2-IgG-IFA-BEST" (VEKTOR BEST #D-5501) according to manufacturer's instructions..
+
+HLA typing was performed using a commercial kit according to the manufacturer's instructions (PARallele™ HLA solution v3, Parseq Lab). HLA-A, -B, -C, -DRB1 and -DQB1 loci were genotyped with 3-field resolution. Simultaneously, HLA calling was performed from WES data using HLA-HD version 1.3.0
+40
+ with IPD-IMGT/HLA database Release Version 3.43. The inferred alleles are listed in Extended Data Table 3..
+
+Using HLA-2-Haplo software tool
+41
+ this set of alleles was split into two haplotypes presented in Extended Data Table 3. A European population database was used in this procedure. An a-posteriori probability of found combination was 97.6%. As one can see, the found haplotypes are among the most common variants in the European population..
+
+Raw reads were trimmed with Trimmomatic version 0.39
+42
+ to remove adapter sequences and low-quality ends. Trimmed reads were mapped onto the Wuhan-Hu-1 (MN908947.3) reference genome with BWA MEM version 0.7.17
+43
+. The following reads were then removed from the mapping: reads with abnormal insert length to read ratio (greater than 10 or less than 0.8), reads with insert length greater than 1100, reads with more than 50% soft-clipped bases. Soft-clipped ends were trimmed from the remaining reads, 10 nucleotides were cropped from read ends using custom scripts, and primer sequences were removed with ivar version 1.3
+44
+. Only reads with at least 30 nucleotides remaining after the procedure were kept. SNV and short indel calling was done with LoFreq version 2.1.5
+45
+, with SNVs considered consensus if they were covered by at least 4 reads and supported by more than 50% of those reads; indels were considered consensus if they were covered by at least 20 reads with at least 50% of those supporting the variant. Regions that were covered by fewer than 2 reads or that were covered by 2 or 3 reads and called non-reference were masked as NC. Consensus was created by bcftools version 1.9
+46,47
+ consensus..
+
+255,389 genomes of SARS-CoV-2 were downloaded from GISAID on December 12, 2020, (Supplementary Data ACKN) and aligned with MAFFT v7.453
+48
+ against the reference genome Wuhan-Hu-1/2019 (NCBI ID: MN908947.3
+49
+ with --addfragments --keeplength options. 100 nucleotides from the beginning and from the end of the alignment were trimmed. After that, we excluded sequences (1) shorter than 29,000 bp, (2) with more than 300 positions of missing data (Ns) and gaps, (3) excluded by Nextstrain, (4) from animals other than minks, or (5) corresponding to resequencing of the same patients, leaving us with 201,948 sequences. Identical sequences were then collapsed within the country and host and annotated by the Pangolin package version 2.1.0
+50
+. To this dataset, we added the two patient S samples obtained in August, 2020 as well as the patient A sample. As sequences of patient S belonged to the B.1.1 lineage, we further only kept sequences annotated as B.1.1, excluding a large clade defined by mutation G25563T (GH clade in GISAID
+51
+ nomenclature). We additionally masked the highly homoplasic site 11083. The final set of 49,083 sequences was used to construct the phylogenetic tree with IQ-Tree v2.1.1
+52
+ under the GTR substitution model and ‘-fast’ option. Ancestral sequences at the internal tree nodes were reconstructed with TreeTime v. 0.8.0
+53
+. Having ensured that the two patient S samples form a clade rooted at the patient A sample and not carrying any samples other than those of patient S, we then separately reconstructed the phylogeny of all six samples of patient S, rooted it with patient A, and manually added the resulting clade to the downsampled B.1.1 tree. For visualisation purposes, the tree was downsampled to contain 1% of samples, including the patient A sample and the complete clade containing all patient S samples..
+
+To estimate the molecular clock rate of the patient S lineage (Fig. 1c), we downloaded all sequences available in GISAID on May 31, 2021, filtered them as described above, and subsampled the filtered dataset to 50,000 samples preserving all Russian sequences. To this dataset, we added the six patient S samples and the ancestral patient A sample. We then aligned the obtained 50,007 sequences against the reference sequence and reconstructed the phylogeny with Fasttree version 2.1.11
+54
+. Finally, we computed root-to-tip distances and calculated the slope of the root-to-tip distance vs. sampling dates regression line for the three separate datasets: (1) patient S samples, (2) B.1.1.7 samples, and (3) the remaining samples from the subsampled GISAID dataset. To validate the difference between the estimated clock rates for patient S samples and samples belonging to dataset (3), we subsampled this dataset, picking six random samples collected on the same dates as the patient S samples, and computed the linear regression slope, in each of the 10,000 trials. (For dataset (2), this procedure was impossible because there were no B.1.1.7 samples in August 2020). None of the 10,000 samples resulted in the estimated clock rate above 15.3*10−4, implying the p-value of <0.0001..
+
+To study the effect of mutations in SARS-CoV-2 proteins on their antigen presentation, we adapted a pipeline from Marty and et.
+29
+ (Fig. 2a). For each mutated site in both its ancestral and derived states, we inferred all possible peptides of certain lengths overlapping it, and calculated their percentile ranks (Rank_El) relative to a set of random natural peptides by netMHCpan version 4.1 and netMHCIIpan version 4.0
+55
+ for HLA I and HLA II respectively. We used peptide lengths between 8 and 12 amino acids for HLA I alleles, and between 12 and 18 amino acids for HLA II. If the mutated site was not presented by any of the HLA alleles either in the ancestral or derived states, we excluded it from analysis. To exclude non-presenting peptides, we used the percentile rank < 2% threshold for HLA I, and < 10% threshold for HLA II, as recommended by the netMHCpan manual. For derived states of deletions, we extended the peptide in the C-direction as necessary to preserve its length. We paired the predicted A and B chains of HLA class II alleles as suggested in the tool allele list: HLA-DQA10101-DQB10501, HLA-DQA10501-DQB10201, HLA-DPA10103-DPB10402, HLA-DPA10103-DPB10401, DRB1_0301, DRB1_0101. We excluded the stop-codon producing mutation ORF8:Q18* from comparisons of ancestral and derived states, since the corresponding values for the derived state were undefined..
+
+As in Marty et al.
+29
+, we used the best percentile rank (BR) among all possible peptides overlapping the mutated site as the presentation score of this site for the particular HLA allele. To estimate the overall presentation of the site in the patient, we calculated the patient harmonic best rank (PHBR), i.e., the harmonic mean of BRs of HLA alleles of the same class. To compare the effect of a mutation on site presentation, we calculated the fold change of PHBR score as the ratio of the derived PHBR to the ancestral PHBR (so that fold change > 1 indicates weakening of presentation)..
+
+To focus on the peptides shown to be immunogenic to T cells in other SARS-CoV-2 infected patients carrying the same HLA alleles as patient S, we used IEDB30 (Immune Epitope Database and Analysis Resource, accessed on June 1, 2021) with the “positive assay only” filter. For those sites inferred to be contained in immunogenic peptide, we calculated the best percentile rank of immunogenic peptide overlapping the site of mutation (imBR)..
+
+To check the effect of detected SARS-CoV-2 mutations on presentation by the HLA alleles other than those of patient S, we calculated the BR scores as explained above for the most frequent classical HLA alleles of each family that together represented 95% of the HLA alleles in the world population. The list and frequencies of such alleles were taken from Sarkisova et al. and Solberg et al.
+35,36
+..
+
+For most mutations detected in immunogenic epitopes, at least one of the HLA I alleles of patient S demonstrated extreme values of BR fold change in comparison with other alleles (Fig. 4a). To check the probability of such an observation happening by chance, we performed a permutation test, calculating the probability that a randomly chosen set of alleles has the same or a more extreme value of mean BR fold change across all mutations overlapped by immunogenic peptides as that of alleles of patient S. This was true for 33 out of 100000 permutations, corresponding to p = 0.0033 (Fig. 4b). None of the HLA II immunogenic epitopes overlapped any of the mutated sites; the only mutated site adjacent to such an epitope (S:S50L) did not stand out in the permutation test (p = 0.6996; Fig. 4c,d)..
+
+To compare the effects of mutations between different HLA alleles in Fig. 4e,f, we calculated the mean BR across all changed sites. This analysis again excluded ORF8:Q18*, which nevertheless prevented production of high-affinity epitopes for most alleles..
+
+Data analysis was performed in R version 4.0.0
+56
+, and figures were visualised with ggplot2 package version 3.3.2
+57
+. SARS-CoV-2 phylogenetic tree was visualized with ITOL version 6
+58
+..
+
+CT scans of patient S lungs obtained by Optima 660 (GE) CT-scanner with standard in-house protocols without contrast enhancement in June 2020 (a), August 2020 (b) and January 2021 (c). In both lungs in (a), (b), (c) there were bilateral, multifocal and diffuse ground-glass opacifications with small regions of subpleural consolidations, but without predominant distribution in (a), mild reticulation and regions of architectural distortion with the formation of subpleural bands in (b), small regions of mild reticulation, vascular dilatation, and regions of linear consolidation with the formation of bands in (c). CT-patterns can be determined as typical for COVID-19 pulmonary disease according to the Radiological Society of North America expert consensus
+72
+..
+
+The abridged phylogeny of the B.1.1 lineage phylogeny is shown. Only those samples are shown which met either of the following conditions: (i) carried any of the differences found between the B.1.1 root and the patient S. sample (black cells), and these mutations had occurred in the branch immediately descendant from the B.1.1 root; or (ii) carried either the S:Δ69-70HV (blue cells) or the S:Y435F (yellow cells) mutation, independent of the timing of their origin. Additionally, we retained the samples from the branches that separate the cluster 5 clade from the rest of the phylogeny (two additional mutations, purple cells). Samples that didn't meet these criteria were collapsed, with the number of such samples shown in parentheses. The retained samples were then grouped by country, with names formatted as ‘country|date of the earliest sample|number of samples’. B.1.1.7 and cluster 5 samples are shaded as in Fig. 1b. The presence of the above-mentioned mutations is indicated by the matrix at the right. Two mutations distinguishing cluster 5 from the B.1.1 root (purple) reject uniting patient S and cluster 5 in the same clade. For patient S, mutations with allele frequency below 50% in all three samples are shown in grey. Missing data (‘N’s in sequences) are shown as crosses. FFPE (black dot), patient A sample (the presumed source of infection for patient S)..
+
+Neutralizing activity of serum obtained from 16 convalescent donors against patient S virus samples obtained on August 20, 2020 and February 19, 2021, as well as a reference viral strain of the B.1 lineage isolated from a swab sample in the beginning of the pandemic in Russia in March 2020. The August 20, 2020 isolate demonstrated reduced sensitivity to neutralizing antibodies compared to the reference strain, with the geometric mean fold decrease of 1.6 (CI 1.2-2.0, range 0.8-4.0). The February 19, 2021 isolate carried no signature of reduced sensitivity, and was indistinguishable in its sensitivity to neutralizing antibodies from the reference strain. Each sample was tested in triplicate and GMTs are plotted. Mann-Whitney-Wilcoxon test with Holm adjustments was used for pairwise comparisons..
+
+
+a: Flow cytometry plots showing the absence of B cells); b: CD4 and CD8 T-cell responses to SARS-CoV-2 overlapping peptide pools (N+RBD). Representative flow cytometry plots showing the cytokine profiles of SARS-CoV-2-specific CD4 and CD8 effector memory T cells after the stimulation; c: Bar-plots representing the percentage of different cytokine-producing populations of SARS-CoV-2-specific CD4 and CD8 T cells after background subtraction (data from the mock-stimulated sample were subtracted from peptide-stimulated samples). Time points T1 and T2 correspond to August 20, 2020 and February 16, 2021 respectively. Stimulation with Nucleocapsid (N) and RBD region of SARS-CoV2 Spike (S) protein OPP provoked expansion of both SARS-CoV-2-specific CD4 and CD8 T cells; the CD4 T-cell response predominated over CD8, as usual for COVID-19 patients
+71,74
+..
+
+Shown are the locations of mutations in the amino acid sequence encoded by the spike gene. Rows, from top to bottom: VOCs Delta (B.1.617.2), Beta (B.1.351), Alpha (B.1.1.7); Cluster 5 variant; immunosuppressed individual with persistent infection for 290 days (Williamson et al., 2021); three patients with acute lymphoblastic leukemia who were persistently positive for SARS-CoV-2 (Truong et al., 2021); immunosuppressed individual treated with immunoglobulin (Sepulcri et al. 2021); immunosuppressed individual treated with convalescent plasma (Khatamzas et al. 2021); immunosuppressed individual treated with convalescent plasma (Kemp et al. 2020); immunosuppressed individual treated with Regeneron monoclonal antibody cocktail (Choi et al. 2020; only those mutations present at the final timepoint (T3, day 152) are shown); immunocompromised patient without convalescent plasma treatment (Borges et al., 2021); immunocompromised individual treated with convalescent plasma (Avanzato et al. 2020); immunosuppressed individual not treated with convalescent plasma or antibodies (patient S, this study). Triangles, point mutations; rectangles, deletions. Bright colors represent mutations observed in at least two studies. Mutations labelled on top in black were observed in multiple lineages/experiments, among those, mutations that are present in Patient S are highlighted with bold font..
+
+The list of mutations and their frequencies in sequencing reads obtained from patient S swab samples. Only variants reaching 30% frequency at least in one of the samples are shown. The consensus variants are highlighted in blue, nonsynonymous nucleotide substitutions are in bold. NC (no coverage) indicates coverage depth less than 4 reads. "Selection" and "Trend Z" columns mark positions that experience positive selection and increase of corresponding changes in frequency, according to observablehq.com
+51
+ accessed on 31th March 2020..
+
+Results of HLA calling from WES data using HLA-HD. Classical HLA genes A, B, C, DRB1 and DQB1 were additionally confirmed with conventional genotyping. These alleles were further combined into haplotypes via HLA-2-Haplo software. Thus, haplotype 1 corresponds to A - 01:01, B - 08:01, C - 07:01, DRB1 - 03:01, DQB1 - 02:01 (population frequency 5.98e-2); and haplotype 2 corresponds to A - 03:01, B - 07:02, C - 07:02, DRB1 - 01:01, DQB1 - 05:01 (population frequency 3.37e-3). Worldwide allele frequencies are presented according to ref 
+35,36
+..
+
+We are thankful to patient S for participation in this study. This study was supported by RFBR project 20-04-60556 to G.A.B. E.I.A. was supported by RFBR project 20-34-90153. D.M.C. was supported by a grant from the Ministry of Science and Higher Education of the Russian Federation (075-15-2019-1789). D.M.D, A.B.K. and D.A.L. were supported by the Governmental contract “Genetic Analysis of SARS-CoV-2 in Russia in the first wave of COVID-19 pandemic”. We are thankful to Mikhail Shugay, Aleksandr Tashkeev and Vadim Karnauhov for helpful discussions. We thank all of the authors who have contributed genome data on GISAID (see Supplementary Data 1 for the list)..
+
+Sequence data is available from the Sequence Read Archive: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749008/ (SRA: PRJNA749008, Supplementary Data 1). Consensus sequences are available from the GISAID with identifiers, presented in Supplementary Data 1. Code is available at https://github.com/EvgeniiaAlekseeva/patient_S..
+
+
+Author contributions
+.
+
+O.V.S. provided the detailed clinical picture and participated in study design; E.I.A. conceived and performed analysis of mutation escape effects; M.S. cultured the virus and performed neutralization assay; A.V.F., K.S.K. and A.A.I. produced sequencing data; T.S.S. performed HLA genotyping; K.A.V., A.-P.S. and M.A.S. performed T-cells assays; K.R.S., E.R.N., S.K.G., G.V.K. and G.A.B. performed genome analysis; K.R.S. analysed the evolutionary rate; E.A.B. performed HLA-calling and HLA-haplotyping; J.V.Z. collected samples and communicated with the hospital; A.N.K. described the clinical picture and formalised the patient agreement; O.V.L. described the CT scans; I.A.S. is the patient's attending doctor; V.V.R. provided detailed diagnostic and treatment information about lymphoma; N.V.M. coordinated screening for SARS-CoV-2 between the oncohematology department and the reference laboratory; D.A.L. provided coordination, supervision and funding acquisition; D.M.D. participated in study design and logistics; A.B.K., D.M.C. and G.A.B. planned the study; O.V.S., E.I.A., K.R.S., E.R.N., S.K.G., A.B.K., D.M.C. and G.A.B. drafted the manuscript; E.I.A. and G.A.B. wrote the manuscript, with contributions from all authors..
+
+
+Competing Interest Declaration
+.
+
+Authors declare no competing interests..
+
+
+Ethics declaration
+.
+
+The study was approved by the Local Ethics Review Board of the Smorodintsev Research Institute of Influenza and by the Biomedical Ethics Committee of the I.P. Pavlov First Saint Petersburg State Medical University. All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived..
+
+
+a: The timeline of patient S disease and therapy. b: The phylogenetic tree of B.1.1 pruned to contain a random set of 1% of all samples, including the patient A sample (black dot) and the complete clade carrying the patient S samples (red dots). The 2020 samples carried the ΔF combination of mutations (S:Δ69-70HV and S:Y435F; Supplementary Note 3) marked in the two inner circles in yellow and blue. The B.1.1.7 lineage and cluster 5 are shaded. c: Regression of root-to-tip genetic distances vs. sampling dates, for patient S samples (together with the ancestral sample of Patient A), B.1.1.7 lineage GISAID samples, and other GISAID samples. Estimated slopes (molecular clock rates) are provided in the inset. In b and c, the consensus nucleotides (i.e., those supported by more than 50% of the reads, RF>50%) were used to position patient S and A samples. d: Variant frequencies in the six patient S samples. All consensus variants (RF>50%, N=40) and nonconsensus variants with 30%<RF<50% (N=7) are shown..
+
+
+a: Calculation of site presentation scores (adapted from Marty et al.
+29
+). b, c: Change of PHBR scores caused by mutations for HLA I (b) and HLA II (c) respectively. Dot color corresponds to PHBR fold change; the mutations that substantially (>3-fold) increase PHBR are signed. Sites that did not bind any of the patient's HLA alleles both in ancestral and derived states are not shown. d: Comparison of imBR scores for the mutated sites in their ancestral and derived states. The level of significance is calculated by the Wilcoxon sign-rank test..
+
+
+a: Representative flow cytometry plots showing the cytokine profiles of SARS-CoV-2-specific CD8 effector memory T cells after stimulation. b: Bar plots representing the percentage of different cytokine-producing populations of SARS-CoV-2-specific CD8 T cells after background subtraction (data from the mock-stimulated sample were subtracted from peptide-stimulated samples). T1, August 2020 sample; T2, February 2021 sample..
+
+
+a, c: The effect of each of the 30 mutations observed in SARS-CoV-2 of patient S on T cell immune escape, for each of the HLA I (a) or HLA II (c) alleles carried by patient A (red) and frequent globally (grey). The mutations that change immunogenic peptides (for HLA I) or are adjacent to such peptides (for HLA II) according to IEDB are highlighted. Alleles that do not present the corresponding position in both ancestral and derived state are not shown. For the mutations that correspond to >5-fold increase in BR, the corresponding HLA alleles are signed. b, d: Distribution of mean BPR fold changes among immunogenic positions for HLA I (b) or II (d) alleles, based on 105 random generations of individual allele composition; the red dashed line is the percentile corresponding to the allele composition of patient S. e, f: The sum effect of the amino acid changing mutations observed in SARS-CoV-2 of patient S on antigen presentation by the globally most frequent HLA class I (e) and class II (f). Alleles of patient S are in red..
+

@@ -1,0 +1,8 @@
+These authors contributed equally to the work.
+
+These authors contributed equally to the work.
+
+The COVID19 pandemic continues to have devastating consequences on health and economy, even after the approval of safe and effective vaccines. Waning immunity, the emergence of variants of concern, breakthrough infections, and lack of global vaccine access and acceptance perpetuate the epidemic. Here, we demonstrate that a single injection of an AAV-based COVID19 vaccine elicits at least 17-month-long neutralizing antibody responses in non-human primates at levels that were previously shown to protect from viral challenge. To improve the scalability of this durable vaccine candidate, we further optimized the vector design for greater potency at a reduced dose in mice and nonhuman primates. Finally, we show that the platform can be rapidly adapted to other variants of concern to robustly maintain immunogenicity and protect from challenge. In summary, we demonstrate this class of AAV can provide durable immunogenicity, provide protection at dose that is low and scalable, and be adapted readily to novel emerging vaccine antigens thus may provide potent tool in the ongoing fight against SARS-CoV-2..
+
+This manuscript characterizes and optimizes an AAV-based vaccine platform for several COVID-19 development candidates: durability of humoral response at high level for over 20 months, the ability to reduce the dose and protect from challenge in NHP and the versatility and robustness of the platform across different variant of concern antigens..
+

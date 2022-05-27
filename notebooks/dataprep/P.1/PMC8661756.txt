@@ -1,0 +1,412 @@
+During the COVID‐19 pandemic, genetic variants of SARS‐CoV‐2 have been emerging and spreading around the world. Several SARS‐CoV‐2 endemic variants were found in United Kingdom, South Africa, Japan, and India between 2020 and April 2021. Studies have shown that many SARS‐CoV‐2 variants are more infectious than early wild strain and produce immune escape. These SARS‐CoV‐2 variants have brought new challenges to the prevention and control of COVID‐19. This review summarizes and analyzes the biological characteristics of different amino acid mutations and the epidemic characteristics and immune escape of different SARS‐CoV‐2 variants. We hope to provide scientific reference for the monitoring, prevention, and control measures of new SARS‐CoV‐2 variants and the development strategy of the second‐generation vaccine..
+
+
+
+
+Tian
+D
+, 
+Sun
+Y
+, 
+Zhou
+J
+, 
+Ye
+Q
+. The global epidemic of SARS‐CoV‐2 variants and their mutational immune escape. J Med Virol. 2021;1‐11. 10.1002/jmv.27376
+32492206
+.
+
+Over the last two decades, SARS‐CoV‐2 is the third coronavirus known to cause severe acute respiratory disease in humans, following SARS‐CoV in 2003 and MERS‐CoV in 2012.
+1
+, 
+2
+, 
+3
+ Compared to MERS and SARS limited to relatively more minor populations, coronavirus disease 2019 (COVID‐19) caused by severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) has affected the whole world, wreaking havoc on healthcare systems and costing millions of lives.
+4
+, 
+5
+, 
+6
+ Critical illness includes acute respiratory distress syndrome, coagulopathies, septic shock and multiple organ injuries, including heart injury,
+7
+ kidney injury,
+8
+ liver injury,
+9
+ and gastrointestinal symptoms.
+10
+ As of September 22, 2021, COVID‐19 spread fast to more than 200 countries, there have been 229 373 963 confirmed cases of COVID‐19, including 4 705 111 deaths (https://www.who.Int/)..
+
+SARS‐CoV‐2 has ~30 kb genome and encodes four structural proteins including Spike (S), Envelope (E), Membrane (M), and Nucleocapsid (N) proteins, six accessory proteins open reading frame (ORF) (ORF3a, ORF6, ORF7a, ORF7b, ORF8, and ORF10) and 16 nonstructural proteins (NSP1−NSP16).
+11
+, 
+12
+ The SARS‐CoV‐2 spike protein is cleaved by furin into S1 subunit and S2 subunit. S1 subunit consists of an N‐terminal domain (NTD) and the receptor‐binding domain (RBD), and is responsible for binding to the host‐cell ACE2 receptor. Whereas, the S2 subunit includes the trimeric core of the protein and is responsible for membrane fusion.
+13
+, 
+14
+ The structural proteins constitute the mature virion, whereas the nonstructural proteins of CoVs are indispensable for viral replication and transcription.
+15
+ The substitution, deletion and insertion of amino acid sites, which occurred in spike protein and the ORF of SARS‐CoV‐2, led to many virus variants. Furthermore, these mutations may alter the virus biological characteristics, including increasing transmissibility and generating immune escape from innate or acquired immune responses.
+16
+, 
+17
+
+.
+
+At the end of January 2020, the D614G mutant, which turns Aspartic acid (Asp) into Glycine (Gly) at site 614 in the amino acid sequence of spike, was first discovered in the UK and quickly became the significant epidemic strain in the world and attracted widespread attention.
+18
+, 
+19
+ During the COVID‐19 pandemic, genetic variants of SARS‐COV‐2 have been emerging and spreading around the world.
+20
+, 
+21
+ Therefore, it is significant to understand the biological characteristics of amino acid mutations, the epidemiological characteristics, and vaccine reactivity of new SARS‐CoV‐2 variants for the surveillance, prevention, and control of COVID‐19..
+
+The established nomenclature systems for naming and tracking SARS‐CoV‐2 genetic lineages by GISAID, Nextstrain and Pango are currently and will remain in use by scientists (https://covlineages.org/resources/pangolin.html). The SARS‐CoV‐2 variants were classified as VOCs and “Variant of Interest, VOI” by WHO. At present, WHO described four VOCs, namely, Alpha B.1.1.7 (known as 20I/501Y.V1, VOC 202012/01),
+22
+ Beta B.1.351 (known as 501Y.V2),
+23
+ Gamma P.1 (known as 501Y.V3),
+24
+ and Delta B.1.617.2 (known as 478 K.V1).
+25
+
+.
+
+D614G mutation is present in all VOC. In vivo and ex vivo studies found that in the early stages of virus infection, the D614G viruses exhibited significantly faster droplet transmission between hamsters, and the virus with D614G mutation resulted in a 0.5 to twofold higher gene expression than wild strain.
+26
+ The infection efficiency of D614G pseudovirus was reported to be 8–10 fold higher than wild strain. D614G is hypothesized to “shift the RBD to an 'up' conformation, promoting binding with the ACE2 receptor, leading to enhanced virion infectivity.”
+27
+ Moreover, clinical samples infected with D614G mutant had a high titer of SARS‐CoV‐2 RNA.
+28
+ Therefore, both clinical infection studies and animal experiments of pseudovirus infection suggested that the virus with D614G mutation have higher infectivity than wild strain..
+
+N501Y mutation located in the RBD region and appeared in B.1.17, B.1.351, P1. Structural modeling data showed that RBD with N501Y mutation could form a potential aromatic ring–ring interaction and an additional hydrogen bond with ACE2, and these interactions made the binding tightness of N501Y‐RBD to ACE2 was 10‐fold than wild strain.
+29
+ In addition, N501Y mutation can decrease the polarity of critical residues in RBD, increasing the affinity between RBD and cellular surface ACE2.
+30
+, 
+31
+ Interestingly, the binding affinity of N501Y‐RBD to ACE2 was much higher than K417N/T‐E484K‐N501Y‐RBD.
+32
+ Therefore, N501Y mutation can enhance the binding affinity and tightness of RBD to ACE2, increasing the chance of the virus infecting host cells..
+
+L452R mutation located in the receptor‐binding motif (RBM) region and appeared in B.1.617 lineages and B.1.427/B.1.429. Starr et al. used quantitative deep mutation scanning found that L452R mutation could increase the expression of S protein by 0. 32 times and enhanced the infectivity of the virus.
+30
+ In addition, B.1.167.1 and B.1.167.3 lacks E484K‐N501Y mutation but shows a unique L452R‐E484Q double mutation in RBM of S protein. Using combined structural modeling and biophysical approach, researchers revealed that B.1.167 variants with L452R‐E484Q double mutations possess a stronger binding affinity to the host‐cell receptor ACE2, and has a ability to evade humoral immunity.
+33
+
+.
+
+There were multiple amino acid mutations in the NTD of VOC. By analyzing the S gene sequence from December 1, 2019, to October 24, 2020 in the GISAID database, 90% deletions were found in the NTD region in 1108 sequences of the S gene with deletion mutation.
+34
+ HV69‐70del is present in B.1.1.7 and B.1.258, and it had often emerged after some mutations known to increase binding affinity of S protein to the ACE2 receptor or confer immune escape, such as N501Y, N439K, Y453F.
+35
+ Through the pseudovirus model found that B.1.1.7 containing N501Y without HV69‐70del mutation significantly reduced its infectivity. Structural modeling indicated that the B.1.1.7 with HV69‐70del induces more rapid cell–cell fusion and the formation of multi‐nucleated cells. Whereas, repairing these two amino acids can lead to reduced the infectivity of B.1.1.7 and reduced cell‐cell fusion kinetics back to wild strain level.
+36
+
+.
+
+Furthermore, an experiment in vitro indicated that D796H mutation produces immune escape but reduces infectivity. When D796H and HV69‐70del appeared in SARS‐CoV‐2 variants simultaneously, HV69‐70del can compensate for the reduction of infectivity caused by D796H mutation.
+37
+ The above study demonstrated that HV69⁃70del is responsible for increasing the infectivity of B.1.1.7 by increasing the rate of S2/S2 cleavage and cell–cell membrane fusion, and can compensate for the reduction of infectivity caused by immune escape mutations..
+
+Compared to B.1.617.1 and B.1.617.3, B.1.617.2 lacks the E484Q mutation and has a unique T478K mutation in the S protein. An in silico molecular dynamics study on the S protein structure has predicted that the T478K mutation may increase the electrostatic and steric hindrance of the S protein and increase the binding affinity of RBD to cellular surface ACE2.
+38
+
+.
+
+The furin protease cleavage sites located between S1 and S2 subunits of S protein of SARS‐CoV‐2, which contain amino acid site: 681–685. The cleavage of this region is key to the entry of the virus into human host cells. P681H is present in the Alpha VOC and the Theta VOI, and P681R is found in the Delta VOC and the Kappa VOI, respectively. Previous studies have noted that P681H and P681R may increase S1/S2 cleavage by furin‐like proteases and enhance virus‐host cell membrane fusion.
+39
+
+.
+
+B.1.1.7 was first detected in New York in November 2020.
+22
+ B.1.1.7 variant had 10 key amino acid mutations accumulated in Spike (S) protein (HV69‐70del, Y144del, N501Y, A570D, D614G, P681H, T716I, S982A, D1118H).
+40
+ Three mutations of B.1.1.7 with the greatest potential to affect the virus's transmissibility are H69‐V70del, N501Y, and P681H. Epidemiological studies and dynamic modeling methods suggested that the transmissibility of the B.1.1.7 in Britain was increased by 43%–90% and became the dominant strain in the United Kingdom. B.1.1.7 was reported in the United States in December 2020, and the transmissibility of B.1.1.7 was 59%–74% higher than wild strain in Denmark, Switzerland, United States.
+41
+ Moreover, the viral loads was higher in B.1.1.7 samples than in non‐B. 1.1.7 samples, with cycle threshold value (Ct) (mean Ct 28.8 vs. 32.0 for B.1.1.7 vs. non‐B.1.1.7, p = 0.0085) and genomic read depth (1280 vs. 831 for B.1.1.7 vs. non‐B.1.1.7, p = 0.0011).
+42
+ (lower Ct values are correlated with larger amounts of virus in the sample)..
+
+B.1.351 was first detected in Nelson Mandela Bay, South Africa, in early October 2020.
+23
+ One month later, it replaced the circulating viruses and became the dominant strain in South Africa. B.1.351 has several biologically significant mutations in S protein, including D80A, D215G, LLA241‐243del, K417N, E484K, N501Y, D614G, A701V.
+40
+ In Zambia, the number of COVID‐19 patients infected with B1.351 from 44 cases to 700 from December 1–10 to January 1–10, 2021. Another study in South Africa showed that B.1.351 was 50% more transmissible than wild strain and had a higher viral loads in samples infected with B.1.351 variant (Ct < 30).
+43
+, 
+44
+
+.
+
+P.1, a strain of B.1.1.28, was initially detected during routine screening of foreign passengers from Brazil at Haneda Airport in Tokyo, Japan, on January 10, 2021.
+24
+ P.1 has 17 unique gene mutations, and its S protein accumulated 12 amino acid mutations, including L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, V1176F.
+40
+ A two‐category dynamical model that integrates genomic and mortality data estimated that P.1 was 1.7–2.4‐times more transmissible than wild strain, with Ct values of E gene and N gene decreased by 1.43 [95% confidence interval [CI]: 0.17–2.60, p = 0.029] and 1.91 (95% CI: 0.49–3.23, p = 0.01), respectively.
+24
+
+.
+
+Recently, Delta (B.1.617.2) was earliest reported in India but has spread globally.
+25
+ Except for D614G, B.1.617.2 accumulated eight amino acid mutations in the S protein, including T19R, G142D, FR156‐157del, R158G, L452R, T478K, P681R, D950N.
+40
+ Delta has been linked to the second outbreak of COVID‐19 in Nepal, southeast Asia, and South Africa. In the United Kingdom, Delta seems to be around 60% more transmissible than B.1.1.7. In France, the number of COVID‐19 cases infected with Delta increases by 50–150 cases per day, accounting for 2%–4% of the total new cases of COVID‐19. In addition, Delta is rising fast in the United States, particularly in the Midwest and southeast. Using a rapid genotyping test, the genomics company Helix in San Mateo, California has found that the number of COVID‐19 cases caused by B.1.1.7 fell from more than 70% of cases in the end of April to 42% as of mid‐June 2021 in the United States, with the rise of Delta variant driving much of the shift.
+45
+
+.
+
+Delta was first identified in Guangzhou, Guangdong, China, on May 21, 2021. A preprint
+46
+ reported that the time interval from exposure to the first polymerase chain reaction (PCR) positive was 4 days (interquartile range [IQR]: 3.00–5.00) in the Delta epidemic 2021 and 6 days (IQR: 5.00–8.00) during the 2020 epidemic. The relative viral loads of cases infected with the Delta variant (n = 62, Ct = 24.00 for the ORF1ab gene, IQR: 19.00–29.00) were 1260 times higher than wild strain (n = 63, Ct = 34.31 for ORF1ab gene, IQR: 31.00–36.00) when SARS‐CoV‐2 was first detected by PCR. Moreover, 80.65% of samples infected with the Delta variant contained >6 × 105 copies/ml in oropharyngeal swabs when the viruses were first detected, compared to 19.05% of samples infected with wild strain contained >6 × 105 copies/ml. Epidemiological investigation showed that typical clinical symptoms were observed 2–3 days after infection with Delta. The fifth generation of cases emerged just ten days after the first case infected with Delta. Moreover, the basic transmission (Basic reproduction number, R0) was 4.04–5.0 was higher than the wild strain (R0: 2.2–3.77).
+47
+ (The basic transmission value [R0] means that the infected person can transmit the pathogen to several other people). The above results indicated that Delta could be more transmissible during the early stage of the infection and has higher viral loads..
+
+Altogether, these results indicated that multiple amino acid mutations (D614G, N501Y, L452R, P681H/R, T478K, HV69‐70del) which can enhance the infectivity of the virus appeared in the RBD and NTD of S protein of VOC. By increasing the expression of Spike and the interaction forces (aromatic ring–ring interaction, hydrogen bond) bond between spike and host cell ACE2 or increasing the rate of S1/S2 cleavage, these mutations can increase the binding affinity and binding tightness of SARS‐CoV‐2 spike to hACE2 receptor, and leading to enhance the infectivity of VOC variants, as shown in Figures 1 and 2 and Table 1. Compared with the wild strain, the transmission speed and infection rate of VOC variants were increased. In addition, the viral loads in samples infected with VOC variants was higher than wild strain, and the Ct value was less than 30. It is worth noting that Delta may be more transmissible than other VOC variants (B.1.1.7, B.1.351, and P.1), spreading to 54 countries and rapidly replacing the Alpha variant in the United Kingdom
+47
+,
+48
+ and the United States.
+49
+
+.
+
+The biological characteristics of key amino acid mutations of Spike in B.1.1.7 and B.1.617.2 variant. Mutations (HV69‐70del, N501Y, D614G, P681H/R, L452R, T478K) could increase the binding affinity and binding tightness of SARS‐CoV‐2 spike to hACE2 receptor, or increase cell‐cell membrane fusion, result in increasing the infectivity of B.1.1.7 and B.1.617.2 variant. 144del and L452R mutations generated resistance to the neutralization activity of mAbs, convalescent plasma, and post‐vaccination serum against B.1.1.7 and B.1.617.2 variant, respectively. del, deletion; FP, fusion peptide; HR1, heptad repeat 1; HR2, heptad repeat 2; IC, intracellular domain; NTD, N‐terminal domain; RBD, receptor‐binding domain; RBM, receptor binding motif; SD1, subdomain 1; SD2, subdomain 2; TD, transmembrane domain.
+
+The biological characteristics of key amino acid mutations of Spike in B.1.351 and P.1 variant. Mutations including N501Y, D614G could increase the binding affinity and binding tightness of SARS‐CoV‐2 spike to hACE2 receptor, and result in increasing the infectivity of B.1.1.7 and B.1.617.2 variant. 241‐243del, L18F, K417N/T, E484K mutations generated resistance to the neutralization activity of mAbs, convalescent plasma, and postvaccination serum against B.1.351 and P.1 variant. del, deletion; FP, fusion peptide; HR1, heptad repeat 1; HR2, heptad repeat 2; IC, intracellular domain; NTD, N‐terminal domain; RBD, receptor‐binding domain; RBM, receptor binding motif; SD1, subdomain 1; SD2, subdomain 2; TD, transmembrane domain.
+
+The epidemiological characteristics of SARS‐CoV‐2 variants and their immune escape.
+
+Abbreviations: AA, amino acid mutation; del, deletion..
+
+Resistance to partial monoclonal antibodies (mAbs).
+
+Resistance to partial mAbs, convalescent plasma and partial vaccine..
+
+Resistance even immune escape to many mAbs, convalescent plasma and many vaccine..
+
+Several studies have confirmed that coronavirus accessory proteins play a role in virus‐host interactions, pathogenesis, and virulence.
+50
+ Among the accessory proteins, ORF3a is the largest one containing 274 amino acids in SARS‐CoV.
+51
+ Cell surface localization of ORF3a in SARS‐CoV potentiates viral entry within the host, and ORF3a is also implicated in ion channel formation and modulates the release of virus from the host cell.
+51
+, 
+52
+
+.
+
+Analysis of SARS‐CoV‐2 gene polymorphism found that several independent recurrent mutations in NSP6, NSP7, NSP12, NSP13 encoded by ORF1ab are identified as mutational hotspot are closely associated with inter‐species transmission and virulence.
+21
+, 
+53
+ Several mutations in ORF3a appear in B.1.1.7, B.1.351, P.1, and B.1.167.2. Parinita Majumdar et al. analyzed two group COVID‐19 positive cases with different infection rates and mortality found that ORF3a mutations of SARS‐CoV‐2 are associated with a higher infection and mortality rate. Thirteen different amino acid mutations in ORF3a (P25L, Q57H, K67E, V90F, Y109C, R126T, D142N, W149L, D155Y, Y156N, T176I, T217I, G251V) were deleterious, and these mutations resulted in the loss of predicted motifs and B‐cell epitope as found in wild‐type (WT) ORF3a protein.
+53
+
+.
+
+An initial matched case‐control study from London reported no significant difference in the risk of hospitalization or mortality of cases infected with B.1.1.7 compared to other existing variants.
+42
+ However, several studies have subsequently reported that the risk ratios of hospitalization were from 1.15 to 1.43 for patients infected with B.1.1.7 compared with the non‐B.1.1.7 group.
+54
+, 
+55
+, 
+56
+ Retrospective observational studies performed in the UK reported that the mortality hazard ratio of patients infected with B.1.1.7 was 1.64 (95% CI: 1.32–2.04, p < 0.0001) compared with individuals with non‐B.1.1.7 variant
+57
+ and estimated 35% (12%–64%) increased risk of death associated with B.1.1.7 variant.
+58
+
+.
+
+Both the matched and unmatched multi‐variable analysis found that a more significant proportion of VOC cases were admitted to hospital (B.1.1.7 11.0%; B.1.351 19.3%, and P.1 20.0%; p < 0.001) and ICU admission (B.1.1.7 1.4%, B.1.351 2.3% and P.1 2.1%, p < 0.005) compared with non‐VOC cases (7.5% for hospitalization and 0.6% for ICU admission).
+59
+
+.
+
+For Delta, preliminary evidence from England and Scotland suggested that people infected with Delta are about twice as likely to hospitalization as those infected with B.1.1.7.
+45
+ Patients infected with Delta have an increased risk of hospitalization: hazard ratio (HR) 1.85 (95% CI: 1.39–2.47) compared to B.1.1.7 or ancestral strains in Scotland.
+60
+ Similarly, a retrospective cohort study from Ontario, Canada showed that compared to non‐VOC variants, the adjusted elevation in risk associated with N501Y‐positive VOC variants (B1.1.17, B.1.351, and P.1) was 59% (49%–69%) for hospitalization, 105% (82%–134%) for ICU admission and 61% (40%–87%) for death. In addition, the risk of patients infected with Delta was 120% (93%–153%) for hospitalization, 287% (198%–399%) for ICU admission and 137% (50%–230%) for death.
+61
+
+.
+
+Based on these data, patients infected with VOC variants were more likely to be admitted to hospitals and ICU than non‐VOC cases. Delta may cause severe diseases than N501Y‐positive VOC variants (B1.1.17, B.1.351, and P.1), and cases infected with Delta had a higher risk of hospitalization and mortality, as shown in Table 1..
+
+The Spike protein is the dominant neutralization target of monoclonal antibodies (mAbs), convalescent plasma and vaccines. The virus would likely need to accumulate multiple mutations in the Spike to evade immunity induced by vaccines or by natural infection.
+62
+ E484K mutation located in RBM and is present in B.1.351, p.1 VOC variants and in the VOIs Eta (B.1.525), Iota (B.1.526), Theta (P.3), and Zeta (p.2).
+40
+ Many studies indicated that the E484K mutation generated apparent resistance to mAbs and convalescent plasma.
+63
+, 
+64
+, 
+65
+ Collier Da et al. found that E484K mutation reduced the neutralization activity of the BNT162B2 vaccine‐induced antibody and 61% (19 of 31) mAbs against the virus.
+66
+
+.
+
+L452R is present in the Delta, Kappa (B.1.617.1), and Epsilon (B.1.427/9). L452R mutation could not only increase the transmissibility of the virus but also cause immune escape. Studies found that the pseudovirus carrying L452R mutation could escape the neutralization activity of mAbs and convalescent plasma
+67
+ and was significantly resistant to mAbs X593 and P2B‐2F6.
+68
+
+.
+
+K417N and K417T are present in B.1.351 and P.1, respectively. Using pseudovirus models found that the neutralization activity of 29.4% (5/17) mRNA vaccine‐induced neutralizing antibodies against pseudoviruses carrying the K417N mutation was at least 10% lower than wild strain.
+69
+ Data reported in another study showed that the neutralization activity of 35% mAbs (6 of 17) was decreased by 4‐fold against pseudoviruses carrying K417N or K417N‐N501Y mutations.
+70
+
+.
+
+Despite the RBD is the dominant neutralization targeted by mAbs. Evidence indicated that the NTD of the SARS‐CoV‐2 Spike has a substantial role in antigenicity.
+71
+ Andreano et al. reported that convalescent plasma thoroughly neutralized the live virus at the initial stage of coculture, but after 45 days of cultivation, the deletion of F140 in the NTD N3 loop led to partial resistant to the neutralization activity of convalescent plasma. After coculture 80 days, an insertion in the NTD N5 loop containing a new glycan sequon generated a complete resistance to the neutralization activity of convalescent plasma. In line with, computational modeling predicted that the NTD loops also have some key mutations, including the F140 deletion in loop N3 and the 11‐amino‐acid insertion in loop N5 that introduces a novel N‐glycan sequon at position N248d. These mutations remodel this critical antigenic region and have the potential to obstruct or hide the binding to neutralizing epitopes, and could effectively eliminate the neutralization of some antibodies.
+72
+ In addition, it is reported that Y141‐144del can enable the B.1.1.7 pseudovirus to escape the neutralization of mAbs (4A8, S2X28, S2M28, and S2X333).
+73
+ Another study showed that the B.1.351 variant carrying LAL242–244del mutations in the NTD was most resistant to current mAbs and convalescent plasma, followed by the P.1 variant and the B.1.1.7 variant.
+74
+
+.
+
+Studies showed that the neutralization activity of some mAbs and convalescent plasma against B.1.1.7, B.1.351, P.1 pseudovirus was reduced.
+75
+ One study demonstrated that convalescent plasma shows a significant reduction in neutralization activity against B.1.351 pseudovirus (9.4‐fold) and shows a modest reduction against P.1 pseudovirus (2.4‐fold) and no significant reduction against the B.1.1.7 pseudovirus.
+76
+ Wibmer et al. found that 48% (21/44) of the neutralizing antibodies isolated from convalescent plasma lost neutralization against B.1.351.
+77
+ Similarly, it is reported that the neutralization susceptibility of 45% of convalescent plasma against Delta variant was reduced by approximately 3‐fold to 10‐fold and 5% of convalescent plasma against Delta variant was reduced by >10‐fold, respectively.
+33
+, 
+75
+ In addition, the neutralization activity of 30% (6/20) mAbs against the Delta variant was reduced more than 5‐fold. Interestingly, the neutralization curves assay found that the neutralizing activity of plasma from individuals infected with B.1.351 and P.1 showed loss entirely against Delta variant, suggesting that individuals infected with B.1.351 and P.1 may be at risk of reinfection with Delta variant.
+75
+
+.
+
+Live‐virus and pseudovirus neutralization assays indicated that the neutralizing activity of sera elicited by some vaccine against B.1.351variant showed a significant reduction: BNT162b2 (10.4‐fold),
+78
+ Moderna mRNA (6.4–27.7‐fold),
+79
+, 
+80
+, 
+81
+ Novavax subunit vaccine (14.5‐fold),
+81
+ respectively. By contrast, postvaccination serum elicited by some vaccines exhibited a modest reduction in the neutralizing activity against B.1.1.7: BNT162b2 (less than 3‐fold),
+78
+ Moderna mRNA vaccine (2–2.3‐fold),
+79
+ Novavax subunit vaccine (2‐fold).
+79
+ In addition, the P.1 variant also showed more significant decreases with both BNT162b2 (6.7‐fold
+78
+) and Moderna mRNA vaccine (4.5–4.8‐fold)
+82
+ postvaccination serum, respectively. Furthermore, it is reported that approximately 15% displayed 3‐fold to the 10‐fold reduced neutralizing activity of sera elicited by the BNT162b vaccine against the Delta variant.
+75
+, 
+78
+
+.
+
+Similarly, the neutralization activity of sera elicited by the inactivated‐virus vaccines‐BBIBP‐CorV (Sinopharm) and CoronaVac (Sinovac) against B.1.1.7 pseudovirus and B.1.351 pseudovirus was decreased by 2.0‐fold, 2.5–3.3‐fold, respectively.
+83
+ A randomized controlled trial showed that the neutralization activity of sera elicited by ChAdOx1 adenovirus vector vaccine against B.1.1.7 and B.1.351 live‐virus was reduced by 2.5–8.9‐fold and 4.1–31.5‐fold, respectively.
+84
+
+.
+
+Altogether, mutations in RBD region (K417N/T, S477N, E484K, F490s) and NTD region (F140del, Y144del, LLA242‐244del) may lead to the transfer of the antigen spectrum of S protein of SARS‐CoV‐2. These mutations occur in VOC variants and generate resistance to mAbs, convalescent plasma, and vaccine, as shown in Figures 1 and 2, and Table 1. Molecular dynamic simulations have pointed out “K417N‐E484K‐N501Y” triple mutations induces S protein conformational change was greater than N501Y or E484K alone, allowing the virus‐carrying “K417N‐E484K‐N501Y” triple mutations to be a more effective escape from the neutralization activity.
+74
+ All these results indicated that B.1.351 variant was most resistant to the neutralization activity of most mAbs, convalescent plasma, and postvaccination serum, followed by P.1 variant and B.1.1.7 variant, primarily due to triple mutations” K417N‐E484K‐N501Y” occur in B.1.351 variant..
+
+July 1, 2021, the WHO Epidemiological update described seven VOIs, namely B.1.427/B.1.429 (Epsilon), Zeta (P.2), Eota (B.1.525), P.3, Iota (B.1.526), Kappa (B.1.617.1), Lambda (C.37) (WHO (2021a) (https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)..
+
+N439K was located in RBM and present in B.1.258 variant.
+85
+ It was found that the RBD region of Spike carrying N439K mutation could form a strong noncovalent salt bridge with ACE2, which could enhance the binding affinity of spike to ACE2.
+35
+ Compared with the D614G epidemic strain, the neutralization activity of sera elicited by BNT162B2 vaccine against the variants with N439K mutation was not significantly changed.
+80
+
+.
+
+S477N mutation existed in some B.1.526 strains, but it did not coexist with E484K mutation simultaneously. Singh et al. found that S477N mutation could enhance the binding affinity of spike to ACE2 and can attenuate the neutralization of some mAbs and convalescent plasma.
+86
+
+.
+
+Recently, Lambda (C.37) was first reported in South America on June 16, 2021.
+87
+, 
+88
+ Lambda showed an several mutation in the spike protein, including G75V, T76I, del247‐252, L452Q, F490S, D614G, T859N.
+89
+ A preprint from the University of Tokyo revealed that T76I and L452Q mutations contributed to the higher infectivity. The RSYLTPGD246‐66 253 N mutation, a unique 7‐amino‐acid deletion mutation in the NTD and F490S, is responsible for evasion from neutralizing antibodies.
+90
+
+.
+
+It was reported that in California, the incidence of B.1.427/B.1.429 variants increased from 0% to >50% of sequenced cases from September 1, 2020, to January 29, 2021, exhibiting an 18.6%–24% increase in transmissibility relative to wild strains.
+91
+ In throat swab samples, the viral load of B.1.427/B.1.429 was approximately twice that of the nonmutant virus.
+92
+ The neutralization activity of antibody assays showed B.1.427/B.1.429 variants have 4.0–6.7‐fold and 2.0‐fold reduction in neutralizing titers from convalescent patients and vaccine recipients, respectively.
+91
+ The neutralization activity of the sera elicited by the Moderna mRNA vaccine and Novavax subunit vaccine against B.1.427/B.1.429 variant was decreased by 2.0‐fold
+80
+ and 2.5‐fold,
+81
+ respectively..
+
+As of July 6, 2021, Lambda (C.37) variant accounted for about 81% of new cases and is responsible for the second peak of COVID‐19 in Peru. It was reported that about a third of new cases were infected with the Lambda variant in Chile, and this variant accounted for 37% total of COVID‐19 cases between April 2 and May 19 in Argentina.
+89
+ As of July 6, GISAID data showed the Lambda variant had been reported in 31 countries (https://www.gisaid.org; as of July 6, 2021)..
+
+One study from the University of Chile also found that the neutralization activity of the CoronaVac vaccine against Lambda variant was reduced by 67% than wild strain.
+93
+ Another preprint paper from the University of Tokyo revealed that the Lambda variant has two abilities associate with the massive infection: increased infectivity and increased immune escape.
+90
+ Although, the Lambda variant was classified as VOI by WHO. Based on all above results, Lambda variants have a strong potential to cause new massive pandemics in the future. However, there are few studies about the epidemiological characteristics of Lambda variant. It is significant to understand the biological characteristics of amino acid mutations, the epidemiological characteristics, and the vaccine efficacy of the Lambda variant..
+
+In contrast to the Delta VOC, the Kappa (B.1.617.1) has not demonstrated increased transmissibility. However, the Kappa variant has a greater ability to evade humoral immunity than the Delta variant. Several studies demonstrated that about 40% had 3‐fold to 10‐fold and 15% had >10‐fold reduced neutralizing activity of convalescent plasma against the Kappa variant. Similarly, approximately 55% displayed 3‐fold to the 10‐fold and 5% had >10‐fold reduced neutralizing activity of sera elicited by an mRNA vaccine against the Kappa variant.
+33
+, 
+75
+, 
+94
+ In addition, the P.2 variant is circulating in Rio de Janeiro, Brazil, and has resulted in two separate clinical cases of secondary infection.
+95
+, 
+96
+ Geometric mean neutralization titers against B.1.617.1 were reduced 2.7‐fold (p < 0.0001) for the Pfizer‐BioNTech vaccine serum and 2.6‐fold (p < 0.0001) for the Oxford‐AstraZeneca vaccine than wild strain.
+75
+
+.
+
+In this review, we described the characteristics of several amino acid mutations in RBD, NTD, furin protease cleavage sites, and ORF, including D614G, N501Y, L452R, N439K, S477N, HV69‐70del, E484K/Q, K417N/T, S477N, Y144Del, LLA242‐244Del, P681H/R, ORF3a mutations, N439K, S477N, L452Q, T76I, del247‐252, F490S. These mutations alter VOC and VOI variants' biological behavior, including more transmissibility, higher risk of hospitalization and mortality, and increased immune escape than wild strain. What is more, the Delta variant may be more transmissible and has a higher risk of hospitalization and mortality than other VOC variants (B.1.1.7, B.1.351, and P.1 variant)..
+
+All authors declare that there are no conflict of interests..
+
+Dandan Tian conceived and wrote the manuscript and prepared figures. Yanhong Sun and Jianming Zhou contributed to the data collection and prepared the table. Qing Ye contributed to the modification and revision of the manuscript. All authors contributed to this article and approved the submitted versions..
+
+The data that support the findings of this study are available from the corresponding author upon reasonable request..
+

@@ -1,0 +1,535 @@
+Young age, female sex, absence of comorbidities, and prior infection or vaccination are known epidemiological barriers for contracting the new infection and/or increased disease severity. Demographic trends from the recent coronavirus disease 2019 waves, which are believed to be driven by newer severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) variants, indicate that the aforementioned epidemiological barriers are being breached and a larger number of younger and healthy individuals are developing severe disease. The new SARS‐CoV‐2 variants have key mutations that can induce significant changes in the virus‐host interactions. Recent studies report that, some of these mutations, singly or in a group, enhance key mechanisms, such as binding of the receptor‐binding domain (RBD) of the viral spike protein with the angiotensin‐converting enzyme 2 (ACE2) receptor in the host‐cells, increase the glycosylation of spike protein at the antigenic sites, and enhance the proteolytic cleavage of the spike protein, thus leading to improved host‐cell entry and the replication of the virus. The putative changes in the virus–host interactions imparted by the mutations in the RBD sequence can potentially be the reason behind the breach of the observed epidemiological barriers. Susceptibility for contracting SARS‐CoV‐2 infection and the disease outcomes are known to be influenced by host‐cell expressions of ACE2 and other proteases. The new variants can act more efficiently, and even with the lesser availability of the viral entry‐receptor and the associated proteases, can have more efficient host‐cell entry and greater replication resulting in high viral loads and prolonged viral shedding, widespread tissue‐injury, and severe inflammation leading to increased transmissibility and lethality. Furthermore, the accumulating evidence shows that multiple new variants have reduced neutralization by both, natural and vaccine‐acquired antibodies, indicating that repeated and vaccine breakthrough infections may arise as serious health concerns in the ongoing pandemic..
+
+Emerging SARS‐CoV‐2 variants:
+Harbor key mutations altering the virus‐host interactions.Show more efficient host‐cell entry and greater replication resulting in higher viral loads, prolonged viral shedding, and greater tissue injury.Show reduced neutralization by natural and vaccine acquired antibodies.Causing symptomatic illness in increasing number of young, women, and healthy individuals.
+.
+
+Harbor key mutations altering the virus‐host interactions..
+
+Show more efficient host‐cell entry and greater replication resulting in higher viral loads, prolonged viral shedding, and greater tissue injury..
+
+Show reduced neutralization by natural and vaccine acquired antibodies..
+
+Causing symptomatic illness in increasing number of young, women, and healthy individuals..
+
+
+
+
+Kumar
+A
+, 
+Parashar
+R
+, 
+Kumar
+S
+, et al. Emerging SARS‐CoV‐2 variants can potentially break set epidemiological barriers in COVID‐19. J Med Virol. 2022;94:1300‐1314. 10.1002/jmv.27467
+34811761
+.
+
+Since the onset of the coronavirus disease 2019 (COVID‐19) pandemic a large number of variants of the causative agent, Severe Acute Respiratory Syndrome Coronavirus‐2 (SARS‐CoV‐2), have arisen, of which some have raised serious epidemiological concerns. The successive COVID waves triggered by emerging variants are presenting with varying epidemiological characteristics than the first wave caused by wild‐type (WT) strain and the early mutants.
+1
+, 
+2
+, 
+3
+, 
+4
+ WT strain was known to cause greater fatality among the aged, male sex, and those with comorbidities.
+5
+, 
+6
+, 
+7
+ In contrast, the data coming out from the recent preclinical/clinical and epidemiological studies are giving clear indications that multiple newer variants, more particularly the variants of concerns (VOCs), can potentially breach the set epidemiological barriers and are capable of causing significant fatality across the demographic categories.
+1
+, 
+2
+, 
+3
+, 
+4
+ Moreover, a gain of resistance against the natural and vaccine acquired, and multiple therapeutically used monoclonal antibodies have been noted in multiple variants,
+8
+, 
+9
+, 
+10
+, 
+11
+ which may make the gain of herd immunity against the SARS‐CoV‐2 infection far‐reaching goal. In this perspective, we examine the strength of the empirical evidence available for the increased transmissibility, virulence, and immune escape in emerging SARS‐CoV‐2 variants and provide assessments of their potential impacts on the epidemiological characteristics of the pandemic. Our propositions for the definitive changes in the characteristics of the COVID‐19 pandemic are primarily based on the analysis of the current epidemiological trends and findings from the preclinical and clinical studies, and evidence‐based interpretations of the lineage characterizing mutations (mainly in the spike protein regions) appearing in the emerging SARS‐CoV‐2 variants..
+
+The SARS‐CoV‐2 is an enveloped positive‐sense single‐stranded RNA virus (~29.9 kB in length) belonging to the genus betacoronaviruses (BCoVs). The BcoVs also includes SARS‐CoV‐1 and the Middle East Respiratory Syndrome coronavirus (MERS‐CoV) which had caused earlier acute respiratory syndrome epidemics of SARS‐2002/2003 and MERS‐2012, respectively.
+12
+ The SARS‐CoV‐2 has a unique spherical structure with a ribonucleic acid core and proteinaceous double‐layered envelop, the outer layer of which contains unique spike‐like features composed of glycoproteins (Figure 1).
+12
+, 
+13
+ To infect a host cell, SARS‐CoV‐2 requires binding to the cell‐surface receptor, angiotensin‐converting enzyme‐2 (ACE2), through the receptor‐binding domain (RBD) present on its spike (S) protein.
+13
+, 
+14
+ As a prerequisite to binding to ACE2, it is necessary that the viral spike protein (S) gets cleaved by a set of host proteases—an event called “priming or activation” which is considered essential for the fusion of the virus with the host cell‐membranes.
+13
+, 
+14
+ The known host proteases for SARS‐CoV‐2 are transmembrane serine protease 2 (TMPRSS2) and furin, are expressed in the cytoplasmic membrane, and Cathepsin B or L (CTS‐B or L) is expressed in the endosomal membranes of the host cells (Figure 1).
+14
+, 
+15
+, 
+16
+ ACE2 has been a host‐cell entry receptor for a few other CoVs causing acute respiratory illness as well, such as SARS‐CoV‐1 and HCoV‐NL‐63.
+13
+, 
+14
+ The host‐cell entry receptor ACE2 and entry associated proteases are not limited only to the respiratory system, but are widely expressed across the human tissue types, which is a stated reason why beyond the respiratory system pathology COVID‐19 leads to multiorgan involvement and a systemic illness.
+17
+ Notably, ACE2 is an interferon (IFN) stimulated gene
+18
+ hinting that SARS‐CoV‐2‐receptor binding mediated dysregulation of ACE2 expression may be a likely molecular mechanism responsible for prominent IFNs‐dysregulation characteristically observed in COVID‐19 patients.
+19
+
+.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2): host‐cell entry mechanisms. Entry of SARS‐CoV‐2 into host cell depends on binding of receptor‐binding domain (RBD) of viral spike (S) protein to the cell surface receptor angiotensin‐converting enzyme‐2 (ACE2). For a successful binding to ACE2, “S” protein is required to be cleaved by the host proteases, TMPRSS2 and Furin. Another host protease CTSL is involved in a pH‐dependent cleavage of the S protein inside the endosomes. The binding to ACE2 leads to endocytosis and allows for replication of the virus inside the host cell. The newly formed virions are released after bursting of the infected cell and spread further. Viral infection of the host‐cell subsequently leads to activation of innate host defense mechanism, recruitment of the immune cells by the infected tissue, and synthesis and release of the cytokines.
+
+SARS‐CoV‐2 has a close genomic sequence resemblance to a bat CoV RaTG3 (~96%) and to SARS‐CoV‐1 (~79%) indicating an evolutionary linkage among these viruses.
+20
+ Of note, virus‐host interactions are very similar for the WT strains of SARS‐CoV‐1 and SARS‐CoV‐2, however, the later has gained multiple advantageous mutations within the RBD encompassing receptor binding interface.
+21
+, 
+22
+ The recent studies examining the strength of virus RBD:ACE2 complex have established that SARS‐CoV‐2 has a more efficient binding to ACE2 than the SARS‐CoV‐1,
+21
+, 
+23
+ thus imparting it higher transmissibility and virulence than the later. Interestingly, the inclusion of furin in the list of entry associated protease also seems an evolutionary gain in SARS‐CoV‐2 as it is not present in SARS‐CoV‐1 or other SARS‐related viruses.
+14
+ The furin cleavage site (FCS) of SARS‐CoV‐2 is a small stretch of peptide (PRRAR) inserted at the intersection of spike segments S1 and S2 (681–685 aa residues), facilitating proteolytic cleavage of the viral spike protein at that point
+14
+ (Figure 1). Noteworthy, FCS is not present in SARS‐CoV‐1 and other SARS‐related viruses (although it is present in a number of other human coronaviruses, including MERS‐CoV, HKU1‐CoV, and OC43‐CoV) and is considered as an evolutionary gain in SARS‐CoV‐2 towards imparting it higher virulence.
+14
+ Furin cleavage also improves further proteolytic cleavage by another host‐proteases TMPRSS2 at S1‐S2 intersection—an event essential for the priming of the virus membrane for host‐cell fusion.
+24
+, 
+25
+, 
+26
+
+.
+
+Apart from the spike protein, multiple nonstructural proteins (NSPs) have been linked to higher virulance and excessive immunological dysregulations by SARS‐CoV‐2 in comparison to SARS‐CoV‐1 and other CoVs, and influenza viruses. Of note, SARS‐CoV‐2 manipulates the host immune cells to ensue a delayed and excessive IFNs response, which is a key innate defense mechanism for the protection against new viral infections (reviewed in Kumar et al.
+19
+)..
+
+Emerging variants are classified as a variant of interest (VOI) or global VOC by WHO depending upon epidemiological characteristics of the strain. A VOI status is designated if the strain has been identified to cause community transmission/multiple COVID‐19 cases/clusters. A VOC is designated to an emergent strain when a variant is detected in multiple countries and either the strain causes an increase in transmissibility or detrimental changes in COVID‐19 epidemiology; or increase in virulence or changes in the clinical disease presentation; or decrease in the effectiveness of public health and social measures or available diagnostics, vaccines, and therapeutics.
+27
+ The United States Centers for Disease Control and Prevention (US‐CDC) additionally, classifies Variants of High Consequence, although at present there has been no variant under this category.
+28
+ A list of emerging variants, along with a description of key mutations, date, and country of origin, and current evidence for an increase in transmissibility, lethality, or immune escape, is presented in Table 1..
+
+Emerging SARS‐CoV‐2 variants across the globe.
+
+Abbreviation: SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2..
+
+Based on latest updates by Centers for Disease Control and Prevention (CDC), USA.
+28
+
+.
+
+Based on latest updates by WHO.
+27
+
+.
+
+The SARS‐CoV‐2 strain with D614G (B.1) was the first noticeable variant having a significant edge over the WT strain.
+29
+ The variant was found to be more transmissible
+29
+ and by the end of 2020 it almost replaced the WT strain globally. However, there had been no substantial evidence suggesting that it had increased virulence. Following B.1 multiple variants have emerged, most are its descendants bearing D614G: 23330/A→G) as the key mutation. Post dominance of B.1 over the WT strain, successive variants are showing faster global spread and gain of dominance against the existing strains (Figure 2)..
+
+Phylodynamics of emerging SARS‐CoV‐2 lineages across the globe. (Data source: GISAID Initiative (www.gisaid.org, accessed on November 1, 2021. The image is created using EpiCoV™ application using 3572 SARS‐CoV‐2 genomes sampled between December 2019 and October 2021.). SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2.
+
+B.1.1.7, a VOC, in a short time period has become a globally dominant strain replacing the B.1. Some of the variants have been found to have significantly higher transmissibility and virulence than the wild and B.1 strains and have triggered subsequent waves of COVID‐19 in multiple countries, primarily B.1.1.7, B.1.351, P.1, and B.1.617.2, which have been currently designated as the VOCs by World Health Organization (WHO).
+27
+ The most recent of the VOCs have been B.1.617.2, which is thought to be responsible for triggering the recent devastating second COVID‐19 wave in India.
+30
+, 
+31
+ B.1.617 lineage is of special interest being the latest variant in the list.
+27
+ Preliminary evidence suggests higher transmissibility and perhaps more lethality from this lineage. First detected in India in October 2020, this lineage soon developed into three sub‐lineages: B.1.617.1‐3. Key mutations are common among these three sublineages, however, surprisingly, B.1.617.2, which was first detected in December 2020, is spreading much faster than the others and has become the dominant strain in India and in parts of UK, and also has been reported from at least 161 countries across the globe (as of November 1, 2021).
+27
+, 
+30
+ More recently, another variant with closest phylogenetic linkage with B.1.617.2 variant is reported from Vietnam.
+32
+ The new variant has a characteristic 144Y: 21991‐21993 deletion (also present in B.1.1.7) in spike protein sequence, however, other key mutations are shared with B.1.617.2. It has shown higher transmissibility in situ and possibly fueled a recent wave of infections in the country. However, there is no evidence whether it had increased lethality.
+32
+ Furthermore, a newer mutation (K417N: 22813, G→T), which is known to be present in B.1.351 and P.1, has appeared in B.1.617.2. The new variant has been named B.1.617.2.1 or ‘Delta plus K417N' (a.k.a. AY.1) and it has been currently reported from Nepal, India, UK, USA, and a few other countries.
+33
+, 
+34
+ A further sub‐lineage of Delta plus K417N with new spike mutations as V70F (69), A222V, T299I, and A958S, and exclusion of G504Q has been reported from these countries and has been named as B.1.617.2.2 or AY.2.
+33
+, 
+35
+ Furthermore, multiple other variants have been adding up to the list of Delta plus lineages—AY.3‐47.
+33
+ Interestingly, the K417N spike mutation has been reverted back in AY.3‐47.
+33
+ Of note, WHO still considers AY strains as the sub‐lineages of VOC Delta,
+27
+ and the studies are still awaited which would establish whether they have an advantage over Delta variant in reference of the key epidemiological characteristics. A study comparing genomic sequences of the Delta and Delta plus (AY.1) variants showed that the high prevalence mutations (more than 20%) were greater in Delta plus than in Delta (40 vs. 29).
+36
+
+.
+
+Theoretically, based on the genomic location of the characterizing mutations, it can be assumed that this variant, i.e. Delta plus (AY.1), may have an advantage against the neutralization by natural or acquired antibodies
+37
+; however, currently, there is not much knowledge about it. As per the latest epidemiological surveillance, from Public Health England (PHE), UK, in the preliminary analysis of the limited data, AY.1 was found capable of doing breakthrough infections (27/36) however only very few cases (2/36) were infected after 14 days of the second dose of vaccine. Notably, the majority of the infected were from the younger age group (<60 year) (34/36).
+35
+
+.
+
+Each of the emerging variants harbors the key lineage identifying mutations within the spike as well as non‐spike protein regions (Figures 3, 4). Many of the variants show common mutations, primarily in the spike region. The shared mutations can have a founder effect, however, some of these are shared among the strains which are phylogenetically not very close indicating their selection against the evolutionary adaptive pressure..
+
+SARS‐CoV‐2 lineage specific mutations in spike protein regions. (Mutations with > 75% prevalence in at least one lineage are shown. Data source: www.outbreak.info, accessed on August 18, 2021). SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2.
+
+SARS‐CoV‐2 lineage‐specific mutations in non‐spike protein regions. (Mutations with > 75% prevalence in at least one lineage are shown. Data source: www.outbreak.info, accessed on August 18, 2021).SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2.
+
+The spike mutations are enriched at the regions which bear epitopes for the natural, vaccine acquired, and monoclonal antibodies, primarily at the receptor‐binding domain (RBD) and N‐ terminal of spike (S) protein (Figure 3). It appears that these mutations are imparting the emerging variants a selection advantage over the WT strain (and early variants), making them more suitable for the spread in a population that has developed only partial herd immunity.
+37
+ The selective mutations which are either present at (N501Y: 22991/A→T) or in the vicinity of the receptor‐binding motif (RBM) (L452R:22917:T→G, E484K: 22940/G→A, and T478K:22995/C→A) are believed to stabilize binding with ACE2 by reducing binding energy and creating stronger electrostatic interactions or new hydrogen bonds.
+10
+, 
+37
+, 
+38
+, 
+39
+ Interestingly, E484K and N501Y, the lineage characterizing mutations for B.1.351 and P.1, can potentially compensate for the RBD:ACE2 complex stability reduction, putatively caused by K417N/T.
+37
+, 
+40
+ It is currently not known whether a similar advantage for the emerging variants in B.1.617.2 lineage—AY.1‐2, which contains L452R and T478K, and K417N as the key spike mutations at RBD:ACE2 interface. A comparative analysis of the prevalence of key spike mutations (T95I, G142D, R158G, L452R, T478K, and K417N) at different time points show that these mutations have increased over time in Delta, and all mutations had a significantly higher prevalence in the Delta plus variant (AY.1). A progressive increase in the prevalence of key spike mutations from Delta to Delta plus indicates that not only K417N but other spike mutations too may have significant role in determining epidemiological properties of this emerging variant.
+36
+
+.
+
+The epistasis interactions between the spike mutations in the emerging variants are indicating that continued mutagenesis may have a mechanistic role in the maintenance of the evolutionarily achieved stability for RBD:ACE2 complex.
+41
+
+.
+
+Furthermore, there is concrete proof that a key mutation occurring at amino acid position 681 in the spike protein of B.1.1.7 and B.1.617 lineage variants (L—H/R: 23604/C→G) improves the infectivity of these variants,
+42
+, 
+43
+, 
+44
+ which we discuss later in this article..
+
+Each of the emerging variant has multiple mutations in the non‐spike protein regions (Figure 4). Notably, many of the non‐spike mutations are also shared across the variants. Most common of the shared mutations is P314L in the NSP12b region encoding for RNA‐dependent RNA polymerase (RdRp).
+31
+, 
+45
+ The mutation, first appeared in B.1 strain and thereafter seems to be persisting in the subsequently emerging variants.
+46
+ A mutation that introduces a premature stop codon at position 27 of ORF8 protein is characteristically noted in the sequence of Alpha variant (B.1.1.7).
+47
+ An inactivating mutation in ORF8 protein sequence is important as this is an immune‐evasive protein involved in downregulation of major histocompatibility complex class I (MHC‐I) in host cells.
+48
+ However, currently, there is little evidence available that whether this mutation in the viral sequence influences host interactions with the Alpha variant. Differential distribution of the multiple non‐spike mutations has been noted between Delta and Delta plus variants. For example, nsp3:P822L (ORF1a:P1604L), nsp4:A446V (ORF1a:A3209V), nsp6:V149S (ORF1a: V3718S), and nsp6:T181I (ORF1a:T3750I) are present at 16% in Delta, but at 58% in Delta plus (AY.1).
+36
+
+.
+
+Non‐spike mutations in the emerging variants have been yet less studied for their biological significance, albeit, their possible contributions in altered interactions with the host and the further impact on epidemiological characteristics of the emerging variant cannot be denied..
+
+Increased transmissibility and virulence have been speculated for nearly all of the VOCs based on the analysis of the structural and functional changes imparted by the mutations.
+44
+ The predictions have been further validated in recent animal model studies demonstrating increased lethality for some of these variants, primarily B.1.1.7 and B.1.617.1.
+49
+, 
+50
+ Multiple epidemiological studies have indicated increased lethality of emerging variants, however, most of the available data is for B1.1.7. Emerging evidence is substantiating that increased transmissibility is a characteristic feature for other multiple new variants including B.1.351, and P1 and B.1.617.2.
+31
+, 
+51
+, 
+52
+
+.
+
+The emerging variants are accumulating mutations in the spike protein— which encompasses the binding site for the host‐cell entry‐receptor and is also the most antigenic region of the virus, towards which natural and acquired antibodies are targeted.
+44
+ Key mutations in the spike protein (Table 1), primarily in the RBD are believed to have introduced conformational changes in it leading to stronger binding to the key host‐cell entry‐receptor ACE2.
+37
+, 
+44
+ Few of the newer mutations have particularly occurred at the receptor‐binding motif (RBM) of the RBD that creates newer contact sites with ACE2.
+37
+, 
+44
+ Certain other mutations have also resulted in strong electrostatic interactions or newer hydrogen bonds.
+37
+ This was earlier observed for the D614G variant (B.1).
+37
+ Multiple recent in situ and animal model studies have confirmed that emerging variants indeed cause higher viral load and prolong viral shedding, however, whether these properties are attributed to the mutations linked to RBD:ACE2 binding is still not clear.
+37
+, 
+44
+, 
+49
+, 
+50
+, 
+53
+, 
+54
+ Of interest, multiple studies have demonstrated that the WT strain of SARS‐CoV‐2 had gained instability for RBD:ACE2 binding when it added new mutations at the binding motif present in SARS‐CoV‐1, which uses the same entry‐receptor ACE2 and had caused the first epidemic of SARS in 2002. SARS‐CoV‐2 RBD:ACE2 binding stability was further improved with the D614G mutation in WT SARS‐CoV‐2, which stabilized the trimeric structure and created a more open conformation of the RBD allowing a stronger binding with ACE2, and also enhanced furin mediated proteolytic cleavage of the spike protein at the S1/S2 junction. It is noteworthy that the emerging variants are mostly descendants of the B.1 lineage and carry forward the D614G mutation. Emerging evidence indicate that the newer mutations are further improving the RBD:ACE2 binding in the sub‐lineages of B.1.
+38
+, 
+41
+, 
+43
+, 
+55
+, 
+56
+, 
+57
+ However, whether that makes any clinical difference is still not known..
+
+Interestingly, increasing evidence from in situ studies substantiates the claim that the mutations in the spike protein of B.1.1.7 and B.1.617 lineage variants occurring at amino acid position 681 (P—H/R), which falls in the furin cleavage site (FCS), improve proteolytic cleavage of the spike protein and strengthening the fusion of the viral membrane with the host cell.
+24
+, 
+42
+, 
+50
+, 
+58
+
+.
+
+Recent evidence from in situ studies has demonstrated enhanced virus‐host membrane fusion for the B.1.617 lineage variants which contain P681R.
+58
+, 
+59
+ An improved viral–host cell fusion results in larger syncytia formation.
+60
+ Syncytia formation—fusion of the infected host‐cell with others facilitating viral spread— has been a distinctive characteristic of SARS‐CoV‐2 when compared to SARS‐CoV‐1—believed to impart higher transmissibility.
+25
+, 
+60
+, 
+61
+ Recent reports have shown that B.1.617 lineage variants form larger syncytia, however, whether that contributes to the increased transmissibility and virulence remains to be established.
+58
+, 
+59
+ A more efficient virus‐host membrane fusion may not only impart increased transmissibility but also may be providing the variants increased virulence by facilitating higher tissue tropism, which, in turn, induces a stronger immunogenic response by the host and consequently widespread tissue injury leading to more severe disease..
+
+A recent study traced the index cases and analyzed viral loads in the patients within a community outbreak of B.1.617.2 in China. The authors noted that the incubation period for developing COVID‐19 is reduced to 4 days with B.1.617.2 variant, in comparison to average of 6 days for the WT strains. Moreover, the viral loads were observed, on average, approximately 1000 times more for this variant.
+53
+ Another recent study conducted in the UK population further noted that risk of hospitalization and emergency visits doubled with B.1.617.2 in comparison to B.1.1.7 infection (Hazard ratio [HR], 95% confidence interval [CI]: 2.26 [1.32–3.89]).
+62
+
+.
+
+Currently, the studies examining FCS mutation gain for the other emerging variants, such as B.1.617.2, are lacking. If novel mutations in the SARS‐CoV‐2 FCS contribute to increasing virulence, this is an indication that further mutations may appear within/nearby this site..
+
+Notably, B.1.617. 2 reflects to have the highest transmissibility among the sub‐lineages of B.1.617, and it is also 50%–60% more transmissible than B.1.1.7, for which reasons are currently very little explained.
+31
+, 
+52
+, 
+63
+ The higher transmissibility of B.1.617. 2 may be attributed to the unique set of spike mutations it bears.
+64
+ Compared with B.1.617 (S: L452R, E484Q, D614G, del681, and del1072), B.1.617.1 (S: T95I, G142D, E154K, L452R, E484Q, D614G, P681R, and Q1071H), and B.1.617.3 (S: T19R, L452R, E484Q, D614G, and P681R), B.1.617.2 has more number of spike mutations (S: T19R, G142D, del156‐157, R158G, L452R, T478K, D614G, P681R, and D950N) (Table 1). It has also a greater number of spike mutations at or in vicinity of the RBM (L452R, E484K, and T478K) of spike protein, which suggests it may have a greater advantage in binding to host ACE2.
+64
+
+.
+
+Of note, the emerging variants have multiple mutations in the non‐spike region (Figure 4). The non‐spike proteins have proven role in determining the virulence of the SARS‐CoV‐2 wild strain, primarily NSP1, 3, 10, 16, and ORF8
+14
+; however, at present, there is very little evidence available in the support of any of the non‐spike protein region mutations having a distinctive influence in increasing the virulence of the variants. Moreover, how the new mutations in the emerging variants are affecting the host‐cell metabolism, will greatly affect their success in gaining the entry and multiplication inside the cells.
+65
+ This also requires to be explored in‐depth to understand the evolving host‐virus interactions in the emerging variants..
+
+Recent studies have shown that most of the emerging variants, primarily VOCs, have gained a certain level of resistance against the natural and vaccine‐acquired antibodies (Table 1).
+9
+, 
+58
+, 
+66
+ Resistance has been also reported against the multiple monoclonal antibodies currently being used in the treatment of COVID‐19.
+8
+, 
+67
+, 
+68
+ A significant fall in antibody‐mediated neutralization has been observed in most of the variants (Table 1). The most likely mechanisms for the gain of immune escape by variants are (i) inclusion or deletion of amino‐acid residues at immunogenic epitopes, thus bringing conformational changes at the binding interface, (ii) remodeling of the electrostatic surface potential, and (iii) gain of additional glycosylation sites thus shielding the binding site for the neutralizing antibodies.
+10
+, 
+37
+, 
+39
+, 
+44
+, 
+56
+, 
+69
+ Gain of an extra glycosylation site at spike region has been reported for P1 variant in a preprint study.
+70
+ In another recent study, Liu et al analyzed the crystal structures of viral RBD‐Fab (antigen‐binding fragment) complexes in an attempt to elucidate the mechanism of reduced antibody potency to B.1.617 lineage variants. The authors noted that a mutation at the residue position 452 (leucine to arginine) in the variants has led to an increase in the RBD side‐chain interacting with the 16‐residue‐long heavy chain (HC) complementarity determining region (CDR) 3 of the Fab, thus interrupting antibody binding (mAb 278).
+71
+
+.
+
+Clinical evidence of the gain of immune escape against natural and acquired infections has been continuously reflected in increasing trends of re‐infections and vaccine breakthrough infections, which supposedly are being caused by the emerging variants.
+3
+, 
+31
+, 
+59
+, 
+72
+ Most recent variants, as the emerging evidence suggests, particularly B.1.617.2, seem to be more capable of establishing a re‐infection and the vaccine breakthrough infections.
+31
+, 
+73
+ The mutations which are present in NTD (T19R, R158G, del156‐157) of the spike protein of B.1.617.2 occur on the prominent monoclonal antibody recognition site, which indicates a likely reason why this strain is more efficient in evading antibody recognition.
+8
+ The latest variants in B.1.617.2 lineage—or Delta plus K417N or AY.1 and AY.2 (Figure 5)—are also found to be capable of doing breakthrough infections, however, the data is currently limited.
+35
+, 
+73
+ Notably, K417 locus on SARS‐CoV‐2 RBM is a known binding site for the monoclonal antibodies in therapeutic use, such as CB6
+37
+ and its inclusion may have increased the immune escape capability of the AY lineage variants.
+74
+ A reversal of characteristic Delta plus lineage mutation K417N in later AY sub‐lineages, AY.3‐47, is astonishing (Figure 5), although the evolutionary reasons for regression of this mutation are not well understood yet, a destabilizing effect of this mutation on RBD:ACE2 binding may be a plausible explanation.
+74
+ Currently, the biological evidence is limited which can explain the clinical significance of this reversal.
+33
+
+.
+
+Lineage specific mutations in spike protein regions of SARS‐CoV‐2 Delta plus variants. (Mutations with > 75% prevalence in at least one lineage are shown. Data source: www.outbreak.info, accessed on November 1, 2021). SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2.
+
+Increased transmissibility of the emerging variants, primarily B.1.351, P1, and B.1.617.2 have predicted their prevalence in the population in comparison to the WT strain and early variants
+31
+, 
+51
+, 
+52
+, 
+75
+ (Figure 6). Accumulating spike mutations imparting greater transmissibility has been reflected first in a gain of global dominance for B.1 strain with D614G mutation, followed by its recent replacement by B.1.1.7 which shows greater transmissibility,
+63
+ perhaps arising because of multiple new mutations within this strain.
+38
+ B.1.1.7 is uniquely missed for detection by the PCR kits targeting S gene due to the characteristic deletion of amino acids 69–70 in this strain.
+76
+ More recent variants have now either taken over or outpacing the B.1.1.7 strain in large parts of the world. The global spread of B.1.617.2 has been surprisingly fast (Figure 6),
+77
+ thus indicating a very high level of adaptive selection for this strain..
+
+The global spread of emerging SARS‐CoV‐2 variants. (Data source: GISAID Initiative (www.gisaid.org, accessed on Nov 1, 2021. The image is created using EpiCoV™ application using 3572 SARS‐CoV‐2 genomes sampled between December 2019 and October 2021.). SARS‐CoV‐2, severe acute respiratory syndrome coronavirus 2.
+
+Rapidly spreading newer variants can potentially create new waves of the pandemic which has been recently observed in many countries across the globe. The most recent has been a devastating second wave in India, which is believed to be triggered by B.1.617 lineage variants, primarily B.1.617.2.
+30
+, 
+31
+, 
+78
+ Increased transmissibility and virulence of the emerging variants may cause a breach of the known epidemiological barriers, like age and sex, for contracting the infection and disease severity and outcomes known for the WT strain.
+1
+, 
+2
+, 
+35
+, 
+51
+, 
+52
+, 
+79
+ A large body of the studies since the first COVID‐19 wave has established that old aged (>60 year)
+7
+, 
+80
+ and male sex
+81
+, 
+82
+ are risk factors for developing severe COVID‐19 and higher mortality following infection with WT strain. In contrast, recent epidemiological data from the countries reporting new waves have shown a deviation from the established pattern. An incremental increase in transmissibility of the emerging variants from B.1 to B.1.617.2 suggests that more numbers of younger age individuals, including pediatric age group, may get involved in the pandemic as the strains further evolve.
+1
+, 
+2
+, 
+4
+, 
+35
+, 
+79
+ Also, early indications for narrowing the sex‐based differences in patient outcomes is an important epidemiological concern.
+83
+, 
+84
+
+.
+
+In a recent study, among the Indian population, using data from the national clinical registry for COVID‐19 authors have compared clinical profiles of the hospitalized patients during two successive COVID‐19 waves (N = 12 059 and 6903). The authors noted that the mean age of the patients was significantly lower in the second wave (48.7 [18.1] year vs. 50.7 [18.0] year, p < 0.001) with more numbers of patients in the younger age groups intervals (<20, and 20–39 year). The proportion of men were lower in second wave (4400 [63.7%] vs. 7886 [65.4%], p = 0.02). A significantly higher proportion (2625 [48.6%] vs. 4420 [42.8%], p < 0.003) complained of severe symptoms, such as shortness of breath, developed acute respiratory distress syndrome (ARDS) (422 [13%] vs. 880 [7.9%], p < 0.001), and required supplemental oxygen (1637 [50.3%] vs. 4771 [42.7%], p < 0.001) and mechanical ventilation (260 [15.9%] vs. 530 [11.1%], p < 0.001). Mortality also is obseved to be significantly higher (odds ratio [OR]: 1.35 [95% CI: 1.19, 1.52]) in all age groups except in < 20 year. The observations of this study validate that the newer variants driven by successive COVID‐19 waves have significantly altered epidemiological characteristics.
+78
+ Notably, the first and second COVID‐19 waves in India were most likely driven by WT strains and B.1.617.2 (Delta variant), respectively.
+30
+, 
+31
+ More recently, Kumar et al.,
+84
+ conducted a cross‐sectional study of COVID‐19 cases in the Indian population caused by D614G variant (B.1) (which shares close epidemiological similarity to WT strain) and Delta variant of SARS‐CoV‐2 (N = 9500, N
+Delta = 6238, N
+WT = 3262].
+84
+ The authors noted that in comparison to B.1 higher proportion of young individuals (<20 year) were infected (0–9 year: 4.47% vs. 2.3%, 10–19 year: 9% vs. 7%). Further, a higher proportion of total young population (10% vs. 4%) had developed symptomatic illness and was hospitalized. The proportions of women contracting an infection (41% vs. 36%) and developing symptomatic illness and hospitalized (<20 year, 14% vs. 3%, 20–59 year, 75% vs. 55%) were also increased. Notably, the mean age was significantly lower for contracting infection (men = 37.9 [±17.2] vs. 39.6 [±16.9] year, women = 36.6 [±17.6] vs. 40.1 [±17.4] year (p < 0.001]) as well as developing symptoms/hospitalization (men = 39.6 [± 17.4] vs. men = 47 [±18] year, women = 35.6 [±16.9] vs. 49.5 [±20.9] year, [p < 0.001]). The total mortality was about 1.8 times higher and the risk of death is increased irrespective of the sex (OR: 3.034, 95% CI: 1.7–5.2, p < 0.001). Interestingly, although, the proportion of mortality was still higher in men than women, an increased number of women (32% with Delta vs. 25% with B.1) died.
+84
+
+.
+
+Moreover, increasing incidences of severe disease and poor outcomes in individuals with no significant co‐morbidity are concerning and should be considered alarming.
+2
+, 
+35
+, 
+51
+ Also, repeated and vaccine breakthrough infections have been reported frequently with the new variants.
+3
+, 
+31
+, 
+35
+
+.
+
+The changing epidemiological characteristics of the COVID‐19 pandemic with the emergence of more transmissible and virulent variants give clear indications that an increasing number of younger and healthy individuals, irrespective of sex, may develop severe COVID‐19 as these variants dominate over the global population..
+
+Increasing immune escape against natural, vaccine acquired and therapeutically administered monoclonal antibodies in the emerging variants is a grave public health concern threatening of possible future COVID‐19 waves (Table 1).
+85
+ High transmissibility of the newer variants, including within the earlier infected and vaccinated, can not only have a serious impact on the treatment and vaccination strategies but this can potentially fail the ongoing pandemic containment measures and may make reaching the post‐immunization herd immunity improbable. Notably, most of the world's population is still unvaccinated. Hence, there is strong plausibility that key mutations in the newer variants may get further selected or give way to the more adaptive mutations, as they encounter partially immunized hosts globally. This may not only prolong the duration of the pandemic but also can tremendously increase the burden of globally active cases..
+
+Increasing numbers of the studies have now indicated higher transmissibility and virulence, and gain of immune escape by the emerging SARS‐CoV‐2 variants. There is compelling evidence to reason that these variants can potentially breach key epidemiological barriers set by the WT strain and the variants that emerged in the earlier days of the pandemic. These newer developments at the population level viral dynamics caused by the selection of adaptive mutations may render the control measures ineffective. Immediate strong measures need to be taken to put a brake on the spread of the more threatening variants. A population‐matched local and global surveillance of the further changes in the SARS‐CoV‐2 genome is the need of the hour to ensure that newly emerging variants are timely identified and contained. Further, intensive clinical and epidemiological studies will be necessary to accurately assess the health impacts of the newer variants, which we still know very little about. Using variant‐specific PCR kits will help in the rapid detection of these variants, and hence it presents an immediate necessity. Moreover, the development of the monoclonal antibodies and vaccines targeting more conserved regions of the spike protein, immunizing the population against currently dominating variants, giving booster doses to those who are vaccinated, and vaccinating the unexposed and vulnerable groups on priority, are other key necessary measures, which needs to be taken on, in priority..
+
+The authors declare that there are no conflict of interests..
+
+The concept was developed by Ashutosh Kumar who also wrote the first draft, and Rakesh Parashar, Muneeb A. Faiq, Sujeet Kumar, Chiman Kumari, Maheswari Kulandhasamy, Ravi K. Narayan, Rakesh K. Jha, Himanshu N. Singh, Pranav Prasoon, Sada N. Pandey, and Kamla Kant revised it. All authors consented for the final draft..
+
+Authors express their sincere gratitude to GISAID (https://www.gisaid.org/) and Outbreak.info (https://outbreak.info/) databases, which were utilized for generating data graphs and/or mutation landscapes for SARS‐CoV‐2 variants..
+
+The study has used publically available databases GISAID (https://www.gisaid.org/) and Outbreak. info (https://outbreak.info/) for generating data graphs and/or mutation landscapes for SARS‐CoV‐2 variants (accessed on date 18/08/2021). The relevant data can be downloaded from these publically accessible sites..
+

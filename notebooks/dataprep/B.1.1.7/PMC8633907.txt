@@ -1,0 +1,490 @@
+Communicated by BJ RAO..
+
+The COVID-19 pandemic that emerged around December 2019 claimed millions of lives. For vaccine development, S protein on viral envelope that binds to ACE2 receptor on cells for entry was identified as vaccine candidate. S protein consists of Receptor Binding Motif (RBM) in the S1 subunit followed by the S2 subunit with an intermediate furin cleavage site. A stabilized version of S protein with 2 proline residues was used as antigen. Overall, most vaccines exhibited efficacy between 80 and 95%. However, being a RNA virus that is prone to mutations along with selection pressure on S protein and frequent use of convalescent plasma led to evolution of variants. These variants are responsible for multiple waves of infection observed globally. In our review, we discuss current data on vaccines and its efficacy in neutralizing SARS-CoV-2 from Wuhan and its variants. Further, our docked mutations observed in variants on the ACE2-S complex cryo-EM structure show that mostly the S1 domain is under selection pressure where major mutations occur in the N terminal domain (NTD), RBM and junction near S1-S2 subunit. Therefore, this review would be a reference for development of new candidate antigen(s) with better efficacy against variants.
+.
+
+With the identification of SARS-CoV-2 responsible for COVID-19 in 2019, the virus has been under constant surveillance and discussion with regards to its origin, evolution, transmission, mutation, disease symptoms as well as its effective mechanism of hijacking the host immune system. Using genomic and taxonomic evidence, it has been clearly proved that it belongs to order Nidovirales, family Coronaviridae, subfamily Coronavirinae, genus Betacoronavirus, and subgenus Sarbecovirus. Similar to other viruses of the genus betacoronavirus, SARS-CoV-2 is an enveloped virus with positive-sense, ssRNA genome of ~30kb size and it is ~80% homologous to SARS and ~50% to MERS (Kim et al.
+2020; Zhou et al.
+2020)..
+
+The SARS-CoV-2 genome consists of non-segmented RNA and encodes 13–15 open reading frames (ORFs). The RNA encodes for 7096 amino acid long polypeptide that is cleaved by viral proteinases to yield two non-structural proteins replicase and protease at the 5′ end. The remaining polypeptide at the 3′ end encodes for structural proteins like Spike (S), Envelope (E), Membrane (M) and Nucleocapsid (N) protein, and 5 accessory proteins (ORF3, ORF4a, ORF4b, ORF5 and ORF8) important for formation of capsid and envelope of the virus (Kim et al.
+2020)..
+
+Being from the betacoronavirus genus, the virus originated from bats and was thought to be transmitted to humans with the help of an intermediate animal. However, even after a year since the identification of this virus, none of the studies have been able to provide experimental proof about the identity of the intermediate host. Along with this, though the S protein from SARS-CoV-1 and SARS-CoV-2 are 75% similar, the latter consists of a furin cleavage site that is a signature of Influenza virus (Gralinski and Menachery 2020; Zhou et al.
+2020). The absence of conclusive evidence of its mode of reaching humans and the presence of a furin cleavage site in S protein raises the concern of alternate theory of lab leak from a lab in Wuhan, China. However, this theory still needs to be scientifically established. It is also important to note that this furin cleavage site is from the Influenza virus that is known for its high transmission rates (Andersen et al.
+2020). This suggests that the presence of this site might be the reason why SARS-CoV-2 has higher transmission rates as compared to previous SARS and MERS epidemics that were far more contained..
+
+For an antigen to be a successful vaccine candidate, it should be able to block the first step of infection, that is the entry of the virus into the cells. The ACE2 receptors present abundantly on the epithelial cell surface of the oral mucosa, human lungs and small intestine act as receptors for S protein on the viral envelope. The initial interaction between the SARS-CoV-2 and host occurs at the surface of the epithelium, with the attachment of S protein to the ACE2 receptor. The S protein consists of two subunits S1 and S2 that are cleaved by a protease at the furin cleavage site. After cleavage, S1 contains the Receptor Binding domain (RBD) that binds to ACE2 while S2 subunit mediates fusion of viral envelope to cells. This fusion leads to release of the viral genome that is followed by replication and proliferation of virus inside the cells (Pallesen et al.
+2017). This hijacking of host cell machinery and immune system for its multiplication is responsible for the pathogenic symptoms associated with SARS-CoV-2 like lung inflammation, pneumonia and even death..
+
+Thus in order to stop the infection and pathogenesis of SARS-CoV-2, the vaccine efforts should focus on abrogating the binding of S protein to the ACE2 receptor. The S protein belongs to Class I fusion proteins, and its cryo-EM structure revealed that it exists in trimeric form similar to the S protein from MERS virus (Wrapp et al.
+2020; Pallesen et al.
+2017). However, in the case of SARS-CoV-2, one of the RBD domains was found to be ‘up’ while the other two were in ‘down’ position. The binding of RBD in ‘up’ position with ACE2, induces the movement of remaining RBDs to ‘up’ position, forming a multimeric binding interaction. After binding, S1 is shed by a protease, while S2 forms a prehairpin intermediate, followed by fusion and entry of the virus into the host cell (Wrapp et al.
+2020)..
+
+Though the structure of S protein identified the mode of binding and its subsequent establishment of infection in host cells, in order to design S protein as a successful antigen for vaccine, it was necessary to obtain detailed information on the S protein-ACE2 interaction. Therefore, efforts were made for structure based antigen design by solving the structure of RBD in complex with ACE2 using cryo-EM. The structure was of high resolution (3.5 Å) and revealed that the interacting site was enriched in tyrosines and is hydrophilic in nature with 13 hydrogen bonds and 2 salt bridges. Although the structure is similar to the RBD of SARS-CoV-1, there is an additional interaction site (K417) outside the RBD domain that interacts with D30 of ACE2. Further there is presence of positively charged patch contributed by K417 that might be responsible for the higher binding affinity of SARS-CoV-2 RBD to ACE2 than SARS-CoV-1 RBD. It is interesting to note that although the binding mode and structure is similar between these two viruses, the neutralization antibodies of SARS-CoV-1 did not neutralize SARS-CoV-2, suggesting its implications on variants of SARS-CoV-2 (Lan et al.
+2020; Xu et al.
+2021)..
+
+The structure of the S protein and S-ACE2 complex was critical for vaccine efforts and accelerated the vaccine development process. However, the major challenge was to design a construct that would render the protein stable in vivo. Additionally, the presence of a protease target site made it amenable to degradation. In this aspect, the studies from MERS virus were quite helpful where it was observed that incorporation of 2 proline residues stabilized the protein (Pallesen et al.
+2017). Similar approach was taken for S protein of SARS-CoV-2, where S protein was expressed from amino acids 1-1208 and proline was introduced at amino acid positions 986 and 987. Further furin cleavage site (RRAR) was mutated to ‘GSAS’ (Wrapp et al.
+2020). This structure based design proved successful and is the backbone of the vaccine constructs from various manufacturers like Moderna (mRNA-1273), Pfizer (BNT162b2), Novavax (NVX-CoV2373) and Janssen (Ad26.COV2.S). Different manufacturers decided to use different strategies for delivery of antigen but all of their constructs use S protein with 2 proline substitutions..
+
+In the quest to further improve the design of vaccines that have enhanced stability, Hsieh C et al., also came up with various changes in the S protein such as disulfide bridges, addition of prolines, salt bridges and cavity filling approach. Of all these, cavity filling and proline approach worked better and now combining all these works, they have come up with a combinatorial antigen that has the advantage of stability with increased expression capacity (Hsieh et al.
+2020)..
+
+Although this combinatorial antigen still needs to be tested, in order to limit the number of COVID-19 infections and mortality, various companies already initiated the efforts for vaccines by bypassing the traditional steps of vaccine development (Deb et al.
+2020). Most of the companies in different countries have taken the approach of using S protein as the antigen with inactivated replication deficient transfer vector. Moderna and Pfizer used the mRNA approach, and they were among the initial companies that started vaccinations in the USA. Russia developed Sputnik V and India developed Covishield in collaboration with Oxford University, UK. Most of the vaccines have been estimated to have 80-95% efficacy against SARS-CoV-2 (table 1). Although most of the candidates were considered safe in Phase I trials, ongoing vaccinations demonstrate the side effects of these vaccines. The vaccine from Janssen was stopped due to cerebral venous thrombosis (CVST) with thrombocytopenia after vaccinations (Sadoff et al.
+2021). Covishield was also associated with blood clotting (https://www.publichealth.hscni.net/publications/blood-clotting-following-covid-19-vaccination-information-health-professionals) while Pfizer vaccine was found to have long term implications in heart inflammation (Marshall et al.
+2021).Table 1Vaccine efforts by different manufacturers globallySl. noName of the Vaccine (a)Manufacturer/WHO EUL holderType of VaccineEfficacyStatus of assessmentNo. of doses and schedulePhaseSide effectsUSA1BNT162b/COMIRNATY Tozinameran (INN)Pfizer/BIONTECHNucleoside modified mNRA95%Finalized2Day 0 + 21IVtiredness, chills, fever headache, joint pain and muscle pain2mRNA-1273Moderna + NIAIDmNRA-based vaccine encapsulated in lipid nanoparticle (LNP)94%Finalized2Day 0 + 28IVtiredness, chills, joint pain, headache, muscle pain, swollen lymph nodes in the same arm as the injection, nausea and vomiting, and fever3NVX-CoV2373/CovovaxNOVAVAXRecombinant nanoparticle prefusion S protein formulated with MatrixM™ adjuvant2Day 0 + 21III4Soberana 01, Soberana 02Soberana PlusBioCubaFarma-Cuba/Institute of Finlay de VacunasCubaS protein chemically conjugated to meningococcal B or tetanus toxoid or Aluminum2Day 0 + 28II/IIIEurope5AZD1222Astrazenca/University of OxfoardUKRecombinant ChAdOx1 adenoviral vector encoding the Spike protein antigen of the SARS-CoV-267%FinalizedSK-Catalent Wuxi (DS) Chemo Spain1–2Day 0 + 28IVfatigue, tenderness,Headache, feverish,myalgia6Ad26.COV2.SJanssen-Infectious diseases & VaccinesUKRecombinant, replication-incompetent adenovirus type 26 (Ad26) vectored vaccine encoding the (SARS-CoV-2) Spike (S) protein67%Finalized (US +NL – sites)Ongoing* -South AfricaAwaited Other sites1-2Day 0 + 56IVheadache, fatigue and myalgia. Adverse effects due to reactogenicity generally mild to moderate of local and systemic solicited adverse reactions7Zorecimeran (INN) concentrate and solvent for dispersion for injection; Company code: CVnCoV/CV07050101CUREVACGermanymRNA-based vaccine encapsulated in lipid nanoparticle (LNP)2Day 0 + 28III8Sputnik VTHE GAMALEYA NATIONAL CENTER OF EPIDEMIOLOGY AND MICROBIOLOGYRussiaHuman Adenovirus Vector-based Covid-19 vaccine90%Additional data (Non-CLIN,CLIN,CMC).2Day 0 + 21III9Recombinant Novel Coronavirus Vaccine CHO CellVector State Research Centre of Virology and Biotechnology,RussiaRecombinant protein subunit2Day 0 + 21IIIAsia10SARS-CoV-2 Vaccine (Vero Cell), Inactivated (lnCoV)Sinopharm/BIBP1ChinaWhole virus Inactivated in Vero cells79%Finalized2Day 0 + 21IV11SARS-CoV-2 Vaccine (Vero Cell), InactivatedSinovacChinaWhole virus Inactivated in Vero cells50%Finalized2Day 0 + 14IV12Ad5-nCoVCanSinoBIOChinaRecombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)1IV13Inactivated SARS-CoV-2 Vaccine (Vero Cell)Sinopharm/WIBP2chinaWhole virus Inactivated in Vero cells2Day 0 + 21III14EpiVacCoronaZhifei Longcom,ChinaPeptide antigen2-3Day 0 + 28orDay 0 + 28 +56III15SARS-CoV-2 Vaccine, Inactivated (Vero Cell)IMBCAMS,ChinaInactivated2Day 0 + 28III16SCB-2019Clover BiopharmaceuticalsChinaNovel recombinant SARS-CoV-2 Spike (S)-Trimer fusion protein2Day 0 + 21II/III17Covishield (ChAdOx1_nCoV-19)Serum Institute of India PVT.LTD, IndiaRecombinant ChAdOx1 adenoviral vector encoding the Spike protein antigen of the SARS-CoV-2Finalized1-2Day 0 + 28IV18COVAXINBharat Biotech, IndiaSARS-CoV-2 Vaccine, Inactivated (Vero Cell)78%2Day 0 + 14IIISwelling, Redness, Headache, Fever, Itching Malaise, body ache, Nausea, Vomiting, Rashes, A severe allergic reaction may very rarely occur after getting a doseThe table describes vaccine initiatives from USA, Europe and Asia along with the description of strategy used for vaccination, efficacy and side effects on humans.(a) References:https://extranet.who.int/, Olliaro et al. (2021), Ella et al. (2021a, b), https://www.who.int/news-room/feature-stories/detail, https://www.who.int/news-room/feature-stories/detail, https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines.
+
+Vaccine efforts by different manufacturers globally.
+
+2.
+
+Day 0 + 21.
+
+2.
+
+Day 0 + 28.
+
+2.
+
+Day 0 + 21.
+
+Soberana 01, Soberana 02.
+
+Soberana Plus.
+
+BioCubaFarma-Cuba/.
+
+Institute of Finlay de Vacunas.
+
+Cuba.
+
+2.
+
+Day 0 + 28.
+
+Astrazenca/University of Oxfoard.
+
+UK.
+
+Finalized.
+
+SK-Catalent Wuxi (DS) Chemo Spain.
+
+1–2.
+
+Day 0 + 28.
+
+fatigue, tenderness,.
+
+Headache, feverish,.
+
+myalgia.
+
+Janssen-Infectious diseases & Vaccines.
+
+UK.
+
+Finalized (US +NL – sites).
+
+Ongoing* -.
+
+South Africa.
+
+Awaited Other sites.
+
+1-2.
+
+Day 0 + 56.
+
+CUREVAC.
+
+Germany.
+
+2.
+
+Day 0 + 28.
+
+THE GAMALEYA NATIONAL CENTER OF EPIDEMIOLOGY AND MICROBIOLOGY.
+
+Russia.
+
+2.
+
+Day 0 + 21.
+
+Vector State Research Centre of Virology and Biotechnology,.
+
+Russia.
+
+2.
+
+Day 0 + 21.
+
+Sinopharm/BIBP1.
+
+China.
+
+2.
+
+Day 0 + 21.
+
+Sinovac.
+
+China.
+
+2.
+
+Day 0 + 14.
+
+CanSinoBIO.
+
+China.
+
+Sinopharm/WIBP2.
+
+china.
+
+2.
+
+Day 0 + 21.
+
+Zhifei Longcom,.
+
+China.
+
+2-3.
+
+Day 0 + 28.
+
+or.
+
+Day 0 + 28 +56.
+
+IMBCAMS,.
+
+China.
+
+2.
+
+Day 0 + 28.
+
+Clover Biopharmaceuticals.
+
+China.
+
+2.
+
+Day 0 + 21.
+
+1-2.
+
+Day 0 + 28.
+
+2.
+
+Day 0 + 14.
+
+The table describes vaccine initiatives from USA, Europe and Asia along with the description of strategy used for vaccination, efficacy and side effects on humans..
+
+(a) References:.
+
+https://extranet.who.int/, Olliaro et al. (2021), Ella et al. (2021a, b), https://www.who.int/news-room/feature-stories/detail, https://www.who.int/news-room/feature-stories/detail, https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines.
+
+In contrast to the above mentioned manufacturers, Sinopharm from China and Bharat Biotech in collaboration with Indian Council of Medical Research (ICMR) India, applied the conventional strategy of using inactivated virus as the antigen. Both of them used β-propionolactone for inactivation of the virus (Wang et al.
+2020; Ella et al.
+2021a, b), though the viral strains were different (Ganneru et al.
+2021). Based on the press release from Bharat Biotech, Covaxin is currently predicted to be successful against clearing infection with 78% efficacy, with minimal side effects (Ella et al.
+2021a, b; table 1). However, it is still early to conclude about its effects on the population and the ongoing Phase III trials will provide more information..
+
+Due to high infection rates and mortality, and with a large proportion of the population falling in the vulnerable category, vaccine initiatives started quite early in the USA and UK. Pfizer and Moderna in the USA and Covishield in the UK administered vaccines as two doses separated by several weeks. The Pfizer (BNT162b2) vaccination led to generation of a strong antibody response and the response generated after the 2nd dose was comparable with that of the people who contracted COVID-19 and were given the 1st dose of vaccine (Ebinger et al.
+2021). However, the studies with the same vaccine showed that the antibody response decreased by 6 weeks after the 2nd dose, suggesting that the immune protection is not long lasting and tends to fade away eventually. Also, older males showed decreased vaccine efficacy (Naaber et al.
+2021). On a positive note, recent data from vaccinations in Israel conveyed that BNT162b2 was able to reduce hospitalizations and severe disease by 87% and 92% respectively and prevented 94% of the symptomatic COVID-19 cases. Similar results were obtained from vaccinations performed in Scotland with Covishield from Oxford university, where total effectiveness was around 81% (Dagan et al.
+2021)..
+
+For India, due to its large population, it would have been difficult to depend on foreign sources for vaccinations. As India already had expertise and facilities in making vaccines for many diseases, it successfully developed its own vaccines. Initial efforts were majorly from Covishield manufactured by Serum Institute in collaboration with Oxford University and Covaxin from Bharat Biotech in collaboration with ICMR. At first, during vaccine development, it was not clear which strategy would be successful, so India focused on Covishield that used an adenoviral vector delivery method and Covaxin which relied on an inactivated virus method. Both of the antigens showed a high seropositivity rate of 79.3% after the first dose of vaccine and no differences were observed with age and gender. Also, Covishield showed better response to anti-Spike protein as compared to Covaxin (86.8% vs 43.8%) but Covishield recipients have somewhat higher adverse effects as compared to Covaxin after immunization (46.7 vs 31.2%) (Singh et al.
+2021). Later, in order to ramp up the vaccination process, two new Indian vaccines from Zydus Cadila (ZyCoV-D) and Biological E have also entered the production phase..
+
+SARS-CoV-2 being a RNA virus belongs to the group of the fastest mutating pathogens in the world. The mutation rate in the Dengue virus is 2.64 × 10−5 mutations per site per generation, while for HIV and Influenza it is 4 × 10−5 and 1.35 × 10−5 mutations per site per generation respectively. The exceptionally high mutation rates provide the RNA viruses with remarkable capabilities for adaptation to combat selection pressures. The main reason for the high mutation rates is the lack of proofreading activity in the reverse transcriptase enzymes of these viruses. However, the mutation rates are low in SARS CoV-1 (9.0 × 10−7 mutations per nucleotide per replication cycle) and SARS CoV-2 (1 × 10−7 substitutions/site/year). It was reported that coronavirus nsp14 acts as a 3′-5′ exoribonuclease on both single-stranded and double-stranded RNA and reduces the mutational defects in the corona viruses (Carrasco et al.
+2017)..
+
+Although the mutation rate of SARS-CoV-2 is not as high as HIV and Influenza, the situation of emerging variants through mutations has been aggravated by the extensive use of convalescent plasma therapy. In this therapy, plasma from recovered patients, termed as convalescent plasma, is used for the treatment of newly infected patients as it consists of neutralization antibodies. This therapy was successful in treating patients and reduced the severity of disease, which led to prevalent use of convalescent plasma among patients. However, it was observed that such mass usage of this therapy led to evolution of variants such as D796H substitution in S2 domain and deletion ΔH69/Δ79 in the S1 domain of the protein (Kemp et al.
+2021). Importantly with the reduction of passively transferred antibodies, the dominant virus also diminished, suggesting that the virus is co-evolving based on the host immune responses. Further this double mutant virus showed less recognition with convalescent plasma but maintained the same infectivity rates (Collier et al.
+2021)..
+
+Since most of the neutralization antibodies are against the S protein, this protein is under tremendous immune pressure from the host. It was observed that mutations in the S protein were responsible for the second and third waves of infection in most, if not all the countries. Notably, the second and third waves’ peaks were higher with faster transmission rates and higher mortality among humans as compared to the first peak. From the sequencing of these viruses during the peak of infection, it was observed that a dominant mutation in the S protein is the cause of such infection rates and the virus is continuously evolving based on the immune pressure or demographics. For example, it was observed that, in India during the first wave, mostly older people with diabetes and cardiovascular disease were the vulnerable population. However, the second wave affected a considerable amount of people in the 25-45 age group; and the third wave is expected to affect children. Therefore, due to their continuous evolution, WHO is closely keeping record of all the mutations globally and classifying them as Variant of Concern (VOC) or variant of interest (VOI) based on their infection pattern. Mutants which have been recognized to cause community transmission/multiple COVID-19 cases/clusters, or have been detected in multiple countries are assessed to be a VOI by WHO in consultation with the WHO SARS-CoV-2 Virus Evolution Working Group. Along with these characteristics if the virus poses one or more severe public health concerns like-increased transmissibility, virulence, change in the course of epidemiology, change in clinical presentation or evading the effectiveness of diagnostics, vaccines, therapeutics, it can be grouped under VOC. Below is the list of variants responsible for larger second and third waves of infection in many countries (table 2, figure 1).Table 2Emergence of variants from different countriesSl. noCountry of origin(a)LineageWHO labelNext strain cladeMutations/substitutions in spike proteinSeverity (compared to parental strain)RBMS1S21UK-Sept-2020B.1.1.7Alpha201/501Y.V1S494P*E484K*N501YΔ69Δ70Δ144A570DD614GP681HT716IS982AD1118H K1191N*No change2South Africa-May-2020B.1.351Beta20H/501Y.V2E484KN501YΔ241Δ242 Δ 243 D80A,D215GK417ND614GA701V1.5 times higher3Brazil-Nov-2020P.1Gamma20J/501Y.V3E484KN501YL18F T20N P26SD138YR190S K417TD614G H655YT1027I2.6 times higher4India Oct-2020B.1.617.2,B.1.617.3,B.1.617.1Delta+Kappa21A/G/478K.V1E484QL452RT478KT19R G142D R158G Δ156Δ157V382LD614G P681RD950NN/A5USA-Mar-2020B1.427/B.1.429Epsilon21C/GH/452R.V1L452R S13I W152CD614G14–18% higher6Brazil-Apr-2020P.2Zeta20B/S484K/GR/484K.V2E484K D614GF565L* V1176FN/A7Nigeria-Dec-2020B.1.525Eta21D/G/484K.V3E484KA67VΔ69Δ70Δ144D614GQ677HF888LN/A8USA-Nov-2020B.1.526Lota21F/GH/53G.V1S477N*E484K*L452RL5F* D80G T95IF157SD253GΔ144D614GA701V*T791I*T859N* D950HElevated9Philippines-Jan-2021P.3Theta21E/GR/1092K.V1E484KN501YD614GP681HE1092KH1101YV1176FN/A10Peru-Aug-2020C.37Lambda20D/GR/452Q.V1L452QF490SG75VT76I, Δ 246-252 D614GT859NN/A11Uganda-Oct-2020A.23.1––F157LR102I*V367F Q613HP681RN/A12Columbia-Jan-2021B.1.621E484KN501YN/A13France-Jan-2021B.1.616–20CV483AH66DD215G H655YG669SQ949RN1187DN/A14FranceHMN.19B Henn Mondor19BL452RN501YN/AThe table provides a detailed description of country of origin, lineage and clade. The mutations observed in variants have been mapped to RBM, S1 and S2 regions of S protein. The mutations that are highly prevalent are designated in bold.(a)References: Boehm et al. (2021), Huang et al. (2020), https://www.who.int/en/activities/.https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html, https://viralzone.expasy.org/variantsFigure 1Analysis of mutations in the S region of SARS-CoV-2 variants. (A) Sequence alignment of S protein of variants sequenced till date. The mutations are mapped to the RBM, S1 and S2 region of the protein. (B) Docking of mutations observed in S protein of variants in complex with ACE2. The S protein-ACE2 complex cryo-EM structure (PDB ID: 7DF4; Xu et al.
+2021) is used for mapping mutations..
+
+Emergence of variants from different countries.
+
+S494P*.
+
+E484K*.
+
+N501Y.
+
+Δ69.
+
+Δ70.
+
+Δ144.
+
+A570D.
+
+D614G.
+
+P681H.
+
+T716I.
+
+S982A.
+
+D1118H .
+
+K1191N*.
+
+E484K.
+
+N501Y.
+
+Δ241.
+
+Δ242 .
+
+Δ 243 .
+
+D80A,.
+
+D215G.
+
+K417N.
+
+D614G.
+
+E484K.
+
+N501Y.
+
+L18F T20N .
+
+P26S.
+
+D138Y.
+
+R190S K417T.
+
+D614G H655Y.
+
+B.1.617.2,.
+
+B.1.617.3,.
+
+B.1.617.1.
+
+Delta.
+
++Kappa.
+
+E484Q.
+
+L452R.
+
+T478K.
+
+T19R G142D R158G Δ156.
+
+Δ157.
+
+V382L.
+
+D614G P681R.
+
+B1.427/.
+
+B.1.429.
+
+S13I .
+
+W152C.
+
+D614G.
+
+D614G.
+
+F565L* .
+
+A67V.
+
+Δ69.
+
+Δ70.
+
+Δ144.
+
+D614G.
+
+Q677H.
+
+S477N*.
+
+E484K*.
+
+L452R.
+
+L5F* D80G T95I.
+
+F157S.
+
+D253G.
+
+Δ144.
+
+D614G.
+
+A701V*.
+
+T791I*.
+
+T859N* D950H.
+
+E484K.
+
+N501Y.
+
+D614G.
+
+P681H.
+
+E1092K.
+
+H1101Y.
+
+V1176F.
+
+L452Q.
+
+F490S.
+
+G75V.
+
+T76I, .
+
+Δ 246-252 .
+
+D614G.
+
+F157L.
+
+R102I*.
+
+V367F Q613H.
+
+P681R.
+
+E484K.
+
+N501Y.
+
+H66D.
+
+D215G H655Y.
+
+G669S.
+
+Q949R.
+
+N1187D.
+
+L452R.
+
+N501Y.
+
+The table provides a detailed description of country of origin, lineage and clade. The mutations observed in variants have been mapped to RBM, S1 and S2 regions of S protein. The mutations that are highly prevalent are designated in bold..
+
+(a)References: Boehm et al. (2021), Huang et al. (2020), https://www.who.int/en/activities/..
+
+https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html, https://viralzone.expasy.org/variants.
+
+Analysis of mutations in the S region of SARS-CoV-2 variants. (A) Sequence alignment of S protein of variants sequenced till date. The mutations are mapped to the RBM, S1 and S2 region of the protein. (B) Docking of mutations observed in S protein of variants in complex with ACE2. The S protein-ACE2 complex cryo-EM structure (PDB ID: 7DF4; Xu et al.
+2021) is used for mapping mutations..
+
+This mutant virus was found to be more contagious than the wild type and harbors multiple mutations. The major mutations in the spike protein of B.1.1.7 were deletions 69–70, 144 in N terminal domain (NTD) and substitutions N501Y, A570D, D614G, P681H, T716I, S982A, D1118H in RBD and S1/S2 region of S protein (table 2, figure 1). However, some of the patients also had E484K, S494P, K1191N substitutions..
+
+Further, this mutant showed decreased neutralization with BNT162b2 (Pfizer), or with antibodies from patients recovered from COVID-19. Moreover, the emergence of E484K in the B.1.1.7 background led to significant loss of neutralization activity as compared to the control Wuhan virus (Collier et al.
+2021)..
+
+The substitutions in this variant, D80A, D215G, K417N, E484K, N501Y, D614G, A701V and deletions in 241–243 (table 2; figure 1) emerged in a background of high HIV prevalence accompanied with high rates of population exposure (Tegally et al.
+2020). The transmission was found to be 1.5 times higher for this variant where nearly 80% of the sequenced cases in Feb 2021 belonged to this mutant. In vitro data suggest that this variant may be able to establish infections in rats and mice (Yao et al.
+2021), which seems to have been confirmed in vivo (Montagutelli et al.
+2021)..
+
+Since most of the mutations were concentrated in the RBM and S1 region (figure 1B), as expected there was decreased neutralization of this mutant with convalescent plasma as well as with monoclonal antibodies (etesevimab, bamlanivimab, REGN10989) used for clearing the viral infection. Using pseudovirus that had all mutations of the Beta variant, it was observed the mRNA-1273 showed reduction in neutralization of this mutant by 6.4-fold (Wu et al.
+2021). Similarly Astrazeneca vaccine did not confer any protection against this variant (Madhi et al.
+2021). However, BNT162b2 from Pfizer was 100% effective against this variant (https://www.businesswire.com/news/home/20210401005365/en/Pfizer-and-BioNTech-Confirm-High-Efficacy-and-No-Serious-SafetyConcerns-Through-Up-to-Six-Months-Following-Second-Dose-in-UpdatedTopline-Analysis-of-Landmark-COVID-19-Vaccine-Study)..
+
+This variant has been estimated to be 2.6 times more transmissible (Coutinho et al. 2021) and mostly consists of substitutions in the S1 region (L18F T20N, P26S, D138Y, R190S, K417T, D614G, H655Y, E484K, N501Y,T1027I; table 1 and figure 1B) and no deletion of amino acids were observed. Similar to the Beta variant, this one can also infect mice and rats (Yao et al.
+2021; Montagutelli et al.
+2021). The studies using convalescent plasma and BNT162b2 demonstrated reduced neutralization activity with this mutant strain (Garcia-Beltran et al.
+2021)..
+
+This variant is considered a ‘double mutant’ virus as this is the only variant that has L452R and the E484Q substitutions in RBM domain of S protein. Both of these mutations are responsible for reduced recognition by neutralization antibodies mediating immune escape..
+
+Based on the mutations in B1.617, it has been classified into three sub-lineages. B.1.617.1 possesses E484Q mutation, while B.1.617.2 lacks E484Q but contains D157,158 and T478K not present in the other two variants. B.1.617.3 has E484Q and D157,158 changes that can also be found in B.1.617.1. Recently in March 2021, substitution V382L was also found in around 15-20% of the sequenced viral genomes. Though it's too early to predict its effect on pathogenesis, this is the first time a substitution has been seen in this region that belongs to RBD but is not a part of RBM in S1 (https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1707177 30 march 2021; figure 1B). Although these sub lineages have different mutations, it is interesting to note that most of the mutations have occurred in the same S1 region, suggesting a selective pressure at this region in India (table 1 and figure 1)..
+
+Since B.1.617.2 was majorly responsible for the second wave of COVID-19 in India and because it got rapidly transferred to the UK as well, a study was conducted from 5 April to 16 May to analyze the effectiveness of two vaccine candidates- Pfizer and AstraZeneca against the B.1.617.2 variant compared to B.1.1.7. Based on the press release from Public Health England (PHE), both vaccines were 33% effective after 3 weeks of the second dose against the B.1.617.2 variant while it was 50% with B.1.1.7. But after 2 weeks of the second dose, Pfizer demonstrated effectiveness of 88% on the B.1.617.2 compared to 93% effectiveness against B.1.1.7. However, AstraZeneca did not show as major differences as Pfizer where it was 60% against B.1.617.2 and 66% against B.1.1.7. (https://www.gov.uk/government/news/vaccines-highly-effective-against-b-1-617-2-variant-after-2-doses)..
+
+Similarly, Covaxin conferred 65·2% protection against the Delta variant. The trial reported no adverse effects and zero death due to vaccine administration (Ella et al.
+2021a, b)..
+
+This variant that originated in March 2020 was highly prevalent in southern California, USA and accounted for 50% of the sequenced viral genomes. This variant showed higher (18–24%) transmission rates (Deng et al.
+2021), but as compared to other mutants showed only 4 substitutions in the S protein with no deletion of amino acids..
+
+This variant originated in Brazil but was detected before the Gamma variant and has only 4 substitutions where D614G and E484K are the common substitutions that were also found in the Gamma variant. Similarly this variant is linked to reductions in neutralizing antibody titres of convalescent plasma or vaccine sera (Garcia-Beltran et al.
+2021). A recent study from ICMR estimated the efficacy of Covaxin against this variant and found that a reduction of 1.09 and 1.92 fold in neutralization titres with sera from individuals with natural infection from this variant or from Covaxin vaccine recipients (Sapkal et al.
+2021)..
+
+This variant has been reported in several countries at low frequency, and possesses deletions in spike protein- ΔH69–V70 and Δ144, and substitutions E484K, Q677H and F888L. The independent emergence of Q677H in this variant and in some USA variants provides strong evidence of adaptation, potentially through an effect of this mutation on the proximal polybasic furin cleavage site, although exact effect of this mutation is yet unclear (Harvey et al.
+2021)..
+
+This variant that originated in November 2020 showed increased prevalence in the North-East USA and was associated with patients being more frequently hospitalized (Annavajhala et al.
+2021). Currently, this mutant virus exhibits the maximum number of changes that is in contrast to the Epsilon variant that originated in the USA in March 2020. Importantly the mutations were found to be present throughout the ordered structure of the protein (figure 1B), indicating that the virus is evolving very fast to combat immune pressure from the host. The Epsilon virus with D614G background has two sub-variants; E484K and S477N mutations. The studies with convalescent sera and vaccine-elicited antibodies from the USA showed that S477N mutant is completely neutralized while a 3.5-fold decrease was observed with E484K variant compared to D614G as control (Zhou et al.
+2021)..
+
+This variant notably contains the E484K, N501Y and D614G mutations that are found in the three variants classified as VOCs by the WHO (Alpha, Beta and Gamma), which have been linked to increased ACE2 affinity/transmissibility, ability to use the ACE2 in rats and mice, as well as decreased effectiveness of monoclonal antibody, etesevimab (Yao et al.
+2021; Wang et al.
+2021)..
+
+This variant has substitutions in L452Q, D614G F490S, T859N, G75V, T76I, and deletion from 246-252. However, no data is available on the effect on its neutralization with convalescent sera and vaccine elicited antibodies..
+
+This variant is notable for its lack of the D614G mutation, with a Q613H mutation instead that may be functionally similar. Apart from this, it has substitutions in F157L,V367F, P681R, R102I* (table 2). The substitution at F157L was found to reduce the neutralizing ability of the mAb CoV2-2489 against this variant (Harvey et al.
+2021). It replaced previously circulating viruses in Uganda within 2 months, suggesting higher transmissibility but its clinical impact is still not clear (Bugembe et al.
+2021)..
+
+This is a recently evolved variant with mutation in E484K and N501Y..
+
+This variant emerged during a nosocomial outbreak in a geriatric ward with substitutions- H66D, D215G, V483A, H655Y, G669S, Q949R and N1187D (table 2). Many cases were severe and most patients were above 81 years of age. This variant is notable for yielding weaker RT-PCR positives, along with a lower detection rate from nasopharyngeal samples, indicating the possibility of altered tropism. The infection was mostly localized to Brittany, France. Transmission beyond Brittany therefore seems limited, but notably it does possess a mutation linked to transmission in felines (Braun et al.
+2021)..
+
+This variant was first detected in immunocompromised patients and contains the L452R and N501Y mutations, both of which were found to be linked to increased transmissibility. This variant is from clade 19B, that had become rare from early 2020 and lacks the common D614G mutation; thus its resurgence in this variant may indicate that these mutations confer increased transmissibility (Fourati et al.
+2021; Volz et al.
+2021)..
+
+Although variants showed different mutations that would be dependent on the general immunity of the population or demographics of countries, we observed that some mutations in S protein were common irrespective of their origin, indicating that these mutants might provide the selective advantage to the virus. One of the most common mutations is D614G that was observed in almost all the variants. Using in vitro infection studies with the mutated virus, this substitution was either associated with enhanced viral replication, stability (Plante et al.
+2021) or decreased S1 shedding and higher density of S protein in the virion (Zhang et al.
+2020). The virus with N501Y substitution possessed higher affinity towards ACE2 that led to better infection in humans. Similarly, the substitution of E484 to either K or Q was associated with increased ACE2 affinity and in addition was also responsible for immune escape. Another common variant is L452R that is linked to transmissibility or immune escape from a monoclonal antibody, bamlanivimab used for COVID-19 treatment (Starr et al.
+2021). Besides substitutions, deletions of amino acids were also observed and deletion in two aminoacids (Δ69 and Δ70) in NTD domain of S1 is responsible for increased infectivity rates and decreased serum neutralization (McCarthy et al.
+2021; Kemp et al.
+2021). In contrast, substitution of K417 to either N or T substitutions in some patients led to moderate decrease in ACE2 binding affinity but that was somehow compensated by N501Y substitution (Boehm et al.
+2021)..
+
+Combining these observations together, the virus is mostly preparing itself to increase its affinity towards ACE2 receptor or immune escape. Therefore, the next generation of candidate antigen(s) should be able to accommodate at least these mutations, in order to elicit antibodies that can neutralize the virus effectively. It has been suggested that the use of combinatorial antigen by Heisch et al. could provide an enhanced immune response. Currently, another alternative is to vaccinate with a mixture of vaccines. However, this needs to be considered in regards to safety and side effects shown by various vaccines. Further the above strategies would only lead to stronger immune response against the wild-type S protein rather than providing neutralization of the variants that have changes in the sequence of S protein. Therefore, booster vaccination doses with S protein containing major prevalent mutations could be a feasible strategy to effectively provide immunity to the population against mutant viruses..
+
+This article is part of the Topical Collection: COVID-19: Disease Biology & Intervention..
+
+Corresponding editor: BJ Rao.
+
+The authors would like to thank IISER Tirupati, DST-SERB for funding. SG is supported by IISER Tirupati, DST SERB (Grant No. ECR/2017/001703), BD by DST-INSPIRE fellowship and RV by IISER Tirupati fellowship..
+

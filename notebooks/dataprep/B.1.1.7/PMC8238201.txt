@@ -1,0 +1,304 @@
+The authors have declared that no competing interests exist..
+
+We aimed to investigate novel emerging severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) lineages in Japan that harbor variants in the spike protein receptor-binding domain (RBD). The total nucleic acid contents of samples from 159 patients with coronavirus disease 2019 (COVID-19) were subjected to whole genome sequencing. The SARS-CoV-2 genome sequences from these patients were examined for variants in spike protein RBD. In January 2021, three family members (one aged in their 40s and two aged under 10 years old) were found to be infected with SARS-CoV-2 harboring W152L/E484K/G769V mutations. These three patients were living in Japan and had no history of traveling abroad. After identifying these cases, we developed a TaqMan assay to screen for the above hallmark mutations and identified an additional 14 patients with the same mutations. The associated virus strain was classified into the GR clade (Global Initiative on Sharing Avian Influenza Data [GISAID]), 20B clade (Nextstrain), and R.1 lineage (Phylogenetic Assignment of Named Global Outbreak [PANGO] Lineages). As of April 22, 2021, R.1 lineage SARS-CoV-2 has been identified in 2,388 SARS-CoV-2 entries in the GISAID database, many of which were from Japan (38.2%; 913/2,388) and the United States (47.1%; 1,125/2,388). Compared with that in the United States, the percentage of SARS-CoV-2 isolates belonging to the R.1 lineage in Japan increased more rapidly over the period from October 24, 2020 to April 18, 2021. R.1 lineage SARS-CoV-2 has potential escape mutations in the spike protein RBD (E484K) and N-terminal domain (W152L); therefore, it will be necessary to continue to monitor the R.1 lineage as it spreads around the world..
+
+A novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged in December 2019 in Wuhan, China. SARS-CoV-2 had evolved and spread around the world, threatening human life. Several mutations, which alter the viral fitness, virulence, and transmissibility, were identified in SARS-CoV-2. Here, we detected R.1 lineage SARS-CoV-2 harboring mutations in spike protein. The R.1 lineage have spread at the beginning of 2021 in Japan. This lineage has potential escape mutations in the spike protein receptor-binding domain (E484K) and N-terminal domain (W152L). We also developed a novel TaqMan assay targeting the hallmark mutations occurring in the spike proteins of R.1 lineage for screening. Our data indicate that emergent variants are dominated by the natural selection and need to be monitored by genomic epidemiological research..
+
+All relevant data are within the manuscript and its Supporting Information files..
+
+Most mutations that occur during viral evolution are neutral and not to influence viral properties. However, some mutations are selectively propagated owing to their positive influence on viral fitness, virulence, and transmissibility [1,2]. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) “Variants of Concern” have emerged within the last few months, largely belonging to three major lineages, B.1.1.7, B.1.351, and P.1 [3–6]. These emerging lineages are all characterized by multiple mutations in the SARS-CoV-2 spike protein, raising concerns that they may escape monoclonal antibody therapy or vaccine-elicited antibodies. The B.1.1.7 lineage is estimated to have emerged in late September 2020 and has become the dominant strain of SARS-CoV-2 in the United Kingdom [3,7,8]. The B.1.351 lineage has become the dominant strain of SARS-CoV-2 in South Africa, where it was first detected in October 2020 [4]. The P.1 lineage was first identified in four travelers from Brazil and has been associated with cases of reinfection [5,6,9]..
+
+The hallmark mutation shared by the B.1.1.7, B.1.351, and P.1 lineages is N501Y, located in the receptor-binding domain (RBD) of the spike protein [3]. SARS-CoV-2 variants with this mutation are thought to be more transmissible and possibly more virulent [7,10–13]. The other hallmark mutation of the B.1.351 and P.1 lineages is E484K, which has been shown to reduce the neutralizing activity of antibodies, thus raising concerns about vaccine efficacy [14–19]..
+
+In this study, we conducted a genetic surveillance and identified the SARS-CoV-2 R.1 lineage, which harbors an E484K mutation in the RBD, via whole genome sequencing and TaqMan assay. We report the first detailed genetic characterization of the SARS-CoV-2 R.1 lineage, its familial transmission, and its viral evolution as assessed by phylogenetic analysis. The SARS-CoV-2 R.1 lineage has spread worldwide and remains especially prevalent in Japan..
+
+The Institutional Review Board of the Clinical Research and Genome Research Committee at Yamanashi Central Hospital approved this study and the use of an opt-out consent method (Approval No. C2019-30). The requirement for written informed consent was waived owing to it being an observational study and the urgent need to collect COVID-19 data..
+
+A total of 192 patients in our hospital were confirmed to have coronavirus disease 2019 (COVID-19), 159 of whom were selected to provide samples for subsequent genome analysis. Nasopharyngeal swab samples were collected by using cotton swabs and placed in 3 ml of viral transport media (VTM) purchased from Copan Diagnostics (Murrieta, CA, United States). We used 200 μl of VTM for nucleic acid extraction, performed within 2 h of sample collection..
+
+Total nucleic acid was isolated from the nasopharyngeal swab samples using the MagMAX Viral/Pathogen Nucleic Acid Isolation Kit (Thermo Fisher Scientific; Waltham, MA, United States) [20,21]. Following the protocol developed by the National Institute of Infectious Diseases in Japan [22], we performed one-step RT-qPCR to detect SARS-CoV-2 on a StepOnePlus Real-Time PCR System (Thermo Fisher Scientific). The viral load, measured as absolute copy number, was determined using a serially diluted DNA control targeting the nucleocapsid gene of SARS-CoV-2 (Integrated DNA Technologies; Coralville, IA, United States) [23,24]..
+
+SARS-CoV-2 genomic RNA was reverse transcribed into cDNA and amplified by using the Ion AmpliSeq SARS-CoV-2 Research Panel (Thermo Fisher Scientific) on the Ion Torrent Genexus System in accordance with the manufacturer’s instructions [25]. Sequencing reads were processed, and their quality was assessed by using Genexus Software with SARS-CoV-2 plugins. The sequencing reads were mapped and aligned by using the torrent mapping alignment program. After initial mapping, a variant call was performed by using the Torrent Variant Caller. The COVID19AnnotateSnpEff plugin was used for the annotation of variants. Assembly was performed with the Iterative Refinement Meta-Assembler [26]..
+
+The viral clade and lineage classifications were conducted by using the Global Initiative on Sharing Avian Influenza Data (GISAID) database [27], Nextstrain [28], and Phylogenetic Assignment of Named Global Outbreak (PANGO) Lineages [29]. The sequences of the three initially identified R.1 variants were deposited in the GISAID EpiCoV database (Accession Nos. EPI_ISL_1164927, EPI_ISL_1164928, and EPI_ISL_1164929)..
+
+Global sequencing data on the SARS-CoV-2 R.1 variant through April 22, 2021 were exported from the GISAID EpiCoV database. We searched for lineage “R.1” and found 2,388 available metadata entries for the R.1 lineage for the period from October 24, 2020 to April 18, 2021, when excluding two data entries lacking a specific collection date. We also searched for the total number of samples by applying the following parameters: host “human”, location “Asia /Japan” or “North America/USA”, collection date “October 24, 2020 to April 18, 2021”. During this period, a total of 17,432 samples were registered in Japan, and 235,373 samples were registered in the United States..
+
+We designed a Custom TaqMan assay for detecting SARS-CoV-2 spike protein with the W152L and G769V mutations (Thermo Fisher Scientific). We also used a TaqMan SARS-CoV-2 Mutation Panel for detecting spike E484K (ID: ANU7GMZ, Thermo Fisher Scientific). TaqPath 1-Step RT-qPCR Master Mix CG was used as the master mix. The TaqMan MGB probes for the wild-type and variant alleles were labelled with VIC dye and FAM dye fluorescence, respectively..
+
+As part of our ongoing genomic surveillance of SARS-CoV-2, we began to investigate SARS-CoV-2 spike protein RBD variants in Kofu city, Japan [25]. We previously identified P.1 lineage SARS-CoV-2, which harbors the K417T/E484K/N501Y mutations, in one patient [25]. A consecutive analysis detected the W152L/E484K/G769V mutations in three patients who provided samples on January 14, 2021. All three patients belonged to the same family: a man in his 40s (the father), a boy under 10 years old, and a girl under 10 years old. This family lived in Japan and had no history of travel to foreign countries. The mother of this family was also infected with SARS-CoV-2 around the same time as the other family members, but we were unable to obtain her samples because she was tested at another hospital. These results suggest that the family members were infected with the same virus lineage and that household transmission occurred..
+
+Our sequencing analysis of the SARS-CoV-2 isolates from the three family members identified the same 21 mutations in each isolate; these comprised 13 missense, six synonymous, and two intergenic variants. Among the missense mutations, four were in the spike protein (W152L, E484K, D614G, and G769V), four were in ORF1ab (T4692I, N6301S, L6337M, and I6525T), one was in the membrane protein (F28L), and four were in the nucleocapsid protein (S187L, R203K, G204R, and Q418H)..
+
+To examine the phylogeny based on the identified genetic variations, we analyzed SARS-CoV-2 genomic data using GISAID, Nextstrain, and Pangolin. The sequences of our SARS-CoV-2 were assigned as GR clade (GISAID), 20B clade (Nextstrain), and R.1 lineage (PANGO lineage). The R.1 lineage is a sublineage of the B.1.1.316 lineage, and the common mutations found in the R.1 lineage are listed in Table 1. For the rapid detection of SARS-CoV-2 R.1 lineage isolates, we designed a TaqMan assay that detects the hallmark spike protein mutations (W152L, E484K, and G769V) (Table 1). This TaqMan assay can successfully discriminate the wild-type and variant alleles in each position (Fig 1). Using the TaqMan assay, we identified an additional 14 patients who were infected with SARS-CoV-2 R.1 lineage. We further confirmed the results via whole genome sequencing. These findings suggest that the novel TaqMan assay targeting SARS-CoV-2 R.1 lineage hallmark mutations is a useful tool for detecting the presence of R.1 lineage isolates in SARS-CoV-2-positive PCR samples..
+
+We analyzed samples of R.1 lineage SARS-CoV-2 (n = 3), which harbors a spike variant with the W152L/E484K/G769V mutations and samples of SARS-CoV-2 without these three mutations (n = 5) using a TaqMan assay. An allelic discrimination plot of the results, showing the spike variants with W152L (upper), E484K (middle), and G769V (lower). The dots indicate the mutant alleles (purple), reference allele (pink), or no amplification (orange). The dotted circles indicate the mutant alleles of each variant..
+
+ORF, open reading frame; S, spike; N, nucleocapsid.
+
+To investigate the global distribution of SARS-CoV-2 R.1 lineage, we next collected registration data from the EpiCoV of GISAID database [27]. As of March 5, 2021, a total of 2,388 SARS-CoV-2 samples with R.1 lineage had been registered from all over the world, with the majority being from Japan (38.2%; 913/2,388) or the United States (47.1%; 1,125/2,388) (Fig 2A and Table 2). R.1 lineage SARS-CoV-2 was first reported at the end of October 2020 in Texas, United States and was first detected in Japan at the end of November 2020. The change in the number of R.1 lineage SARS-CoV-2 samples has followed similar trends in the United States, Japan, and other countries (Fig 2A)..
+
+(A) Timeline of the number of confirmed cases of infection with R.1 lineage SARS-CoV-2. The plot, created based on the data in Table 1, shows the case load for Japan (pink), the United States (light blue), and other countries (gray). (B) The percentage of R.1 lineage SARS-CoV-2 strains relative to the total number of registered samples during the period is shown for Japan (upper panel) and the United States (lower panel). The arrow indicates the date of infection for the initial three individuals infected with R.1 lineage SARS-CoV-2 who were identified in this study..
+
+Regarding the period from October 24, 2020 to April 18, 2021, the number of R.1 lineage SARS-CoV-2 samples deposited in GISAID began an ongoing increase in February 2021 (Fig 2B), with the percentage of these isolates in Japan exceeding 20% since the beginning of March 2021 (Fig 2B). While the percentage of R.1 lineage SARS-CoV-2 remained low in the United States, it grew rapidly in Japan (Fig 2B). We also observed that the numbers and percentage of R.1 lineage SARS-CoV-2 isolates increased in our district of Japan (S1 Fig)..
+
+To determine the timing of the emergence of the SARS-CoV-2 R.1 lineage and its acquisition of characteristic mutations, we analyzed a phylogeny of SARS-CoV-2 carrying the E484K mutation, generated from global data. It revealed that the SARS-CoV-2 R.1 lineage forms a monophyletic clade (Figs 3A and S2). The parental lineage harboring the E484K mutation later acquired spike protein W152L and G769V mutations, and the SARS-CoV-2 R.1 lineage was predicted to have emerged around September 9, 2020 (Fig 3A). Subsequently, a sublineage, which has been observed in Austria and the United States, diverged after acquiring the ORF1b G814C mutation around October 19, 2020 (Fig 3A). A parental lineage without the ORF1b G814C mutation has been prevalent mainly in Japan and the United States (Fig 3A). In addition to being detected in Japan, the SARS-CoV-2 R.1 lineage has been observed in 27 additional countries worldwide (Fig 3B and Table 2). Collectively, these results demonstrate that the SARS-CoV-2 R.1 lineage is spreading rapidly, especially in Japan..
+
+(A) Global data on the SARS-CoV-2 R.1 lineage prevalence over time. The R.1 lineage acquired its spike W152L and G769V mutations at the root. The sublineage harbors an ORF1b G814C mutation. (B) Geographic distribution of the SARS-CoV-2 R.1 lineage. World map showing the geographic distribution of SARS-CoV-2 R.1 lineage as of April 22, 2021. The size of the circle indicates the number of samples. Nextstrain, https://nextstrain.org, CC-BY-4.0 license..
+
+COVID-19 vaccines have been approved in many countries within a year of the initial appearance of this disease, which is an unprecedented scientific achievement [30]. However, the emergence of mutations in SARS-CoV-2 spike RBD and N-terminal domain (NTD) are of great concern because of their potential contribution to immune escape [31,32]. In the present study, we observed an expansion in Japan of R.1 lineage SARS-CoV-2 harboring the spike RBD E484K and spike NTD W152L mutations, which have potential significance for immune escape. Previous reports showed that COVID-19 convalescent and mRNA vaccine-elicited sera/plasma have reduced neutralizing activity against SARS-CoV-2 harboring the E484K mutation [17–19]. Worryingly, the E484K mutation has been identified in SARS-CoV-2 “Variants of Concern”, such as B.1.351 (South Africa) and P.1 (Brazil), and in SARS-CoV-2 “Variants of Interest”, such as B.1.526 (New York, NY, USA), B.1.525 (United Kingdom/Nigeria), and P.2 (Brazil) [33–35]. Furthermore, the W152L mutation is located in the N3 loop of the NTD and may be related to decreased antibody neutralization activity [36]. The new emergent lineage B.1.429, which has a substitution in the same codon 152 (W152C), was first identified in California, United States; this lineage is defined as a “Variant of Interest” by the US Centers for Disease Control and Prevention (CDC) [35]. The W152C mutation is located in the NTD antigenic supersite (designated site i) and is also associated with reduced recognition of the NTD by neutralizing monoclonal antibodies [32,37]..
+
+There is concern that SARS-CoV-2 with these immune escape mutations may evade the host immune response. In Brazil, a patient was re-infected with SARS-CoV-2 carrying the E484K mutation, indicating that this mutation is related to escape from neutralizing antibodies in recovered patients [38]. Additionally, a patient who received the second shot of mRNA-1273 vaccine (Moderna) was infected with SARS-CoV-2 harboring the E484K mutation, despite having a serum neutralizing antibody titer that is normally sufficient to prevent infection [39]. Recently, R.1 lineage SARS-CoV-2 was detected at a skilled nursing facility in Kentucky, in residents and healthcare personnel who had received BNT162b2 mRNA vaccines (Pfizer-BioNTech) [40]. These results indicate that even after COVID-19 vaccination, the risk of infection is not completely eliminated. Although COVID-19 mRNA vaccines have demonstrated high efficacy for decreasing the risk of SARS-CoV-2 transmission and severe outcomes from COVID-19 [41–43], it is still necessary to monitor vaccinated individuals for new emergent lineages that have acquired novel escape mutations..
+
+There are limitations to this epidemiological report on the SARS-CoV-2 R.1 lineage. The amount of SARS-CoV-2 sequencing data available from different countries does not reflect the actual prevalence of specific variants because the extent of sequencing analysis conducted varies among countries [30]. If the sequences of nearly all SARS-CoV-2-positive PCR specimens is analyzed, the results can represent the whole picture of prevailing virus lineages; unfortunately, this is not the case here. However, although the number of samples in our study is small, we analyzed all the SARS-CoV-2-positive PCR samples in our hospital and found that the percentage of samples with R.1 lineage SARS-CoV-2 increased to about 50% by the end of the study period (S1 Fig). Along with the R.1 lineage prevalence, the B.1.1.7 (United Kingdom) lineage prevalence is also increasing in Japan [44]. Further investigation is needed to determine whether these two lineages of SARS-CoV-2 will circulate dominantly in Japan..
+
+Circulating SARS-CoV-2 acquires approximately one or two mutations per month. This seems to be very slow; however, the more the virus circulates in population, the more opportunity it has to change [45]. Therefore, genomic surveillance in real-time will provide us with important insights into the effectiveness of vaccines, the development of antibody therapy, and public health..
+
+(A) The number of R.1 lineage SARS-CoV-2 samples identified by TaqMan assay and whole genome analysis during the period from January to April 2021. The pink color indicates R.1 lineage strains, and the gray color indicates other strains. (B) The percentage of SARS-CoV-2 strains detected over the period from January to April 2021 that belong to the R.1 lineage..
+
+(TIF).
+
+Click here for additional data file..
+
+The dotted pink line shows a monophyletic clade containing the SARS-CoV-2 R.1 lineage..
+
+(TIF).
+
+Click here for additional data file..
+
+(PDF).
+
+Click here for additional data file..
+
+We also thank Masato Kondo, Ryota Tanaka, Kazuo Sakai, Manami Nagano, Takuhito Fukami, and Ryo Kitamura (Thermo Fisher Scientific) for technical help, all of the medical and ancillary hospital staff for their support, and the patients for their participation. We thank all researchers who share genome data on GISAID (http://www.gisaid.org) (S1 File). We thank Katie Oakley, PhD, from Edanz Group (https://jp.edanz.com/ac) for editing a draft of this manuscript..
+
+
+19 Apr 2021
+.
+
+Dear Dr. Hirotsu,.
+
+Thank you very much for submitting your manuscript "Household transmission of SARS-CoV-2 R.1 lineage with spike E484K mutation in Japan" for consideration at PLOS Pathogens. As with all papers reviewed by the journal, your manuscript was reviewed by members of the editorial board and by several independent reviewers. The reviewers appreciated the attention to an important topic. Although this kind of observational study is not the traditional research type article that PLoS Pathog publishes, we are considering a short/discovery report type format for observations that are of particular significance and/or broad impact.  .
+
+We believe the authors' observation falls into that category. Based on the reviews, we are likely to accept this manuscript for publication, providing that you modify the manuscript according to the review recommendations..
+
+Please address the comments of both reviewers constructively.  We concur that addition of a well-constructed  phylogenetic tree to show that the R1 lineage forms a monophyletic clade would be important (Reviewer #2 comments).  This editor also suggests that the authors discuss the potential significance of the W152L mutation. Note that W152C is a defining mutation in B.1.429, an emerging Variant of Interest, and is located in the NTD antigenic supersite i (PMID: 33761326, 33821281).  In addition, please ensure that the manuscript is carefully proof-read to correct for grammar, spelling and syntax. Some incomplete sentences (e.g line 152-154) detract from a major point that the authors might want to make. With regards to the Japanese sequence data in Fig. 2B, please update data to Mar 1 if available.   .
+
+Please prepare and submit your revised manuscript within 30 days. If you anticipate any delay, please let us know the expected resubmission date by replying to this email..
+
+When you are ready to resubmit, please upload the following:.
+
+[1] A letter containing a detailed list of your responses to all review comments, and a description of the changes you have made in the manuscript..
+
+Please note while forming your response, if your article is accepted, you may have the opportunity to make the peer review history publicly available. The record will include editor decision letters (with reviews) and your responses to reviewer comments. If eligible, we will contact you to opt in or out.
+
+[2] Two versions of the revised manuscript: one with either highlights or tracked changes denoting where the text has been changed; the other a clean version (uploaded as the manuscript file)..
+
+Important additional instructions are given below your reviewer comments..
+
+Thank you again for your submission to our journal. We hope that our editorial process has been constructive so far, and we welcome your feedback at any time. Please don't hesitate to contact us if you have any questions or comments..
+
+Sincerely,.
+
+Benhur Lee.
+
+Section Editor.
+
+PLOS Pathogens.
+
+Benhur Lee.
+
+Section Editor.
+
+PLOS Pathogens.
+
+Kasturi Haldar.
+
+Editor-in-Chief.
+
+PLOS Pathogens.
+
+​orcid.org/0000-0001-5065-158X.
+
+Michael Malim.
+
+Editor-in-Chief.
+
+PLOS Pathogens.
+
+orcid.org/0000-0002-7699-2064.
+
+***********************.
+
+Reviewer Comments (if any, and for reference):.
+
+Reviewer's Responses to Questions.
+
+Part I - Summary.
+
+Please use this section to discuss strengths/weaknesses of study, novelty/significance, general execution and scholarship..
+
+Reviewer #1: This is a straightforward case study describing household spread in Japan of the R.1 lineage of SARS-CoV-2. The study is generally well written. It is quite medically oriented and rather observational. There are no experiments..
+
+Reviewer #2: This paper gives an initial description of a novel SARS-CoV-2 lineages, R.1, which appears to be mainly circulating in the USA and Japan, with a focus on the cases in Japan. R.1 carries the E484K mutation in spike, also shared by the 501Y.V2 and 501Y.V3 variants of concern, first identified in South Africa & Brazil, respectively, which is thought to be associated with possibly evading immune response, allowing reinfection and/or vaccine evasion..
+
+This is a clear and well-written paper, presented in a level-headed manner. It is a descriptive work of a novel lineage, so there is no great detail about changes in viral behaviour or speculation of origins, but for a short initial description I do not think that is necessarily to be expected. The methods and results are detailed well and sufficient information is given to identify the lineage clearly in other sequences and to gain an understanding of the lineage and its spread so far..
+
+I am not so familiar with the new format I believe this was submitted under therefore will leave to the editor to determine if this satisfied those requirements, but I believe this is a scientifically sound paper giving a good description of a novel SARS-CoV-2 lineage. I would recommend only 1 major and 1 minor changes before acceptance..
+
+**********.
+
+Part II – Major Issues: Key Experiments Required for Acceptance.
+
+Please use this section to detail the key new experiments or modifications of existing experiments that should be absolutely required to validate study conclusions..
+
+Generally, there should be no more than 3 such required experiments or major modifications for a "Major Revision" recommendation. If more than 3 experiments are necessary to validate the study conclusions, then you are encouraged to recommend "Reject"..
+
+Reviewer #1: Epidemiological event of R.1 lineage section should discuss sampling bias..
+
+Reviewer #2: I believe this paper is a good description of the R.1 lineage, and useful to those who wish to identify it and understand its initial distribution and spread. However, I think this paper would benefit greatly from even a very basic phylogenetic tree of the lineage and the sequences it covers. I think this would allow even a quick look at the relationships between the global sequences, and to show that this is indeed one monophyletic clade..
+
+From looking at this clade on the focal Nextstrain 484K build (https://nextstrain.org/groups/neherlab/ncov/S.E484?c=country&f_pango_lineage=R.1&label=mlabel:20B/C18877T), it does indeed seem to be, but sometimes in the paper it seems like perhaps this is presented as ambiguous (though this may not have been intentional, and I may be misinterpreting the writing - apologies if so). For example in lines 147-148, saying "...implying that [the lineage] may have emerged in several regions at approximately the same time.".
+
+Further a phylogeny would help to clarify the meaning of statement like in lines 168-169: "The circulating trend of R.1 lineage showed similar pattern (note: typo, should be 'patterns') in each country, implying that the ancestral strain acquired homegrown variants, and subsequently R.1 lineage are likely to emerge in several countries." Is there evidence of unique R.1 variants in different countries? (I actually think from the Nextstrain tree, there may be - but showing a tree would display this more clearly, if so.).
+
+I think even a fairly basic phylogeny as an additional figure, with a small additional description of what can be seen, would add a lot of value to the paper in showing any clusters in any countries, the relationship between USA & Japanese sequences, and the genetic diversity of the cluster (including any sub-clusters within the lineage with S or other AA mutations)..
+
+**********.
+
+Part III – Minor Issues: Editorial and Data Presentation Modifications.
+
+Please use this section for editorial suggestions as well as relatively minor modifications of existing data that would enhance clarity..
+
+Reviewer #1: There are a number of minor typos / grammar problems..
+
+I also did not see a supplemental data table to conform with the GISAID terms of use..
+
+Reviewer #2: I understand the world of SARS-CoV-2 research moves incredibly quickly, but I fear by the time this work is published it may seem quite outdated, given the data was collected through Feb 2021. As the work is descriptive I do think much of the value lies in the descriptions being as up-to-date as possible, so I would urge the authors to update the paper (counts, global coverage, etc) to cover data through as recent a period as is possible. This would also possibly shed some clarity onto statements like that of 153-154 ("it is possible that R.1 lineage is gradually increasing.".
+
+Minor typos/wording: Line 170 "acquired" should be "acquires". Line 174, should be "therefore, new emerging strain[s] [possibly] have been missed.".
+
+**********.
+
+PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files..
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public..
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy..
+
+Reviewer #1: No.
+
+Reviewer #2: No.
+
+Figure Files:.
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email us at figures@plos.org..
+
+Data Requirements:.
+
+Please note that, as a condition of publication, PLOS' data policy requires that you make available all data used to draw the conclusions outlined in your manuscript. Data must be deposited in an appropriate repository, included within the body of the manuscript, or uploaded as supporting information. This includes all numerical values that were used to generate graphs, histograms etc.. For an example see here: http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001908#s5..
+
+Reproducibility:.
+
+To enhance the reproducibility of your results, we recommend that you deposit your laboratory protocols in protocols.io, where a protocol can be assigned its own identifier (DOI) such that it can be cited independently in the future. Additionally, PLOS ONE offers an option to publish peer-reviewed clinical study protocols. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+
+References:.
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice..
+
+
+30 Apr 2021
+.
+
+Submitted filename: Revise_letter.docx.
+
+Click here for additional data file..
+
+
+5 May 2021
+.
+
+Dear Dr. Hirotsu,.
+
+We are pleased to inform you that your manuscript 'Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan' has been provisionally accepted for publication in PLOS Pathogens..
+
+Before your manuscript can be formally accepted you will need to complete some formatting changes, which you will receive in a follow up email. A member of our team will be in touch with a set of requests..
+
+In addition, we would like to encourage the authors to deposit their whole genome sequences of R.1 lineage viruses into properly curated databases like GISAID so that your efforts can be properly acknowledged. We believe your findings should add to the usefulness of such databases.  .
+
+Please note that your manuscript will not be scheduled for publication until you have made the required changes, so a swift response is appreciated..
+
+IMPORTANT: The editorial review process is now complete. PLOS will only permit corrections to spelling, formatting or significant scientific errors from this point onwards. Requests for major changes, or any which affect the scientific understanding of your work, will cause delays to the publication date of your manuscript..
+
+Should you, your institution's press office or the journal office choose to press release your paper, you will automatically be opted out of early publication. We ask that you notify us now if you or your institution is planning to press release the article. All press must be co-ordinated with PLOS..
+
+Thank you again for supporting Open Access publishing; we are looking forward to publishing your work in PLOS Pathogens..
+
+Best regards,.
+
+Benhur Lee.
+
+Section Editor.
+
+PLOS Pathogens.
+
+Benhur Lee.
+
+Section Editor.
+
+PLOS Pathogens.
+
+Kasturi Haldar.
+
+Editor-in-Chief.
+
+PLOS Pathogens.
+
+​orcid.org/0000-0001-5065-158X.
+
+Michael Malim.
+
+Editor-in-Chief.
+
+PLOS Pathogens.
+
+orcid.org/0000-0002-7699-2064.
+
+***********************************************************.
+
+Reviewer Comments (if any, and for reference): The addition of the phylogenetic tree was edifying, in addition to the updated data showing the increasing spread of the R1 lineage in Japan. We encourage the authors to deposit  their full-length genomic sequence into properly curated databases like GISAID so that their efforts can be acknowledged. .
+
+
+3 Jun 2021
+.
+
+Dear Dr. Hirotsu,.
+
+We are delighted to inform you that your manuscript, "Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan," has been formally accepted for publication in PLOS Pathogens..
+
+We have now passed your article onto the PLOS Production Department who will complete the rest of the pre-publication process. All authors will receive a confirmation email upon publication..
+
+The corresponding author will soon be receiving a typeset proof for review, to ensure errors have not been introduced during production. Please review the PDF proof of your manuscript carefully, as this is the last chance to correct any scientific or type-setting errors. Please note that major changes, or those which affect the scientific understanding of the work, will likely cause delays to the publication date of your manuscript. Note: Proofs for Front Matter articles (Pearls, Reviews, Opinions, etc...) are generated on a different schedule and may not be made available as quickly..
+
+Soon after your final files are uploaded, the early version of your manuscript, if you opted to have an early version of your article, will be published online. The date of the early version will be your article's publication date. The final article will be published to the same URL, and all versions of the paper will be accessible to readers..
+
+Thank you again for supporting open-access publishing; we are looking forward to publishing your work in PLOS Pathogens. .
+
+Best regards,.
+
+Kasturi Haldar.
+
+Editor-in-Chief.
+
+PLOS Pathogens.
+
+​orcid.org/0000-0001-5065-158X.
+
+Michael Malim.
+
+Editor-in-Chief.
+
+PLOS Pathogens.
+
+orcid.org/0000-0002-7699-2064.
+

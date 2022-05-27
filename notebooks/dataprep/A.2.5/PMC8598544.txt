@@ -1,0 +1,118 @@
+As the epidemic time of COVID-19 outbreaks worldwide has extended and the range of prevalence has expanded, SARS-CoV-2 viruses have continuously evolved and mutated, and multiple virus variants have successively emerged. Recently, the Delta and Lambda variants have attracted considerable attention in China for their transmissibility, infective incubation period, and pathogenicity. In this review, we describe the epidemic characteristics and prevention and control measures for Delta and Lambda..
+
+The coronavirus disease 2019 (COVID-19), which was discovered in Wuhan in late December 2019, is an acute respiratory infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (1-4). On March 13, 2020, the World Health Organization (WHO) declared COVID-19 as a global pandemic (5). As of September 21, 2021, more than 228 million people have been infected globally and nearly 4.6 million people have died (6).
+.
+
+As the COVID-19 pandemic continued and spread more widely, a variety of SARS-CoV-2 variants have emerged. These variants have the characteristics of faster replication and transmission, higher pathogenicity and potential immune escape, which led to a rebound of the epidemic recently (7). The WHO has classified several variants into variants of concern (VOC) and variant of interest (VOI) based on differences in transmissibility and pathogenicity, and the rest of the descendent lineages are designated as variants under monitoring (8). Currently, there are four VOCs, among which, the Delta variant has gradually become the dominant strain in many countries. The recent domestic outbreaks in China associated with the imported cases were mainly caused by the Delta variant (9-10). Among the two VOIs, the Lambda variant has recently appeared in South America and even in a few countries, and had a tendency to replace the Delta variant as the dominant strain (11).
+.
+
+Currently, four types of COVID-19 vaccines are available globally, including mRNA-1273 (Moderna INC., USA), BNT162b2 mRNA (Pfizer, New York, USA), AZD1222 (Oxford/AstraZeneca, UK), Janssen Ad26.CoV2.S (Johnson & Johnson, New Jersey, USA), etc. ( 12). Four types of COVID-19 vaccines including BBIBP-CorV (Sinopharm, Shanghai, China), WIBP-CorV (Sinopharm, Shanghai, China), Ad5-nCoV (CanSinoBIO, Tianjin, China), and CoronaVac (Sinovac Biotech, Beijing, China) have been approved in China (13). As of September 21, 2021, 2.48 billion people worldwide have completed the whole course of vaccination, of which, the top 3 countries are China, European Union, USA, and China ranked the first at 1,022 million people (14). The effect of vaccination on the SARS-CoV-2 virus, especially the current predominant strain of Delta variant, has become the focus of global concern.
+.
+
+Non-pharmaceutical interventions (NPIs) primarily refer to effective measures that can be taken to slow the spread of a virus in the absence of a safe and effective vaccine, treatment, or other prophylactic measures (15). Evidence has shown that social distancing, personal hygiene, mask wearing, case isolation, schools and businesses closure, transportation banning, gatherings cancelation, and other NPIs have played an important role in stopping the virus transmission and depressing the peak of the epidemic during the first COVID-19 event in Wuhan, China (15-16). However, the dominant SARS-CoV-2 strain has mutated significantly since, raising questions of what are the differences between the variants and whether the NPIs are still effective for the variants, especially the current predominant Delta variant and the emergent Lambda variant.
+.
+
+To be prepared in advance and to provide a basis for the control of infection (17), the pathogenicity, prevalence, transmissibility of Delta and Lambda variants, as well as the efficacy of vaccine and NPIs are reviewed in this article.
+.
+
+The Delta (B.1.617.2) variant was first identified in October 2020 in Maharashtra, India and was classified as a VOC in May 2021 by WHO. As of July 29, 2021, the Delta variant has been reported in at least 132 countries/territories and become a predominant strain in many countries..
+
+The Delta variant contains 10 mutation sites in the spike glycoprotein (18), including 3 essential mutations, L452R, E484Q, and D614G (19). The L452R mutation is located in the S1 region of the spike glycoprotein, which has a receptor binding domain (RBD) that binds directly to the ACE2 receptor and is also a major target of anti-SARS-CoV-2 neutralizing antibodies (20). The L452R mutation has been shown to increase the infectivity of Delta variant and enhance the ability of neutralization escape (17). The P681R mutation, located near the S1/S2 cleavage site of the S-protein, promotes the cleavage of the S-protein, which also increases the infectivity of the Delta variant and completely blocks antibody recognition (21). In addition, several studies have found that the T478K mutation enhances the ability of the virus to bind to humans (17).
+.
+
+To date, the Delta variant has been further derived as the Delta plus variant or later named AY.1 variant. The AY variants included AY.4–AY.11 in the United Kingdom, AY.12 in Israel, AY.23 in Singapore and Indonesia, and AY.25 circulated in North America (22). This Delta plus variant contains an additional K417N S-protein mutation compared to the original Delta variant, which was also found in the Beta and Gamma variants. Some reports indicated that the Delta plus variant was more infectious and pathogenic than the original Delta variant (23).
+.
+
+The first case infected with the Delta variant was identified in the UK in mid-April 2021 and then the Delta variant strain triggered the third wave of SARS-CoV-2 epidemic in the country, forcing the government of the UK to postpone the full reopening till June 21 (17). Besides the UK, the cases infected with Delta variant steadily increased in Denmark and the Delta variant became the dominant strain (24). In United States, according to a nationwide sampling survey, the proportion of the Alpha variant, the original strain of the virus, decreased from over 70% in late April down to about 42% in mid-June 2021, indicating that the Delta variant had been already dominating (25). In Africa, cases infected with the Delta variant were reported in Congo, Malawi, Uganda, and South Africa, raising concerns that the Delta variant will cause a surge of cases in African countries due to the limited access to vaccines and will pose the greatest risk to Africa (24).
+.
+
+For the Delta plus variants, according to the REGENERON, a Global Initiative on Sharing All Influenza Data (GISAID)-related online virus statistic database, more than 70% of the cases currently in Israel were infected with a Delta plus variant, including AY.12 which was about 59% currently prevalent and AY.4, AY.5, AY.6, and AY.9. The proportion of all cases infected with Delta plus variants in Latin America (AY.12 and AY.4), Singapore (AY.23), and Indonesia is accounted for 38%, 98%, and 71%, respectively (11).
+.
+
+The high infectivity and viral load of the Delta variant has contributed to the continuity of the global COVID-19 pandemic. Studies in the UK indicated that the risk of hospitalization and infectiousness of Delta variant was 100% and 60%, respectively, more than the Alpha variant strain and that the Delta variant could infect 5 to 9 persons, more than the prototype strain that was isolated in Wuhan (2 to 3 persons) (24). In the Guangzhou outbreak caused by the Delta variant, compared with the other SARS-CoV-2 virus, the incubation period of the first-, second-, and third-generations of cases was 4, 5 to 6, and 10 days, respectively, which was shortened by 5 days, and the days from exposure to becoming infectious was significantly lower by roughly 2 to 4 days (26). Individuals infected with Delta variant could develop typical clinical symptoms 2 to 3 days after infection and could cause five generations of cases within 10 days with a R0 of 4.04 to 5.0, which was much higher than that of the prototype strain that was isolated in Wuhan (2.2 to 3.77) (17).
+.
+
+Evidence indicated that the transmission routes of SARS-CoV-2 included respiratory droplets, fomites, and aerosol (27-28). The risk of spread of the Delta variant increased through aerosol transmission. Three separate incidents, including five cases associated with playing squash at a sports venue in Maribor, Slovenia (29), a cluster of cases associated with a shopping mall in Wenzhou, China (30), and an outbreak occurred in the rehearsal of Skagit Valley Hymn in West Virginia, USA (31), indicated potential aerosol transmission of the Delta variant. The index case of recent domestic outbreak in Guangzhou was infected in the hospital where the imported case was isolated and tested, which was later determined to be where the aerosol transmission very likely occurred (32).
+.
+
+One of the important measures to prevent severe illness and death is vaccination, but the effectiveness of vaccines has been weakened by the Delta variant and breakthrough infections have been reported continuously. A study found that Delta variant has a two-fold reduction in neutralizing titers compared to the other prior strains one month after vaccination with Pfizer (33). Overall, 71 of 218 Delta variant infections at the 5 study sites met the definition of vaccine breakthrough in a Singaporean study (34). A study from the UK found that the 6 types of neutralization antibodies of the Delta variant in sera collected from AstraZeneca and Pfizer vaccine recipients reduced more than 5-fold (35). Another UK study found that a single dose of either the AstraZeneca or Pfizer vaccine could reduce risk of individual infection with the Delta variant by 33%, which was lower than that with the Alpha variant (50%). Furthermore, 2 doses of the AstraZeneca vaccination could increase protection efficacy against Delta variant by 60%, which was lower than that against the Alpha variant (66%); meanwhile, 2 doses of Pfizer’s vaccination could increase 88% prevention effectiveness to the Delta variant in comparison with 93% of Alpha variant (24,36). A study in Israel showed a 2.5-fold reduction in neutralization titers for Delta variants, while, a 1.7-fold, 10-fold, and 2-fold reduction in Alpha, Beta, and Gamma variants, respectively, between 4 and 14 days after the uptake of the second dose of Pfizer vaccine, resulting in an only 39% protection rate against symptomatic infection with Delta variant (22). US CDC reported a 66% protection rate after vaccination against Delta variant infection, which was considered a slight decrease following the continuous vaccination campaign (37). Another study in a nursing home in the United States reported a significant decrease in the effectiveness of the mRNA vaccine to prevent infection with Delta variant from 74.7% before the Delta variant emerged between March 1 to May 9, 2021, down to 53.1% after Delta variant dominated in the country (38). The recent outbreak in Guangdong revealed that the inactivated vaccine developed in China has a relevant high effectiveness to Delta variant including a 69% prevention of infection and more than 95% effectiveness of severe disease (17). The Phase III clinical data of Jiffy recombinant COVID-19 vaccine indicated that the total protection efficiency was 82% and the protection rate against Delta variant was 78% (19).
+.
+
+Although the Lambda variant has not been spreading as fast as Delta variant, the Lambda variant has been widely spread in South America and reported from over 35 countries/regions since it was first identified in Peru, where the case-fatality ratio has reached as high as 596 per 100,000 people (39).
+.
+
+The Lambda variant belongs to the C.37 lineage and classified as a VOI on June 14, 2021 by the WHO. The mutations in the domain of RBD and N-terminal domain (NTD) of the SARS-CoV-2 S protein can lead to the immune evasion because RBD and NTD are associated with the escape neutralization (40). A study published on BioRxiv preprint showed that the unique 7-amino-acid deletion of the RSYLTPGD246-253N mutation in the NTD of Lambda S protein resulted in its escape from neutralizing antibodies, which was the cause of the rapid spread of the Lambda variant in the Southern American countries (41). In addition, the T76I and L452Q mutations of Lambda variant can make the virus highly infectious (34) .
+.
+
+In the past two months, The Lambda variant has been predominant in Peru, Chile, Argentina, Colombia, Uruguay, Paraguay, and other South American countries (23), According to the GISAID database, since the first case of Lambda variant was reported in the United States on July 22, 2021, 1,060 cases infection with Lambda variant have been reported, and later, Lambda variant has spread from America to Asia (42). On August 6, a 30-year-old woman arrived at Tokyo Haneda Airport from Peru and was diagnosed with Lambda variant infection, who was the first case of Lambda variant in Japan.
+.
+
+Although the impact of Lambda variant in Peru is increasing, the number of cases of Lambda variant in other countries has not yet exceeded that of Delta variant. The proportion of Lambda variant in the UK and United States is less than 0.1% and 0.3%, respectively. To explain the inconsistent performance of Lambda variant in different countries/regions, the “founder effect” which means that the predominant variant is usually firstly introduced and spread in a densely and restricted population, might be an important factor (42).
+.
+
+Similar with the Delta variant, partial mutations of the Lambda variant cause the virus to escape neutralizing antibodies, but a small amount of mutations may not be enough to make the Lambda variant completely escape from the immune system, even unusual mutations due to T cell function. In comparison with the D614G mutation, the L452Q mutation of the Lambda variant increases its ability to bind to cells by 2-fold and the L452Q and F490S mutations increased the serum resistance of convalescent patients by 3.3-fold, which was lower than Beta variant (4.9-fold), the study also found that the serum resistance of Lambda variant to Pfizer and Moderna vaccine increased by 3- and 2.3-fold, respectively, but the mRNA vaccines such as Pfizer and Moderna remained effective for Lambda variants (43). Similarly, a study of the impact of the CoronaVac vaccine on the Lambda variant found that neutralizing antibodies had only 3.05-fold less than the prior variant (44), indicating that part of the neutralizing antibody was retained.
+.
+
+The global COVID-19 pandemic is still ongoing, and the viruses continue to adapt, changing their characteristics such as the infectivity, transmissibility, and pathogenicity. On August 30, 2021, the WHO announced the Mu variant (B.1.621) and classified it as a VOI (8,45), which has mutations associated with potential immune escape. More studies of the phenotypic and clinical characteristics of Mu variant, and the monitoring of any changes with the co-circulation of the Delta, Lambda, and the other variants are needed (45-46).
+.
+
+The emerging SARS-CoV-2 variants pose great challenges to the prevention and control of epidemics. The WHO recommends that ongoing pandemic prevention strategies and measures will continue to work on variants (8). The Chinese experiences illustrated that vaccination alone cannot block infection and transmission due to the ultra-short incubation period (19). To prevent and control the transmission of Delta and Lambda variants, China continues to adopt proactive strategies and implement a series of NPIs (21,45,47-48) .
+.
+
+In addition, the research on Delta and Lambda variants should be further promoted, especially on the mutation sites related with immune recognition and vaccine efficacy (49). The WHO encourages countries to strengthen gene monitoring and viral sequencing capabilities and calls for close cooperation among countries to strengthen the monitoring of variation and the evaluation of biological characteristics of variants, which needs timely sharing of the information to early alert the potential important immune escape variants (8,42).
+.
+
+World Health Organization. WHO Director-General’s opening remarks at the media briefing on COVID-19 - 11 March 2020. 2020. https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020. [2021-9-4]..
+
+World Health Organization. WHO coronavirus (COVID-19) dashboard. 2021. https://covid19.who.int/. [2021-9-4]..
+
+World Health Organization. Tracking SARS-CoV-2 variants. 2021. https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/. [2021-9-22]..
+
+Chadha J, Khullar L, Mittal N. Facing the wrath of enigmatic mutations: a review on the emergence of severe acute respiratory syndrome coronavirus 2 variants amid coronavirus disease-19 pandemic. Environ Microbiol 2021. http://dx. doi.org/10.1111/1462-2920.15687..
+
+REGENERON. COVID-19 dashboard. 2021. https://covid19dashboard.regeneron.com/?tab=Variant_Graphs&subTab=Top_Variants_Over_Time_(Select_Location). [2021-8-24]..
+
+World Health Organization. WHO recommendation COVID-19 vaccine BIBP/sinopharm. 2021. https://extranet.who.int/pqweb/vaccines/who-recommendation-covid-19-vaccine-bibp. [2021-9-4]..
+
+World Health Organization. Status of COVID-19 Vaccines within WHO EUL/PQ evaluation process. 2021. https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_20Jan2021.pdf..
+
+Our World in Data. Coronavirus (COVID-19) vaccinations. 2021. https://ourworldindata.org/covid-vaccinations. [2021-9-22]..
+
+Shi QF, Gao XD, Hu BJ. Research progress on characteristics, epidemiology and control measure of SARS-CoV-2 Delta VOC. Chin J Nosocomiol 2021. http://kns.cnki.net/kcms/detail/11.3456.R.20210707.2126.070.html. [2021-9-16]. (In Chinese)..
+
+Cascella M, Rajnik M, Aleem A, Dulebohn SC, Di Napoli R. Features, evaluation, and treatment of coronavirus (COVID-19). In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. 2021. https://pubmed.ncbi.nlm.nih.gov/32150360/..
+
+Zhao X, Zheng AQ, Li DD, Zhang R, Sun H, Wang QH, et al. Neutralization of recombinant RBD-subunit vaccine ZF2001-elicited antisera to SARS-CoV-2 variants including Delta. bioRxiv 2021. http://dx. doi.org/10.1101/2021.07.15.452504..
+
+Pango Network. New AY lineages. 2021. https://www.pango.network/new-ay-lineages/. [2021-9-14]..
+
+Bolze A, Cirulli ET, Luo SS, White S, Wyman D, Dei Rossi A, et al. SARS-CoV-2 variant Delta rapidly displaced variant Alpha in the United States and led to higher viral loads. medRxiv 2021. http://dx. doi.org/10.1101/2021.06.20.21259195..
+
+Zhuo JT. The strategy to overcome attack with an ultra-short incubation period and escape with an ultra-long incubation period of the COVID-19 Delta variant of based on cases of outbreaks and their containment. Shanghai J Prev Med 2021. http://kns.cnki.net/kcms/detail/31.1635.R.20210729.1041.002.html. [2021-9-16]. (In Chinese)..
+
+Chia PY, Ong SWX, Chiew CJ, Ang LW, Chavatte JM, Mak TM, et al. Virological and serological kinetics of SARS-CoV-2 Delta variant vaccine-breakthrough infections: a multi-center cohort study. medRxiv 2021. http://dx. doi.org/10.1101/2021.07.28.21261295..
+
+Farinholt T, Doddapaneni H, Qin X, Menon V, Meng QC, Metcalf G, et al. Transmission event of SARS-CoV-2 Delta variant reveals multiple vaccine breakthrough infections. medRxiv 2021. http://dx.doi.org/10.1101/2021.06.28.21258780..
+
+Coronavirus (COVID-19) Deaths- Statistics and Research - Our World in Data[EB/OL]. [2021/9/21]. https://ourworldindata.org/covid-deaths..
+
+Bose P. Scientists suspect Lambda SARS-CoV-2 variant most dangerous. News-Medical. 2021. https://www.news-medical.net/news/20210730/Scientists-suspect-Lambda-SARS-CoV-2-variant-most-dangerous.aspx. [2021-9-16]..
+
+Kimura I, Kosugi Y, Wu JQ, Yamasoba D, Butlertanaka EP, Tanaka YL, et al. SARS-CoV-2 Lambda variant exhibits higher infectivity and immune resistance. bioRxiv 2021. http://dx.doi.org/10.1101/2021.07.28.454085..
+
+Sina Finance. Variants of the SARS-CoV-2 viruses emerge in endlessly, and “Lamda” appears after “Delta”. 2021. https://baijiahao.baidu.com/s?id=1707407314247784486&wfr=spider&for=pc. [2021-8-19]. (In Chinese)..
+
+Tada T, Zhou H, Dcosta BM, Samanovic MI, Mulligan MJ, Landau NR. SARS-CoV-2 lambda variant remains susceptible to neutralization by mRNA vaccine-elicited antibodies and convalescent serum. bioRxiv 2021. http://dx. doi.org/10.1101/2021.07.02.450959. .
+
+Acevedo ML, Alonso-Palomares L, Bustamante A, Gaggero A, Paredes F, Cortés CP, et al. Infectivity and immune escape of the new SARS-CoV-2 variant of interest Lambda. medRxiv 2021. http://dx.doi.org/10.1101/2021.06.28.21259673. .
+
+National Health Commission of the People’s Republic of China. Notice on issuing the normalization of prevention and control guidelines f COVID-19 (August 2021) for focus populations in focus units and units. 2021. http://www.nhc.gov.cn/xcs/zhengcwj/202108/ead4082ee97b49a38a8512e112f53dbf.shtml. [2021-9-4]. (In Chinese)..
+
+World Health Organization. Weekly epidemiological update on COVID-19 - 31 August 2021. 2021. http://www.gov.cn/xinwen/2020-04/09/content_5500689.htm. [2021-9-6]..
+
+National Health Commission of the People’s Republic of China. Notice on issuing the guidelines for the public and focus occupational groups to wear masks (August 2021 Edition). 2021. http://www.gov.cn/xinwen/2021-08/13/content_5631097.htm. [2021-9-4]. (In Chinese)..
+
+National Health Commission of the People’s Republic of China. Notice on issuing the protocol for prevention and control of COVID-19 (Edition 8). 2021. http://www.gov.cn/xinwen/2021-05/14/content_5606469.htm. [2021-9-4]. (In Chinese)..
+
+Yang TH, Zhang XY, Xu JQ. SARS-CoV-2 vaccines: current situation and prospect. Chin J Infect Control 2021;20(7): 673−80. http://www.zggrkz.com/CN/abstract/abstract30922.shtml. (In Chinese)..
+

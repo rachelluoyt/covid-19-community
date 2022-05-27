@@ -1,0 +1,8 @@
+Our laboratory previously examined the influence of environmental conditions on the stability of an early isolate of SARS-CoV-2 (hCoV-19/USA/WA-1/2020) in aerosols generated from culture medium or simulated saliva. However, genetic differences have emerged among SARS-CoV-2 lineages, and it is possible that these differences may affect environmental stability and the potential for aerosol transmission..
+
+The influence of temperature, relative humidity, and simulated sunlight on the decay of four SARS-CoV-2 isolates in aerosols, including one belonging to the recently emerged B.1.1.7 lineage, were compared in a rotating drum chamber. Aerosols were generated from simulated respiratory tract lining fluid to represent aerosols originating from the deep lung..
+
+No differences in the stability of the isolates were observed in the absence of simulated sunlight at either 20°C or 40°C. However, a small but statistically significant difference in the stability was observed between some isolates in simulated sunlight at 20°C and 20% relative humidity. ..
+
+The stability of SARS-CoV-2 in aerosols does not vary greatly among currently circulating lineages, including B.1.1.7, suggesting that the increased transmissibility associated with recent SARS-CoV-2 lineages is not due to enhanced survival in the environment..
+

@@ -1,0 +1,8 @@
+Coronavirus disease 2019 is threatening thousands of millions of people around the world. In the absence of specific and highly effective medicines, the treatment of infected persons is still very challenging. As therapeutics, neutralizing antibodies (NAbs) have great potential. Many NAbs have been reported, and most target various regions on the receptor-binding domain of the spike (S) protein, or the N-terminal domain. Several NAbs and NAb cocktails have been authorized for emergency use, and more are in clinical trials or are under development. In this review, considering the angle of binding epitopes on the S protein, we summarize the functions and the underlying mechanisms of a set of well-recognized NAbs and provide guidance for vaccine design and the combinatorial use of these antibodies. In addition, we review the NAbs and NAb cocktails that have been approved for emergency use and discuss the effectiveness of these NAbs for combating severe acute respiratory syndrome coronavirus 2 mutants..
+
+This work was supported by the National Natural Science Foundation of China (Nos. 31970130, 31600672, 31670831, and 31370813)..
+
+Conflict of Interest Statement.
+
+The authors declare no competing interests..
+

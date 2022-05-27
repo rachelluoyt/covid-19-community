@@ -1,0 +1,216 @@
+The Santo André Regional Center from Adolfo Lutz Institute evaluated 91 537 samples by reverse transcription‐polymerase chain reaction (RT‐PCR) to detect severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) from March 2020 to April 2021. The age, sex, and race of patients from three cities in southeastern Brazil, namely São Bernardo do Campo (SBC), Diadema, and Mauá were assessed in association to the rate of positive results using generalized linear models. Circulating lineages were obtained from GISAID and intralineage genetic variation was investigated employing Lasergene software. A declining number of reported cases around October to November 2020 separate two epidemic waves in the three cities. Mauá differed by the highest positive RT‐PCR scores in January and February. GISAID classification of 38 SARS‐CoV‐2 complete genomic sequences showed the circulation of lineages P.1, B.1.1.28, P.2, B.1.1.332; P.1, P.2, B.1.1.28, B.1.1.33; and P.1, P.2 in SBC, Diadema and Mauá, respectively. Intralineage variation revealed a significant amino‐acid substitution in the ORF3a encoding protein (A33S) present in four out of six (67%) P.1 Mauá isolates. As ORF3a encodes a nonselective Ca2+ permeable cation channel, supposed to interfere in airway homeostasis, specific mutations could increase its pathogenic effect resulting in a higher number of symptomatic individuals explaining why the second wave was more intense in Mauá city..
+
+
+The age, sex, and race of patients from three cities in southeastern Brazil were assessed in association with the rate of positive results using generalized linear models.A declining number of reported cases around October to November 2020 separate two epidemic waves in the three cities.GISAID classification of SARS‐CoV‐2 complete genomic sequences showed the circulation of lineages P.1, B.1.1.28, P.2, B.1.1.332; P.1, P.2, B.1.1.28, B.1.1.33; and P.1, P.2 in São Bernardo do Campo, Diadema, and Mauá, respectively.
+.
+
+The age, sex, and race of patients from three cities in southeastern Brazil were assessed in association with the rate of positive results using generalized linear models..
+
+A declining number of reported cases around October to November 2020 separate two epidemic waves in the three cities..
+
+GISAID classification of SARS‐CoV‐2 complete genomic sequences showed the circulation of lineages P.1, B.1.1.28, P.2, B.1.1.332; P.1, P.2, B.1.1.28, B.1.1.33; and P.1, P.2 in São Bernardo do Campo, Diadema, and Mauá, respectively..
+
+
+
+
+Eterovic
+A
+, 
+Sperança
+MA
+, 
+Campos
+IBd
+, et al. SARS‐CoV‐2 intralineage variation and temporal patterns of COVID‐19 risk factors in three cities of southeastern Brazil: Age, sex, and race. J Med Virol. 2022;94:2149‐2159. 10.1002/jmv.27607
+35060147
+.
+
+In December 2019, a new coronavirus causing a pneumonia‐like respiratory disease was discovered in Wuhan, China.
+1
+ In January 2020, the sequencing data were made available to the scientific community,
+2
+ and the new virus was named severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), which causes a highly complex disease called coronavirus disease‐2019 (COVID‐19).
+3
+ SARS‐CoV‐2 can affect the lungs, with the possibility of progressing to a SARS
+4
+ indicated in its name. It spreads mainly through secretions droplets of the upper respiratory tract. The surveillance of respiratory viruses of public health relevance has a characteristic dynamic, due to their potential to cause epidemics. Studies that result in an improved understanding of COVID‐19 may lead to more targeted and effective community‐based and healthcare system‐based interventions. The collection of COVID‐19 data among specific population strata and their dissemination remains critically important to guide policy, health care, prevention, and intervention efforts.
+5
+, 
+6
+
+.
+
+For diagnosis of COVID‐19, nasopharyngeal secretion samples are obtained by using synthetic fiber swabs with a plastic rod, being the best time for collection between the first and the seventh day after the onset of symptoms.
+7
+ In hospitalized patients, the Brazilian Ministry of Health recommends the collection of bronchoalveolar lavage, tracheal or nasopharynx suction, or even oropharynx as the preferred swab sample. The collection process of these clinical samples is less prone to errors than those previously indicated swab methods, thus favoring results with greater accuracy for reverse transcription‐polymerase chain reaction (RT‐PCR) in real time.
+7
+ It is possible to detect the presence of viral RNA still in the initial stage of the disease, assisting in the diagnosis for better medical conduct, as well as in the necessary public health interventions. The World Health Organization (WHO) reputes RT‐PCR as the gold standard for laboratory diagnosis, being essential in the pandemic context.
+8
+
+.
+
+Discrimination of SARS‐CoV‐2 lineages is associated with important epidemiological and biological events and the detection of changes in amino acid sequences along virus encoding proteins are based on comparison to the first isolate from the Chinese Hubei province (the root sequence).
+9
+ Assignment of epidemiological lineages in an emerging pandemic is usually done by using the Pangolin tool.
+9
+, 
+10
+ Camargo et al.
+11
+ report a predominance of B.1.1.33 (30.3%, n = 3028 sequences) and B.1.1.28 (26.6%) strains circulating in Brazil. In Sao Paulo state, Southeastern Brazil, B.1.1.28 was the first‐ranked. It was the source for P.1 (the so‐called Gama variant) and P.2, both commonly detected in the state, and also for P.3, not reported in the country during the study period. B.1.1.28 has been found in 46 countries, P.1 in 27, P.2 in 28, and P.3 has been reported only in the Philippines.
+12
+
+.
+
+The Adolfo Lutz Institute, Santo André Regional Center (IAL Santo André), Sao Paulo, Brazil, as the central public health laboratory, is responsible for laboratory tests of various diseases required for epidemiological surveillance. During the first year of the COVID‐19 pandemic, the diagnosis of SARS‐CoV‐2 was included in a platform used in this study to describe the epidemiological characteristics of symptomatic patients from Sao Paulo state. Our purpose is to evaluate the association of positive RT‐PCR results to demographic factors (age, sex, and race/ethnicity) in three cities with massive records (São Bernardo, Diadema, and Mauá), besides the identification of the main circulating virus lineages..
+
+From March 2020 to April 2021, 91 537 samples were collected and sent to the IAL Santo André for RT‐PCR assessment of SARS‐CoV‐2. Patients are mainly from the seven municipalities of the Metropolitan Region of ABC (ordered by decreasing sample size: São Bernardo do Campo, Diadema, Mauá, Rio Grande da Serra, Ribeirão Pires, Santo André, and São Caetano do Sul), followed by 39 cities of the Paraíba Valley Region (being the top‐three: Taubaté, São José dos Campos, and Pindamonhangaba), in Sao Paulo state, Southeastern Brazil. Age, sex, race/ethnicity, and purpose of such evaluation (clinical diagnosis of symptoms) were recorded for each person, as well as its date of collection, being the only available information. Sometimes sequential samples were taken from some individuals, which were excluded. For further analysis, the entire database was subset to acquire sampling homogeneity throughout the months of collection and among the different categories of subjects in three cities nearby the capital Sao Paulo that presented disproportionately massive records: São Bernardo do Campo, Diadema, and Mauá. We retained only data acquired since July 2020, spanning 10 months with no less than 3000 samples each. We included only the first, conclusive test for each individual, aged less than 90 years and affected with a mild respiratory syndrome. Scattered data from indigenous people were also discarded..
+
+The three cities were compared according to temporal trends in the rate of positive test results, as assessed in the two waves of the pandemics which strike such regions during the time course of sampling. For practical reasons, these waves were detached by the lowering of the daily incidence rate around the October to November 2020 edge, as detected using external, unofficial data.
+13
+ The probability of a positive test result (response variable) was assessed by generalized linear models with a binomial error distribution, using wave, city, day of collection, age, sex, and race/ethnicity as risk factors (predictors). Models were built to investigate the additive contribution of such variables. Interactions were also assessed by partitioning the data set by wave, city, and combinations of both. R program was used in such analysis..
+
+Nasopharyngeal secretion samples (combined nose and throat) were collected with synthetic fiber swabs (rayon) with a plastic rod between the third and seventh day after the onset of symptoms. In hospitalized patients, was collected bronchoalveolar lavage, tracheal or nasopharynx suction, adopting oropharynx as the preferred swab sample..
+
+The RT‐PCR reactions for SARS‐CoV‐2 detection were performed using different methodologies, described below into three protocols. Until July 2020, samples had RNA extracted with silica columns, using Biogene kit (Quibasa) and RT‐PCR reactions were performed with SARS‐CoV‐2 molecular kit (Bio‐Manguinhos) for individual gene E detection of SARS‐CoV‐2 and human RP gene as a positive control, as standardized in Charité laboratory protocol.
+14
+ From August to November 2020, samples were subjected to heat/chemical extraction using QuickExtract DNA Extraction Solution kit (Lucigen), and RT‐PCR reactions were performed with IDT primer kit and GoTaq Probe 1‐ enzyme Step RT‐qPCR System (Promega) for individual detection of N1 and N2 genes, according to a protocol standardized by Centers for Disease Control and Prevention (CDC),
+15
+, 
+16
+ in addition to detection of the RP gene as a positive control. From December 2020 to April 2021, samples were subjected to automated extraction of genetic material using magnetic microparticles from EXTRACTA kit—DNA and Viral RNA and EXTRACTA 32 equipment (Loccus). RT‐PCR reactions were performed with Allplex 2019‐nCov Assay kit (Seegene) with modifications for the triplex detection of the E and N genes from SARS‐CoV‐2, in addition to the human RP gene, whose protocol is also based on the primers designed by Charité laboratory.
+14
+ Part of the tests that were submitted to the IAL Santo André was carried out by other laboratory on the state diagnostic platform, which also adopted similar kits and the protocol of Charité laboratory. All extraction reactions of the genetic material and RT‐PCR were performed according to the manufacturers' instructions, as well as the analysis and interpretation of results..
+
+The IAL Sao Paulo responds to emerging diseases of public health interest, and it was responsible for sequencing the complete genome of isolated SARS‐CoV‐2 to monitor the diversity of new coronaviruses. The sequences are deposited and available from the Global Initiative on Sharing All Influenza Data (GISAID).
+17
+ All SARS‐CoV‐2 lineages described in this study were extracted from GISAID on June 21, 2021. All available SARS‐CoV‐2 complete sequences from São Bernardo do Campo, Diadema, and Mauá were downloaded and the modified target encoding genes in reference lineages strains were evaluated individually by employing MegAlign of the Lasergene software.
+18
+
+.
+
+After discarding scattered data, the resulting number of records for the remaining cities were São Bernardo do Campo (n = 39 034), Diadema (n = 15 604), and Mauá (n = 12 245). A decreasing number of reported cases around the October to November 2020 edge—indicated by the moving averages of external data
+13
+—roughly separate the two epidemic waves in the three cities (Figure SA1). The median of the monthly sample size for RT‐PCR tests obtained with our data in each city was 1711, ranging from 376 (Mauá, July 2020) to 6421 (São Bernardo do Campo, Mar 2021) (Figure SA2). The age distribution of sampled patients increased abruptly from 13 years, roughly peaking around 20–35 years, and then decreasing monotonically (Figure SA3)..
+
+The temporal trend in the fraction of positive RT‐PCR results (Figure 1) roughly resembles that of the new cases reported from external data (Figure SA1): stabilized (around 25%) or slightly decreasing from July to October 2020 (the end of the first wave), increasing to the highest values (more than 50% in Mauá) in the first 2 months of the following year (the ascending slope of the second wave) and, finally, with a new decrease in the subsequent period. Despite the sequential employment of three different procedures of RNA extraction and RT‐PCR along the period of sample scanning, such protocols were not treated as levels of another explaining factor in the analysis of the chance of positive tests. As the third protocol was almost temporally coincident with the second epidemic wave, it should be statistically impossible to isolate its effect (i.e., to detach the contribution of “WAVE” and “PROTOCOL”). So, we assumed that the trend described at the beginning of this paragraph (Figure 1), as detected also in the external data (Figure SA1), was entirely attributed to the waves and not to the methodological approach..
+
+Fraction of positive results in reverse transcription‐polymerase chain reaction COVID‐19 tests for samples from the cities of São Bernardo do Campo (SBC, total n = 39 034), Diadema (DIA, n = 15 604), and Mauá (MAU, n = 12 245), from July 2020 (Month 1) to April 2021. For each month, proportions are presented with 95% confidence intervals based on a normal approximation. The vertical dashed line roughly separates two epidemic waves by the lowest figures for new cases in the October to November 2020 edge.
+
+This same “waving” pattern was recurrent among 15‐years age classes, especially those of 30, 45, and 60 years, as labeled by their upper limit (Figure 2). It also appears in distinct genders (Figure 3) and races, especially in categories “white,” “mixed,” and “unreported” (Figure 4). The age distribution of positive RT‐PCR results indicates a monotonic increase until the classes of 60 and 75 years, followed by a plateau or a slight decrease in the last group (Figure SA4). This pattern was especially evident in the months of the second wave (Figure SA5). Mauá differed from the other cities by higher positive RT‐PCR scores in January and February 2021 (Figure 1), mainly in age classes 30, 45, and 60 (Figures 2, SA4, SA5), in both gender (Figure 3) and in all race categories except “black” (Figure 4)..
+
+Fraction of positive results in reverse transcription‐polymerase chain reaction COVID‐19 tests by age class for samples from the cities of São Bernardo do Campo (SBC), Diadema (DIA), and Mauá (MAU), from July 2020 (Month 1) to April 2021. Age classes of 15 years are labeled by their upper limit. For each month and age class, proportions are presented with 95% confidence intervals based on a normal approximation. The vertical dashed line roughly separates two epidemic waves by the lowest figures for new cases in the October to November 2020 edge.
+
+Fraction of positive results in reverse transcription‐polymerase chain reaction COVID‐19 tests by sex for samples from the cities of São Bernardo do Campo (SBC), Diadema (DIA), and Mauá (MAU), from July 2020 (Month 1) to April 2021. For each month and sex, proportions are presented with 95% confidence intervals based on a normal approximation. The vertical dashed line roughly separates two epidemic waves by the lowest figures for new cases in the October to November 2020 edge.
+
+Fraction of positive results in reverse transcription‐polymerase chain reaction COVID‐19 tests by race/ethnicity for samples from the cities of São Bernardo do Campo (SBC), Diadema (DIA), and Mauá (MAU), from July 2020 (Month 1) to April 2021. Indigenous was not included due to scattered data. For each month and race, proportions are presented with 95% confidence intervals based on a normal approximation. The vertical dashed line roughly separates two epidemic waves by the lowest figures for new cases in the October to November 2020 edge.
+
+The first additive model using all data and all independent variables indicated a strong increase in the chance of being RT‐PCR positive in the second wave (Table 1). As indicated by their significant coefficients, the next factors in importance were “city” (Diadema and Mauá with a lower and a higher chance, respectively, of a positive result than São Bernardo do Campo) and “sex” (females less prone to positive results than males). Each year in age promotes an increase of 1.6% in the odds of a positive outcome. Each day after July 1, 2020, represents an increase of less than 0.1% in the odds of a positive outcome but such effect did not resist an adjusted critical P. No race category differed from the reference level (“white”) except the “unreported,” which presented a significant, increased odds of positive results..
+
+A generalized linear model for all data. Results of COVID‐19 RT‐PCR tests as a function of additive risk factors in three cities of Sao Paulo state, southeastern Brazil from July 2020 to April 2021.
+
+
+Note:  The response variable is the probability of a positive outcome. “São Bernardo do Campo” is the reference level for cities, as well as “male” for sex and “white” for the race. Two waves defined by lower values of reported cases in external data
+13
+ were separated by the edge October to November 2020. Days of collection starting at July 11, 2020; age measured in years. Logistic regression coefficients (B) are shown with respective standard errors (SE), odds ratios (OR), and 95% confidence limits (CI). *p < 0.05; **p < 0.0167 (=0.05/3) for City, p < 0.0125 (=0.05/4) for Wave and p < 0.0042 (=0.05/12) for the remainder; after a Bonferroni correction for the number of times a given factor was included in an analysis (a given model) in the whole paper..
+
+The models using data subset by wave (Table 2) mainly repeat such patterns, with some peculiar differences. Mauá has a slightly increased chance of a positive result in the first wave, maintaining the strong, positive effect in the second wave. The effect in reducing the chance of a positive outcome was more intense in the first than in the second wave for Diadema. The day of the collection indicates a reducing chance of a positive outcome in the end of the first wave and a reversion of such trend in the start of the second wave, reinforcing the division between them, as indicated by the external data on the number of cases (Figure SA1). The significant positive effect of age was slightly more intense in the second wave. The significant effect of gender (males with an increased chance of a positive outcome) did not differ among waves. The significant positive effect of unreported race was restricted to the second wave..
+
+Two generalized linear models for epidemic waves. Results of COVID‐19 RT‐PCR tests as functions of additive risk factors during two epidemic waves in three cities of Sao Paulo state, southeastern Brazil.
+
+
+Note: The response variable is the probability of a positive outcome. The first wave lasts from July to October 2020 and the second, from November 2020 to April 2021. They were defined by lower values of reported cases in external data.
+13
+ “São Bernardo do Campo” is the reference level for cities, as well as “male” for sex and “white” for the race. Days of collection starting at July 1, 2020; age measured in years. Logistic regression coefficients (B) are shown with respective standard errors (SE), odds ratios (OR), and 95% confidence limits (CI). *p < 0.05; **p < 0.0167 (= 0.05/3) for City, p < 0.0125 (= 0.05/4) for Wave and p < 0.0042 (=0.05/12) for the remainder; after a Bonferronicorrection for the number of times a given factor was included in an analysis(a given model) in the whole paper..
+
+Cutting the data by city (Table 3) highlights some new scenarios. The effect of the second wave was more intense in Mauá than in Diadema or São Bernardo do Campo. The effect of day of collection was absent (Diadema, Mauá) or negligible (São Bernardo do Campo): both waves were canceled out by opposite trends. The effect of gender in Mauá did not resist a Bonferroni correction. The effect of unreported race was restricted to São Bernardo do Campo. The effect of age was significantly positive and similar in all the cities..
+
+Three generalized linear models for cities. Results of COVID‐19 RT‐PCR tests as functions of additive risk factors in three cities of Sao Paulo state, southeastern Brazil during two epidemic waves.
+
+
+Note: The response variable is the probability of a positive outcome. The first wave lasts from July to October 2020 and the second, from November 2020 to April 2021. They were defined by lower values of reported cases in external data.
+13
+ “Male” is the reference level for sex and “white” for the race. Days of collection starting at July 1, 2020; age measured in years. Logistic regression coefficients (B) are shown with respective standard errors (SE), odds ratios (OR), and 95% confidence limits (CI). *p < 0.05; **p < 0.0167 (= 0.05/3) for City, *p < 0.0125 (= 0.05/4) for Wave and p < 0.0042 (=0.05/12) for the remainder; after a Bonferroni correction for the number of times a given factor was included in an analysis (a given model) in the whole paper..
+
+When models were built by grouping data according to both wave and city (Table 4), some interactions were evinced. The effect of day of collection was negative in the first wave in São Bernardo do Campo but positive in the second wave. It was absent in both waves in Diadema. It was negative in the first wave but absent in the second wave in Mauá. The effect of sex was absent in both waves in Mauá but did not differ among Diadema and São Bernardo do Campo, where males were prone to a positive result. The effect of unreported race was restricted to the second wave in São Bernardo do Campo, but this effect did not resist a Bonferroni correction. The effects of age were significantly positive and similar in all cities and waves..
+
+Six generalized linear models for combinations of epidemic wave. Results of COVID‐19 RT‐PCR tests as functions of additive risk factors in three cities of Sao Paulo state, southeastern Brazil during two epidemic waves.
+
+
+Note: The response variable is the probability of a positive outcome. The first wave lasts from July to October 2020 and the second, from November 2020 to April 2021. They were defined by lower values of reported cases in external data.
+13
+ “Male” is the reference level for sex and “white” for the race. Days of collection starting at July 1, 2020; age measured in years. Logistic regression coefficients (B) are shown with respective standard errors (SE), odds ratios (OR), and 95% confidence limits (CI). p < 0.05; **p < 0.0167 (= 0.05/3) for City, p< 0.0125 (= 0.05/4) for Wave and p < 0.0042 (=0.05/12) for the remainder; after a Bonferroni correction for the number of times a given factor was included in an analysis (a given model) in the whole paper..
+
+Thirty‐eight isolates of the new coronavirus, detected in this study between October 2 and December 2, 2020, were sequenced by the IAL Sao Paulo and deposited on GISAID. Classification of SARS‐CoV‐2 isolates from São Bernardo do Campo, Diadema, and Mauá and amino acid variability in specific target viral open reading frames are described in Table SA1. Accession number of obtained sequences are described in Table A1, as isolate. Nine out of these 38 SARS‐CoV‐2 isolates were from São Bernardo do Campo, being five of them classified as lineage P.1, one as P.2, two as B.1.1.28, and one as B.1.1.332. Among 20 isolates from Diadema, eight were classified as P.1, six as P.2, five as B.1.1.28, and one as B.1.1.33. Nine isolates were obtained from Mauá and presented two different lineages: P.1 (six sequences) and three as P.2. In most of such isolates, specific modifications in amino acid sequences of the target ORFs were observed, being significant a substitution in the residue 33 of the ORF3a (a serine instead of an alanine) found in four of the six (67%) P.1 sequences from Mauá patients (Table SA1)..
+
+COVID‐19 is a novel disease that is revealing unprecedented challenges. Initially, in the Sao Paulo state of Brazil, only cases of SARS, health professionals with symptoms of flu syndrome (FS), or investigation of outbreak in a closed or semiclosed community such as prisons, long‐term care institutions for the elderly, schools, daycare centers, companies, should be notified as suspected of COVID‐19 and have their material collected and analyzed by RT‐PCR.
+7
+ Afterward, in July 2020, the investigation of COVID‐19 was extended to all symptomatic individuals, including, therefore, patients with FS, that is, defined cases with mild respiratory symptoms, characterized by a feverish sensation, accompanied by cough or sore throat or runny nose or difficulty breathing.
+7
+
+.
+
+The number of samples received at the IAL Santo André was not correlated only to the population size of the cities of origin
+19
+ but also to better testing efforts and policy of such municipalities. A gradual increase in the monthly average of exams performed, as well as in the fraction of positive cases mainly in the second wave (November 2020 to April 2021, in our data) was observed. Probably, it was due to the agglomerations caused by the Brazilian municipal elections in October 2020 and the Holiday season (Christmas and New Year's festivities) and possibly combined with the presence of more infectious variants. The decline in the first wave (until the October to November 2020 edge) indicates that the epidemiological progression in Brazil was largely influenced by the introduction of lockdown measures in that period. However, the subsequent flexibilization of such policies may have directly promoted a resurgence, which takes the form of the second wave.
+20
+
+.
+
+As pointed before, Mauá differed from the other two neighbor cities by higher positive RT‐PCR scores in January and February 2021, mainly in age classes 30, 45, and 60, in both genders, in all race categories except “black,” and presented at least two different variants, P.1 and P.2. It is important to note that, so far, there is no evidence that the variant P.1 is more virulent or transmissible compared to other previously identified. P.1 strain has been found in 27 countries and in Brazil, and it had an increased incidence in the period of this study.
+11
+, 
+21
+ Since the first identification of SARS‐CoV‐2 to date, more than 414 575 complete genomic sequences worldwide are available through public access databases. The ability to monitor viral evolution in near real‐time has a direct impact on the public health response to the COVID‐19 pandemic.
+22
+ Camargo et al.
+11
+ reported that in just over a year after the COVID‐19 pandemic was decreed, Brazil deposited 4606 sequences on GISAID, being the IAL Sao Paulo responsible for 18.3% of these records. The predominant lineages in Brazil during the period of the study are B.1.1.33, B.1.1.28, P.1, and P.2. We observed that the variants isolated in the tree cities of the present study were those plus B.1.1.332 (Table SA1). In Mauá, four out of six P.1 isolates presented a significant specific amino acid substitution in the ORF3a, a serine (polar) at the place of an alanine (nonpolar) (Table SA1). Structural study of SARS‐CoV‐2 ORF3a revealed it is a nonselective Ca2+ permeable cation channel.
+23
+ Using an infection model of lung Type II pneumocytes, where Ca2+ plays an important role in maintaining airway homeostasis, SARS‐CoV‐2 ORF3a could disrupt this homeostasis, affecting COVID‐19 pathogenesis. There is evidence that SARS‐CoV‐2 ORF3a is implicated in activation of the inflammasome and null mutation mouse model for this encoding gene reduces viral titer and morbidity.
+24
+ SARS‐CoV‐2 ORF3a protein activates the NLRP3 inflammasome by promoting TRAF3‐dependent ubiquitination of apoptosis‐associated speck‐like protein containing a caspase recruit domain (ASC).
+24
+, 
+25
+ Thus, the A33S specific mutation found in ORF3a of P.1 isolates from Mauá patients could interfere in the protein activity, increasing pathogenicity and consequently, the number of symptomatic individuals, which could explain the higher number of positive tests in this city during January and February 2021. Genomic sequencing of a higher number of isolates from Mauá and association to clinical and laboratory findings of infected individuals should be performed to investigate this hypothesis..
+
+The high percentage of undetected samples for SARS‐CoV‐2 can have several explanations, such as inappropriate collection, problems of conservation or transport of the sample, collection at an inopportune date, which can lead to false‐negative results. Symptomatic negative cases could be attributed to other pathogens such as common cold coronaviruses, for example. However, this statement cannot be confirmed, as other pathogens are not tested at IAL Santo André, except Influenza A and B viruses, for all samples of patients with SARS and which were negative for SARS‐CoV‐2. It was observed that practically all SARS‐CoV‐2 negative samples were also negative for Influenza viruses (data not shown). The great number of negative results for SARS‐CoV‐2 can also be attributed to investigations of FS outbreaks in a closed or semi‐closed community. In these cases, up to 25 people are evaluated from the surroundings where two suspected or confirmed cases were detected, according to IAL guidelines, which are periodically updated.
+26
+ It includes professionals who work in that environment, even if they are asymptomatic so that anyone with the virus can be segregated and isolated. In these outbreak investigations, most of the individuals analyzed show undetectable results, contributing to the increase in negative monthly samples of the IAL Santo André..
+
+The authors declare no conflict of interest..
+
+Not applicable. No human sample was collected for the purpose of this study; they were collected for the diagnostic routine of the laboratory. Private information from patients was omitted and data was assessed in a retrospective, aggregated mode, disabling personal identification..
+
+
+Data collection on the database platform: André Eterovic, Ivana Barros de Campos, and Maria Cecilia Cergole‐Novella. Writing, review editing, and original draft preparation: André Eterovic, Andréia Moreira dos Santos Carmo, Elaine Cristina de Mattos, Ivana Barros de Campos, Márcia Aparecida Sperança, and Maria Cecilia Cergole‐Novella. Laboratory diagnosis analysis: Daniela Rodrigues Colpas, Ivana Barros de Campos, and Itatiana Ferreira Rodart. Conception and design of the study: André Eterovic, Andréia Moreira dos Santos Carmo, Elaine Cristina de Mattos, Ivana Barros de Campos, Márcia Aparecida Sperança, Maria Cecilia Cergole‐Novella, and Vilma dos Santos Menezes Gaiotto Daros. All authors have read and approved the final manuscript..
+
+Supporting information..
+
+Click here for additional data file..
+
+Supporting information..
+
+Click here for additional data file..
+
+Supporting information..
+
+Click here for additional data file..
+
+Supporting information..
+
+Click here for additional data file..
+
+Supporting information..
+
+Click here for additional data file..
+
+Supporting information..
+
+Click here for additional data file..
+
+We thank the IAL Santo André crew for technical support in processing the clinical samples and other routine activities for COVID‐19 diagnosis, specially Valeria dos Santos Candido, Paula Jimena Segura Ramirez, Roberta Thomaz dos Santos Marques, Delma Aparecida Molinari, Gabriel Henrique Gomes Caroccia, Gabriela de Carvalho Gonçalves, Flávia de Carvalho, Akemi Oshiro Guirelli, Carmelita Selles, Maranice Cesário, Julia Lima Lopes, Rute Dal Col, Larissa Cristina Juvêncio, Matheus Ferreira Françoza, Suelen Damasceno Setin, Mariana Brena de Souza, Thayná Rosa Bispo, Antônio Pereira Filho. We also thank the IAL Taubaté crew for the collection and transport of clinical samples to IAL Santo André..
+
+The data sets used and analyzed during the current study are available from the corresponding author on reasonable request..
+

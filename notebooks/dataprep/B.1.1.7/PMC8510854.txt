@@ -1,0 +1,815 @@
+Equal contributors..
+
+Since the development of the first vaccine against smallpox over two centuries ago, vaccination strategies have been at the forefront of significantly impacting the incidences of infectious diseases globally. However, the increase in the human population, deforestation and climate change, and the rise in worldwide travel have favored the emergence of new viruses with the potential to cause pandemics. The ongoing severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) pandemic is a cruel reminder of the impact of novel pathogens and the suboptimal capabilities of conventional vaccines. Therefore, there is an urgent need to develop new vaccine strategies that allow the production of billions of doses in a short duration and are broadly protective against emerging and re‐emerging infectious diseases. Extensive knowledge of the molecular biology and immunology of adenoviruses (Ad) has favored Ad vectors as platforms for vaccine design. The Ad‐based vaccine platform represents an attractive strategy as it induces robust humoral and cell‐mediated immune responses and can meet the global demand in a pandemic situation. This review describes the status of Ad vector‐based vaccines in preclinical and clinical studies for current and emerging respiratory viruses, particularly coronaviruses, influenza viruses and respiratory syncytial viruses..
+
+This article describes the unique features of adenoviral (Ad) vector‐based vaccine platforms, activation of innate immunity leading to the development of balanced humoral and cell‐mediated immune responses, and potential drawbacks and their circumvention strategies. The progress of Ad vector‐based vaccines for coronaviruses, influenza viruses and respiratory syncytial viruses are discussed in detail.
+.
+
+Disclaimer: The findings and conclusions in this report are those of the authors and do not necessarily represent the views of the Centers for Disease Control and Prevention, US Department of Health and Human Services..
+
+Conventional vaccines are primarily based on inactivated pathogens, their toxins or attenuated pathogens. They have been utilised for many diseases resulting in a significant decline in viral and bacterial infections worldwide. Unfortunately, conventional vaccines may not suit every pathogen because of the differences in pathogenesis and immune evasion strategies.
+1
+, 
+2
+ For instance, attenuated vaccines may revert to their pathogenic potential,
+3
+, 
+4
+ whereas inactivated vaccines often elicit a modest immune response that is usually short‐lived.
+5
+, 
+6
+, 
+7
+ Recent advances in virology, bacteriology, immunology, structural biology and genetic engineering have offered several new strategies, including recombinant protein‐, virus‐like particle (VLP)‐, deoxyribonucleic acid (DNA)‐, messenger ribonucleic acid (mRNA)‐ and viral vector‐based vaccines as effective alternatives to conventional vaccines.
+8
+, 
+9
+ Among viral vector‐based vaccine delivery systems, adenoviruses (Ads) constitute a versatile vaccine platform. Ad vector‐based technologies are appealing because of several factors relevant to vaccine efficacy, safety and production capability.
+10
+, 
+11
+ Ad biology is well studied, and the genome can be engineered to add a foreign gene cassette representing the pathogen‐specific immunogenic antigen/s. Even wild‐type Ads that cause asymptomatic or mild clinical symptoms in their natural hosts can be quickly rendered replication‐defective to further diminish unwanted side effects. Ad vectors infect various cells
+12
+ and thereby can be used as systemic or mucosal vaccines. Importantly, they can quickly be produced and purified on a large scale at short notice offering billions of vaccine doses for clinical use..
+
+Ads are icosahedral, non‐enveloped, double‐stranded (ds) DNA viruses with a virion size of approximately 90–120 nm in diameter (Figure 1).
+13
+ They contain a genome of ∼30–45 kb, which is ideal for biological manipulation. Ads belong to Adenoviridae, a diverse family of DNA viruses that are frequently species‐specific.
+14
+ Over 100 types of human Ads (HAds) are divided into six distinct groups (A‐F) based on their sequence homology, haemagglutination properties and oncogenic capabilities. Ads typically cause asymptomatic infections; however, several instigate a wide range of pathologies, including acute conjunctivitis, gastroenteritis, cystitis, and acute symptomatic and asymptomatic respiratory tract infections that can be severe in infants and in immunocompromised individuals.
+15
+
+.
+
+Schematic diagram of adenovirus, depicting its important surface capsid proteins..
+
+The exterior of Ads is composed of three major capsid proteins: the hexon, which is the main structural component forming the body of the virus; the penton base; and the fibre form the penton complex, which lies at each of the twelve vertices that surround the icosahedron. The fibre protein is divided into two components – a C‐terminal globular protein ‘knob’ resides at the top of an N‐terminal ‘stem’ protein that binds the fibre to the capsid. These structural proteins serve a crucial role in attachment and entry and significantly impact the efficacy of gene transduction and tropism by Ad vectors.
+16
+ For most Ads, the attachment is initiated through a high‐affinity association of the fibre knob with the primary receptor, for example the coxsackie–adenovirus receptor (CAR) with the central aperture formed by the three fibre subunits residing at the top of the fibre knob domain.
+17
+ This interaction greatly influences the transduction efficacy in macrophages and dendritic cells (DCs) because of the reduced concentrations of CAR.
+18
+ Several HAds of subgroup C, such as HAd5 and HAd2, attach to the CAR, which is expressed ubiquitously on various cell types, including myoblast, epithelial cells, endothelial cells and hepatocytes.
+19
+ The CAR enables the entry of many chimpanzee Ads (ChAds), including ChAd3, ChAd63 and ChAdC7.
+20
+, 
+21
+ Contrarily, HAds from subgroup B1, such as B3, B7 and B16, bind to cluster of differentiation 80 (CD80) and CD86, which are costimulatory molecules often expressed on antigen‐presenting cells (APCs). Whereas Ads from the subgroup B2 such as B11, B14 and B35 bind CD46, a protein often expressed on many cell types, including DCs and haematopoietic stem cells.
+22
+ Other receptors such as sialic acid (SA), vascular cell adhesion molecule‐1 (VCAM‐1) and heparan sulphate proteoglycans (HSPGs) are used by several other Ads such as HAd37, HAd19p and HAd52.
+23
+, 
+24
+ After the attachment is initiated, internalisation then occurs through clathrin‐mediated endocytosis, which is facilitated through the binding of the penton base with secondary receptors such as αv integrins..
+
+Ad vectors are highly immunogenic and induce strong innate and adaptive immune responses, owing to their ability to enter host cells and engage multiple intracellular trafficking pathways leading to immunogen expression and subsequent presentation.
+25
+, 
+26
+ The Ad vector acts as an adjuvant because of the presence of multiple pathogen‐associated molecular patterns (PAMPs), which participate in multiple innate immune signalling pathways by interacting with pathogen recognition receptors (PRRs) following the vector’s entry into the host cell (Figure 2).
+22
+, 
+27
+, 
+28
+ During the process of internalisation, the interaction between the viral penton and host cell integrins also plays a role in activating innate immune responses.
+29
+ The activation of innate immune responses initiates the secretion of proinflammatory cytokines resulting in the differentiation of immature DCs.
+30
+, 
+31
+, 
+32
+, 
+33
+ Both Toll‐like receptor (TLR)‐dependent and TLR‐independent pathways are implicated in the Ad vector‐mediated innate immune sensing.
+26
+, 
+34
+ The cell‐surface and endosomal PRRs such as TLR2, TLR3, TLR4, TLR7 and TLR9
+35
+ activate the myeloid differentiation primary response 88 (MyD88) and/or TIR domain‐containing adapter‐inducing interferon‐β (TRIF).
+25
+, 
+32
+ This process upregulates antiviral genes such as NF‐κB, IFN‐α/β and proinflammatory cytokines and chemokines.
+36
+, 
+37
+, 
+38
+ In addition, the hypervariable region of Ad hexon is known for its affinity to vitamin K‐dependent coagulation factors (FVII, FIX and FX).
+39
+, 
+40
+ The Ad vector associated with FX initiates the TLR4‐mediated innate response in mononuclear cells.
+41
+
+.
+
+TLR‐independent and TLR‐dependent pathways for innate immune stimulation by an adenoviral (Ad) vector. The Ad internalisation of a host cell through the primary receptor, for example CAR, and secondary receptor, for example integrins, will initiate stimulation of NF‐κB. Also, TLR‐independent sensing of the Ad vector DNA includes NLRP3 inflammasome and cGAS/STING pathways, leading to direct stimulation of type I IFNs or indirect activation of NF‐κB. TLR‐dependent sensing of the Ad vector occurs at the surface of the cell membrane via TLR4, which senses vector bound to blood factor X, while TLR2 sensing of Ad occurs via an unknown mechanism. The endosome‐bound Ad vector could be recognised by TLR3, TLR7 and TLR9, resulting in the activation of MyD88 and/or TRIF, thereby triggering NF‐κB expression. Collectively, NF‐κB mediates the upregulation of type I IFNs, NF‐κB and the manifestation of proinflammatory cytokines and chemokines..
+
+Ad vector‐mediated immune activation can also occur through TLR‐independent pathways.
+26
+, 
+34
+ Pathways such as the cytosolic viral DNA sensing NLRP3 (NLR family pyrin domain containing 3) inflammasome and cGAS/STING are also implicated in innate immune sensing of Ad vectors.
+27
+, 
+42
+ The latter pathway leads to activation of NF‐κB and interferon regulatory factor 3 (IRF3)‐responsive genes including type I interferons (IFNs).
+15
+ At early time‐points post‐immunisation with an Ad vector, a high level of type I IFN expression correlates with decreased transgene expression.
+42
+ In contrast, minimal type I IFN stimulation is associated with a comparatively better transgene expression.
+43
+
+.
+
+Improved T‐cell response with an Ad vector‐based vaccine is obtained with robust antigen expression.
+44
+ In general, Ad vectors utilise strong promoters, such as the cytomegalovirus (CMV) immediate early promoter, to achieve high antigen expression levels, leading to a long‐lasting immune response.
+45
+ Ad vectors can infect a differential population of host cells depending on the route of administration.
+46
+ Those cells could be non‐immune or immune cells. While mononuclear phagocytes may limit transgene expression by degrading significant amounts of Ad vector following immunisation,
+47
+, 
+48
+ DCs are essential to the Ad vector immunogenicity.
+49
+ In Ad vector‐transduced DCs, there is upregulated expression of MHC class I and II antigens and costimulatory molecules, promoting DC activation and maturation.
+38
+ In principle, the route of administration influences the type of cells transduced, the robustness of transgene expression, and the engagement with innate immune signalling.
+50
+ Intramuscular (i.m.) immunisation provides the opportunity to the Ad vector to transduce myocytes (most abundant), fibroblasts, endothelial cells and APCs (DCs or macrophages).
+46
+ APCs at the injection site will help carry the expressed antigen to draining lymph nodes for antigen presentation.
+51
+ In addition, there is cross‐presentation by APCs that phagocytose the Ad vector antigen from other transduced cells and then migrate to a draining lymph node for antigen presentation to naïve lymphocytes. The epitope–MHC complex could transfer from a transduced donor APC to a naïve APC via trogocytosis, a process known as cross‐dressing. Local presentation to resident T cells is also possible by the resident or draining APCs.
+52
+ MHC‐I‐mediated antigen presentation is also possible by parenchymal cells at the injection site to infiltrate CD8+ T cells, which could help maintain a sustained antigen expression, leading to CD8+ T‐cell expansion and induction of memory responses.
+53
+, 
+54
+, 
+55
+ Besides, all transduced cell types can mount a humoral immune response against the Ad‐expressed antigen, consisting mainly of IgG antibodies that vary in subclasses according to the cell types.
+56
+ For instance, DC transduction results in an IgG2a‐dominated response, while myoblast transduction results in a balanced IgG1:IgG2a ratio..
+
+In addition to the i.m. route, there is a growing interest in using Ad‐vectored vaccines via the intranasal (i.n.) route for improved protection against mucosal pathogens.
+57
+, 
+58
+ Antigen presentation is aided by alveolar macrophages presenting the antigenic epitopes to naïve T cells in draining lymph nodes or through inflammatory cytokine‐mediated recruitment of circulating T cells for mounting a balanced humoral and cell‐mediated immune (CMI) responses to the Ad vector‐expressed antigen.
+59
+, 
+60
+, 
+61
+
+.
+
+As a result of the prevalence of over 100 types of human Ads, the chances of human exposure to one or more Ads are considerably high, leading to the induction of Ad‐specific humoral and CMI responses,
+62
+ known as pre‐existing vector immunity. The vector‐neutralising antibodies (NAbs) will inhibit the vector uptake by the host cells following vector inoculation, and the CMI response will remove vector‐transduced cells leading to a shorter duration of Ad‐expressed antigen (Figure 3).
+63
+, 
+64
+
+.
+
+Consequences of immunising individuals with or without pre‐existing human adenoviral (HAd) vector immunity and its circumvention by using a nonhuman Ad or rare HAd vector. (a) Immunisation of an individual with high levels of pre‐existing HAd vector immunity will lead to HAd vector‐neutralisation in the presence of pre‐existing HAd‐neutralising antibodies, thereby lowering vector transduction of host cells, leading to reduced levels of transgene expression followed by lower levels of the transgene‐specific immune responses. (b) In individuals with nonsignificant levels of HAd vector immunity, immunisation with a HAd vector will lead to robust innate and adaptive immune responses. The development of vector‐specific cellular immune responses, significantly CD8 T cells, will eliminate the vector‐transduced cells. (c) The use of a nonhuman Ad or rare HAd vector in individuals with or without pre‐existing HAd vector immunity will have excellent transgene‐specific immune responses..
+
+Following infection, Ad capsid proteins are processed and presented on APCs via MHC‐I and MHC‐II molecules, activating CD4+ and CD8+ T cells.
+65
+ It seems that many vector T‐cell epitopes are conserved among several Ad types.
+66
+, 
+67
+, 
+68
+ CD4+ memory T cells are common in most human populations in response to HAd5 or HAd2 infections.
+69
+, 
+70
+ It is important to note that one of the proteins of the early (E) region 3 (E3) transcription unit downregulates the MHC‐I function. Therefore, Ad vectors having E3 deletion could potentially enhance detection and elimination of the vector through vector‐specific cytotoxic T cells, thereby diminishing the duration of transgene expression.
+71
+, 
+72
+ The issue of pre‐existing vector immunity could be effectively addressed by utilising less prevalent HAds or nonhuman Ads as vaccine vectors.
+73
+, 
+74
+
+.
+
+It is vital to understand whether annual vaccination with the same Ad vector would be feasible because of enough decline in Ad vector immunity in one year. To quantitatively and qualitatively assess the impact of pre‐existing vector immunity on the vaccine efficacy of Ad vectors, naïve or HAd5‐primed mice were immunised i.m. with the HAd5 vector expressing influenza A H5N1 haemagglutinin (HA) [HAd‐H5HA] at 1, 3, 6 or 10 months post‐priming.
+75
+ There were significant continual decreases in vector immunity (HAd5‐NAbs) titres with time, thereby leading to substantial continual increases in the levels of HA‐specific humoral and CMI responses. It significantly improved protection efficacy against challenge with an antigenically heterologous H5N1 virus in HAd‐primed animals at six months and onwards. These results indicate that annual immunisation with the same Ad vector may be effective because of a significant decline in vector immunity. The ongoing global immunisation in millions of people with Ad vector‐based COVID‐19 vaccines (HAd26‐based Johnson & Johnson/Janssen, chimpanzee Ad‐based AstraZeneca/Oxford Univ, and prime‐boost with HAd26‐ and HAd5‐based Sputnik‐V) will provide excellent information on the decline of antivector immunity with time. If annual immunisation is needed and antivector immunity is an issue, the alternate use with another Ad vector can easily be adapted..
+
+Ads possess many advantages, which make them suitable for use as vaccine delivery vehicles. First, the biology of the virus is amenable to different molecular or genomic adaptations. Second, the broad cellular tropism of the virus facilitates access to a wide range of host cells that Ad vectors can target. Ads, in general, have high transduction efficiency in both dividing and non‐dividing cells.
+76
+, 
+77
+ Moreover, Ads have a well‐established safety profile because of their limited virulence in humans
+19
+ and their epichromosomal localisation inside their host cells, significantly reducing the risk of insertional mutagenesis. Finally, current technology allows for cost‐effective production of high‐titred Ad vectors at a large scale.
+12
+, 
+78
+ Ad vectors exhibit transient transgene expression inside the host cells, thereby allowing an excellent environment for antigen presentation for developing humoral and CMI responses.
+22
+, 
+25
+ Ad vector technology for gene delivery has evolved over the years to address specific needs, including packaging capacity, reduced toxicity, the longevity of transgene expression and vector immunity.
+79
+, 
+80
+ Three generations of Ad vectors (Table 1) can loosely be categorised according to the number of deleted genes from the viral genome..
+
+Three generations of adenoviral vectors and their applications.
+
+Vectored vaccines.
+
+Oncolytic viruses.
+
+Gene therapy.
+
+Vectored vaccines.
+
+Ad, adenoviral; E, early region..
+
+The dawn of Ad vector technology was established by deleting the E1 region and replacing it with a transgene cassette of interest. Further deletion of the E3 region was introduced to increase the size of the transgene cassette.
+81
+ Ad vectors having E1 and E3 deletions can accommodate a transgene of ∼6–8 kb in length. E1 gene products are essential for Ad replication, while the E3 proteins are unnecessary for virus replication. Ad vectors having E1, E3, or E1 and E3 deletions are considered the first‐generation vectors (Figure 4). As a result of deleting the E1 region, first‐generation Ad vectors cannot transcribe other early and late viral proteins in the host cells. However, low levels of expression are still achieved with the help of host cellular factors. Such effect favors high transgene expression and presentation via MHC class I molecules essential for the robust immune response against the transgene.
+82
+, 
+83
+ Ad vectors with E1 deletion can only be grown in a cell line that constitutively expresses the E1 gene products (E1A, E1B small and E1B large proteins), such as the HEK293 cell line for several HAd and ChAd vectors.
+84
+, 
+85
+ Large‐scale production of the first‐generation Ad vectors in bioreactors can be achieved in either an anchorage‐dependent or anchorage‐independent E1‐expressing cell line. One of the drawbacks of the first‐generation Ad vectors is the development of vector immunity, leading to the clearance of vector‐transduced cells and thereby shortening the duration of the transgene expression.
+86
+, 
+87
+ This can be a limitation for gene therapy applications that aim at sustained transgene expression as their primary goal. However, vector immunity is desirable in oncolytic Ad and Ad vaccine vectors.
+81
+
+.
+
+The first‐generation adenoviral vector genome showing the most common deletions and the insertion site. The outline of the gene of interest expression cassette is also shown. LITR, left inverted terminal repeat; RITR, right inverted terminal repeat; ∆E1, deletion of early region 1; ∆E3, deletion of early region 3; PolyA, polyadenylation site..
+
+Researchers sought to overcome the limitations of the first‐generation Ad vectors, especially for gene therapy applications, by further deleting other viral genome parts, including E2a, E2b and E4. This step decreases vector immunogenicity but increases the size of the transgene cassette.
+80
+, 
+88
+ Second‐generation Ad vectors offer a reduced vector backbone‐specific cytotoxic T lymphocyte effect, resulting in improved transgene expression and vector sustainability.
+88
+ The E2 and E4 are necessary for virus replication, and thus, these vectors can only be grown in cell lines that further express the deleted E2, E4, or E2 & E4 gene products. Compared with the first‐generation vectors, lower viral titres are expected from the second‐generation vectors during production in cell lines as the deletions negatively impact viral replication. Moreover, the vector’s proteins can still trigger a host immune reaction with a high vector dose.
+89
+
+.
+
+Third‐generation vectors, also known as helper‐dependent (HD) or gutless Ad vectors, were engineered to further diminish the development of vector immunity. The HD vector genome retains only the Ad packaging signal and the inverted terminal repeats (ITRs), besides the transgene cassette and non‐relevant DNA sequences to increase the genome length for improved packaging.
+90
+ The HDAd vector generation depends on a helper vector, usually a modified first‐generation Ad vector, to provide the missing genes needed to produce HDAd particles in a specialised cell line. An example of a further modification to the helper vector is introducing loxP sites flanking the helper vector's packaging signal.
+91
+, 
+92
+ This ensures the packaging of predominantly the HDAd genome when propagated in a Cre recombinase‐expressing cell line, as the packaging signal of the helper vector will be excised via Cre‐loxP‐mediated recombination. In addition, the deletion of the majority of the viral genome allows for a larger transgene cassette (can be ∼35 kb). Taken together, the third‐generation Ad vectors accommodate a higher cargo capacity with reduced vector immunity leading to prolonged transgene expression for gene therapy applications..
+
+Ad vaccine vectors expressing immunogenic protein/s, epitope or multi‐epitopes induce balanced CMI and humoral immune responses.
+93
+, 
+94
+ Inherently, Ad vectors themselves act as an adjuvant via TLR‐dependent and TLR‐independent pathways leading to proinflammatory cytokine production, thus activating both humoral and CMI responses against the expressed transgene (Figure 5).
+26
+, 
+95
+ The resultant immune responses, especially CMI, are critical in clearing intracellular viral infections..
+
+Overview of an adenoviral vector‐based vaccine strategy for developing an effective protective immunity..
+
+The HAd5 vector‐based delivery system is the most widely studied gene delivery platform.
+96
+ As a result of its widespread prevalence, pre‐existing immunity against the HAd5 vector can reach over 90% in some populations; as a result, the elicited immune responses and vaccine efficacy may be negatively impacted.
+97
+, 
+98
+ To overcome this limitation, other rare human Ad types were used, including HAd26, HAd35 and HAd11, as well as nonhuman Ads (chimpanzee Ad, bovine Ad, canine Ad and porcine Ad) that were chosen based on the absence of cross‐neutralising Ad immunity in humans.
+99
+ Various Ad vectors vary in their adjuvant effects, and thus, the levels of resultant immune responses could be different.
+100
+
+.
+
+The emergence of severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) has marked the third large‐scale outbreak of highly pathogenic coronaviruses (CoVs) to cross over into human populations in over two decades. CoVs are well known for causing the common cold in humans. However, spillover events of wildlife CoVs are not uncommon. For example, endemic human common cold CoVs HCoV‐229E and HCoV‐NL63 originated in bats,
+101
+, 
+102
+ and HCoV‐OC43 and HCoV‐HKU1 were derived from rodents.
+102
+, 
+103
+ Circumstantial evidence suggests that SARS‐CoV, the causative agent of SARS, may have emerged from a civet cat in 2002 in China
+104
+; Middle East respiratory syndrome CoV (MERS‐CoV), which is responsible for MERS, was initially observed in a dromedary camel in 2012 in Saudi Arabia
+105
+; and SARS‐CoV‐2, the pathogen behind the global pandemic CoV disease 19 (COVID‐19), has been traced back to a cluster of pneumonia‐like cases that began spreading in 2019 in Wuhan City, Hubei Province, China. Further research is needed to confirm the lineage of the pathogen to several species of bats that are a reservoir of SARS‐CoV‐like viruses.
+106
+ CoVs belong to the Coronaviridae family, which are enveloped viruses that contain an approximately 30‐kb plus‐sense, single‐stranded RNA genome, and the major structural proteins of the virus include the spike protein (S), membrane protein (M) and nucleocapsid protein (N) (Figure 6).
+107
+
+.
+
+Schematic diagram of the SARS‐CoV‐2, depicting its important envelope and internal proteins..
+
+It has been reported that a total of 6903 cases with 495 deaths occurred globally because of the SARS epidemic in 2003.
+108
+ In the search for an appropriate SARS‐CoV vaccine, numerous methods have been investigated, including the use of inactivated whole virus particles,
+109
+ attenuated live viruses
+110
+ and purified viral proteins.
+111
+ These methods have led to the induction of variable levels of NAbs and CMI responses in the form of CD8+ T cells against SARS‐CoV. The Ad vector‐based platform was used for evaluating its potential for developing an effective vaccine for SARS‐CoV. A replication‐defective HAd5 carrying a codon‐optimised S gene of SARS‐CoV or ChAdC7 expressing the same protein elicited strong humoral and CMI responses to the S protein in mice following i.m. immunisation.
+112
+ HAd vectors that express SARS‐CoV antigens such as S and N showed excellent immunogenicity.
+113
+, 
+114
+, 
+115
+
+.
+
+As a result of the non‐availability of appropriate animal models that mimic SARS‐CoV infections in humans, challenge studies have failed to clearly define the correlates of protective immunity. The use of immunocompromised rodents, specifically those with host receptor defects, developed the clinical signs and lung pathology similar to human disease.
+116
+ However, such models are not appropriate for challenge studies. Because of the disappearance of SARS‐CoV infection in humans in 2004, there was a significant decline in research in developing an effective vaccine for SARS‐CoV..
+
+The clinical spectrum of MERS‐CoV infection ranges from the asymptomatic form to severe acute respiratory disorder leading to death. It spread to 27 countries in the Middle East and surrounding regions, resulting in a total of 2574 cases, including 866 deaths as of June 2021.
+117
+ For MERS‐CoV immunogenicity, the S protein demonstrated superiority to the N protein through induction of NAbs, which are the critical effectors against MERS‐CoV.
+118
+, 
+119
+ However, the N protein was proposed to have immunogenic protective capabilities for CMI responses,
+120
+ but its potential has not been demonstrated so far. In comparison, most SARS‐CoV‐2‐specific T‐cell response is aimed at S, M and N proteins.
+121
+ NAbs produced against the S protein in MERS bind the receptor‐binding domain (RBD), inhibiting viral internalisation and membrane fusion.
+118
+, 
+122
+
+.
+
+The HAd5 vector expressing the complete S protein stimulated systemic NAbs and CMI in mice.
+123
+, 
+124
+ Better NAb responses were observed with a HAd5 vector encoding the S1 subunit of the S protein compared with a vector expressing the whole S protein.
+125
+ Transgenic mice immunised with the HAd5 vector (rAd5‐S1‐F‐CD40L) expressing the CD40‐targeted S1 fusion protein demonstrated robust prevention of pulmonary haemorrhage following challenge with MERS‐CoV. Heterologous prime‐boost vaccination in mice with HAd5 carrying the S gene and alum‐adjuvanted recombinant S protein nanoparticles successfully induced both Th1 and Th2 immune responses.
+126
+ Moreover, the ChAdOx1 vector expressing the complete S protein was highly immunogenic in mice, and its protective efficacy against MERS‐CoV was confirmed using hDPP4 transgenic mice, dromedary camels and rhesus macaques.
+123
+, 
+127
+, 
+128
+ In Phase I clinical trial in healthy adult volunteers, immunisation with the ChAdOx1 expressing full‐length S protein as a single escalating dose elicited significant immune responses.
+129
+, 
+130
+
+.
+
+In December 2019, a novel coronavirus, SARS‐CoV‐2, emerged in Wuhan, China, and quickly spread to every part of the world, leading to one of the worst pandemics since the 1918 influenza pandemic.
+131
+ According to the World Health Organization (WHO), as of 9 September 2021, over 219 million confirmed cases and 4.55 million deaths had been reported globally.
+132
+ Severe disease and fatalities are higher among people over 50 years of age, with increases in fatality rate with age. Several vaccine formulations have been approved for emergency use authorisation (EUA) in many countries. Several others are in the advance stage of clinical trials,
+133
+, 
+134
+, 
+135
+ including Ad vector‐based (University of Oxford/AstraZeneca, Janssen Pharmaceutical Companies, Gamaleya Research Institute and CanSino Biologics Inc./Beijing Institute of Biotechnology)
+136
+, 
+137
+, 
+138
+, 
+139
+; (Table 2) mRNA‐based (Moderna/NIAID and BioNTech/Fosun Pharma/Pfizer)
+140
+, 
+141
+; recombinant S protein‐based nanoparticle with Matrix‐M1 adjuvant (Novavax)
+142
+; and inactivated virus‐based (Beijing Institute of Biological Products/Sinopharm, Sinovac, Wuhan Institute of Biological Products/Sinopharm and Bharat Biotech) vaccines.
+143
+
+.
+
+Clinical trials of adenoviral vector‐based COVID‐19 vaccines.
+
+ChAd, chimpanzee adenovirus; HAd5, human adenovirus type 5; HAd26, human adenovirus type 26; i.m., intramuscular; NCT, national clinical trial; S, spike..
+
+Several HAd vectors showed promising results in their immunogenicity and protection studies against SARS‐CoV‐2. One such example is the CanSino Biologics Vaccine, a replication‐incompetent HAd5 carrying a codon‐optimised S gene (Ad5‐S‐nb2). The i.m. injection with Ad5‐S‐nb2 induced S‐specific antibody and CMI responses in mice and rhesus macaques.
+144
+ Macaques immunised once with a low [1 × 1010 viral particles (VP)] or high (1 × 1011 VP) dose of Ad5‐S‐nb2 either by the i.n. or i.m. route were protected against the SARS‐CoV‐2 challenge 30 days post‐vaccination. After the challenge, virus shedding in the pharyngeal swabs was detected in non‐vaccinated macaques for at least ten days. Histopathological changes included severe interstitial pneumonia, infiltration of monocytes and lymphocytes, expanded alveolar septum and oedema. However, neither detectable virus genome nor aberrant histopathological changes were found in the lungs of i.n. or i.m. immunised macaques at 7 days post‐challenge. After the promising results in nonhuman primates, the vaccine moved to Phase I clinical trial to monitor the safety and immunogenicity of a low (1 × 1010 VP)‐, medium (1 × 1011 VP)‐ or high (1.5 × 1011 VP)‐dose vaccine by the i.m. route in 108 18‐ to 60‐year‐old participants. The results indicated that HAd5 expressing the S protein produced both humoral and CMI responses, with NAbs peaking at 28 days post‐immunisation.
+145
+ Most severe adverse reactions were mild to moderate, but no significant differences were observed in vaccinees receiving different doses. NAb titres induced by the high‐dose vaccine were significantly higher than those generated by the medium‐ or low‐dose groups (GMT of 34 versus 16.2 and 14.5).
+145
+ In Phase II clinical trial on 508 participants who received either low (5 × 1010 VP)‐ or high (1 × 1011 VP)‐dose vaccine, NAbs peaked at day 28 post‐vaccination (GMT of 18.3 versus 19.5).
+146
+ At the same time, the T‐cell response as measured by IFN‐γ ELISpots was detected in 90% of the high‐dose and 88% of the low‐dose recipients at day 14 post‐vaccination.
+146
+ Significant levels of pre‐existing vector immunity were found in 266 of 508 participants. Older participants had less robust immune responses, indicating that the vaccine may not perform well in the elderly. This vaccine now has the trade name Convidecia and is approved under EUA in several countries.
+147
+
+.
+
+The concern of pre‐existing vector immunity can be circumvented using other uncommon Ad types or nonhuman Ads. A rare Ad type, Ad26, was used as a replication‐incompetent vector encoding the full‐length SARS‐CoV‐2 S gene. This Johnson & Johnson vaccine was tested in humans after showing promising results in immunogenicity and protection studies in hamsters and macaques.
+148
+, 
+149
+ The safety and immunogenicity of this vaccine were evaluated in Phase I‐IIa clinical trial on 805 healthy adults of 18–55 years and individuals over 65 years of age as the one‐dose (1 × 1011 VP) or two‐dose (5 × 1010 VP) i.m. vaccine.
+150
+ Ninety per cent of vaccinated participants showed increased NAb titres by day 29 post‐immunisation after the first dose, with a mean titre of 224–354, whereas 100% of participants developed a mean NAb titre of 288–488 at 57 days post‐immunisation.
+150
+ The second dose led to significant increases in the mean NAb titre of 827–1266. Spike protein‐specific CD4+ and CD8+ T cells were detected in 76% of low‐dose recipients and 83% of the high‐dose recipients. A Phase III ensemble trial with 437 83 participants in 8 countries assessed the vaccine’s efficacy as a single dose. The study revealed that the Johnson & Johnson vaccine was 85% efficacious in preventing severe disease and demonstrated protection against COVID‐19‐related hospitalisations and death.
+151
+ This vaccine is currently approved for use in the United States under the EUA. A Phase IIa trial of this vaccine has expanded to include adolescents aged 12–17 years.
+152
+
+.
+
+The Sputnik‐V COVID‐19 vaccine is based on the prime‐boost approach with two HAd vectors (HAd26 and HAd5) expressing the S protein. This strategy was used to overcome the impact of pre‐existing HAd5 immunity. The Sputnik‐V COVID‐19 vaccine preclinical animal studies are not published yet.
+153
+ A combined Phase I/II trial was conducted at two hospitals in Russia on 78 participants.
+154
+ The safety and immunogenicity of each component of the vaccine, rAd26 S and rAd5 S alone or together, rAd26 S prime on day 0 and rAd5 S boost on day 21, were tested by i.m. injection. The most common local and systemic reactions reported include pain at the injection site (58%), hyperthermia (38%), headache (50%), asthenia (42%), and muscle and joint pain (24%). Most adverse events occurred after the booster dose in participants who received both components of the vaccine. However, there were no severe adverse events that could lead to the withdrawal of any participant. The vaccine successfully produced both humoral and CMI responses in the participants, showing higher IgG titres than those detected in COVID‐19‐recovered patients. NAb titres continued to increase throughout the study period. Moreover, specific T‐cell responses peaked on day 28 post‐immunisation. Phase III trial was conducted on 19 866 volunteers, who either received two doses of the vaccine or placebo. The vaccine recipients displayed a robust antibody response, including NAbs and an increased S‐specific CMI response. The trial results demonstrated approximately 91.6% protection efficacy against clinical disease.
+155
+ No serious adverse effects were described; however, 4 deaths unrelated to the vaccine were reported. The Sputnik‐V COVID‐19 vaccine has been approved under EUA in several countries..
+
+A gorilla Ad (GRAd32) vector expressing the full‐length S was used as a COVID‐19 vaccine in both mice and nonhuman primates and showed increases in IgG and NAb titres following immunisation.
+156
+ A Phase I clinical trial of this COVID‐19 vaccine was pursued in healthy volunteers in Italy.
+157
+ The safety and immunogenicity of this COVID‐19 vaccine are currently evaluated in a non‐randomised, single‐injection, dose–escalation Phase I clinical trial in 90 healthy volunteers aged 18–85 years. Individuals will be monitored 24 weeks post‐vaccination (NCT04528641)..
+
+The University of Oxford, in collaboration with AstraZeneca, formulated a ChAd carrying the full‐length S gene (ChAdOx1‐nCoV‐19). A previous study provided evidence that a single i.m. dose of ChAd encoding the full‐length S gene of MERS‐CoV (ChAdOx1 MERS) conferred protection against MERS‐CoV infection in a nonhuman primate model.
+128
+ This indicated that a similar approach might potentially be efficacious against COVID‐19. Initial immunisation and challenge studies with ChAdOx1‐nCoV‐19 in mice and rhesus macaques demonstrated the development of both humoral and CMI responses, conferring protection from SARS‐CoV‐2 infection.
+158
+ The ChAdOx1‐nCoV‐19 vaccine was evaluated for its safety and immunogenicity in Phase I/II clinical trial with 1077 participants who received i.m. injection of either the ChAdOx1‐nCoV‐19 at a dose of 5 × 1010 VP or meningococcal conjugate vaccine (MenACWY).
+159
+ The vaccine was given as a two‐dose regimen with a booster 28 days after the initial immunisation. No serious adverse effects were recorded in individuals receiving the ChAdOx1‐nCoV‐19 vaccine. The S‐specific T‐cell response peaked at 14 days post‐vaccination, and NAbs against SARS‐CoV‐2 were significantly increased in 91% of participants after a single dose and 100% of participants after the booster dose at day 42 post‐vaccination.
+159
+ Overall, ChAdOx1‐nCoV‐19 demonstrated a good safety profile and induced high levels of both humoral and CMI responses. These promising results supported the evaluation of this vaccine as an i.m., two‐dose regimen in Phase III clinical trial conducted on 17 000 participants aged 18–70 years.
+160
+ High titres of NAbs were observed as early as 14 days post‐single dose, peaking at 28 days post‐booster. Protection efficacy against COVID‐19‐related hospitalisation and death was evaluated at 76% after the first dose, which increased to 82% after the booster. This vaccine has been approved for EUA in several countries. The impact of the Oxford/AstraZeneca COVID‐19 vaccine on virus transmission was evaluated by obtaining weekly nasal samples from the vaccine participants. The analysis indicated a 67% reduction in RT‐PCR‐positive results after one dose and a 50% reduction after the booster. It is important to note that the vaccine not only protected participants from COVID‐19‐associated hospitalisations and severe disease but also had a significant impact on reducing virus transmission.
+160
+
+.
+
+The emergence of SARS‐CoV‐2 variants could potentially hinder the efficacy of the COVID‐19 vaccines. The natural immunity developed in COVID‐19‐recovered patients may not prevent infections with these mutated strains. Recently, several highly transmissible SARS‐CoV‐2 variants [B.1.1.7 (alpha), B.1.351 (beta), P.1 (gamma), B.1.526 (Iota), B.1.427, B.1.429 and B.1.617.1 (kappa), and B.1.617.2 (delta)] have been identified in several countries. The current vaccines have lower protection efficacy against such variants. The alpha variant has shown an approximately 50% increase in transmission efficiency compared with the original strain.
+161
+ The Oxford/AstraZeneca vaccine demonstrated about 74% efficacy against the alpha variant versus 84% with the original strain; however, it showed a reduced neutralisation activity against the alpha variant.
+162
+, 
+163
+ Currently, the delta variant is of the greatest concern globally..
+
+The use of Ad vector‐based COVID‐19 vaccines in the current pandemic will assist in further development of this vaccine platform for designing durable and robust vaccines for other infectious diseases. The decline in Ad vector immunity over time in humans will determine whether the same Ad vector can be used in the same individual for annual immunisation. If there is a delay in the decline of Ad vector immunity, two different Ad vectors could be used on alternative years. Moreover, the use of the mucosal route of immunisation for Ad‐based vaccines needs to be further explored. Besides, the use of peptide domain/s that could enhance innate and adaptive immunity may help design the next generation of Ad vector‐based vaccines for all population segments. In the event of SARS‐CoV‐2 becoming an endemic virus, efforts could be made to evaluate the efficacy of a COVID‐19‐flu combo vaccine formulation. The availability of various Ad types of human or nonhuman origin provides versatility in designing suitable Ad vaccine platforms for emerging or re‐emerging infectious diseases..
+
+Vaccine‐induced immune thrombotic thrombocytopenia (VITT) is a newly identified rare side effect following immunisation with several COVID‐19 vaccines.
+164
+ VITT closely resembles heparin‐induced thrombocytopenia (HIT), which occurs because of the development of antibodies to platelet factor 4 (PF4), activating the platelets into producing clotting factors. In HIT, the process of antibody‐binding to PF4 is heparin‐dependent. However, VITT in COVID‐19‐vaccinated individuals has occurred in the absence of heparin exposure.
+164
+ Recently, it has been determined that the binding site of PF4 antibodies in VITT is similar to that of HIT, but they had a more robust binding response to PF4 compared with HIT.
+165
+ This increased binding affinity is because of the formation of immune complexes, leading to CD32a‐dependent platelet activation, resulting in the formation of blood clots.
+165
+
+.
+
+In SARS‐CoV‐2‐infected patients, blood clotting has been associated as a side effect in severe and moderate cases,
+166
+ often leading to stroke, heart attack and death. Data from the early stage of the pandemic indicated that the instances of blood clots in severe COVID‐19 illness were ranged from 20 to 40%.
+167
+ Early 2021 marked the first incidence of VITT in multiple patients a few days post‐vaccination with the ChAdOx1‐nCoV‐19 vaccine.
+164
+ In April 2021, similar signs of VITT were reported in individuals a few days after receiving the Johnson & Johnson vaccine.
+168
+ The incidences of blood clots were not reported in clinical trials of the AstraZeneca vaccine (ChAdOx1‐nCoV‐19), and only a single case was observed in the Johnson & Johnson vaccine trials. Similar side effects were observed in a few individuals vaccinated with the Pfizer/Biotech vaccine at a comparable rate to the AstraZeneca vaccine. Overall, it seems that incidences of VITT could be inherently associated with the SARS‐CoV‐2 spike protein rather than the vaccine platform. Moreover, the incidences of this rare side effect have remained remarkably low considering the number of vaccinated people worldwide. Now, there is better clinical management of patients with VITT..
+
+Influenza is an infectious viral respiratory disease associated with substantial morbidity and mortality, especially in high‐risk groups, including the elderly older than 65 years, children younger than 3 years and immunocompromised patients.
+169
+ According to the WHO, an estimated 250 000–500 000 deaths may have occurred related to the annual influenza epidemic in 2005.
+170
+ This number has increased to ∼290 000–640 000 annually in the last decade, underscoring the increased burden of influenza globally.
+171
+ Human influenza viruses, the aetiological agent of influenza disease, are RNA viruses that belong to the family Orthomyxoviridae (Figure 7). Influenza viruses also infect a wide range of hosts, including birds, horses, pigs, dogs, marine mammals, bats and ferrets.
+172
+ The mutative nature of the influenza virus explains the periodic occurrence of influenza epidemics and occasional influenza pandemics. Influenza viruses are grouped into genera A‐D. There are 18 haemagglutinin (HA) and 11 neuraminidase (NA) subtypes of influenza A. Influenza B viruses have only two distinct HA lineages (Yamagata‐like and Victoria‐like). Influenza C has six lineages, named C/Mississippi, C/Sao Paulo, C/Yamagata, C/Aichi, C/Taylor and C/Kanagawa, that are more divergent from A and B groups and cause rare infections. Influenza D is the least common of the four genera and has two strains, D/swine/Oklahoma/1334/2011 and D/bovine/Oklahoma/660/2013, and they do not cause human disease.
+173
+ The viral envelope proteins have high antigenic plasticity, especially at the HA globular head, mainly because of the lack of proofreading of viral RNA‐dependent RNA polymerase and selective immune pressure. These events will introduce mutations, leading to antigenic drift – the slow accumulation of changes in viral proteins. These viruses may then evade NAbs produced from prior vaccination or natural infections, resulting in seasonal epidemics. In addition to the antigenic drift phenomenon, the virus could also occasionally undergo antigenic shift because of reassortment during mixed infections giving rise to a new influenza virus for which humans have no prior immunity, leading to a pandemic.
+174
+
+.
+
+Schematic diagram of the influenza virus, depicting its important envelope and internal proteins..
+
+A robust humoral immune response following influenza infection is manifested as virus‐NAbs. Such antibodies are directed against the surface antigen HA, with the vast majority being directed against the hypervariable loop of the HA’s homotrimeric globular head. It is considered immune‐protective when a haemagglutination inhibition (HI) titre of ≥ 40 is achieved in adults.
+175
+ Vaccination is still the best choice for combating seasonal influenza epidemics and the containment of influenza pandemics. Based on extensive influenza surveillance, the WHO decides each year on the strains to be included in the vaccine formulation to address significant antigenic drift mutants. Current seasonal vaccines are based on inactivated viruses (IV), live attenuated influenza viruses (LAIV) or recombinant proteins. Embryonated egg‐based vaccines are the most widely used vaccines; they include inactivated whole virus, or detergent split vaccines in the trivalent formulation, representing H1N1 and H3N2 strains of influenza A and one circulating influenza B strain. At the same time, the quadrivalent formulation contains an additional B strain to the trivalent vaccine formulation. LAIV is based on cold‐adapted influenza viruses, which are incapable of growing at average body temperature but can undergo limited replication in the nose or throat when administered as a nasal spray.
+176
+ Another licensed recombinant protein vaccine, Flublok, is a quadrivalent vaccine composed of HAs from two A and two B strains.
+177
+
+.
+
+The currently licensed vaccines' immunogenicity is dependent on several factors, including the overall immune status of the individual, the use of adjuvants in the vaccine formulation, the antigenic distance between the vaccine and the circulating strains, pre‐existing antibodies, and immunological phenomena such as interference and the original antigenic sin (OAS). The first influenza virus infection during an individual’s childhood will ‘imprint’ the subsequent immune response to later infections or vaccinations as the immunological memory will favor the production of antibodies against the shared epitopes leaving a low‐affinity response to the new viral antigens resulting in OAS.
+178
+ Licensed vaccines’ efficacy is low in immunocompromised patients and the elderly. Since vaccine manufacturing starts months before the influenza season, a possible mismatch between the vaccine and circulating strains' antigenic profiles may occur, leading to a substantial decrease in vaccine efficacy, as observed in the case of the 2015 seasonal vaccine.
+179
+ Unfortunately, the current egg‐based vaccine production technologies take 5–6 months to produce influenza vaccines, which may be too late to control a pandemic with novel influenza as happened during the 2009 pandemic (pdm09).
+180
+ Current production methods based on embryonated eggs generate poorly immunogenic vaccines against avian H5N1 viruses and rely on adjuvants to improve their immunogenicity.
+181
+ It is time‐consuming and expensive to scale up the egg‐based production of influenza vaccines to meet the global demand during a pandemic situation. Furthermore, egg‐based vaccine production technologies are only available in a handful of countries. One possible solution to overcome the vaccine production bottleneck is the cell‐based production methods that replace hens’ eggs with mammalian‐origin cultured cells.
+182
+
+.
+
+Therefore, there is a pressing necessity to look out for new vaccine platforms, which meet the criteria for a rapid, scalable and safe production system that provides effective protective immunity.
+183
+ From the impending novel technologies, Ad vector‐based vaccine platform offers an attractive alternative. For instance, the first‐generation replication‐defective Ad vaccine vectors are safe even to immunocompromised and older individuals.
+184
+, 
+185
+ The Ad vaccine platform induces balanced humoral and CMI responses without an adjuvant. In addition, the technology of producing Ad vectors containing tailored immunogenic antigens is well established, and exceptionally high quantities of clinical‐grade vectors can be made in vaccine‐qualified cell lines. An overview of the significant Ad‐vectored influenza vaccines in clinical trials is displayed in Table 3..
+
+Adenoviral vector‐based influenza vaccines in clinical trials.
+
+HI GMT 152.8.
+
+at 1 × 1011 VP.
+
+NP+M1 of.
+
+H3N2.
+
+ChAd‐Y25.
+
+&.
+
+MVA.
+
+Intramuscular; heterologous.
+
+prime‐boost.
+
+NP+M1 of.
+
+H3N2.
+
+ChAd, chimpanzee adenovirus; dsRNA, double‐stranded RNA; E1&E3, early regions 1 and 3; GMT, geometric mean titre; HA, haemagglutinin; HAd4, human adenovirus type 4; HAd5, human adenovirus type 5; HI, haemagglutination inhibition; M1, matrix protein I; MVA, modified vaccinia Ankara; NCT, national clinical trial; NP, nucleoprotein; PBMCs, peripheral blood mononuclear cells; SFU, spot‐forming unit; VP, virus particles..
+
+Several preclinical and clinical studies have been conducted with Ad vector‐based vaccines expressing influenza HA. The HAd5 vector carrying HA from A/PR/8/34(H1N1) could stimulate both humoral and CMI responses in mice resulting in protection against homologous challenge.
+186
+ Pigs immunised with a HAd5‐vectored influenza vaccine were protected from a swine influenza challenge.
+187
+, 
+188
+, 
+189
+ Pigs were protected from the A/PR/8/34 challenge with i.n. immunisation and partially protected from heterologous challenge with influenza A (H1N2) virus after i.m. immunisation with the HAd5 carrying HA gene from H1N1pdm09 virus (A/Cal/04/09).
+187
+ Heterosubtypic protection against H1 subtypes was achieved with the HAd5 expressing avian influenza A/Mallard/Pennsylvania/10218/84(H5N2) HA, where complete protection was achieved against both the vaccine strain and A/USSR/90/77(H1N1); in addition, partial protection was conferred against A/Black duck/New Jersey/1580/78(H2N3).
+190
+ Immunisation with HAd5 bearing HA from avian A/Hong Kong/156/97(H5N1) influenza provided complete cross‐clade protection to mice challenged with distinct avian H5N1 viruses,
+191
+ and immunised animals were fully protected even after a year.
+181
+ The feasibility of multivalent HAd5‐vectored vaccines was explored in mice.
+192
+ Besides, HAd5 expressing HA from A/Indo/05/2005(H5N1) adjuvanted with dsRNA protected against homologous lethal challenge when administered orally in both mice and ferrets, along with the induction of cross‐clade antibodies.
+193
+
+.
+
+Aiming to overcome the vector immunity against commonly prevalent HAd types, different administration routes, rare HAd types and nonhuman Ad vaccine platforms have been proposed. The replication‐competent HAd4 expressing the HA gene of A/Vietnam/1194/2004(H5N1) influenza virus was utilised to develop the Ad4‐H5‐Vtn vaccine, and i.n. immunisation of mice conferred protection against a lethal challenge with a reassortant H5N1 virus despite pre‐existing vector immunity in the animals.
+194
+ Species D HAds (HAd26, HAd28 and HAd48), which have a low seroprevalence in humans, were utilised for expressing the influenza virus A/PR/8/34 HA gene.
+195
+ When administered i.n. in mice, species D HAds performed equally well compared with HAd5 bearing the same gene and provided complete protection against a lethal influenza challenge. In contrast, species D Ad‐vectored vaccine underperformed compared with HAd5‐vectored counterpart when given i.m., highlighting the significance of the i.n. route in establishing the efficacy of certain HAd‐vectored vaccines. Furthermore, i.m. immunisation of mice with the replication‐defective bovine Ad type 3 (BAd3) vector (BAd‐H5HA) expressing the A/HK/156(H5N1) HA gene provided complete protection from morbidity and mortality from lethal challenge with A/HK/483/97(H5N1) even in the presence of high levels of pre‐existing HAd5 vector immunity.
+196
+ Interestingly, immunisation with the same BAd‐H5HA vector using the i.n. route improved both the breadth and protective efficacy of the vaccine.
+197
+ BAd‐H5HA‐immunised mice within the i.n. route group needed 30‐fold less vector dose than the HAd vector (HAd‐H5HA) to confer protection from a heterologous viral challenge with A/VN/1203/RG/H5N1 influenza virus.
+197
+ Another nonhuman Ad, a replication‐defective simian Ad type 7 (AdC7), was used for expressing HA of A/chicken/Henan/12/2004(H5N1), and immunised mice elicited balanced humoral and CMI responses conferring complete protection against challenge with A/chicken/Henan/12/2004(H5N1).
+198
+ Additionally, porcine Ad type 3 (PAd3) bearing an optimised HA gene from A/Hanoi/30408/2005(H5N1) showed improved survival and viral clearance after lethal challenge with A/Hanoi/30408/2005(H5N1); the protection was sustained up to 12 months post‐immunisation.
+199
+
+.
+
+Several Ad vectors based on HAd5, HAd4 and ChAdOx1 have been assessed for immunogenicity in clinical trials without adjuvant as a single or prime‐boost regimen. A HAd5 vaccine expressing HA of A/PR/8/34 was used in a human clinical trial by the epicutaneous and i.n. routes.
+200
+ Epicutaneous immunisation displayed poor immunogenicity even at the highest dose, and even the booster doses provided minimal increases in HI titres. However, the i.n. route was potent even at a relatively low dose of 5 × 108 VP. Another promising randomised, single‐dose, Phase II challenge study (clinical trial NCT02918006) utilised a dsRNA‐adjuvanted HAd5 bearing the H1N1 HA gene (VXA‐A1.1) via oral administration.
+201
+ Participants (n = 180) in three groups received either VXA‐A1.1 orally, licensed quadrivalent inactivated vaccine (QIV) by the i.m. route, or placebo, and challenged three months post‐immunisation with a matched A/H1N1 influenza virus. VXA‐A1.1 exhibited 48% protection compared with 38% protection with QIV.
+201
+ In a randomised, double‐blinded, dose–escalation Phase II clinical study, the immunogenicity and efficacy of a HAd5 carrying H1HA (NasoVAX) were evaluated in healthy participants aged 18–49 years. It was found to be well tolerated and induced potent humoral immunity measured by HI (NCT03232567). The safety and immunogenicity of a two‐dose i.n. vaccination with a HAd5 vector (AdhVN1203/04.H5) carrying the influenza A/VN/1203/04(H5N1) HA gene was assessed in Phase I clinical trial (NCT00755703).
+202
+ The vaccine was well tolerated and provided humoral immunity revealed by HI.
+203
+ These trials collectively underscore the importance of the mucosal route of administration in improving the immunogenic efficacy of Ad vector‐based influenza vaccines..
+
+Instead of the widely used replication‐deficient HAd5, other studies utilised a replication‐competent HAd4 as a vehicle.
+204
+, 
+205
+ In a randomised Phase I clinical trial, the replication‐competent HAd4 carrying HA gene of A/VN/1194/2004/H5N1 (Ad4‐H5‐Vtn) was administered orally to 166 participants. Although seroconversion rates were low, ranging between 4% and 19%, boosting with the poorly immunogenic inactivated H5 influenza vaccine (IIV) induced 89% seroconversion rate as indicated by HI titres. The study concluded that priming with Ad4‐H5‐Vtn could enhance the poorly immunogenic egg‐based H5HA IIV..
+
+Influenza pandemics have occurred on multiple occasions, because of either antigenic shift or adaptation of an avian influenza virus to humans; therefore, the possibility of another influenza pandemic is very likely in the future. Thus, it is of utmost necessity to develop novel vaccine platforms and antigen designs that enhance the breadth and durability of protective responses and allow for rapid large‐scale vaccine production in a pandemic situation. Broadly reactive Ad‐vectored vaccines have been previously explored using different approaches to express one or more highly conserved influenza antigens, including matrix protein 1 (M1), matrix protein 2 (M2), nucleoprotein (NP), the stem region of HA (HA2), consensus antigen sequences and chimeric proteins. Such vectors achieved heterosubtypic protection and showed promise towards a universal influenza vaccine.
+10
+, 
+206
+
+.
+
+The HA comprises two regions: the immunodominant head (HA1) that is variable and prone to mutations, and the subdominant stem (HA2), which is relatively conserved among influenza viruses. HA2 can serve as an attractive target for vaccine design. The pre‐existing anti‐HA‐stem antibody could hinder further recognition of new epitopes by vaccination directed against the same region.
+207
+ Mice immunised i.n. with Ad expressing the codon‐optimised HA2 of influenza A/California/7/2009(H1N1) virus fused to a murine CD40L were protected from lethal challenge with divergent influenza virus strains including H1N1, H3N2 and H9N2 subtypes.
+208
+ Besides, 13 subtypes of influenza A were inhibited by sera obtained from the immunised mice. Cross‐reactive antibodies, including HA2‐reactive antibodies, were also produced in animals vaccinated with HAd5 bearing H1HA and boosted with plasmid DNA encoding the same antigen, thereby acquiring protection against divergent H1N1 influenza virus strains.
+186
+
+.
+
+Influenza virus internal proteins, including M1, M2 and NP, were explored for their immunogenicity and broad protection efficacy. Mice immunised with AdC7 expressing NP of A/PR/8/34 were partially protected from challenge with two different strains of the H5N1 subtype,
+209
+ whereas HAd5 expressing NP gene from influenza A/duck/Yokohama/ aq10/2003(H5N1) protected subcutaneously (s.c.) immunised mice from influenza A/PR/8/34(H1N1) challenge.
+210
+ Moreover, HAd5 carrying both NP‐ and M2‐conserved sequences granted cross‐protection to mice against challenge with H1N1, H3N2 or H5N1,
+211
+ whereas i.n. immunisation with HAd5 expressing NP + M2 conferred protection from H1N1 or H3N2 challenge and limited viral transmission in the mouse model.
+212
+ Furthermore, a single i.n. inoculation of mice with a replication‐defective pan‐Ad type 3 (PanAd3) expressing NP + M1 as a fusion protein elicited both humoral and CMI responses, protecting from a lethal challenge with the mouse‐adapted A/Fort Monmouth/1/47‐ma(H1N1) virus.
+213
+ Additionally, a HAd5 expressing multi‐epitopes including HA alpha‐helix and fusion domains, NP T‐cell epitope and M2 ectodomain was used in i.m. immunisation of mice
+214
+; it provided broad protection from viral challenge with distinct H5, H7 or H9 influenza strains as indicated by decreases in the lung viral loads.
+214
+
+.
+
+Similarly, the ChAd Y25‐based vector, ChAdOx1, was utilised to express NP and M1 proteins of A/Panama/2007/99(H3N2) influenza virus and assessed its safety and immunogenicity in Phase I clinical trial (NCT01818362). In a dose–escalation study, ChAdOx1‐NP + M1 vaccine was safe and induced T‐cell responses.
+53
+ The same vector was tested in a prime‐boost regimen with a modified vaccinia Ankara (MVA) vector bearing the same genes.
+54
+ The humoral and CMI responses persisted for 18 months, highlighting the potential of the heterologous prime‐boost strategy in improving the durability of immune responses..
+
+The search for an optimal vaccine platform that provides broad reactivity and durable protection remains the target of influenza vaccine development. Much attention has been allocated to investigating different immunogens of the influenza virus and the resultant immune responses utilising various vaccine platforms. The goal is to identify T‐ or B‐cell epitopes capable of inducing broad immune responses across multiple influenza viruses. The HA head is immunodominant, highly variable and usually strain‐specific, necessitating annual reformulation of conventional IIV. Yet, rarely isolated,
+215
+ highly conserved and broadly neutralising HA head‐specific monoclonal antibodies (mAbs) were identified, which cross‐neutralise multiple influenza A viruses.
+216
+, 
+217
+, 
+218
+ Some of these mAbs are specific to epitopes mapped proximally to the receptor‐binding site (RBS) of HA, some use molecular mimicry to the sialic acid receptor, and others are mapped away from the RBS.
+219
+, 
+220
+, 
+221
+ These epitopes and the HA‐stalk‐conserved epitopes could lead to the next generation of influenza vaccine utilising the Ad‐vectored platform for heterosubtypic protection. Moreover, novel epitopes could also be innovatively designed through computational methods such as COBRA or Epigraph algorithms, increasing the repertoire of antigens that could have advantages over conventional vaccine immunogens.
+222
+, 
+223
+
+.
+
+Respiratory syncytial virus (RSV), the most common cause of acute lower respiratory infections (ALRI) in infants,
+224
+ poses a severe health concern to immunocompromised patients, people with chronic illnesses and the elderly.
+225
+ In the United States, around 58 000 hospitalisations are reported annually because of RSV infections in children younger than 5 years,
+226
+ and 177 000 hospitalisations with 14 000 deaths among adults older than 65 years.
+225
+ Young infants may not respond adequately to vaccination because of immunological immaturity or because of the maternally derived RSV antibodies. In addition, serious RSV infections can occur in high‐risk individuals previously exposed to RSV, as well as RSV‐naïve infants. Therefore, more than one type of RSV vaccine will likely be needed to immunise all high‐risk groups..
+
+It is essential to mention that the formalin‐inactivated RSV vaccine candidate in the 1960s caused enhanced respiratory disease (ERD) in immunised children infected with RSV.
+227
+ For many years, such reports were a significant setback to developing inactivated or subunit RSV vaccines. Currently, there are many RSV vaccine candidates in preclinical and clinical development.
+228
+, 
+229
+ Different vaccine strategies are being explored including chimeric or live attenuated, subunit, VLP and viral vector‐based vaccines. RSV displays an array of diverse antigens that can be used as antigenic targets for vaccine development (Figure 8). The surface fusion (F) protein and the glycoprotein (G) elicit NAbs. Meanwhile, small hydrophobic (SH) protein induces antibody‐dependent cell cytotoxicity, and the internal proteins, nucleoprotein (N), membrane protein (M) and M2‐1, are of particular importance in T‐cell responses. Most Ad vector‐based clinical trials (Table 4) used the viral F protein, a class I fusion protein that is highly conserved. The F protein has two conformations, pre‐F and post‐F, relative to the process of entering the host cell. Unravelling the structural differences between both forms has resulted in a stabilised pre‐F protein conformation for vaccine development. Less frequently, other antigens, including G, SH, N, M and M2‐1, are being used either alone or in combination..
+
+Schematic diagram of the respiratory syncytial virus, depicting its important envelope proteins..
+
+Adenoviral vector‐based RSV vaccines in clinical trials.
+
+ChAd155, chimpanzee adenovirus type 155; F, fusion protein; HAd26, human adenovirus type 26; HAd5, human adenovirus type 5; M, matrix protein; N, nucleoprotein; NCT, national clinical trial; Pre‐F, pre‐fusion protein; RSV, respiratory syncytial virus..
+
+w?>Different animal models have been utilised to evaluate RSV vaccines' efficacy and immunogenicity in preclinical trials, including mice, cotton rats, calves and nonhuman primates.
+230
+ The replication‐defective HAd5 vector expressing the RSV G glycoprotein (rAD/3xG) was able to mount long‐lasting protection against RSV A2 challenge after a single immunisation in a murine model, and the protection lasted for more than 10 weeks post‐immunisation.
+231
+ The i.n. route of vaccination with rAd/3xG elicited strong mucosal IgA and humoral antibody responses.
+231
+ In another study, HAd5‐based vector carrying codon‐optimised RSV F gene induced balanced humoral and CMI responses in mice immunised i.n., leading to protection against RSV challenge up to 35 weeks post‐vaccination, as indicated by reduced lung viral loads (over 60 000‐fold reduction).
+232
+
+.
+
+Moreover, i.n. or i.m. immunisation of cotton rats with the HAd5 expressing F protein mounted robust humoral and CMI responses including NAbs. Single i.m. or i.n immunisation or i.n followed by i.m. vaccination provided sterile protection against RSV/A/Tracy in a cotton rat model.
+233
+ Similar results were obtained by oral inoculation of cotton rats with the HAd5 vector expressing F, highlighting the significance of the mucosal route in vaccination.
+234
+
+.
+
+Moreover, low seroprevalent human or animal Ads were also utilised for developing RSV vaccine candidates.
+235
+, 
+236
+ Single i.m. immunisation with HAd26 or HAd35 carrying the RSV F gene could mount balanced humoral and CMI responses, inducing high levels of RSV NAbs and IFN‐γ‐ and TNF‐α‐producing CD8+ T cells.
+237
+ Heterologous prime‐boost with these two vectors elicited protection lasting over 30 weeks in cotton rats.
+237
+ The same vectors were evaluated in cynomolgus macaques and produced an immune response of a similar magnitude and quality to the cotton rat study.
+238
+ Three immunisation regimens, including homologous and heterologous prime‐boost, provided a durable and cross‐neutralising antibody response that persisted for over 80 weeks.
+236
+ Furthermore, i.m. prime‐boost immunisation of mice with replication‐defective ChAd, PanAd3 and MVA expressing consensus RSV F, N and M2‐1 resulted in protection from RSV/Long at three months post‐immunisation.
+236
+
+.
+
+There are five viral‐vectored vaccine candidates for RSV in clinical development, including four Ad vector‐based vaccines (Table 4). An innovative HAd5 vector has been utilised to express RSV F protein (VXA‐RSV‐f) in the form of an adjuvanted oral tablet that is stable at room temperature.
+239
+ In principle, the respiratory, urinary and intestinal mucosal membranes are the main sites of mucosal immunity induction.
+240
+ These sites are interconnected throughout the body via the common mucosal immune system, by which antigen presentation can take place at both proximal and distal mucosal sites.
+241
+ The oral route of vaccination generates an immune response in the gut‐associated lymphoid tissue (GALT), where vaccine antigens cross the intestinal mucosal barrier into Peyer’s patches by microfold cell (M cell)‐mediated endocytosis.
+242
+ Subsequently, vaccine antigens reach APCs for presentation to resident lymphoid cells, eliciting antigen‐specific IgG and IgA antibody responses at all sites of the mucosal immune system.
+242
+ The preclinical trials for VXA‐RSV‐f displayed an increase in anti‐F antibody and protection against RSV challenge in the cotton rat model.
+234
+ This vaccine candidate is advantageous for the elderly population as it induces a robust humoral response needed to circumvent immunosenescence related to an impaired T‐cell response against RSV. Subsequently, in Phase I clinical trial, VXA‐RSV‐f was tested as a single‐dose oral tablet (NCT02830932). No results were published; however, the company’s website states that the study results were inconclusive since no increase in anti‐F antibodies could be detected.
+243
+ Another two HAd26‐based vaccine candidates were developed targeting paediatric and elderly populations. The two vaccines express either the stabilised RSV pre‐F or post‐F protein. Changing only five amino acid residues from wild‐type pre‐F protein provides stability to its conformation, heat stability and stability at 4°C. In addition to having a good safety profile, the vector expressing modified pre‐F elicited a more robust humoral immune response with high NAb titres against RSV pre‐F than the vector expressing post‐F. Recently, a Phase II clinical trial of this candidate vaccine in RSV‐seropositive children and adults is completed, but no results have been published yet.
+237
+ Another Phase II clinical trial (NCT03339713) has been conducted to compare concomitant administration of both seasonal influenza vaccine and Ad26.RSV.preF.
+238
+ The study performed on 180 healthy adults found that the administration of both vaccines was safe, acceptably tolerated and induced robust immune responses as measured by HI titres for the four influenza strains of Fluarix and RSV A2 NAb titres. Co‐administration of both components mounted immune responses similar to those elicited by each vaccine alone. Both regimens lead to seroconversion rates of 37–56% across the four strains of Fluarix. RSV A2 NAb levels were similar in both groups..
+
+A replication‐deficient ChAd155 was utilised to express RSV F, N and M2‐1 as vaccine for children and adults. In Phase I clinical trial, healthy 18‐ to 45‐year‐old adults were immunised with two doses of ChAd155‐RSV 30 days apart. A strong humoral response was elicited, showing anti‐F IgG and RSV‐A‐NAb increases. In addition, an increase in CMI was recorded as increases in F‐specific interferon‐γ‐secreting T cells.
+244
+ Phase II clinical trials are still ongoing for seropositive 12‐ to 23‐month‐old toddlers and seronegative 6‐ to 7‐month‐old infants.
+244
+
+.
+
+A prime‐boost regimen utilising two vectors, a replication‐defective simian PanAd3 and MVA, expressing RSV F, N and M2, was explored in Phase I clinical trial in healthy adults, where different combinations and different routes were investigated. The i.m. or i.n. priming with PanAd3‐RSV and the i.m. boost with MVA‐RSV were well tolerated and associated with elevated RSV‐specific T‐cell responses, as shown by IFN‐γ‐secreting CD4+ and CD8+ T cells.
+245
+ An extension to this study in older healthy adults aged 60–75 yielded similar results..
+
+Ad vectors have been extensively studied as vaccine delivery vehicles and their applications in gene therapy. An Ad vector‐based vaccine is produced by growing the vector in a certified cell line using a serum‐free medium in bioreactors and then vector purification by affinity column chromatography. The manufacturing facilities are in several countries to produce billions of Ad‐vectored vaccines each year. Ad vector‐based vaccines can elicit both humoral and CMI responses because of activation of TLR‐dependent and TLR‐independent pathways. The development of at least four Ad vector‐based COVID‐19 vaccines, their excellent protection profiles and the administration of over one billion doses so far have fully elucidated the potential of this vaccine delivery system. However, the adverse effects of Ad‐based COVID‐19 vaccines are similar to those of mRNA‐based COVID‐19 vaccines. Further analyses of data from people immunised with Ad‐based COVID‐19 vaccines will determine the decline of Ad vector immunity with time, durability and breadth of protective immunity, and any potential long‐term side effects. There is a strong possibility that an Ad vector‐based universal influenza vaccine could be developed soon utilising conserved proteins and/or domains. The outcomes of currently ongoing clinical trials with Ad vector‐based RSV vaccines will determine the utility of one or more RSV vaccine/s for all population segments..
+
+As a result of their flexibility for delivery via the systemic or mucosal route, the availability of several human and nonhuman Ads for vaccine platforms, and the capability of inducing long‐lasting immunity even by a single dose, this vaccine platform is gaining importance for developing effective vaccines for other challenging viral, bacterial and parasitic diseases. It is an attractive tool for designing effective vaccines against clinically significant respiratory disorders, such as tuberculosis (TB), for which efficacious vaccines are unavailable. Two ChAd vector‐based TB vaccines, AdCh68Ag85A and ChAdOx1.85A, were designed to express the M. tuberculosis Ag85A protein.
+246
+, 
+247
+ A BAd‐based TB vaccine expressing an immunogenic epitope of Ag85B has demonstrated excellent potential in a challenge study in mice.
+248
+ While the Ad platform has shown remarkable results; it may be a better choice for pathogens of high virulence and pandemic potential. There could be a concern that the frequent use of an Ad vector platform will develop widespread pre‐existing Ad immunity, which would dampen the effectiveness of that particular Ad vector system. However, because of the availability of several human and nonhuman Ad‐based vaccine platforms, the issue of pre‐existing or vaccine‐induced Ad immunity could easily be handled by alternate use of two or more Ad vector systems..
+
+Further studies are needed to fully explore the roles of other routes, including intradermal, s.c., i.n. and oral in inducing improved immune responses with various Ad vectors. Other delivery devices, such as skin patches and nanoparticles, should be tried for targeting specialised cells and prolonging the duration of vector‐transduced cells for enhanced immune responses. It is crucial to modify Ad vectors for better targeting of APCs and superior processing of immunogenic epitopes within various compartments of vector‐infected cells. The next generation of Ad vectors may be designed having limited capability to replicate or express self‐replicating mRNA for improved durability of antigen‐specific immune responses. The role of prime and boost with two different Ad vectors in inducing enhanced, broad and durable immune responses needs to be further investigated..
+
+The authors declare no conflicts of interest..
+
+
+Ahmed Elkashif: Conceptualization; Writing‐original draft; Writing‐review & editing. Marwa Alhashimi: Writing‐original draft; Writing‐review & editing. Ekramy Sayedahmed: Writing‐original draft; Writing‐review & editing. Suryaprakash Sambhara: Conceptualization; Supervision; Writing‐review & editing. Suresh K Mittal: Conceptualization; Funding acquisition; Supervision; Writing‐original draft; Writing‐review & editing..
+
+This work was supported by Public Health Service grants AI059374 and AI158177 from the National Institute of Allergy and Infectious Diseases. We are grateful to Paolo Nazzari for helping us in preparing high‐resolution figures..
+

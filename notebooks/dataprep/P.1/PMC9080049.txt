@@ -1,0 +1,47 @@
+Independent Researcher.
+
+Dear Editor,.
+
+The coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was initially detected in late 2019, and it has evolved into many lineages and undergone various alterations during the two-year pandemic. Variants of interest (VOIs) and variants of concern (VOCs), both of which exhibit a mutation pattern, have been identified as a contagious threat to global public health [1,2]. Some of these variants expanded to become pandemics [3], while others stayed epidemic in a limited geographic region (World Health Organization, https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/). Up to now, five VOCs have been reported: Alpha (lineage B.1.1.7), Beta (lineage B.1.351), Gamma (lineage P.1), Delta (lineage B.1.617.2), and Omicron (lineage B.1.1.529), as well as eight VOIs including Lambda (C.37) and Mu (B.1.621) [1,2]..
+
+The Deltacron was first identified in January 2022, and Cyprus has shown a quick spread in late January. It encompasses a super variant combining Delta and Omicron, but some researchers claim it never existed and that the sequences were likely to be due to contamination. On March 16, 2022, the World Health Organization (WHO) decided to start tracking it, but they have not been calling it a variant of concern yet..
+
+A super variant is distinguished by nucleotide substitutions, insertions, and deletions. It necessitates coinfection of the same host cell via two strains [4]. Importantly, scientists are now much more convinced that the new strain from France is a true recombinant and the genetic sequencing data was clear. The Institute Pasteur team claims to have cultivated the virus in the lab, proving that it is not a cross-contamination product [5,6]..
+
+The prevalence of coinfection with different variants promotes recombination-driven SARS-CoV-2 development, which is currently unclear and poorly understood [1,7] (see Fig. 1
+). Li et al. [8] reported the coinfection of SARS-CoV-2 variants in COVID-19 patients, following collecting 12,986 and 4,113 SARS-CoV-2 genomes from the Global Initiative on Sharing All Influenza Data (GISAID) database on May 11, 2020, and April 1, 2021, respectively. Furthermore, a study has found up to 77 1,175 (0.2%) probable recombinant genomes within 537,360 genomes from the GISAID database and projected that up to 5% of SARS-CoV-2 strains that disseminated in the United States and the United Kingdom might be recombinants [9]. Additionally, between November 2021 and February 2022, Bolze et al. [10] sequenced 29,719 positive samples in the United States, where SARS-CoV-2 Delta and Omicron variants co-circulated. They have identified 20 co-infections, one of which displayed evidence of a low recombinant viral population. More notably, they have also identified two independent cases of infection by a Delta-Omicron recombinant virus. It is now official that Deltacron is a new strain. Genetically, Deltacron's backbone is drawn from the Delta strain, while its spike-the component of the virus that attaches to ACE2 receptors of the host cells-is acquired from the Omicron variant, according to recent genetic studies. (https://www.standard.co.uk/news/uk/what-deltacron-covid-uk-omicron-delta-variant-symptoms-delta-b988932.html).Fig. 1Emergence of Deltacron Hybrid new COVID-19 variant.Fig. 1.
+
+Emergence of Deltacron Hybrid new COVID-19 variant..
+
+Delta and Omicron, two pandemic strains, were recently identified as the dominant virus and co-circulated for many weeks, allowing for coinfections and eventual recombination. On 7 January, virologists stated that a research group at the University of Cyprus in Nicosia had discovered numerous SARS-CoV-2 genomes that included both the Delta and Omicron variants, from which the nomenclature of the Deltacron variant was derived. Researchers have submitted 25 sequences to the worldwide community GISAID, which shares viral information, posting that the first evidence for this variant had been provided on the same date, as well as another 27 a few days later [5]. Afterward, on January 8, the story was taken up by the media, and Deltacron became global news. An international database of viral sequences recorded 33 cases of the new variant in France, eight in Denmark, one in Germany, and one in the Netherlands in a March 10 update. According to the UK Health Security Agency, around 30 cases have been reported in the UK (UKHSA) [6,11]. Although the World Health Organization (WHO) designated certain strains in the Netherlands and Denmark on March 9, the Deltacron has not been identified as a variant of concern due to the small number of confirmed cases [6,11,12]..
+
+A study carried out by the French team revealed that three genomes taken between 3 January and 16 February 2022 were phylogenetically related to Delta 21J/AY.4-Omicron 21K/BA.1 hybrid genomes previously discovered in northern France, Denmark, and the Netherlands. The recombinant spike protein's basic form was determined. When overlaid with the Omicron 21K/BA spike, one variant mutation was found in the N-terminal domain (NTD) [6,13]. The recombinant's receptor-binding domain (RBD) is definitely derived from the Omicron 21K/BA.1 variant. As a whole, this structural analysis shows that the recombinant virus was chosen based on kinetic properties imparted by a convergent rise in the electrostatic potential of both the NTD and the RBD, as well as an expansion of the NTD surface [6,11]. As a result, the emergence of novel recombined viruses may lead to increased disease transmission or immune evasion [7]..
+
+The Deltacron was designated as a “variant under monitoring” by WHO on March 9, indicating that it may constitute a future risk, but that evidence of its impact is lacking. As scientists discover more about it, its status may change. However, Pfizer recently announced that the fourth dose of its vaccine-a second booster after the two-dose initial regimen-will provide better protection against current and future variants. Besides the Deltacron variant, various recombination events between two Omicron major subvariants (BA.1 and BA.2) and other variants of concern (VOCs) and variants of interest (VOIs) have been identified [14]..
+
+In conclusion, the results of some studies showed the coinfections with two SARS-CoV-2 lineages and variants during separate COVID-19 waves. It is critical to monitor the behavior of this recombinant throughout molecular surveillance, specifically during periods of high viral circulation, in order to detect both coinfections and recombination [15]. It is also important to continue researching clinical cases involving coinfections to better understand the influence of recombination on viral replication, mode of transmission, and disease severity, as well as the virus's ability to evade neutralizing antibodies evinced by vaccines or a previous infection. Regrettably, we should expect to encounter recombinants since viruses mutate with time, particularly in case when high viral circulation among animals and human occurs..
+
+This article does not require any human/animal subjects to acquire such approval..
+
+This study received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors..
+
+Sazan Qadir Maulud: Conceptualization, Data Curation, Visualization, Writing - Original Draft, Writing - review & editing. Dlshad Abdullah Hasan: Writing - Original Draft, Writing - review & editing. Rezhna Khdir Ali: Writing - Original Draft, Writing - review & editing. Rzgar Farooq Rashid: Writing - review & editing. AbdulRahman A. Saied: Writing - review & editing. Manish Dhawan: Writing - review & editing. Priyanka: Writing - review & editing. Om Prakash Choudhary: Conceptualization, Data Curation, Visualization, Supervision, Writing - Original Draft, Writing - review & editing. All authors critically reviewed and approved the final version of the manuscript..
+
+
+1.Name of the registry: Not applicable.2.Unique Identifying number or registration ID: Not applicable.3.Hyperlink to your specific registration (must be publicly accessible and will be checked): Not applicable.
+.
+
+Name of the registry: Not applicable..
+
+Unique Identifying number or registration ID: Not applicable..
+
+Hyperlink to your specific registration (must be publicly accessible and will be checked): Not applicable..
+
+Om Prakash Choudhary, Assistant Professor (Senior Scale), Department of Veterinary Anatomy and Histology, College of Veterinary Sciences and Animal Husbandry, Central Agricultural University (I), Selesih, Aizawl-796015, Mizoram, India. Tel: +91–9928099090; Email: dr.om.choudhary@gmail.com..
+
+Not commissioned, internally peer-reviewed..
+
+The data in this correspondence article is not sensitive in nature and is accessible in the public domain. The data is therefore available and not of a confidential nature..
+
+All authors report no conflicts of interest relevant to this article..
+

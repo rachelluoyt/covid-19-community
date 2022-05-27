@@ -1,0 +1,446 @@
+The outbreak of coronavirus infectious disease-2019 (COVID-19), caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), has rapidly spread throughout the world. Several studies have shown that detecting SARS-CoV-2 in untreated wastewater can be a useful tool to identify new outbreaks, establish outbreak trends, and assess the prevalence of infections. On 06 May 2021, over a year into the pandemic, we conducted a scoping review aiming to summarize research data on SARS-CoV-2 in sewage. Papers dealing with raw sewage collected at wastewater treatment plants, sewer networks, septic tanks, and sludge treatment facilities were included in this review. We also reviewed studies on sewage collected in community settings such as private or municipal hospitals, healthcare facilities, nursing homes, dormitories, campuses, airports, aircraft, and cruise ships. The literature search was conducted using the electronic databases PubMed, EMBASE, and Web Science Core Collection. This comprehensive research yielded 1090 results, 66 of which met the inclusion criteria and are discussed in this review. Studies from 26 countries worldwide have investigated the occurrence of SARS-CoV-2 in sewage of different origin. The percentage of positive samples in sewage ranged from 11.6 to 100%, with viral concentrations ranging from ˂LOD to 4.6 × 108 genome copies/L. This review outlines the evidence currently available on wastewater surveillance: (i) as an early warning system capable of predicting COVID-19 outbreaks days or weeks before clinical cases; (ii) as a tool capable of establishing trends in current outbreaks; (iii) estimating the prevalence of infections; and (iv) studying SARS-CoV-2 genetic diversity. In conclusion, as a cost-effective, rapid, and reliable source of information on the spread of SARS-CoV-2 and its variants in the population, wastewater surveillance can enhance genomic and epidemiological surveillance with independent and complementary data to inform public health decision-making during the ongoing pandemic..
+
+
+.
+
+The online version contains supplementary material available at 10.1007/s12560-021-09498-6..
+
+Coronavirus disease-2019 (COVID-19) emerged in China in December 2019 and has since become a global pandemic, with over 180.000.000 confirmed cases globally and 3.900.000 deaths as of July 03, 2021 (WHO, 2021). The true number of cases is likely to have been substantially greater than reported, since mild or asymptomatic infections have often been overlooked. On March 11, 2020, “deeply concerned by the alarming levels of spread and severity, and by the alarming levels of inaction”, WHO declared COVID-19 a global pandemic (WHO, 2020). Currently, the epidemiological scenario varies among countries, depending on their epidemic phase and mitigation measures. A growing number of SARS-CoV-2 variant sequences have been detected since the beginning of the pandemic, some of which are considered of global concern for possible increased transmissibility, virulence, or ability to evade host immune response (WHO, 2021)..
+
+The clinical manifestations of COVID-19 range from asymptomatic or mild to life-threatening disease. Symptoms are mainly respiratory. COVID-19 pneumonia can lead to severe respiratory distress requiring mechanical ventilation, multiple organ failure, and death (Ruan et al., 2020; Wu & McGoogan, 2020). Nevertheless, gastrointestinal infections have been reported, with symptoms such as diarrhea, nausea, vomiting, and abdominal pain (Alberca et al. 2021a)..
+
+Significant concentrations of SARS-CoV-2 RNA have been detected in the feces of infected individuals, both asymptomatic and symptomatic, even after recovery from respiratory symptoms (Alberca et al., 2021, Dergram et al., 2021; Joukar et al., 2021; Nishiura et al., 2020, Pedersen et al., 2021; Petrillo et al., 2021; Treibel et al., 2020, Wölfel et al., 2020; Wu et al., 2021; Zhang et al., 2021), with concentrations up to 107 copies per gram of feces, depending on the course of infection (Guo et al., 2021; Saawarn & Hait, 2021). This has raised concerns about the possibility of fecal–oral transmission of the virus, although the main infection routes are currently believed to be by respiratory droplets, airborne transmission, and direct or indirect contact (Greenhalgh et al., 2021; Lodder & de Roda Husman, 2020; van Doorn et al., 2020)..
+
+Given that SARS-CoV-2 RNA is detectable in feces, testing for it in sewersheds enables the monitoring of disease burden in the community. Thus far, SARS-CoV-2 RNA has been found in raw sewage and primary sludge worldwide, as well as in treated wastewater and river water (Amahmid et al., 2021; Foladori et al., 2020; Mohapatra et al., 2021). Contrary to clinical reporting systems, wastewater surveillance has the advantage of covering not only symptomatic individuals who had been tested, but also asymptomatic and symptomatic cases who had not been tested. It is, thus, an excellent tool to complement the clinical surveillance of populations under the threat of COVID-19..
+
+This scoping review provides an overview of the studies published on SARS-CoV-2 wastewater analysis over a year into the pandemic. Its aim is to outline the current evidence regarding the potential of wastewater surveillance: (i) as an early warning system to identify early signs of outbreaks; (ii) to monitor trends in ongoing outbreaks (presence/absence, stagnation/increase/decrease in the number of cases); (iii) to estimate the prevalence of infections; and (iv) to study SARS-CoV-2 genetic diversity and variants in the community..
+
+An electronic literature search was conducted on 06 May 2021, using the electronic databases PubMed, EMBASE, and Web Science Core Collection, with no restrictions on publication date or language. The search strategy included terms related to SARS-CoV-2 and the environmental matrix of interest (Supplementary Table S1)..
+
+A total of 1090 articles were retrieved. After the removal of duplicates (n = 537), the remaining 553 articles were manually screened using the Rayyan review platform (Ouzzani et al., 2016), and assessed for eligibility by two independent reviewers (GLR and GBF). All articles dealing with (i) early warning to identify signs of outbreaks; (ii) trends in ongoing outbreaks (presence/absence, stagnation/increase/decrease in the number of cases); (iii) estimating the prevalence of infections; (iv) studying SARS-CoV-2 genetic diversity and variants in the community, were included in the study. Preprint articles were not included in this review. Based on these inclusion criteria, 432 records were excluded, leaving 121 articles. These were subjected to full-text screening, resulting in the exclusion of an additional 55 papers, which were either (i) unrelated to the detection of SARS-CoV-2 in sewage or to wastewater surveillance (e.g., articles dealing with the standardization of methods or disinfection procedures) (ii) reviews including data already retrieved directly from research articles..
+
+Ultimately, 66 articles were included in the review. A flow chart illustrating the steps of paper selection can be found in Fig. 1.Fig. 1PRISMA flow diagram.
+
+PRISMA flow diagram.
+
+The presence of SARS CoV-2 in sewage of different origin has been reported in a total of 26 countries, spanning practically all the continent (Europe, Americas, Asia, Oceania, and Africa). Sixty-six studies, conducted since the beginning of the pandemic, are reviewed and classified here, according to the type of sewage, into three different categories: raw sewage (n = 63), sludge (n = 7) and septic tank (n = 1). Five studies covered more than one sewage type (Chakraborty et al., 2021, D’Aoust et al. 2021b, Graham et al., 2021, Li et al., 2021a, Petala et al., 2021)..
+
+Details of the 66 studies (country, category, origin of sewage) are shown in Table 1 and in supplementary Table 2. For each study, information regarding country, sample type, collection time, number of Wastewater Treatment Plants (WWTPs) involved, percentages of positive samples and relative concentrations were retrieved (Table 1). The vast majority of the studies focused on samples collected in WWTPs (n = 57), followed by hospitals (n = 8), aircraft (n = 2), dormitories (n = 2), a sewer network (n = 1), a nursing home (n = 1), a COVID-19 isolation center (n = 1), a cruise ship (n = 1), a campus (n = 1) and a private residence (n = 1). The number of sewage treatment plants included in each study ranged from 2 to 33. The percentage of SARS-CoV-2 positive samples ranged from 11.6 to 100%, and the concentrations of SARS-CoV-2 in wastewater ranged from ˂LOD to 4.6 × 108 genome copies (g.c.)/L (see Table 1).Table 1Characteristics of included studiesAuthor, YearCountrySampling timeSample typeSpecific locationsNo of sampling points% of positive samplesViral concentrationUse of wastewater surveillanceMain findings1Agrawal, (2021a)GermanyApr/2020-Aug/2020Raw sewageWTP2Not reported2 × 103 to 3 × 106 (g.c./L)A, BSARS-CoV-2 RNA increase preceded cases by two weeksCorresponding increase in the viral load in sewage and incidence2Agrawal, (2021b)GermanyDec/2020Raw sewageWTP3Not reportedNot reportedDMutations found in wastewater samples not identified in clinical settings in the investigated area3Ahmed, (2021a)AustraliaFeb/2020-May/2020Raw sewageWTP321/63 (33%)1.35 × 103 to 1.19 × 105 (g.c./L)A, BSARS-CoV-2 RNA detected up to three weeks before the first clinical case was reported thereDecline of SARS-CoV-2 RNA correlates with the decline of the first epidemic waveNo correlation of viral loads in wastewater with daily cases4Ahmed, (2021b)BangladeshJul/2020-Aug/2020Septic tank samplesCOVID-19 isolation center321/63 (33%)Up to 10 × 107 (g.c./L)BFirst report of SARS-CoV-2 RNA in wastewaters in Bangladesh in the vicinity of COVID-19 isolation CenterDistance in few meters from the excretion point had no significant influence on SARS-CoV-2 Ct-value5Ahmed, (2020a)AustraliaApr/2020Raw sewageaircraft, cruise shipNot reported8/16 (50%) < LOD to 5.9 × 103 (g.c./L)BSARS-CoV-2 RNA detected in wastewater from aircrafts and cruise ships, suggesting possible use of these samples for screening and contact tracing6Ahmed, (2020b)AustraliaMar/2020-Apr/2020Raw sewageWTP32/9 (22%)19 to 1.2 × 102 (g.c./L)CFirst report of SARS-CoV-2 RNA in wastewaters in AustraliaNumber of infected individuals in the catchment estimated via Monte Carlo simulation in agreement with clinical observations7Albastaki, (2021)United Arab EmiratesApr/2020-Jul/2020Raw sewageWTP, aircraft96/27 (22%)Not reportedBFirst report of SARS-CoV-2 RNA in wastewaters in the United Arab EmiratesViral load (reported using Ct values) in wastewaters decreased in correspondance with the decrease of COVID-19 cases13.6% of wastewater samples from aircrafts were positive8Arora, (2020)IndiaMay/2020-Jun/2020Raw sewageWTP, hospital6 WTP,2 Hospital5/12 (42%),1/5 (20%)Not reportedBFirst report of SARS-CoV-2 RNA in wastewaters in IndiaViral loads correlated with the increased number of COVID-19 positive patients in the same areas9Baldovin et al. (2021)ItalyApr/2020-May/2020Raw sewageWTP44/9 (44%)6.3 × 104 to 7.9 × 104 (g.c./L)CReport of SARS-CoV-2 RNA in wastewaters in ItalyHospitalization data suggested a WBE detection power of about 1 COVID-19 case per 531 inhabitants10Bertrand, (2021)FranceApr/2020-May/2020Raw sewageWTP14/12 (33%)2.1 × 107 to 1.6 × 107 (g.c./L)BDecrease of SARS-CoV-2 RNA concentration in wastewaters observed during lockdown, correlating with the decrease of COVID-19 cases in the area11Betancourt, (2021)USAAug/2020-Nov/2020Raw sewagecampus16/14 (43%)1.0 × 104 to 1.06 × 106 (g.c./L)ASewage surveillance was used to monitor students at their return in the fall and identified positive individuals in a dorm (both symptomatic and asymptomatic)Sewage surveillance provided early warnings of infections in 13 dorms during the fall semester12Carrillo-Reyes, (2021)Me × icoApr/2020-Jul/2020Raw sewageWTP28/22 (36%)2.1 × 104 to 1.4 × 108 (g.c./L)BSARS-CoV-2 RNA in the influent of WTPs showed a significant correlation with the cumulative COVID-19 cases in the city13Chakraborty, (2021)IndiaSep/2020Raw sewage, Sludge sampleshospital912/17 (71%)STPs (range 9.66 × 104 to 1.99 × 105 (g.c./L);SPSs (range 1.41 × 104 to 9.96 × 104 g.c./L); Hospital (1.19 × 104 to 9.89 × 104 g.c./L)CThe estimated number of infected individuals calculated based on wastewater data was in line with the number of active COVID-19 cases in the catchment areas14Chavarria-Miró, (2021)SpainDec/2019-Jul/2020Raw sewageWTP2Not reportedNot reportedA, CSARS-CoV-2 RNA was detected in sewage 41 days before the reporting of the first COVID-19 caseWastewater surveillance anticipated the onset of the second epidemic waveThe estimation of total active shedders from SARS-CoV-2 RNA in wastewaters pointed toward a high proportion of asymptomatic individuals and an infection prevalence of 2.0–6.5%SARS-CoV-2 detection in wastewater was estimated possible with an infection prevalence of around 0.12% and 0.09% of the total population15Colosi, (2021)USAJul/2020Raw sewageWTP; dormitorie; hospital; private residence1 each2/3 (67%);15/29 (52%);11/11 (100%);0/1 (0%)Not reportedACorrespondence of SARS-CoV-2 RNA detection in wastewaters from hospital and college dormitories with presence/absence of COVID-19 cases detected via clinical testingSARS-CoV-2 RNA detection in presence of a small number of asymptomatic casesPoor correlation between PCR Ct values and number of new cases16Crits-Christoph, (2021)USAMay/2020-Jul/2020Raw sewageWTP47/22 (32%)1.0 × 103 to 1.0 × 106 (g.c./L)DNGS of SARS-CoV-2 from sewage collected in the San Francisco Bay found sequences corresponding to genomes detected in clinical specimens from the same areaVariants not found in clinical samples were found in wastewaters, providing evidence for the introduction of viral lineages17D’Aoust, (2021b)CanadaApr/2020-Jun/2020Raw sewage, Sludge samplesWTP2(PCS): 4/ 5 (93%);(PGS): 5/6 (82%)(PCS) 1.7 × 103 to 3.8 × 105 (g.c./L)ASARS-CoV-2 RNA detected in primary clarified sludge when < 1% positivity was recorded in clinical testingSARS-CoV-2 RNA concentration in wastewater increased 48 h prior to a reported increase in positive casesSARS-CoV-2 RNA concentration in wastewater increased approx 96 h prior to a reported increase in community hospitalizations18D'Aoust, (2021a)CanadaJun/2020-Aug/2020Sludge samplesWTP1Not reported1.0 × 104 to 3.01 × 104 copies/copies PMMoV (*normalized with PMMoV)BSARS-CoV-2 RNA in primary clarified sludge showed a significant correlation with epidemiological data: daily cases, active cases and percent positive (strongest correlations observed with the number of active cases)Pepper mild mottle virus (PMMoV) normalization of RNA showed the strongest correlation to epidemiological metrics19Davó, (2021)SpainOct/2020-Dec/2020Raw sewagenursing home529/300 (9.6%)2.2 × 103 to 4.1 × 108 (g.c./L)A, BDetection of SARS-CoV-2 RNA in sewage 5 to 19 days before the identification of cases (residents or staff) in a nursing homeSARS-CoV-2 RNA in wastewater increased exponentially during the outbreakSARS-CoV-2 RNA was not detected anymore in wastewaters after the end of the outbreak20Fongaro, (2021)BrazilOct/2019-Mar/2020Raw sewageWTP1Not reported3.1 × 105 to 4.8 × 106 (g.c./L)ADetection of SARS-CoV-2 RNA in wastewaters 56 days before (> 90 in the case of Brazil) the report of COVID-19 cases in the AmericasViral loads constant until early March 2020, followed by an increase coinciding with the onset of COVID-19 cases in the region21Gerrity, (2021)USAMar/2020-May/2020Raw sewageWTP223/36 (64%)104 to 106 (g.c./L)BSARS-CoV-2 RNA concentration in wastewaters in two sewersheds (normalized using PMMoV) correlated with public health data in an early phase of the pandemicWastewater surveillance might be a lagging indicator for declining infection rates, possibly due to prolonged viral shedding22Gibas, (2021)USASep/2020-Nov/2020Raw sewagedormitories19 bldgs45/332 (13.5%)Not reportedAIdentification by wastewater surveillance of asymptomatic COVID-19 cases undetected by the campus monitoring programDetection power of one single asymptomatic individual in dorms with a resident populations of 150–20023Gonçalves, (2021)SloveniaJun/2020Raw sewagehospital110/15 (67%)Not reportedA, BFirst report of SARS-CoV-2 RNA in wastewaters in SloveniaDetection of SARS-CoV-2 RNA in hospital untreated wastewater in presence of only one hospitalized COVID patient24Gonzalez, (2020)USAMar/2020Raw sewageWTP998/198 (49.5%)102 to 105 (g.c./L)BIncreasing (phase reopenings) and decreasing trends (lockdown phase) of SARS-CoV-2 RNA over a 21-week period, correlating with outbreak clinical data25Graham, (2020)USAMar/2020-Jul/2020Raw sewage, Sludge samplesWTP2Influents 5/12 (41.6%);Solids 7/12 (58.3%)350 and 3100 mL/g (*ratio N1-N2 in solids and influents)BSARS-CoV-2 RNA concentrations in wastewater settled solids showed a significant correlation with COVID-19 clinically confirmed cases in the initial phase of the pandemicTesting wastewater solids may be more sensitive than testing influentNormalization by PMMoV did not substantially change correlation results with new COVID-19 cases26Hasan, (2021)United Arab EmiratesMay/2020-Jun/2020Raw sewageWTP11 WTP, 38 locations11/11 (100%); 33/45 (73%)(WTP) 7.5 × 102 to 3.4 × 104;(g.c./L) (Other Locations)2.86 × 102 to 2.9 × 104 (g.c./L)B, CFirst report quantifying SARS-CoV-2 RNA in wastewaters in the United Arab EmiratesDecrease of viral loads in wastewater correlated with the reduction of COVID-19 casesThe number of infected individuals was estimated using Monte Carlo simulation (approx 1.2 × 104)One region had higher estimates despite the lower viral loads when compared to another region, indicating that proper representation of the data is crucial in environmental surveillance of SARS-CoV-227Hata, (2020)JapanMar/2020-May/2020Raw sewageWTP521/45 (47%)1.0 × 101 to 3.5 × 104 (g.c./L)ASARS-CoV-2 RNA was detectable before the number of cases reached < 1.0 per 100,000 peopleSARS-CoV-2 RNA detection frequency remained high even after cases stopped increasing, possibly due to detection of virus from discharged or undiagnosed individuals28Hemalatha et al. (2021)IndiaJul/2020-Aug/2020Raw sewageWTP-12/12 (100%)6.6 × 102 to 2.4 × 104 (g.c./L)CBased on wastewater data, the infected and actively shedding population in the area under observation was estimated to be between 30.000 and 3 million29Hokajärvi, (2021)FinlandApr/2020-May/2020Raw sewageWTP11/2 (50%)Not reportedBFirst report of SARS-CoV-2 RNA in wastewaters in FinlandConfirmed COVID-19 cases were reported in the municipalities of the sewerage network area30Hong et al. (2021)Saudi ArabiaApr/2020Raw sewagehospital243/57 (75%)Not reportedCAnalysis on septic tanks and biological activated sludge tanks located onsite of a hospital showed that a range of 253 – 409 positive cases out of 10,000 persons are required for SARS-CoV-2 RNA detection in wastewater31Izquierdo-Lara, (2021)The Netherlands and BelgiumApr/2020-Jul/2020Raw sewageWTP2020/55 (36%)Not reportedDNGS of SARS-CoV-2 in sewage found clades (19A, 20A, and 20B) clustering with clinical samples from the same region32Johnson, (2021)South AfricaJun/2020Raw sewageWTP55/5 (100%)4.6 × 106 to 454 × 106 (g.c./L)BViral load in wastewater samples from two WTPs differed among each other and were in line with the number of COVID-19 cases in the catchment areas33Karthikeyan, (2021)USAJul/2020-Oct/2020Raw sewageWTP124/24 (100%)2.01 × 104 (g.c./L)APeaks of SARS-CoV-2 RNA in wastewaters were followed by peaks in clinically confirmed casesUsing a prediction model cases could be anticipated by 3 weeks34Kitamura et al. (2021)JapanJun/2020-Aug/2020Raw sewageWTP,manhole2,118/32 (56%)1.6 × 102 to 1.3 × 104 (g.c./L)BSignificant correlation between COVID-19 cases and SARS-CoV-2 RNA concentration in wastewaters was detected during the second epidemic wave in areas with a high prevalence of the diseaseA significant correlation was found between the SARS-CoV-2 RNA concentration in wastewater and the number of COVID-19 cases with respect to the onset date35Kumar, (2021)IndiaAug/2020-Sep/2020Raw sewageWTP440/43 (93%)up to 1.2 × 103 (g.c./L)ASARS-CoV-2 RNA concentration in sewage was higher in September compared to August 2020, corresponding to a ~ 2.2-fold rise in the number of confirmed casesThe increase of RNA concentration was detected 1–2 weeks before the in increase of confirmed cases36Kumar, (2020)IndiaMay/2020Raw sewageWTP12/2 (100%)5.6 × 10 to 3.5 × 102 (g.c./L)BFirst report of SARS-CoV-2 RNA in wastewaters in IndiaIncrease in SARS-CoV-2 RNA correlating with active COVID-19 patients37La Rosa, (2020)ItalyFeb/2020-Apr/2020Raw sewageWTP36/12 (50%)Not reportedAFirst report of SARS-CoV-2 RNA in wastewaters in ItalySARS-CoV-2 RNA detected few days after the first notified autochthonous case, when the total number of reported COVID-19 cases was very low38La Rosa, (2021a)ItalyOct/2019-Feb/2020Raw sewageWTP515/40 (38%)up to 5.6 × 104 (g.c./L)ASARS-COV-2 RNA detected in Northen Italy mid-December 2019, two months before the first notified autochthonous case39La Rosa, (2021b)ItalySep/2020-Feb/2021Raw sewageWTP523/48 (48%)1.6 × 103 to 3.0 × 104 (g.c./L)DMutations characteristic of Variants Of Concern (alfa and gamma) and of lineage 20E.EU1were detected in sewage samples40Li, (2021a)USAAug/2020-Oct/2020Raw sewage, Sludge samplesWTP2Not reportedLiquid fraction: 103.0–105.1 g.c./L, 101.2-104.5 g.c./L, and 102.0–104.5 (N1, N2 ed E assay)Solid Fraction: 104.1–105.5 g.c./g, 101.5–106.0 g.c./g, and 101.4–106.2 g.c./g (N1, N2 ed E assayBDownward trend of SARS-CoV-2 RNA in wastewater samples in correspondance to the decrease of new COVID-19 casesSignificant daily fluctuation of SARS-CoV-2 RNA in wastewater were detected (fine-scale temporal dynamics of SARS-CoV-2)41Martin, (2020)EnglandMar/2020-Apr/2020Raw sewageWTP13/11 (27%)3.1 × 103 to 6.0 × 105 (g.c./L)DSequencing of different regions of SARS-CoV-2 demonstrated changes in variant predominanceSARS-CoV-2 sequences in sewage closely resembled those from clinical samples42Medema, (2020)The NetherlandsFeb/2020-Mar/2020Raw sewageWTP720/30 (66%)2.6 × 103 to 2.2 × 106 (g.c./L)A, BNo SARS-CoV-2 RNA detection 3 weeks before the first Dutch case was reportedIn one urban center, SARS-CoV-2 RNA detection in sewage 6 days before the first cases were reportedViral load increase correlated significantly with the increase in COVID-19 prevalence43Miyani, (2020)USAApr/2020-May/2020Raw sewageWTP154/54 (100%)104 to 105 (g.c./L)B-SARS-COV-2 RNA was detected in 100% of untreated wastewater samples collected Michigan between April 8, 2020, and May 26, 2020-Not an attempt to make predictions or statistical associations with clinical data was performed44Mlejnkova, (2020)Czech RepublicApr/2020-Jun/2020Raw sewageWTP3313/112 (12%)Not reportedBSARS-CoV-2 RNA was detected in wastewater samples at a lower than expected frequency (approx 12%), considering prevalence of COVID-19 cases in the areas (between 24 and 561 cases per 100,000 inhabitants)45Nasseri, (2021)IranApr/2020Raw sewageWTP312/12 (100%)Not reportedBSARS-CoV-2 RNA detected in wastewater in 3 cities of Iran46Nemudryi, (2020)USAMar/2020-Jun/2020Raw sewageWTP113/17 (77%)2.2 × 101 to 6.1 × 103 (g.c./L)DA nearly complete SARS-CoV-2 genome sequence from a wastewater sample collected in USA on Jun 2020 allowed to infer viral ancestry by phylogenetic analysis47Peccia, (2020)USAMar/2020-Jun/2020Sludge samplesWTP173/75 (97%)1.7 × 106 to 4.6 × 108 (g.c./L)AThroughout a 10-week study, viral loads tracked the rise and fall of cases and of COVID-19 hospital admissionsSARS-CoV-2 RNA in sludge showed an increase in March that was not observed in clinical testing or hospital admissions data; the sludge results led the number of positive tests by date of specimen collection by 0–2 days, the percentage of positive tests by date of specimen collection by 0–2 days, hospital admissions by 1–4 days, and the number of positive tests by report date by 6–8 days48Petala et al. (2021)GreeceApr/2020-May/2020Raw sewage, Sludge samplesWTP116/29 (55%)1.6 × 106 to 3.2 × 106 (g.c./L)BViral loads in sewage samples showed a declining trend up to undetectable levels in line with the very low number of infections and hospital admissions in area under observation49Prado, (2020)BrazilApr/2020Raw sewageWTP, hospital, sewers network125/12 (42%)Not reportedASARS-CoV-2 RNA detected prevalently in samples from areas with a higher number of reported COVID-19 casesSARS-CoV-2 RNA was also detected in one sample from an area not yet reached by the outbreak50Prado, (2021)BrazilApr/2020-Aug/2020Raw sewageWTP2188/223 (84.3%)6.3 × 105 to 5.0 × 106 (g.c./L)A, DSARS-CoV-2 RNA was detected in sewage in a community where no COVID-19 cases had been reportedSequencing of SARS-CoV-2 in sewage showed three strains sharing the same nucleotide mutations (clade G, B.1.1.33), which were also observed in clinical strains circulating in the same area during the study period51Randazzo, (2020a)SpainFeb/2020-Apr/2020Raw sewageWTP312/15 (83%)1.65 × 105 to 9.77 × 105 (g.c./L)ASARS-CoV-2 RNA was consistently detected in wastewater samples taken in late February 2020, when COVID-19 cases in that region were only incipientRT-qPCR signal in wastewaters increased and reached a plateau faster than reported casesStrong indication that SARS-CoV-2 was undergoing community transmission earlier than previously believed52Randazzo, (2020b)SpainMar/2020-Apr/2020Raw sewageWTP635/42 (84%)2.5 × 105 (g.c./L)ASARS-CoV-2 RNA was detected in wastewater samples in low prevalence municipalities, 12–16 days before COVID-19 cases were reported53Rimoldi, (2020)ItalyApr/2020Raw sewageWTP34/8 (50%)Not reportedDA SARS-CoV-2 genome from a sewage sample collected in Northern Italy in April 2020 was similar to a clinical sampe from the same region54Saguti, (2021)SwedenFeb/2020-Jul/2020Raw sewageWTP518/21 (86%)7.9 × 103 to 1.8 × 106 (g.c./L)AAnalysis of multiple WTPs in one city displayed differences in the local incidence of SARS-CoV-2, thus enabling the detection of local outbreaksSARS-CoV-2 RNA peaks in wastewater preceded the peaks of COVID-19 hospitalized patients by 3–4 weeks55Saththasivam, (2021)QatarJun/2020-Aug/2020Raw sewageWTP543/43 (100%)7.8 × 103 to 5.4 × 105 (g.c./L)B, CFirst report of SARS-CoV-2 RNA in wastewaters in QatarThe trend of PCR Ct values in wastewater samples mirrored the number of new daily positive casesThe number of infected subjects was estimated by mathematical model using viral concentrations of wastewater samples; the estimated number was significantly higher than the officially reported ceses56Sharma et al. (2021)IndiaMay/2020Raw sewageWTP612/20 (60%)Not reportedBSARS-CoV-2 RNA detected in sewage samples from six different sitesViral RNA detected in samples collected in May 2020, when the number of COVID-19 cases was in rapid increase57Sherchan, (2020)USAJan/2020-Apr/2020Raw sewageWTP22/7 (29%)3.1 × 103 to 7.5 × 103 (g.c./L)BFirst report of SARS-CoV-2 RNA in wastewater in NorthAmerica, including the USA58Tanhaei, (2021)IranJun/2020-Jul/2020Raw sewageWTP41/1 (100%)Not reportedBFirst report of SARS-CoV-2 RNA in wastewaters in Teheran (Iran)59Trottier, (2020)FranceMay/2020-Jul/2020Raw sewageWTP17/7 (100%) > 103 to 8 × 104 (g.c./L)ASARS-CoV-2 RNA loads in wastewater increased 2–3 weeks before the surge of new COVID-19 patients60Wang, (2020)ChinaFeb/2020Raw sewagehospital13/3 (100%)Not reportedBDetection of SARS-CoV-2 RNA in sewage samples from the inlets of preprocessing disinfection pool in a Chinese hospital61Weidhaas, (2021)USAApr/2020-May/2020Raw sewageWTP1077/126 (61%)66 ± 154 × 103 (g.c./L)(rural sewersheds or lower COVID-19 caseloads) to 390 ± 489 × 103 (g.c./L)( (urbancenters with higher COVID-19 caseloads)B, CUrban sewersheds serving > 100,000 individuals and tourist communities had higher SARS-CoV-2 detection frequencies than facilities serving medium-sized and rural communitiesOutbreaks of COVID-19 in two communities positively correlated with an increase of SARS-CoV-2 RNA in wastewater, while a decline in COVID-19 cases preceded the decline in RNAThe estimated number of SARS-CoV-2 shedders in each sewershed areas linearly correlated with the cumulative diagnosed COVID-19 cases62Westhaus, (2021)GermanyApr/2020Raw sewageWTP99/9 (100%)3.0 × 103 to 2.0 × 104 (g.c./L)BFirst report of SARS-CoV-2 RNA in wastewaters in GermanyViral loads correlated with the cumulative and the acute COVID-19 cases reported in the catchment areas63Wilder, (2021)USAApr/2020-Jun/2020Raw sewageWTP28111/169 (66%)Avg: 2.16 × 104 (g.c./L)A, CHigher SARS-CoV-2 RNA concentration in wastewaters were significantly associated to positive COVID-19 tests reported one week later wastewater samplingcrAssphage co-detection displays potential to improve interpretations of wastewater surveillance dataSARS-CoV-2 RNA was quantifiable in some wastewater service areas where daily positives tests were less than 1 per 10,000 people or when weekly positive test rates within a sewershed were as low as 1.7%64Wu, (2020)USAJan/2020-Mar/2020Raw sewageWTP212/12 (100%)5.7 × 104 to 3.0 × 105 (g.c./L)B, CSARS-CoV-2 RNA concentration showed an increase between March and mid-April, followed by a declining trendViral loads were significantly higher than expected based on clinically confirmed cases in the areaThe number of positive cases estimated from wastewater viral titers is orders of magnitude greater than the number of confirmed clinical cases65Wurtzer, (2020)FranceMar/2020-Apr/2020Raw sewageWTP325/25 (100%)5 × 104 to 3 × 106 (g.c./L)A, BSARS-CoV-2 genome could be detected early in the pandemic and before the epidemic grew massively (around 8 March)The concentration of viral RNA in raw sewage was approx. 104 g.c./L in samples collected at the beginning of March, when less than 10 hospitalized COVID-19 cases were reported in the catchment areas (and only 635 in the whole country)The increase of SARS-CoV-2 concentration in raw wastewater accurately followed the increase of human COVID-19 casesA marked decrease of SARS-CoV-2 concentration in raw wastewater was observed concomitantly with the reduction of new COVID-19 cases, 29 days in the lockdown66Zhou et al., (2021)ChinaMar/2020Raw sewageWTP, hospital103/10 (30%)Not reportedBSARS-CoV-2 RNA was found in the liquid waste of COVID-19 healthcare facility system in WuhanViral RNA was also detected in the urban sewerage networkA: early warning; B: occurrence and trends of infection (and correlation with epidemiological measures); C: estimation of COVID-19 prevalence (and of the power of wastewater surveillance to detect SARS-CoV-2); D: SARS-CoV-2 genetic diversity and variantsWTP wastewater treatment plant, STP Sewage treatment Plants, SPS Sewage pomping Station, Avg average, NGS next-generation sequencing, PGS, post grid solid, PCS, primary clarified sludge.
+
+Characteristics of included studies.
+
+SARS-CoV-2 RNA increase preceded cases by two weeks.
+
+Corresponding increase in the viral load in sewage and incidence.
+
+SARS-CoV-2 RNA detected up to three weeks before the first clinical case was reported there.
+
+Decline of SARS-CoV-2 RNA correlates with the decline of the first epidemic wave.
+
+No correlation of viral loads in wastewater with daily cases.
+
+First report of SARS-CoV-2 RNA in wastewaters in Bangladesh in the vicinity of COVID-19 isolation Center.
+
+Distance in few meters from the excretion point had no significant influence on SARS-CoV-2 Ct-value.
+
+First report of SARS-CoV-2 RNA in wastewaters in Australia.
+
+Number of infected individuals in the catchment estimated via Monte Carlo simulation in agreement with clinical observations.
+
+First report of SARS-CoV-2 RNA in wastewaters in the United Arab Emirates.
+
+Viral load (reported using Ct values) in wastewaters decreased in correspondance with the decrease of COVID-19 cases.
+
+13.6% of wastewater samples from aircrafts were positive.
+
+6 WTP,.
+
+2 Hospital.
+
+5/12 (42%),.
+
+1/5 (20%).
+
+First report of SARS-CoV-2 RNA in wastewaters in India.
+
+Viral loads correlated with the increased number of COVID-19 positive patients in the same areas.
+
+Report of SARS-CoV-2 RNA in wastewaters in Italy.
+
+Hospitalization data suggested a WBE detection power of about 1 COVID-19 case per 531 inhabitants.
+
+Sewage surveillance was used to monitor students at their return in the fall and identified positive individuals in a dorm (both symptomatic and asymptomatic).
+
+Sewage surveillance provided early warnings of infections in 13 dorms during the fall semester.
+
+STPs (range 9.66 × 104 to 1.99 × 105 (g.c./L);.
+
+SPSs (range 1.41 × 104 to 9.96 × 104 g.c./L); Hospital (1.19 × 104 to 9.89 × 104 g.c./L).
+
+SARS-CoV-2 RNA was detected in sewage 41 days before the reporting of the first COVID-19 case.
+
+Wastewater surveillance anticipated the onset of the second epidemic wave.
+
+The estimation of total active shedders from SARS-CoV-2 RNA in wastewaters pointed toward a high proportion of asymptomatic individuals and an infection prevalence of 2.0–6.5%.
+
+SARS-CoV-2 detection in wastewater was estimated possible with an infection prevalence of around 0.12% and 0.09% of the total population.
+
+2/3 (67%);.
+
+15/29 (52%);.
+
+11/11 (100%);.
+
+0/1 (0%).
+
+Correspondence of SARS-CoV-2 RNA detection in wastewaters from hospital and college dormitories with presence/absence of COVID-19 cases detected via clinical testing.
+
+SARS-CoV-2 RNA detection in presence of a small number of asymptomatic cases.
+
+Poor correlation between PCR Ct values and number of new cases.
+
+NGS of SARS-CoV-2 from sewage collected in the San Francisco Bay found sequences corresponding to genomes detected in clinical specimens from the same area.
+
+Variants not found in clinical samples were found in wastewaters, providing evidence for the introduction of viral lineages.
+
+(PCS): 4/ 5 (93%);.
+
+(PGS): 5/6 (82%).
+
+SARS-CoV-2 RNA detected in primary clarified sludge when < 1% positivity was recorded in clinical testing.
+
+SARS-CoV-2 RNA concentration in wastewater increased 48 h prior to a reported increase in positive cases.
+
+SARS-CoV-2 RNA concentration in wastewater increased approx 96 h prior to a reported increase in community hospitalizations.
+
+SARS-CoV-2 RNA in primary clarified sludge showed a significant correlation with epidemiological data: daily cases, active cases and percent positive (strongest correlations observed with the number of active cases).
+
+Pepper mild mottle virus (PMMoV) normalization of RNA showed the strongest correlation to epidemiological metrics.
+
+Detection of SARS-CoV-2 RNA in sewage 5 to 19 days before the identification of cases (residents or staff) in a nursing home.
+
+SARS-CoV-2 RNA in wastewater increased exponentially during the outbreak.
+
+SARS-CoV-2 RNA was not detected anymore in wastewaters after the end of the outbreak.
+
+Detection of SARS-CoV-2 RNA in wastewaters 56 days before (> 90 in the case of Brazil) the report of COVID-19 cases in the Americas.
+
+Viral loads constant until early March 2020, followed by an increase coinciding with the onset of COVID-19 cases in the region.
+
+SARS-CoV-2 RNA concentration in wastewaters in two sewersheds (normalized using PMMoV) correlated with public health data in an early phase of the pandemic.
+
+Wastewater surveillance might be a lagging indicator for declining infection rates, possibly due to prolonged viral shedding.
+
+Identification by wastewater surveillance of asymptomatic COVID-19 cases undetected by the campus monitoring program.
+
+Detection power of one single asymptomatic individual in dorms with a resident populations of 150–200.
+
+First report of SARS-CoV-2 RNA in wastewaters in Slovenia.
+
+Detection of SARS-CoV-2 RNA in hospital untreated wastewater in presence of only one hospitalized COVID patient.
+
+Influents 5/12 (41.6%);.
+
+Solids 7/12 (58.3%).
+
+SARS-CoV-2 RNA concentrations in wastewater settled solids showed a significant correlation with COVID-19 clinically confirmed cases in the initial phase of the pandemic.
+
+Testing wastewater solids may be more sensitive than testing influent.
+
+Normalization by PMMoV did not substantially change correlation results with new COVID-19 cases.
+
+(WTP) 7.5 × 102 to 3.4 × 104;(g.c./L) (Other Locations).
+
+2.86 × 102 to 2.9 × 104 (g.c./L).
+
+First report quantifying SARS-CoV-2 RNA in wastewaters in the United Arab Emirates.
+
+Decrease of viral loads in wastewater correlated with the reduction of COVID-19 cases.
+
+The number of infected individuals was estimated using Monte Carlo simulation (approx 1.2 × 104).
+
+One region had higher estimates despite the lower viral loads when compared to another region, indicating that proper representation of the data is crucial in environmental surveillance of SARS-CoV-2.
+
+SARS-CoV-2 RNA was detectable before the number of cases reached < 1.0 per 100,000 people.
+
+SARS-CoV-2 RNA detection frequency remained high even after cases stopped increasing, possibly due to detection of virus from discharged or undiagnosed individuals.
+
+First report of SARS-CoV-2 RNA in wastewaters in Finland.
+
+Confirmed COVID-19 cases were reported in the municipalities of the sewerage network area.
+
+Peaks of SARS-CoV-2 RNA in wastewaters were followed by peaks in clinically confirmed cases.
+
+Using a prediction model cases could be anticipated by 3 weeks.
+
+WTP,.
+
+manhole.
+
+2,.
+
+1.
+
+Significant correlation between COVID-19 cases and SARS-CoV-2 RNA concentration in wastewaters was detected during the second epidemic wave in areas with a high prevalence of the disease.
+
+A significant correlation was found between the SARS-CoV-2 RNA concentration in wastewater and the number of COVID-19 cases with respect to the onset date.
+
+SARS-CoV-2 RNA concentration in sewage was higher in September compared to August 2020, corresponding to a ~ 2.2-fold rise in the number of confirmed cases.
+
+The increase of RNA concentration was detected 1–2 weeks before the in increase of confirmed cases.
+
+First report of SARS-CoV-2 RNA in wastewaters in India.
+
+Increase in SARS-CoV-2 RNA correlating with active COVID-19 patients.
+
+First report of SARS-CoV-2 RNA in wastewaters in Italy.
+
+SARS-CoV-2 RNA detected few days after the first notified autochthonous case, when the total number of reported COVID-19 cases was very low.
+
+Liquid fraction: 103.0–105.1 g.c./L, 101.2-.
+
+104.5 g.c./L, and 102.0–104.5 (N1, N2 ed E assay).
+
+Solid Fraction: 104.1–105.5 g.c./g, 101.5–106.0 g.c./g, and 101.4–106.2 g.c./g (N1, N2 ed E assay.
+
+Downward trend of SARS-CoV-2 RNA in wastewater samples in correspondance to the decrease of new COVID-19 cases.
+
+Significant daily fluctuation of SARS-CoV-2 RNA in wastewater were detected (fine-scale temporal dynamics of SARS-CoV-2).
+
+Sequencing of different regions of SARS-CoV-2 demonstrated changes in variant predominance.
+
+SARS-CoV-2 sequences in sewage closely resembled those from clinical samples.
+
+No SARS-CoV-2 RNA detection 3 weeks before the first Dutch case was reported.
+
+In one urban center, SARS-CoV-2 RNA detection in sewage 6 days before the first cases were reported.
+
+Viral load increase correlated significantly with the increase in COVID-19 prevalence.
+
+-SARS-COV-2 RNA was detected in 100% of untreated wastewater samples collected Michigan between April 8, 2020, and May 26, 2020.
+
+-Not an attempt to make predictions or statistical associations with clinical data was performed.
+
+Throughout a 10-week study, viral loads tracked the rise and fall of cases and of COVID-19 hospital admissions.
+
+SARS-CoV-2 RNA in sludge showed an increase in March that was not observed in clinical testing or hospital admissions data; the sludge results led the number of positive tests by date of specimen collection by 0–2 days, the percentage of positive tests by date of specimen collection by 0–2 days, hospital admissions by 1–4 days, and the number of positive tests by report date by 6–8 days.
+
+SARS-CoV-2 RNA detected prevalently in samples from areas with a higher number of reported COVID-19 cases.
+
+SARS-CoV-2 RNA was also detected in one sample from an area not yet reached by the outbreak.
+
+SARS-CoV-2 RNA was detected in sewage in a community where no COVID-19 cases had been reported.
+
+Sequencing of SARS-CoV-2 in sewage showed three strains sharing the same nucleotide mutations (clade G, B.1.1.33), which were also observed in clinical strains circulating in the same area during the study period.
+
+SARS-CoV-2 RNA was consistently detected in wastewater samples taken in late February 2020, when COVID-19 cases in that region were only incipient.
+
+RT-qPCR signal in wastewaters increased and reached a plateau faster than reported cases.
+
+Strong indication that SARS-CoV-2 was undergoing community transmission earlier than previously believed.
+
+Analysis of multiple WTPs in one city displayed differences in the local incidence of SARS-CoV-2, thus enabling the detection of local outbreaks.
+
+SARS-CoV-2 RNA peaks in wastewater preceded the peaks of COVID-19 hospitalized patients by 3–4 weeks.
+
+First report of SARS-CoV-2 RNA in wastewaters in Qatar.
+
+The trend of PCR Ct values in wastewater samples mirrored the number of new daily positive cases.
+
+The number of infected subjects was estimated by mathematical model using viral concentrations of wastewater samples; the estimated number was significantly higher than the officially reported ceses.
+
+SARS-CoV-2 RNA detected in sewage samples from six different sites.
+
+Viral RNA detected in samples collected in May 2020, when the number of COVID-19 cases was in rapid increase.
+
+66 ± 154 × 103 (g.c./L)(rural sewersheds or lower COVID-19 caseloads) to 390 ± 489 × 103 (g.c./L)( (urban.
+
+centers with higher COVID-19 caseloads).
+
+Urban sewersheds serving > 100,000 individuals and tourist communities had higher SARS-CoV-2 detection frequencies than facilities serving medium-sized and rural communities.
+
+Outbreaks of COVID-19 in two communities positively correlated with an increase of SARS-CoV-2 RNA in wastewater, while a decline in COVID-19 cases preceded the decline in RNA.
+
+The estimated number of SARS-CoV-2 shedders in each sewershed areas linearly correlated with the cumulative diagnosed COVID-19 cases.
+
+First report of SARS-CoV-2 RNA in wastewaters in Germany.
+
+Viral loads correlated with the cumulative and the acute COVID-19 cases reported in the catchment areas.
+
+Higher SARS-CoV-2 RNA concentration in wastewaters were significantly associated to positive COVID-19 tests reported one week later wastewater sampling.
+
+crAssphage co-detection displays potential to improve interpretations of wastewater surveillance data.
+
+SARS-CoV-2 RNA was quantifiable in some wastewater service areas where daily positives tests were less than 1 per 10,000 people or when weekly positive test rates within a sewershed were as low as 1.7%.
+
+SARS-CoV-2 RNA concentration showed an increase between March and mid-April, followed by a declining trend.
+
+Viral loads were significantly higher than expected based on clinically confirmed cases in the area.
+
+The number of positive cases estimated from wastewater viral titers is orders of magnitude greater than the number of confirmed clinical cases.
+
+SARS-CoV-2 genome could be detected early in the pandemic and before the epidemic grew massively (around 8 March).
+
+The concentration of viral RNA in raw sewage was approx. 104 g.c./L in samples collected at the beginning of March, when less than 10 hospitalized COVID-19 cases were reported in the catchment areas (and only 635 in the whole country).
+
+The increase of SARS-CoV-2 concentration in raw wastewater accurately followed the increase of human COVID-19 cases.
+
+A marked decrease of SARS-CoV-2 concentration in raw wastewater was observed concomitantly with the reduction of new COVID-19 cases, 29 days in the lockdown.
+
+SARS-CoV-2 RNA was found in the liquid waste of COVID-19 healthcare facility system in Wuhan.
+
+Viral RNA was also detected in the urban sewerage network.
+
+A: early warning; B: occurrence and trends of infection (and correlation with epidemiological measures); C: estimation of COVID-19 prevalence (and of the power of wastewater surveillance to detect SARS-CoV-2); D: SARS-CoV-2 genetic diversity and variants.
+
+WTP wastewater treatment plant, STP Sewage treatment Plants, SPS Sewage pomping Station, Avg average, NGS next-generation sequencing, PGS, post grid solid, PCS, primary clarified sludge.
+
+The main findings (summarized in Table S2) are presented here according to the following main areas:iWastewater surveillance as an early warning system;iiWastewater surveillance to assess infection occurrence and trends, and its correlation with epidemiological measures;iiiWastewater surveillance to estimate the prevalence of COVID-19 and its power to detect SARS-CoV-2 in a sewershed;ivWastewater surveillance to investigate SARS-CoV-2 genetic diversity and variants..
+
+Wastewater surveillance as an early warning system;.
+
+Wastewater surveillance to assess infection occurrence and trends, and its correlation with epidemiological measures;.
+
+Wastewater surveillance to estimate the prevalence of COVID-19 and its power to detect SARS-CoV-2 in a sewershed;.
+
+Wastewater surveillance to investigate SARS-CoV-2 genetic diversity and variants..
+
+Some of the studies are relevant to more than one of these categories..
+
+Twenty-five studies reported either the detection of SARS-CoV-2 in the environment before the identification of clinical cases, or a rise in SARS-CoV-2 concentrations in the environment before these trends became visible in the numbers of cases or hospitalizations (Agrawal et al., 2021a; Ahmed et al., 2021a; Betancourt et al., 2021; Chavarria-Miró et al., 2021; Colosi et al., 2021; D'Aoust et al., 2021b; Davó et al., 2021; Fongaro et al., 2021; Gibas et al., 2021; Gonçalves et al., 2021; Hata et al., 2021; Karthikeyan et al., 2021; Kumar et al., 2021; La Rosa et al., 2020, 2021a; Medema et al., 2020; Peccia et al., 2020; Prado et al., 2020, 2021; Randazzo et al., 2020a, 2020b; Saguti et al., 2021; Trottier et al., 2020; Wilder et al., 2021; Wurtzer et al., 2020).i.Occurrence of SARS-CoV-2 RNA in wastewater where no COVID-19 cases had been reported before.Two studies — one from Italy and one from Brazil — reported on the occurrence of SARS-CoV-2 as early as December 2019. Both studies used archival samples. The former found SARS-CoV-2 in sewage two months before the first autochthonous case was reported in Italy (La Rosa et al., 2021a), and the latter, more than 90 days ahead of the reports of COVID-19 cases in Brazil (Fongaro et al., 2021). Five other studies reported the occurrence of SARS-CoV-2 in wastewater prior to confirmed cases, 6 to 41 days ahead: in Amersfoort, the Netherlands (Medema et al., 2020), in Brazil, in the state of Rio de Janeiro (Prado et al., 2020, 2021), in Connecticut, USA (Peccia et al., 2020), in Spain, in low prevalence municipalities (Randazzo et al., 2020b), and in the metropolitan area of Barcelona (Chavarria-Miró et al., 2021), and in Brisbane, Australia (Ahmed et al., 2021a).ii.Occurrence of SARS-CoV-2 RNA in wastewater at the very beginning of the epidemic, when. COVID-19 cases were only incipient, or in low prevalence periodsFive studies detected SARS-CoV-2 RNA in wastewater or primary clarified sludge when the number of officially confirmed cases was still very low: in Milan, Italy, in February 2020 at a time when only 29 cases had been officially reported in the province (La Rosa et al., 2020), in France, in March and April 2020, when only 635 cases were reported in the whole country (Wurtzer et al., 2020), in the region of Valencia, Spain, in late February 2020, when COVID-19 cases were only incipient (Randazzo et al., 2020a), in Ottawa, Canada, SARS-CoV-2 was detected in sewage during the summer of 2020, when clinical testing recorded daily percent positivity below 1% (D'Aoust et al., 2021a). Finally, in The Netherlands, virus RNA was detected in sewage when the COVID-19 prevalence was still low (Medema et al., 2020).iii.Increment of SARS-CoV-2 RNA in the wastewater before rise in clinical COVID-19 cases.Seven studies reported viral concentrations increasing days or weeks ahead of positive test results: two days before in the City of Ottawa, Canada (D'Aoust et al., 2021b), one/two weeks ahead in Connecticut, US (Peccia et al., 2020), in New York (Wilder et al., 2021), in India (Kumar et al., 2021), and in Frankfurt, Germany (Agrawal et al., 2021a), and roughly 2–3 weeks in the Montpellier area in France (Trottier et al., 2020). Finally, in San Diego, California, a model showed that environmental surveillance data could predict one-week COVID-19 cases with excellent accuracy, and 3-week cases with fair accuracy (Karthikeyan et al., 2021).iv.Increment of SARS-CoV-2 RNA in the wastewater before rise in local hospital admissions.Three studies documented an increase in viral concentrations days or weeks ahead of local hospital admissions or increase in hospitalization: 1–4 days ahead in Connecticut, USA (Peccia et al., 2020), four days in the City of Ottawa, Canada (D'Aoust et al., 2021a) and three to four weeks in the city of Gothenburg and surrounding municipalities in Sweden (Saguti et al., 2021). In France, SARS-CoV-2 genome could be detected in wastewater samples during the months of March and April 2020, at a time when less than 10 hospitalized COVID-19 cases were reported in the catchment areas of the studied WWTPs (Wurtzer et al., 2020).v.Early warning system in congregate living settings.All the studies described above were based on the analysis of raw sewage or sludge samples collected at WWTPs, and thus representing large communities. Other papers have addressed the usefulness of wastewater surveillance as an early warning system in congregate living settings like university dormitories, college, nursing homes, and hospitals..
+
+Occurrence of SARS-CoV-2 RNA in wastewater where no COVID-19 cases had been reported before..
+
+Two studies — one from Italy and one from Brazil — reported on the occurrence of SARS-CoV-2 as early as December 2019. Both studies used archival samples. The former found SARS-CoV-2 in sewage two months before the first autochthonous case was reported in Italy (La Rosa et al., 2021a), and the latter, more than 90 days ahead of the reports of COVID-19 cases in Brazil (Fongaro et al., 2021). Five other studies reported the occurrence of SARS-CoV-2 in wastewater prior to confirmed cases, 6 to 41 days ahead: in Amersfoort, the Netherlands (Medema et al., 2020), in Brazil, in the state of Rio de Janeiro (Prado et al., 2020, 2021), in Connecticut, USA (Peccia et al., 2020), in Spain, in low prevalence municipalities (Randazzo et al., 2020b), and in the metropolitan area of Barcelona (Chavarria-Miró et al., 2021), and in Brisbane, Australia (Ahmed et al., 2021a)..
+
+Occurrence of SARS-CoV-2 RNA in wastewater at the very beginning of the epidemic, when. COVID-19 cases were only incipient, or in low prevalence periods.
+
+Five studies detected SARS-CoV-2 RNA in wastewater or primary clarified sludge when the number of officially confirmed cases was still very low: in Milan, Italy, in February 2020 at a time when only 29 cases had been officially reported in the province (La Rosa et al., 2020), in France, in March and April 2020, when only 635 cases were reported in the whole country (Wurtzer et al., 2020), in the region of Valencia, Spain, in late February 2020, when COVID-19 cases were only incipient (Randazzo et al., 2020a), in Ottawa, Canada, SARS-CoV-2 was detected in sewage during the summer of 2020, when clinical testing recorded daily percent positivity below 1% (D'Aoust et al., 2021a). Finally, in The Netherlands, virus RNA was detected in sewage when the COVID-19 prevalence was still low (Medema et al., 2020)..
+
+Increment of SARS-CoV-2 RNA in the wastewater before rise in clinical COVID-19 cases..
+
+Seven studies reported viral concentrations increasing days or weeks ahead of positive test results: two days before in the City of Ottawa, Canada (D'Aoust et al., 2021b), one/two weeks ahead in Connecticut, US (Peccia et al., 2020), in New York (Wilder et al., 2021), in India (Kumar et al., 2021), and in Frankfurt, Germany (Agrawal et al., 2021a), and roughly 2–3 weeks in the Montpellier area in France (Trottier et al., 2020). Finally, in San Diego, California, a model showed that environmental surveillance data could predict one-week COVID-19 cases with excellent accuracy, and 3-week cases with fair accuracy (Karthikeyan et al., 2021)..
+
+Increment of SARS-CoV-2 RNA in the wastewater before rise in local hospital admissions..
+
+Three studies documented an increase in viral concentrations days or weeks ahead of local hospital admissions or increase in hospitalization: 1–4 days ahead in Connecticut, USA (Peccia et al., 2020), four days in the City of Ottawa, Canada (D'Aoust et al., 2021a) and three to four weeks in the city of Gothenburg and surrounding municipalities in Sweden (Saguti et al., 2021). In France, SARS-CoV-2 genome could be detected in wastewater samples during the months of March and April 2020, at a time when less than 10 hospitalized COVID-19 cases were reported in the catchment areas of the studied WWTPs (Wurtzer et al., 2020)..
+
+Early warning system in congregate living settings..
+
+All the studies described above were based on the analysis of raw sewage or sludge samples collected at WWTPs, and thus representing large communities. Other papers have addressed the usefulness of wastewater surveillance as an early warning system in congregate living settings like university dormitories, college, nursing homes, and hospitals..
+
+In the USA, the results of wastewater samples collected from college dormitory complexes were highly consistent with known presence or absence of COVID-19 cases detected by clinical testing (Colosi et al., 2021). In a University campus in Arizona, the detection of virus RNA in wastewater led to selected clinical testing, resulting in the identification and isolation of infected individuals (both symptomatic and asymptomatic); subsequently, positive wastewater samples provided early warning of the presence of infections in a number of dorms, averting potential disease transmission (Betancourt et al., 2021). In another American university campus in North Carolina sewage surveillance allowed the identification of asymptomatic COVID-19 cases not detected by clinical monitoring programs, including in-house contact tracing, symptomatic testing, scheduled testing of student athletes, and daily symptom reporting (Gibas et al., 2021)..
+
+Wastewater surveillance applied to nursing homes in Valencia, Spain, detected SARS-CoV-2 infection cases. Moreover, the presence of SARS-CoV-2 RNA in sewage preceded the identification of cases among residents and staff or outbreak declaration, with lag times ranging from 5 to 19 days (Davó et al., 2021). In Slovenia, detection of SARS-CoV-2 RNA in hospital wastewater from an area with low COVID-19 prevalence was reported at a time in which only one patient was hospitalized (Gonçalves et al., 2021)..
+
+
+i.Assessing SARS-COV-2 occurrence and trends in large communities.
+
+Assessing SARS-COV-2 occurrence and trends in large communities.
+
+Thirty-five studies reported the importance of SARS-CoV-2 detection in the environment as a tool to monitor the spread of the virus in the community (Agrawal et al., 2021a, Ahmed et al., 2021a, Ahmed et al., 2021b, Ahmed et al., 2020a, Albastaki et al., 2021, Arora et al., 2020, Bertrand et al., 2021, Carrillo-Reyes et al., 2021, D’Aoust et al. 2021a, Davó et al., 2021, Gerrity et al., 2021, Gonçalves et al., 2021, Gonzalez et al., 2020, Graham et al., 2021, Hasan et al., 2021, Hokajarvi et al., 2021, Johnson et al., 2021, Kitamura et al., 2021, Kumar et al., 2020, Li et al., 2021a, Medema et al., 2020, Miyani et al., 2020, Mlejnkova et al., 2020, Nasseri et al., 2021, Petala et al., 2021, Saththasivam et al., 2021, Sharma et al., 2021, Sherchan et al., 2020, Tanhaei et al., 2021, Wang et al., 2020, Weidhaas et al., 2021, Westhaus 2021, Wu et al., 2020, Wurtzer et al., 2020, Zhou et al., 2021). Some limited their analyses to the presence or absence of the virus in wastewater without attempting to link wastewater data to epidemiological findings. The majority of studies, however, found that SARS-CoV-2 concentration reflected the circulation of the virus in the population and tracked the rise and fall of cases seen in SARS-CoV-2 clinical test results and local COVID-19 hospital admissions..
+
+An increase in SARS-CoV-2 concentrations in sewage correlated significantly with the increase in reported COVID-19 cases or hospital admission in different studies from a number of countries: The Netherland (Medema et al., 2020), Utah (Weidhaas et al., 2021), Southern Nevada (Gerrity et al., 2021), Germany (Westhaus 2021; Agrawal et al., 2021a), Dubai (Albastaki et al., 2021), India (Arora et al., 2020; Kumar et al., 2020; Sharma et al., 2021), Mexico (Carrillo-Reyes et al., 2021), Japan (Kitamura et al., 2021)..
+
+Other studies found that a decrease in SARS-CoV-2 concentrations provided indirect evidence for a reduction in virus transmission, often in response to precautionary measures implemented by the government, including a lockdown, in the following countries: France (Bertrand et al., 2021; Wurtzer et al., 2020), Greece (Petala et al., 2021), Qatar (Saththasivam et al., 2021), Canada (city of Gatineau) (D’Aoust et al. 2021b), United Arab Emirates (Hasan et al., 2021), Hawaii (Li et al., 2021a, 2021b), and Czech Republic (Mlejnkova et al., 2020), Australia (Ahmed et al., 2021a)..
+
+Studies performed over long periods of time observed both increasing and decreasing trends, mirroring outbreak trends. In Virginia, surveillance showed an increase prior to lockdown measures, a fall and a plateau before reopenings, and a significant rise starting following reopenings (Gonzalez et al., 2020); in California, SARS-CoV-2 RNA in wastewater settled solids correlated positively and significantly with COVID-19 clinically confirmed case counts, across both rising and falling periods of the epidemiological curve (Graham et al., 2021)..
+
+While in general SARS-CoV-2 concentration reflected the circulation of the virus in the population, lack of correlation was also found. For example in Massachusetts observed viral titers in sewage were significantly higher than expected based on clinically confirmed cases (Wu et al., 2020)..
+
+Some studied found that while the increase in case counts may occur concurrently or precede the increase in SARS-CoV-2 RNA in wastewater, the decline in SARS-CoV-2 RNA in wastewater may lag the decline in case counts (Gerrity et al., 2021; Hata et al., 2021; Weidhaas et al., 2021)..
+
+One study performed in South Africa monitored different WWTPs located in different areas in a single collection date, comparing quantitative data with the number of positive COVID-19 cases detected in the areas at the time and found that SARS-CoV-2 virus titers were in line with the number of positive COVID-19 cases reported in the catchment areas (Johnson et al., 2021)..
+
+Finally, a few studies reported only on the first detection of SARS-CoV-2 in wastewater in a certain country, without examining correlations with clinical data. These studies were performed in the following countries: Bangladesh (Ahmed et al., 2021b); Finland (Hokajarvi et al., 2021), Michigan (Miyani et al., 2020), and Tehran (Nasseri et al., 2021; Tanhaei et al., 2021).ii.SARS-CoV-2 occurrence and trends in congregate living settings.
+
+SARS-CoV-2 occurrence and trends in congregate living settings.
+
+Five studies demonstrated the usefulness of wastewater surveillance to study COVID-19 trends in congregate living settings, including nursing home facilities, hospitals, and large transport vessels..
+
+One study found that RNA levels in wastewater samples collected at nursing home facilities surged exponentially over the course of outbreaks; disappearance of SARS-CoV-2 RNA from sewers, on the other hand, was associated with the control of outbreaks or with the absence of new documented cases following the implementation of adequate measures (Davó et al., 2021)..
+
+Detecting SARS-CoV-2 RNA in samples from both aircraft and cruise ship wastewater indicating that surveillance of wastewater from large transport vessels with their own sanitation systems has potential as a complementary source of data to perform clinical testing and contact tracing among disembarking passengers (Ahmed et al., 2020a)..
+
+Three studies investigated occurrence and concentrations of SARS-CoV-2 RNA in hospital sewage: in a Chinese hospital in February 2020, when a total of 33 laboratory-confirmed COVID-19 patients were hospitalized in the isolation wards (Wang et al. 2020a), in another medical facilities in China, in early March 2020 (Zhou et al., 2021), and in hospital wastewater from a low COVID-19 disease prevalence area in Slovenia at a time when only one patient was hospitalized (Gonçalves et al., 2021)..
+
+Given the correlations found between wastewater surveillance and clinical data, eleven studies have addressed SARS-CoV-2 detection in the environment as a useful tool to estimate the prevalence of SARS-CoV-2 in the community or to study the power of environmental surveillance to detect SARS-CoV-2 in a sewershed (i.e., the minimal number of shedding individuals needed for environmental samples to yield a positive result) (Ahmed et al., 2020b, Baldovin et al., 2021, Chakraborty et al., 2021, Chavarria-Miró et al., 2021, Hasan et al., 2021, Hemalatha et al., 2021, Hong et al., 2021, Saththasivam et al., 2021, Weidhaas et al., 2021, Wilder et al., 2021, Wu et al., 2020)..
+
+In Utah, USA, the estimated number of COVID-19 cases in sewersheds (ten WWTPs covering 1.26 M people), was found to be linearly correlated with the cumulative diagnosed COVID-19 cases in a sewershed (Weidhaas et al., 2021). The estimated wastewater SARS-CoV-2 concentration compared to case counts was 0.78:1, suggesting that the estimated sum of SARS-CoV-2 shedders is less than the sum of confirmed cases during the study period, possibly due to decay of the RNA signal in wastewater, or inefficiencies in the sample processing method, or to the fact not all COVID-19 individuals shed the virus in feces and the length and duration of shedding vary between individuals (Weidhaas et al., 2021)..
+
+On the other hand, the estimated number of infected individuals in the population, declining from 542,313 ± 51,159 to 31,181 ± 3081 over the course of the sampling period, was significantly higher than the officially reported numbers in Qatar, possibly due to the fact that sewage surveillance captures not only diagnosed, symptomatic cases, but undiagnosed, asymptomatic and paucisymptomatic cases (Saththasivam et al., 2021). Likewise, findings obtained in Massachusetts, USA showed that the number of positive cases estimated from wastewater viral titers collected at a large treatment facility (rough prevalence of 0.1% to 5% depending on the estimated average of viral genomes per ml in stool) were orders of magnitude greater than the number of confirmed clinical cases (0.026% confirmed for the state of Massachusetts) (Wu et al., 2020). The authors highlight that this discrepancy could arise from a number of factors, and additional data on viral shedding in stool over the clinical course of the disease in COVID-19 patients may be required to better interpret these findings..
+
+In Spain, too, estimation of the total number of active shedders from SARS-CoV-2 RNA concentrations in wastewater, suggested a high proportion of asymptomatic infected individuals. The study estimated the prevalence of infection in the population to be 2.0–6.5%. Proportions of around 0.12% and 0.09% of the total population were determined to be required for successful detection of SARS-CoV-2 (Chavarria-Miró et al., 2021)..
+
+Wilder and co-workers found that SARS-CoV-2 RNA in wastewater was quantifiable in some service areas with daily positive test rates of less than 1 per 10,000 people, or when weekly positive test rates within a sewershed were as low as 1.7% (Wilder et al., 2021)..
+
+The Monte Carlo simulation was employed to estimate the number of infected individuals in a catchment area in Australia. The simulation estimated a median number of infections ranging from 1,090 on 27/3/2020 to 171 on 1/4/2020 in the catchment basin (median prevalence of 0.096% over the six-day surveillance). Estimates were in reasonable agreement with clinical observations (Ahmed et al., 2021a, 2021b)..
+
+An Italian study tested a WWTP serving the city of Padua, in northern Italy, and its hospital district, including a dedicated COVID-19 hospital, and estimated the detection power of wastewater surveillance using hospitalization data to be about 1 COVID-19 case per 500 inhabitants (Baldovin et al., 2021)..
+
+The number of infected people in different catchment areas was calculated in southern India post lockdown, in September 2020, using the estimated RNA (in gc/L) in wastewater samples, and was in line with the number of actual active COVID-19 cases in the catchment community (3983 vs 3418) (Chakraborty et al., 2021). In this same country, another study conducted from July 2020 toAugust 2020 estimated the spread of SARS-CoV-2 in the city of Hyderabad (nearly 10 million people), indicating that the number of infected people might be anywhere between thirty thousand and three million during the study period (Hemalatha et al., 2021); the possible number of infected people was calculated for three different shedding rates within the range (105, 106, and 107 copies/mL feces), owing to the uncertainty and difference in the number of viral particles excreted by infected individuals..
+
+SARS-CoV-2 in wastewater samples collected from five WWTPs in two prefectures in Japan was more likely to be detected when COVID-19 was prevalent in the catchment area (> 10 confirmed cases per 100,000 people), but it was detectable in wastewater even before the number of cases reached 1 per 100,000 people (Hata et al., 2021)..
+
+Finally, Hong and co-workers explored the minimal number of positive cases in a community necessary to detect the virus in wastewater by analyzing wastewaters from a septic tank and a biological activated sludge tank located onsite at a hospital. They found that between 253–409 positive cases per 10,000 people are required for SARS-CoV-2 RNA to be detected in wastewater (Hong et al., 2021)..
+
+Eight studies have reported the importance of sequencing environmental SARS-CoV-2 as a tool to determine strains circulating in the community and to study SARS-CoV-2 diversity (Agrawal et al., 2021b; Crits-Christoph et al., 2021; Izquierdo-Lara et al., 2021; La Rosa et al., 2021b; Martin et al., 2020; Nemudryi et al., 2020; Prado et al., 2021; Rimoldi et al., 2020)..
+
+The first “full-genome” sequence of SARS-CoV-2 from sewage, assembled using Ion Torrent PGM sequencer, with a mapping-based approach, was performed on a sample collected from a WWTP in northern Italy in April 2020. The phylogenetic analysis revealed that the sequenced strain was closely related to a SARS-CoV-2 strain isolated in the same region in March 2020, and to the commonest strains in Europe (Rimoldi et al., 2020)..
+
+In Germany, SARS-CoV-2 RNA from wastewater samples collected in December 2020 were sequenced. The analysis revealed 75 mutations, most of which had been previously reported in clinical samples only outside of Frankfurt, indicating that the sequencing of SARS-CoV-2 RNA in wastewater can provide insights into emerging variants in a city (Agrawal et al., 2021b)..
+
+Similar findings were reported by sequencing complete and near-complete SARS-CoV-2 consensus genomes from sewage collected in the San Francisco Bay in July 2020; the major consensus genotypes detected in the sewage were identical to clinical genomes from the region. Additional variants not found in clinical samples, were also identified in wastewaters (Crits-Christoph et al., 2021)..
+
+Martin and co-workers demonstrated changes in SARS-CoV-2 variant predominance in sewage collected in March/April 2020, using a nested RT-PCR approach targeting five different regions of the viral genome, concluding that viral RNA sequences found in sewage closely resemble those from clinical samples (Martin et al., 2020)..
+
+Genomic surveillance of strains detected in sewage in April/August 2020 in Brazil identified three complete consensus files, obtain by the assembled reads, showing the same nucleotide mutations, all belonging to clade G, B.1.1.33. These mutations had been observed in strains circulating in Rio de Janeiro during the period of the study (Prado et al., 2021)..
+
+Nemudryi and co-workers were able to obtain a nearly complete SARS-CoV-2 genome sequence from a wastewater sample collected in the USA in June 2020. Eleven single-nucleotide variants were detected in the assembled genome, which distinguished the wastewater SARS-CoV-2 sequence from the Wuhan-Hu-1/2019 reference sequence (Nemudryi et al., 2020)..
+
+Izquierdo-Lara and co-workers used next-generation sequencing of sewage samples to evaluate the diversity of SARS-CoV-2 in the Netherlands and Belgium between April and July 2020, finding the most prevalent clades (19A, 20A, and 20B), and clustering sewage samples with clinical samples from the same region. Several novel mutations in the SARS-CoV-2 genome were also detected (Izquierdo-Lara et al., 2021)..
+
+More recently, mutations characteristic of variants of concern (VOCs; Alpha and Gamma variant) and of other variants (20E (EU1)) were found in sewage samples collected in Italy between January and February 2021, using a long nested RT-PCR assay to detect key spike protein mutations distinctive of the major known circulating SARS-CoV-2 variants (La Rosa et al., 2021b)..
+
+Environmental virologists have studied pathogens in sewage for decades. In 1946, Dr. Melnick, was the first to point out that the presence or absence of poliovirus in sewage can give not only information on the risk of waterborne transmission, but also epidemiological information (Melnick, 1947). Today, the WHO recognizes the importance of environmental surveillance for poliovirus. It recommends clinical surveillance as a gold standard, but underlines that environmental surveillance can give valuable supplementary information, particularly in urban populations where acute flaccid paralysis surveillance is absent or questionable, persistent virus circulation is suspected, or frequent virus re-introduction is perceived (World Health 2003). Indeed, the discovery of polio transmission in Israel in 2013 through sewage monitoring– the first re-emergence in that country since 1988 – provided evidence that sewage monitoring could be used to reveal possible silent transmission globally. Over the last decades, environmental surveillance has been successfully used to study the circulation of a number of other enteric viruses, such as norovirus, adenovirus, hepatitis A and E viruses, and others (La Rosa & Muscillo, 2013; Sinclair et al., 2008). Moreover, the usefulness of environmental surveillance for viral pathogens has been demonstrated for non-enteric viruses as well – viruses like papillomavirus and polyomavirus (Hamza & Hamza, 2018; La Rosa et al., 2013)..
+
+The analysis of wastewater to monitor the emergence and spread of infectious disease at a population level has received renewed attention in light of the current COVID-19 pandemic..
+
+After the first detection of SARS-CoV-2 in wastewaters by Medema and co-workers in the Netherlands (Medema et al., 2020), a number of research groups have started working on monitoring SARS-CoV-2 in sewage. So far, National Wastewater Surveillance Systems have been implemented worldwide in response to the COVID-19 pandemic, in order to help public health officials to better understand the extent of SARS-CoV-2 infections in communities. Examples of European countries with an active WBE Surveillance system and related websites can be found in supplementary Table 3..
+
+For further information on applicability of SARS-CoV-2 sewage surveillance for supporting public health decisions and actions, see also recent reviews (Amereh et al., 2021; Lundy et al., 2021; McClary-Gutierrez et al., 2021)..
+
+The aim of this review was to summarize the state of the art of sewage surveillance applied to SARS-CoV-2, focusing on the main findings in terms of its potential contribution to clinical COVID-19 surveillance and to efforts to control the pandemic..
+
+Studies reviewed here reported the presence of SARS CoV-2 in sewage of different origin in 26 countries, covering practically every continent..
+
+Twenty-five studies have reported the detection of SARS-CoV-2 in the environment before the emergence of clinical cases, or a rise of SARS-CoV-2 concentrations in the environment before these same trends became evident in the number of clinical cases or hospitalizations, illustrating the potential of WBE as an early warning system. Some of these studies documented the detection of SARS-CoV-2 RNA in sewage as early as December 2019 (Fongaro et al., 2021; La Rosa et al., 2021a) or in any case before the official notification of cases in the investigated areas (Ahmed 2021a; Chavarria-Miró et al., 2021; Medema et al., 2020; Prado et al., 2020; Randazzo et al., 2020b). Other studies found SARS-CoV-2 RNA in wastewater when COVID-19 cases in that region were incipient and only a limited number of clinical cases had been documented or reported (La Rosa et al., 2020; Randazzo et al., 2020a; Wurtzer et al., 2020). In one study, viral RNA was detectable even before the number of cases reached < 1.0 per 100,000 people (Hata et al., 2021)..
+
+What is more, different authors demonstrated increases in SARS-CoV-2 viral loads in wastewater anticipating the onset of COVID-19 reported cases or hospitalizations by days or even weeks illustrating the ability of wastewater surveillance to anticipate the onset of subsequent waves (Agrawal et al., 2021a; D'Aoust et al., 2021a; Karthikeyan et al., 2021; Kumar et al., 2021; Peccia et al., 2020; Saguti et al., 2021; Trottier et al., 2020; Wilder et al., 2021)..
+
+Some studies have also demonstrated the usefulness of sewage monitoring to provide early warning of infections in buildings, such as universities, dormitories, hospitals or nursing homes (Betancourt et al., 2021; Colosi et al., 2021; Davó et al., 2021; Gibas et al., 2021; Gonçalves et al., 2021), documenting the subsequent interventions taken following the alarm. Near-source tracking in sewers serving particular buildings has emerged as an interesting non-invasive tool that, when combined with subsequent targeted population screening, may enable rapid identification and control of facility outbreaks (Hassard et al., 2021). In general, the early detection of SARS-CoV-2 RNA in wastewater can identify hotspots and sound the alarm in the event of imminent danger, allowing public health officials to coordinate and implement interventions to control the spread of infections..
+
+Thirty-four studies monitored the occurrence and trends of COVID-19. Some of these studies also correlated SARS-CoV-2 concentrations with epidemiological metrics, finding positive correlations between viral loads in sewage and COVID-19 cases (daily cases, active cases and percent positive) (Agrawal et al., 2021a, Albastaki et al., 2021, Arora et al., 2020, Bertrand et al., 2021, Carrillo-Reyes et al., 2021, D’Aoust et al. 2021b, Gerrity et al., 2021, Gonzalez et al., 2020, Graham et al., 2021, Hasan et al., 2021, Kitamura et al., 2021, Li et al., 2021a, Medema et al., 2020, Peccia et al., 2020, Petala et al., 2021, Saththasivam et al., 2021, Weidhaas et al., 2021, Westhaus 2021, Wurtzer et al., 2020). Moreover, the disappearance of SARS-CoV-2 RNA from sewage was associated with absence of new documented cases following the implementation of adequate preventive measures (Davó et al., 2021). Interestingly, some of the studies found that while the increase in case counts tends to occur concurrently or precede the increase in SARS-CoV-2 RNA in wastewater, the decline in SARS-CoV-2 RNA in wastewater may lag the decline in case counts, possibly due to prolonged viral shedding (Gerrity et al., 2021; Weidhaas et al., 2021)..
+
+At any rate, all these studies demonstrate that the quantitative monitoring of SARS-CoV-2 in raw sewage is a relevant indicator of the evolution of viral circulation in the population linked to a given sewage network..
+
+About 20% of the studies included in the present review attempted to estimate the prevalence of COVID-19 in a community (residents of a WWTP’s catchment area) using SARS-CoV-2 concentration data, the WWTP's average daily influent flow rate, the size of the population served and correction factors (Ahmed et al., 2020b, Baldovin et al., 2021, Chakraborty et al., 2021, Chavarria-Miró et al., 2021, Hasan et al., 2021, Hemalatha et al., 2021, Hong et al., 2021, Saththasivam et al., 2021, Weidhaas et al., 2021, Westhaus 2021, Wilder et al., 2021, Wu et al., 2020). The results of these studies are very variable, and remain rough estimates. The estimated number of SARS-CoV-2 shedders was found to be linearly correlated with the cumulative number of diagnosed COVID-19 cases in the sewershed of one study, but was significantly higher than the officially reported numbers in another. SARS-CoV-2 RNA in wastewater was quantifiable in some service areas with less than 1 per 10,000 people testing positive daily (Wilder et al., 2021). Current limitations and future prospects for WBE as an approach for the estimation of disease burden are described in a recent review (Bhattacharya et al., 2021). Li et al., 2021a, 2021b reviewed uncertainties in assessing SARS-CoV-2 prevalence by wastewater-based epidemiology (Li et al., 2021b). They divided the estimation process into different steps involving virus shedding, in-sewer transportation, sampling and storage, analysis of SARS-CoV-2 RNA concentrations, and back-estimation, and summarized the uncertainties associated with each step (Li et al., 2021b). They concluded that considerable uncertainties arise due to the methodology and the complexity of various processes involved. The EU Commission Recommendation of 17.3.2021 on a common approach to establish a systematic surveillance of SARS-CoV-2 and its variants in wastewaters (EUROPEAN COMMISSION, 2021), also underlines the fact that “wastewater surveillance is a tool to observe trends and not an absolute means to draw conclusions about the prevalence of COVID-19 in the population.”.
+
+The Recommendation also addresses the potential of environmental surveillance to study SARS-CoV-2 variants worldwide. New virus variants are evolving and spreading across the world. Some variants are more transmissible, or have a higher propensity to cause severe disease, and therefore constitute a threat to the response against the virus. Alpha, Beta, Gamma, and Delta (B.1.1.7, B.1.351, P.1, and B.1.617.2 pango lineages, respectively, recently relabelled by the WHO) are the so-called variants of concern for which clear evidence is available indicating a significant impact on transmissibility, severity and/or immunity that is likely to affect the epidemiological situation (European Centre for Disease Prevention and Control 2021). On the other hand, for the so-called variants of interest (VOI), the evidence is still preliminary or uncertain. It is therefore of utmost importance to use all available means to detect variants as soon as possible in order to provide timely and suitable responses. Surveillance of SARS-CoV-2 variants in wastewaters can provide a cost-effective, rapid, and reliable source of information in this respect. The vast majority of papers included in the present review looked at the occurrence and quantity of SARS-CoV-2 in wastewaters, but a few studies also sequenced environmental SARS-CoV-2 in order to determine the strains circulating in the community and to study SARS-CoV-2 genetic diversity (Agrawal et al., 2021b; Crits-Christoph et al., 2021; Izquierdo-Lara et al., 2021; La Rosa et al., 2021b; Martin et al., 2020; Nemudryi et al., 2020; Prado et al., 2021; Rimoldi et al., 2020). Some of these studies provided insights into emerging variants in the areas investigated, seeing that sequences yet to be identified in clinical samples, were found in wastewaters. Also, SARS-CoV-2 VOCs have been detected in sewage (pango lineage B.1.1.7 and P.1), suggesting that tracking SARS-CoV-2 variants and their abundance in sewersheds could provide an early warning system for the emergence or spread of more infectious or virulent strains in the community. More recently, SARS-CoV-2 VOCs and VOIs were identified in wastewater samples matching those found in clinical isolates from the same time periods (Ai et al., 2021; Avgeris et al., 2021; Carcereny et al., 2021; Gregory et al., 2021; Heijnen et al., 2021; La Rosa et al., 2021c; Lee et al., 2021; Mishra et al., 2021; Rios et al., 2021; Swift et al., 2021; Wurtz et al., 2021; Yaniv et al., 2021)..
+
+Notably, some of the studies reviewed here demonstrated that the data on SARS-CoV-2 environmental monitoring were effectively used to guide public health decisions (Ahmed 2020b, Betancourt et al., 2021; Chavarria-Miró et al., 2021; Gibas et al., 2021; Prado et al., 2021; Saguti et al., 2021). For example, sewer monitoring of SARS-CoV-2 in Spain enabled the identification of specific COVID-19 hot spots and the rapid adoption of appropriate infection control measures, such as mass testing (Chavarria-Miró et al., 2021). In Sweden, an analysis of wastewater from different parts of the city of Gothenburg showing differences in local incidence of SARS-CoV-2 proved useful in the adoption of public health measures such as tracking to mitigate the spread, and in the planning of hospital bed availability and care needs (Saguti et al., 2021). In Brazil, environmental surveillance provided helped identify regions with unreported cases of the disease, mainly in socially vulnerable communities, and define regionalized coping strategies in priority areas and plan the distribution of tests and other resources (Prado et al., 2021). Based on sewage findings, an active surveillance was launched to search for individuals showing COVID-19-related symptoms, infected individuals were identified through testing and measures to control the spread of the disease were implemented. Similarly, Ahmed and co-workers showed that wastewater surveillance in large transport vessels with their own sanitation systems (aircraft and cruise ships) has potential as a complementary source of data to prioritize clinical testing and contact tracing among disembarking passengers (Ahmed et al., 2020b). Implementing building-level SARS-CoV-2 wastewater surveillance on a university campus enabled the identification of asymptomatic COVID-19 cases that were not detected by other components of the campus monitoring program (including in-house contact tracing, symptomatic testing, scheduled testing of student athletes, and daily symptom reporting). These findings were delivered to decision makers, who imposed lockdown and testing measures to control the spread of infection (Gibas et al., 2021).The University of Arizona utilized sewage surveillance paired with clinical testing as a surveillance tool to monitor the community for SARS-CoV-2 in near real time, as students re-entered campus in the fall, and identified one symptomatic and two asymptomatic individuals in a dorm, which was critical to COVID-19 containment (Betancourt et al., 2021)..
+
+In conclusion, SARS-CoV-2 was detected in wastewater before the first reported clinical cases in many countries, suggesting that monitoring of SARS-CoV-2 in wastewater could serve as an early warning system to identify signs of outbreaks and potentially prevent them in both large and small communities. Monitoring trends in viral concentrations in sewage make it possible to follow the spread and dynamics of the disease, thus allowing the implementation of timely response measures for the containment of outbreaks and wastewater-based epidemiology seems a promising approach for estimating population-wide COVID-19 prevalence. To date, however, uncertainties limit the reliability of this approach. Finally, tracking SARS-CoV-2 variants and their abundance in sewersheds could provide an early warning system for the emergence and/or spread of more infectious or virulent strains in the community..
+
+Below is the link to the electronic supplementary material.Supplementary file1 (DOCX 20 kb)Supplementary file2 (DOCX 22 kb)Supplementary file3 (DOCX 21 kb).
+
+Supplementary file1 (DOCX 20 kb).
+
+Supplementary file2 (DOCX 22 kb).
+
+Supplementary file3 (DOCX 21 kb).
+
+Publisher's Note.
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations..
+

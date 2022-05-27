@@ -1,0 +1,77 @@
+We report an outbreak of SARS-CoV-2 lineage alpha in gorillas and felid species in a zoo in Prague, Czech Republic. The course of illness and clinical signs are described, and the particular SARS-CoV-2 variants are characterized by next generation sequencing and phylogenetic analysis. The putative transmission routes are also inferred..
+
+The severe acute respiratory syndrome, coronavirus 2 (SARS-CoV-2), responsible for the ongoing coronavirus pandemic, apparently originated in a bat reservoir [14, 5], and was transmitted to humans as a zoonotic infection. From the initial outbreak in December 2019, the virus has spread globally and evolved along multiple phylogenetic lineages [12, 15]. During the beginning of 2021, the so-called alpha variant (B.1.1.7), first announced on December 14, 2020 in the United Kingdom [15], was of concern due to its increased transmissibility in the human population and the severity of illness [4]. Since its appearance, the B.1.1.7 lineage has begun to replace the pre-existing variants and started to prevail in the European population..
+
+The constant interaction between man and animals has also created many opportunities for reverse-zoonotic transmission to other animal species. Accordingly, multiple SARS-CoV-2 spill-over events have been reported [5, 11]. Given the higher transmission rate of the B.1.1.7 variant, the probability of reverse-zoonotic events is even increasing. In the study presented, we report infections of the SARS-CoV-2 B.1.1.7 variant in gorillas, lions, tigers and a leopard cat in a zoo in the Czech Republic..
+
+Total nucleic acid was extracted from 200µl of swab suspension (MagNAPure Compact, Total NA extraction kit, Roche) and eluted to 50µl. The SARS-CoV2 virus was detected by RT-qPCR method targeting the E gene [3] (QuantiNova Probe RT-PCR kit, Qiagen). The SARS-CoV2 virus genome was sequenced from five specimens obtained from tigers, one amur leopard cat, one lion and two gorillas..
+
+Real-time next-generation sequencing was performed by the nanopore technology using a single Flongle flowcell for each individual specimen (Oxford Nanopore Technologies). Briefly, the SARS-CoV2 virus genome was amplified using tiled amplicons [7]. The sequencing libraries were puri ed (SPRIselect beads; Beckman Coulter) and quantified (QIAxpert; Qiagen). End-preparation, and sequencing adapter ligation were performed according to the manufacturer’s instructions..
+
+The raw data were basecalled by Guppy and the reads were reference mapped and assembled using the ARTIC bioinformatic pipeline. The consensus sequences of ve SARS-CoV2 strains were submitted to the GISIAD EpiFlu (accession numbers EPI_ISL_1497613-17) and GenBank (OL752440-OL752444) databases. Phylogenetic and haplotype network analysis were performed using the Nexstrain platform [9] and PopART program [1] respectively..
+
+The Prague Zoological Garden is home to eight western lowland gorillas (Gorilla gorilla gorilla) (Table 1)..
+
+Approximately fifty meters away, a big cat house is situated and is divided into two wings. Wing A is occupied by a pair of Sumatran (Panthera tigris sumatrae) and a pair of Malayan (P. t. jacksoni), tigers. Wing B hosts three Asiatic lions (P. leo persica) and a pair of Fishing cats (Prionailurus viverrinus), Amur leopard cats (P. bengalensis euptilurus), Palawan leopard cats (P. b. heaneyi) and Geoffroy’s cats (Leopardus geoffroyi). Further, Wing B is occupied by one Clouded leopard (Neofelis nebulosa) and one Javan leopard (Panthera pardus melas). Each of the felid species inhabits its own dormitory, which is separated by glass or solid partitions and is connected by a tunnel to an outdoor area. An overview of all animals is provided in Table 1..
+
+On February 21, 2021 clinical signs reminiscent of COVID-19 disease such as tiredness, dry cough and loss of appetite were observed in a male gorilla, Richard. Fatigue lasted for four days. Similarly, the 47-year-old female, Kamba, developed fatigue which lasted from February 24 to March 5. On March 17, two females, Bikira and Kijivu, were seen coughing. No clinical signs were observed among the other animals in the gorilla troop..
+
+Concurrently (February 21, 2021), exhaustion, cough and nasal discharge appeared in two lions, Jamvan and Suchi. Within five days, the clinical signs subsided. Meanwhile (February 24, 2021), the Amur leopard cat began to sneeze and developed serous and bloody nasal discharge and rhinitis. Clinical signs were observed for two days. Between March 1-2, 2021, the Malayan tigers Johann and Banya started to growl and wheeze followed by coughing, nasal discharge, lethargy and loss of appetite. On March 5, 2021 similar signs developed in a Sumatran tiger named Falco, while the other Sumatran tiger, Cinta, showed no signs of illness. Clinical signs in Falco persisted for four to five days. Generally, the illness was more severe in the tigers compared to the lions..
+
+Fecal specimens collected both from the gorilla and the big cat houses during the course of the infection showed weak positivity for RT-qPCR [3], (Table 2)..
+
+Complete coding genomic sequences of the SARS-CoV-2 virus were obtained from the female gorillas, Shinda and Kamba, from a mixed specimen obtained from the lions, the Malayan tiger Johann, and one Amur leopard cat by next generation sequencing [7, 13] (Table 2). Phylogenetic [9] and haplotype network [1] analyses (Figure 1,2) suggested that all of the zoo strains belong to the B.1.1.7 lineage. Furthermore, a clear separation of the SARS-CoV-2 genomes between the gorillas and felid species was observed which corresponded to six nucleotide differences..
+
+Epidemiological investigation among the zoo employees revealed that one gorilla and two cat keepers were diagnosed as COVID-19 positive shortly before the outbreak in the animals, i.e., February 21-23, 2021 (Table 2). All of them remained in isolation. In addition, the B.1.1.7 SARS-CoV-2 lineage was identified in one gorilla keeper and one cat keeper by the local public health authorities. The SARS-CoV-2 lineage of the second COVID-19 positive cat keeper is unknown. Unfortunately, clinical specimens were not available for next generation sequencing and back tracking..
+
+Nucleotide sequence comparison of 668 SARS-CoV-2 genomes collected in the Czech Republic during 2021 did not reveal an absolute sequence identity between animal and human strains. However, BLAST analysis, performed across the GISAID’s EpiCoV and NCBI databases, showed 99.99% (29485/29487) identity of the gorilla SARS-CoV-2 genomes and 100% identity of the felid SARS-CoV-2 genome when compared to other human strains..
+
+Detection of the SARS-Cov-2 virus in domestic and other animal species [5, 11] suggests its reverse-zoonotic potential. The likelihood of this back-spillover may be even enhanced by the emergence of novel variants with higher infectivity [4]. The outbreak of lineage B.1.1.7 in the Prague Zoo correlates with the rise of a new variant in the human population of the Czech Republic..
+
+Sequence differences between the gorilla and felid SARS-CoV-2 genomes strongly suggest two independent incursion events, both from a human host. Subsequently, the virus strains spread to secondary individuals by direct contact, the gorilla-like strain to other members of the troop and the felid-like strain among other felid species. However, detailed infection routes are difficult to elucidate. The zoo had been closed from the middle of December 2020, and all preventive measures, like using KN95 or FFP2/3 masks, gloves or hand disinfectants and disinfection mats had already been in place weeks before the appearance of the B.1.1.7 in the Czech Republic. Nevertheless, the reverse-zoonotic transmission from the infected employees represents the most plausible explanation despite the absence of direct proof in the form of SARS-CoV-2 genomic sequences. We hypothesize that a combination of multiple factors like the higher infectivity of the B.1.1.7 lineage, the subclinical infection of some keepers, along with inattention or negligence in the application of protective equipment led to the infection both of the great apes and the exotic felids. Hence, the only way to prevent a SARS-CoV-2 re-occurrence is strict adherence to the hygiene measures, limiting human-animal interactions as much as possible, as well as increasing the frequency of virus screening among the zoo staff..
+
+On the other hand, our findings suggest that gorillas and big cats are not only being actively infected with SARS-CoV-2, but they also develop clinical signs and efficiently spread the virus to other animals. This is in agreement with the recent report from the Bronx Zoo [10]. However, development of clinical signs in the Amur leopard cat is at odds with previous observations of domestic cats where no clinical signs of COVID-19 were observed [8, 2]..
+
+The susceptibility of felid species, and more importantly domestic cats as a popular pet, may have important epidemiological consequences. Felid species kept in captivity or that live in close quarters to people may serve as an alternative evolutional niche where the SARS-CoV-2 virus may undergo important genetic [2] or even antigenic changes.This necessitates continued genomic surveillance for new SARS-CoV-2 variants, both in human and animal populations..
+
+The authors declare that no funds, grants, or other support were received during the preparation of this manuscript..
+
+The consensus sequences of five SARS-CoV2 strains were submitted to the GISIAD EpiFlu (accession numbers EPI_ISL_1497613-17) and GenBank (OL752440-OL752444) databases. The data generated during the current study are available from Alexander Nagy.
+.
+
+
+Competing Interests
+.
+
+The Authors declare that there is no conflict of interest..
+
+
+Author Contributions
+.
+
+
+All authors contributed to the study conception and design. Material preparation, data collection and analysis were performed by Alexander Nagy, Martina Stará, Roman Vodička, Lenka Černíková, Helena Jiřincová, Vlastimil Křivda, Kamil Sedlák. The first draft of the manuscript was written by Alexander Nagy and all authors commented on previous versions of the manuscript. All authors read and approved the final manuscript.
+.
+
+
+Ethics Approval
+.
+
+The analysed specimens were not collected for the purpose of the presented study. The ethical standards of animal welfare are under the supervision of the State Veterinary Administration of the Czech Republic..
+
+
+Consent to participate
+.
+
+
+Informed consent was obtained from all individual participants included in the study.
+.
+
+Phylogenetic analysis of the SARS-CoV-2 strains. The evolutionary relationships and clade classification, based on the full coding genome sequences, were inferred by the Nextstrain web application; https://clades.nextstrain.org/ [10]. The SARS-CoV-2 strains from gorillas and cats were designated by a square and triangle, respectively. The sequences were uploaded to the GISAID’s EpiCoV database under the accession numbers EPI_ISL_1497613-17..
+
+Haplotype network analysis of the SARS-CoV-2 strains. The median-joining tree was calculated from representative SARS-CoV-2 genomes collected in 2021 in the Czech Republic (blue) by using PopART [11]. The SARS-CoV-2 strains originating from the zoo are highlighted in red. The node diameters are proportional to the number of identical sequences. The hatch marks represent the number of mutational differences..
+
+Mixed specimen.
+
+Bold capital letters indicate specimens used for next generation sequencing.
+

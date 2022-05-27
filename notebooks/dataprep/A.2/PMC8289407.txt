@@ -1,0 +1,619 @@
+These authors contributed equally to this work..
+
+The COVID-19 pandemic originating in the Wuhan province of China in late 2019 has impacted global health, causing increased mortality among elderly patients and individuals with comorbid conditions. During the passage of the virus through affected populations, it has undergone mutations, some of which have recently been linked with increased viral load and prognostic complexities. Several of these variants are point mutations that are difficult to diagnose using the gold standard quantitative real-time PCR (qRT-PCR) method and necessitates widespread sequencing which is expensive, has long turn-around times, and requires high viral load for calling mutations accurately. Here, we repurpose the high specificity of Francisella novicida Cas9 (FnCas9) to identify mismatches in the target for developing a lateral flow assay that can be successfully adapted for the simultaneous detection of SARS-CoV-2 infection as well as for detecting point mutations in the sequence of the virus obtained from patient samples. We report the detection of the S gene mutation N501Y (present across multiple variant lineages of SARS-CoV-2) within an hour using lateral flow paper strip chemistry. The results were corroborated using deep sequencing on multiple wild-type (n = 37) and mutant (n = 22) virus infected patient samples with a sensitivity of 87% and specificity of 97%. The design principle can be rapidly adapted for other mutations (as shown also for E484K and T716I) highlighting the advantages of quick optimization and roll-out of CRISPR diagnostics (CRISPRDx) for disease surveillance even beyond COVID-19. This study was funded by Council for Scientific and Industrial Research, India..
+
+SARS-CoV-2, the virus responsible for COVID-19, has a genome made of RNA (a nucleic acid similar to DNA) that can mutate, potentially making the disease more transmissible, and more lethal. Most countries have monitored the rise of mutated strains using a technique called next generation sequencing (NGS), which is time-consuming, expensive and requires skilled personnel. Sometimes the mutations to the virus are so small that they can only be detected using NGS. Finding cheaper, simpler and faster SARS-CoV-2 tests that can reliably detect mutated forms of the virus is crucial for public health authorities to monitor and manage the spread of the virus..
+
+Lateral flow tests (the same technology used in many pregnancy tests) are typically cheap, fast and simple to use. Typically, lateral flow assay strips have a band of immobilised antibodies that bind to a specific protein (or antigen). If a sample contains antigen molecules, these will bind to the immobilised antibodies, causing a chemical reaction that changes the colour of the strip and giving a positive result. However, lateral flow tests that use antibodies cannot easily detect nucleic acids, such as DNA or RNA, let alone mutations in them..
+
+To overcome this limitation, lateral flow assays can be used to detect a protein called Cas9, which, in turn, is able to bind to nucleic acids with specific sequences. Small changes in the target sequence change how well Cas9 binds to it, meaning that, in theory, this approach could be used to detect small mutations in the SARS-CoV-2 virus..
+
+Kumar et al. made a lateral flow test that could detect a Cas9 protein that binds to a nucleic acid sequence found in a specific mutant strain of SARS-CoV-2. This Cas9 was highly sensitive to changes in its target sequence, so a small mutation in the target nucleic acid led to the protein binding less strongly, and the signal from the lateral flow test being lost. This meant that the lateral flow test designed by Kumar et al. could detect mutations in the SARS-CoV-2 virus at a fraction of the price of NGS approaches if used only for diagnosis. The lateral flow test was capable of detecting mutant viruses in patient samples too, generating a colour signal within an hour of a positive sample being run through the assay..
+
+The test developed by Kumar et al. could offer public health authorities a quick and cheap method to monitor the spread of mutant SARS-CoV-2 strains; as well as a way to determine vaccine efficacy against new strains..
+
+Testing and isolating SARS-CoV-2-positive cases has been one of the main strategies for controlling the rise and spread of the coronavirus pandemic that has affected about 157 million people and 3 million deaths all over the world (World Health Organization, WHO). Like all other viruses, the SARS-CoV-2 genome has undergone several mutations during its passage through the human host, and the positive or negative impact of most of them on virus transmission and immune escape are still under investigation (Rabi et al., 2020; Pachetti et al., 2020; Korber et al., 2020; Zhou et al., 2021)..
+
+In December 2020, health authorities in the United Kingdom had reported the emergence of a new SARS-CoV-2 variant (lineage B.1.1.7) that is phylogenetically distinct from other circulating strains in the region. With 23 mutations, this variant had rapidly replaced former SARS-CoV-2 lineages occurring in the region and has been established to have greater transmissibility through modeling and clinical correlation studies (Chand, 2020; Horby et al., 2021; Davies et al., 2021; Volz et al., 2021). Subsequently, the South African and Brazilian authorities have also reported variants (B.1.351 and P.1, respectively) that have been associated with a higher viral load in preliminary studies (Tegally et al., 2020; Faria et al., 2021). Till May 2021, at least 13 emerging SARS-CoV-2 lineages with multiple mutations have been reported from sequencing efforts across the globe (CDC, 2021). Variants in lineages of the SARS-CoV-2 genome have been classified either as Variants of Concern (VOC) or Variants of Interest (VOI). Among these, the VOCs have shown an indication of higher severity, transmissibility, and impact on pandemic spread from ongoing studies. VOIs have limited evidence for the same currently but are being monitored for potential impact in the future. Till May 2021, at least five lineages (B.1.1.7, P.1, B.1.351, B.1.427, and B.1.429) have been classified as VOCs and are being investigated for their susceptibility to diagnosis, response to vaccines, and correlation with disease severity and transmission (CDC, 2021)..
+
+As air travel has resumed in most countries post lockdown, infected individuals harboring these mutations have been detected in countries far away from their origin, generating concerns about greater disease incidence unless these cases are recognized and isolated. That is particularly important as vaccine roll-out has been initiated in several countries, and the studies about vaccine efficacy against the new variants are only in their infancy..
+
+Among the diagnostic methods that have been employed for identifying coronavirus infected cases, qRT-PCR has been the most widely adopted nucleic-acid-based test due to its ability to identify even low copy numbers of viral RNA in patient samples and has been considered as a gold standard in diagnosis (Mackay, 2002; Carter et al., 2020). However, probe-based qRT PCR assays rely on amplification of a target gene with real-time analysis of DNA copy numbers and are generally not suited for genotyping point mutations associated with novel CoV2 variants (Afzal, 2020; Yin, 2020; Vandenberg et al., 2021). Although strategies such as Amplification Refractory Mutation System-quantitative PCR (ARMS-qPCR) have been described in the literature for genotyping mutations in nucleic acids, these require substantial design and validation for reproducible readouts and hence are not routinely used for clinical diagnosis (Little, 2001). Similarly, antigen-based SARS-CoV-2 assays which have lower sensitivity than qPCR have not yet been reported to specifically identify mutant variants. In the absence of any true diagnostic test for the variants, most countries have resorted to next-generation sequencing of patient samples both for understanding the evolution of mutations in the virus as well as detecting the variants in suspected individuals (Vandenberg et al., 2021). Using sequencing for routine diagnosis greatly increases both the time and cost of identifying positive individuals (Jayamohan et al., 2021)..
+
+We and several others have documented the applicability of CRISPR diagnostics (CRISPRDx) for identifying CoV2 signatures in patient samples (Broughton et al., 2020; Patchsung et al., 2020; Ding et al., 2020; Joung et al., 2020; Fozouni et al., 2021; Guo et al., 2020; Lucia et al., 2020; Wang et al., 2021; Azhar et al., 2021). Using the Cas9 from Francisella novicida (FnCas9), we have recently reported the development of the FELUDA (FnCas9 Editor Linked Uniform Detection Assay) platform for SARS-CoV-2 diagnosis with similar accuracy as the gold standard qPCR test (Azhar et al., 2021). The assay which is performed on a Lateral Flow strip generates a visual readout within an hour that is quantifiable using a smartphone-based application. Since FnCas9 has a very high intrinsic specificity to point mismatches in the target (Acharya et al., 2019), we speculated that the enzyme can also be used for detecting SARS-CoV-2 variants on a paper strip with high accuracy. In this report, we introduce RAY (Rapid variant AssaY), a paper-strip based platform to identify mutational signatures of the coronavirus variants in a sample eliminating the need for sequencing-based diagnostics. RAY can successfully detect both SARS-CoV-2 infection as well as the presence of the common N501Y mutation present across the majority of VOCs described so far and distinguish it from the parent CoV2 lineage. Thus, it can be employed as a primary surveillance method for isolating cases belonging to these groups and can enable the initiation of appropriate management protocols..
+
+The study was designed to evaluate the efficacy of RAY on left-over patient samples. The intent of the study was to develop a robust CRISPR diagnostic that can perform with high accuracy for variant detection at significantly low cost and time taken for detection as compared to sequencing. For the N501Y detection using RAY, SARS-CoV-2 and control RNA samples were received from the diagnostic laboratory at CSIR-Institute of Genomics and Integrative Biology..
+
+A list of all oligos (Merck) used in the study can be found in Supplementary file 4..
+
+Plasmids containing FnCas9-WT and dFnCas9 (catalytically-inactive, dead) (Acharya et al., 2019) sequences were transformed and expressed in Escherichia coli Rosetta 2 (DE3) (Novagen). Rosetta 2 (DE3) cells were cultured at 37°C in LB medium (with 50 mg/ml Kanamycin) and induced when OD600 reached 0.6, using 0.5 mM isopropyl β-D-thiogalactopyranoside (IPTG). After an overnight culture at 18°C, E. coli cells were harvested by centrifugation and resuspended in a lysis buffer (20 mM HEPES, pH 7.5, 500 mM NaCl, 5%) glycerol supplemented with 1X PIC (Roche) containing 100 µg/ml lysozyme. Subsequent cell lysis by sonication, the lysate was put through to Ni-NTA beads (Roche). The eluted protein was further purified by size-exclusion chromatography on HiLoad Superdex 200 16/60 column (GE Healthcare) in a buffer solution with 20 mM HEPES pH 7.5, 150 mM KCl, 10% glycerol, 1 mM DTT. The purified proteins were quantified by Pierce BCA protein assay kit (Thermo Fisher Scientific) and stored at −80°C until further use..
+
+All 48 VOCs/VOIs within 12 emerging SARS-CoV-2 lineages till May 2021 were taken from the Centers for Disease Control and Prevention report (CDC, 2021; Rambaut et al., 2020; Hadfield et al., 2018). Further, by having these mutations at 2nd/6th/16th/19th bp upstream to PAM (NGG) in the SARS-CoV2- genome, a total of 19 among 48 variants could be targeted with the RAY strategy. Next, within the variant nucleotide containing crRNA sequence, a second synthetic mismatch nucleotide at the corresponding 6th/2nd/19th/16th position was added. Primers required for IVC assays flanking these crRNAs were designed using Primer3plus python library (Untergasser et al., 2012). Finally, the crRNAs/primers were checked for off-targets on a representative bacterial genome database (NCBI), virus genome database (NCBI) (Brister et al., 2015), and human genome/transcriptome (GENCODE GRCh38) (Frankish et al., 2019)..
+
+For the benefit of end users with quick design and implementation of the RAY for any targetable SNV/VOC/VOI, we now have also optimized our previously developed web tool JATAYU (Junction for Analysis and Target Design for Your FELUDA assay) (Azhar et al., 2021), which functions by incorporating mismatches in the sequence provided by the user. The server generates sgRNA and flanking primer sequences ready for synthesis (http://jatayu.igib.res.in)..
+
+Purified PCR 228 bp amplicon from HBB gene was used as substrate in in vitro cleavage assays, as optimized in our previous studies (Acharya et al., 2019). Substrate amplicons were treated with reconstituted dFnCas9 RNP complex (100 nM) in a reaction buffer (20 mM HEPES, pH7.5, 150 mM KCl, 1 mM DTT, 10% glycerol, 10 mM MgCl2) at 37°C for 10 min, the cleaved products were visualized on a 2% agarose gel and densitometric quantification of images were done (Figure 1A)..
+
+(A) FnCas9 is unable to bind or cleave targets having two mismatches at the PAM proximal 2nd and 6th or PAM distal 16th and 19th positions as shown (left panel). The quantification of cleavage with a substrate with mismatches at indicated positions is shown (right panel, n = 3 independent experiments, errors s.e.m, student’s paired T-test p values ***<0.001 are shown). (B) Dot plot showing the major SNVs (y-axis) present in the emerging SARS-CoV-2 lineages (x-axis). The status of each SNV as being targetable by RAY is indicated as dots..
+
+HBB WT sgRNA: GTAACGGCAGACTTCTCCTC.
+
+HBB 2 and 6 MM sgRNA: GTAACGGCAGACTTATCCAC.
+
+HBB 16 and 19 MM sgRNA:GGAAAGGCAGACTTCTCCTC.
+
+Sequences containing WT and Mutant were reverse transcribed, and amplified using primers with/without 5’ biotinylation from SARS-CoV-2 Viral RNA-enriched samples..
+
+Purified PCR amplicons containing WT and Mutant sequences were used as substrates in in vitro cleavage assays, as optimized in our previous studies (Azhar et al., 2021). Substrate amplicons were treated with reconstituted RNP complex (100 nM) in a reaction buffer (20 mM HEPES, pH7.5, 150 mM KCl, 1 mM DTT, 10% glycerol, 10 mM MgCl2) at 37°C for 10 min, and cleaved products were visualized on a 2% agarose gel..
+
+A region from the SARS-CoV-2 S gene containing N501Y/T716I/E484K mutations was reverse transcribed and amplified using a single end 5’ biotin-labeled primer. In vitro transcription of sgRNAs/crRNAs was done using MegaScript T7 Transcription kit (ThermoFisher Scientific) following manufacturer’s protocol and purified by NucAway spin column (ThermoFisher Scientific). Chimeric gRNA (crRNA:TracrRNA) was prepared by equally (crRNA:TracrRNA molar ratio,1:1) combining respective crRNAs and synthetic 3'-FAM-labeled TracrRNA in an annealing buffer (100 mM NaCl, 50 mM Tris-HCl pH8 and 1 mM MgCl2) by heating at 95°C for 2–5 min and then allowed to cool at room temperature for 15–20 min. RNP complex was prepared by equally mixing (Protein:sgRNA molar ratio,1:1) Chimeric gRNA and dead FnCas9 in a buffer (20 mM HEPES, pH7.5, 150 mM KCl, 1 mM DTT, 10% glycerol, 10 mM MgCl2) and rested for 10 min at RT. Target biotinylated amplicons were then treated with the RNP complexes for 10 min at 37°C. Finally, 80 µl of Dipstick buffer was added to the mix along with Milenia HybriDetect one lateral flow strip. The strips were allowed to stand in the solution for 2–5 min at room temperature and the result was observed. The strip images can be processed using the TOPSE application that generates background corrected values from the smart phone acquired images of the strip. This application has been previously trained on a large number of CoV-2 samples (Azhar et al., 2021). In vitro synthesized crRNAs used for double amplicon RAY were a gift from TATA Medical and Diagnostics. Detailed description of the protocol can be found in Appendix 1..
+
+qRT-PCR was performed using STANDARD M nCoV Real-Time Detection kit (SD Biosensor) as per manufacturer’s protocol. Briefly, per reaction 3 µl of RTase mix and 0.25 µl of Internal Control A was added to 7 µl of the reaction solution. Five µl of each of the negative control, positive control, and patient sample nucleic acid extract was added to the PCR mixture dispensed in each reaction tube. The cycling conditions on the instrument were as follows: Reverse transcription 50°C for 15 min, Initial denaturation 95°C for 1 min, 5 Pre-amplification cycles of 95°C for 5 s; 60°C for 40 s followed by 40 amplification cycles of 95°C for 5 s; 60°C for 40 s. Signal was captured in the FAM channel for the qualitative detection of the new coronavirus (SARS-CoV-2) ORF1ab (RdRp) gene, JOE (VIC or HEX) channel for E gene, and CY5 channel for internal reference..
+
+Individuals who were found to be RT-PCR positive for SARS-CoV-2, were sequenced to determine whether it was a UK variant (20I/501Y.V1) or non-UK variant. With a low number of samples arriving each day in the lab and with quick turnaround time for reporting, Nanopore sequencing was undertaken for most of the samples..
+
+In brief, 100 ng total RNA was used for double-stranded cDNA synthesis by using Superscript IV (ThermoFisher Scientific, Cat.No. 18091050) for first strand cDNA synthesis followed by RNase H digestion of ssRNA and second strand synthesis by DNA polymerase-I large (Klenow) fragment (New England Biolabs, Cat. No. M0210S). Double stranded cDNA thus obtained was purified using AMPure XP beads (Beckman Coulter, Cat. No. A63881). The SARS-CoV-2 genome was then amplified from 100 ng of the purified cDNA following the ARTIC V3 primer protocol. Sequencing library preparation consisting of End Repair/dA tailing, Native Barcode Ligation, and Adapter Ligation was performed with 200 ng of the multiplexed PCR amplicons according to Oxford Nanopore Technology (ONT) library preparation protocol-PCR tiling of COVID-19 virus (Version: PTC_9096_v109revE_06Feb2020). Sequencing in sets of 24 barcoded samples was performed on MinION Mk1B platform by ONT..
+
+The ARTIC end-to-end pipeline was used for the analysis of MinION raw fast5 files up to the variant calling. Raw fast5 files of samples were basecalled and demultiplexed using Guppy basecaller that uses the base calling algorithms of Oxford Nanopore Technologies (https://community.nanoporetech.com) with phred quality cut-off score >7 on GPU-linux accelerated computing machine. Reads having phred quality scores less than seven were discarded to filter the low-quality reads. The resulting demultiplexed fastq were normalized by read length of 300–500 (approximate size of amplicons) for further downstream analysis and aligned to the SARS-CoV-2 reference (MN908947.3) using the aligner Minimap2 v2.17 (Li, 2018). Nanopolish (Loman et al., 2015) was used to index raw fast5 files for variant calling from the minimap output files. To create consensus fasta, bcftools v1.8 was used over normalized minimap2 output..
+
+In an earlier study, we had successfully established that FnCas9 is unable to bind or cleave targets having two mismatches at the 2nd and 6th position (PAM proximal) of the sgRNA with respect to the target (Azhar et al., 2021; Figure 1A). Through in vitro cleavage studies of a double-stranded DNA substrate, we identified that the same outcome is also observed when mismatches are present at the 16th and 19th position (PAM distal) (Figure 1A, Materials and methods). This implies that if a mismatch exists in any of these position combinations, placing an additional synthetic mutation in the sgRNA at the other positions makes FnCas9 unable to bind or cleave the target (Figure 1A). Thus, mutations at any of these positions relative to a NGG PAM site in the SARS CoV-2 variants could be potentially distinguished from the parent strain..
+
+To develop RAY for identifying SARS-CoV-2 variants, we first analyzed the mutations arising in all SARS-CoV-2 lineages reported so far (May 2021) and looked for the possibility of FnCas9-mediated targeting based on the presence of an NGG PAM site in the vicinity. We found that out of the 48 unique SNVs reported across all the VOCs and VOIs reported so far (CDC, 2021), 19 SNVs (12 VOC-associated SNVs and 7 VOI-associated SNVs) can be targeted by RAY (Supplementary file 1). Interestingly, each VOC/VOI reported so far consists of at least one of the 19 SNVs and can therefore be targeted by RAY design (Figure 1A). Among these SNVs, N501Y is present across 3/5 of the VOCs (B.1.1.7, P.1, and B.1.351). This mutation affects the receptor-binding domain of the virus and is the subject of numerous studies analyzing the efficacy of vaccines against the mutated form of the virus (Cheng et al., 2021; Dejnirattisai et al., 2021; Ku et al., 2021; Luan et al., 2021; Naveca et al., 2021; Tian et al., 2021; Xie et al., 2021; Collier et al., 2021). Owing to its prevalence as a shared marker for the majority of mutated lineages, we took this SNV further for developing a diagnostic assay..
+
+We designed primer pairs surrounding the N501Y mutation after analyzing the mutational spectrum in SARS-CoV-2 strains obtained from the publicly available sequencing database, GISAID (Shu and McCauley, 2017). Additionally, we ensured that no regions from human or non-human genome as well as transcriptome shared significant homology to the sites to prevent any non-specific amplification during the reverse transcription PCR (RT-PCR) reaction (Materials and methods). In our earlier study, we have validated two FnCas9 sgRNAs in the N and S gene of SARS-CoV-2 which could detect positive cases with high sensitivity and specificity (Azhar et al., 2021). We reasoned that including the S-gene sgRNA which lies in the vicinity of the N501Y variant would serve as an internal positive control both for the presence of the SARS-CoV-2 virus in the sample as well as quality control for the amplicons generated in the RT PCR step of the assay..
+
+We tested the N501Y sgRNA containing the variant mismatch at PAM proximal 2nd position to selectively bind and cleave the mutant substrate, while not affecting the WT substrate due to mismatch at PAM proximal 2nd and 6th positions. We found that catalytically active FnCas9 was able to successfully cleave the dsDNA substrate containing the N501Y mutation while leaving the WT sequence intact (Figure 2A). Importantly, this leads to a distinct pattern on agarose gel that can distinguish the two variants. We established that this approach for variant identification can be performed using a stand-alone or portable electrophoresis apparatus leading to a turnaround time of about 1.5 hr from RNA to read-out (Figure 2A)..
+
+(A) Schematic showing the application of RAY for distinguishing variants WT and N501Y using electrophoresis, key steps in the process are shown. The uncleaved band represents the amplicon from either the WT or N501Y sample, cleavage occurs only in the N501Y sample. (B) Schematic for detecting the N501Y through a single amplicon RAY on a lateral flow assay is shown. Left panel depicts key steps in the assay. The amplicon sequence and position of primers and sgRNAs are indicated on the right. The N501Y mutation position is shown in raised font. (C) Outcome of the association of FAM-labeled FnCas9 RNP bound to biotin-labeled substrate on the paper strip is shown. Arrow indicates the direction of flow. (D) Different outcomes of RAY on a paper strip based on the starting material. Distinct bands on the streptavidin line (test line) characterize CoV-2 negative, CoV-2 wild type and CoV2 N501Y variants..
+
+The electrophoresis based identification of the N501Y(A23063T) mutation can be adapted for COVID-19 detection under laboratory conditions. However, dye-based systems have inherent low sensitivity and cannot be used for routine diagnosis. We reasoned that for RAY to detect and diagnose variants, we need to adapt the detection to a more sensitive readout. In an earlier study, we had reported that using a lateral flow assay, a catalytically inactive (dead) FnCas9 generated by mutating the RuvC and HNH domains can be used to accurately identify the presence of SARS-CoV-2 RNA in patient samples (Azhar et al., 2021). To enable such a readout, the RNA sample first undergoes reverse transcription PCR using biotin-labeled primers, generating labeled amplicons at the end of the PCR reaction. The products from the reaction are then incubated with dFnCas9:sgRNA ribonucleoprotein complex where the sgRNA component is labeled with Fluorescein amidite (FAM) at the 3’ end. Upon identifying its target, the RNP forms a tight complex with the dsDNA substrate. This complex is then applied on a paper strip that has gold nanoparticles tagged with antibodies recognizing the FAM label. In an aqueous environment, the nanoparticle:RNP:substrate complex moves up the strip by lateral flow and upon reaching a streptavidin line on the strip these get deposited if the RNP is attached to biotin-labeled substrates (test band). Residual or unbound AuNP complexes get deposited at a control line where secondary antibodies recognizing the anti-FAM antibody attached to the AuNPs are immobilized on the strip (Figure 2B,C)..
+
+We reasoned that in order to enable RAY to distinguish two samples different by a single mismatch on a paper strip, the intensity of the one mismatched sgRNA (as the other mismatch corresponds to N501Y SNV) should be several folds higher than wild-type samples (having two mismatches with the sgRNA, one at the SNV position and another synthetic mismatch). To generate a visually distinctive signal between WT and mutant sample, we performed a single-step reverse transcription PCR to generate a biotin-labeled amplified product that can be detected by a single sgRNA (called SWT) if the sample is WT and by both sgRNAs (SWT and SN501Y) if the sample contains the N501Y variant (Figure 2B,C). The presence of the SWT band also serves as a validation for the sample to be SARS-CoV-2 positive..
+
+We first generated a single amplicon labeled with biotin at one end and performed RAY with both sgRNAs (SWT and SN501Y) (Figure 3A). We reasoned that labeling biotin in the reverse primer would reduce possible background signal due to non-specific interactions of the unused biotin primers with the streptavidin line on the strip and increase the signal resolution between the mutant and WT samples. Among the four amplicon sizes that we investigated, an amplicon of 580 bp gave a clear discernible signal distinguishing the N501Y mutation over the WT sample (Figure 3A, Materials and methods). To validate the reproducibility of this method, we took mutant and WT substrates, and performed RAY 10 times, and were able to successfully distinguish them on every occasion (Figure 3B)..
+
+(A) RAY optimization with different size of S gene PCR amplicons. Optimal amplicon length denoted by red dotted box. (B) Reproducibility in output on multiple runs of RAY on the same samples (WT or N501Y) showing high concordance between assays (n = 10 RAY replicates from same sample). (C) RAY outcomes on three groups of patient samples as indicated. The ORF1ab Ct values for every sample is indicated below..
+
+Next, we tested RAY on RNA extracted from samples of eight qRT-PCR-positive SARS-CoV-2-infected individuals who harbored the N501Y mutation (along with other mutations). The samples were sequenced in parallel to detect the presence of N501Y mutation. RAY was able to correctly identify the variant signature in all eight samples that harbored the mutation (Figure 3C). However, we observed variability of signal intensities across the different samples. In particular, samples with low viral load (qRT-PCR Ct >25) showed a comparatively faint band (Figure 3C). This suggested that the RAY protocol required further optimization to increase the signal intensity, especially for low viral titres. Importantly, RAY correctly classified all eight WT samples where neither the N501Y mutation nor any other lineage variants were present as seen by either an absence of a distinct band or an extremely faint band in the test line (Figure 3C). In addition, RAY identified all confirmed COVID-19-negative samples (12) tested simultaneously (Figure 3C). Taken together, the single amplicon RAY assay showed good specificity in identifying WT and SARS-CoV-2-negative samples but required improvements to increase the sensitivity for samples with low viral load..
+
+To improve the performance of the assay for patient samples across a wide range of viral titres, we modified several aspects of the RAY assay. Firstly, we used TOPSE (True Outcome Predicted via Strip Evaluation), a smartphone-based application to generate a band intensity score from a lateral flow strip to eliminate bias that can result from visual estimation (Appendix 1). Secondly, we labeled both forward and reverse primers in the assay with 5' Biotin to increase the signal intensity and reduced the amplicon length of the substrate to get a consistent amplification at the end of each PCR run (Figure 4A,B)..
+
+(A) Effect of single/double biotin labeling on primers for the 580 bp amplicon. (B) Effect of reduction of amplicon length on RAY outcomes. Red dotted box shows the optimal amplification conditions for successful discrimination of WT and N501Y samples. (C) Schematic for the double amplicon RAY. Positions of primers and sgRNAs for the N501Y sgRNA and WT S-gene sgRNA are shown. The two amplicons are highlighted in green and red. (D) Key steps in the assay and overall time is indicated. (E) Representative image showing the limit of detection of RAY for serial dilutions of patient samples (N501Y or WT as indicated). The corresponding TOPSE and ORF1ab Ct values are shown below. Right panel shows a quantification of the image intensity values (n = 2 RAY replicates per sample). (F) Graph showing the distribution of sequenced confirmed WT (cyan dot) and N501Y (red triangle) containing patient samples detected through RAY. Dotted line depicts the cut-off for N501Y sgRNA. (G) RAY outcomes on E484K and T716I mutations from patient samples. (H) Outcome of RAY showing minimal cross-reactivity of N501Y sgRNA on the E484K amplicon. (I) Increased signal intensity of N501Y RAY on patient samples upon using phosphorothioate modified synthetic sgRNA as compared to in vitro synthesized sgRNA..
+
+We observed that upon double biotinylation the test band intensity for the 580 bp amplicon was 1.5 times higher than single biotin-labeled amplicon (Figure 4A). To increase the band intensity further, we reduced the length of the PCR amplicon containing the N501Y mutation and found that within the same sample, amplicons with shorter lengths had higher band intensities (Figure 4B). In particular, with an amplicon size of 149 bp, a clearly discernible background-corrected signal intensity could be achieved in the mutant sample over the WT sample (Figure 4B). Since the 149 bp amplicon did not contain the SWT sgRNA-binding site, we modified the assay to perform two simultaneous PCR reactions from the same sample, one generating the N501Y specific amplicon (149 bp), and another corresponding to the SWT sgRNA from the original FELUDA assay (287 bp) (Figure 4C). The double amplicon RAY assay results in shorter products and lower overall time for completion, starting from RNA samples while compared to a single amplicon RAY (reduced to 55 min from 75 min)..
+
+Next, we investigated the sensitivity of the assay on serial dilutions of a WT and a N501Y mutant patient sample with moderately high viral load (Ct <25). We observed that RAY was able to give a clearly discernible SN501Y sgRNA signal that was at least 5.5 times higher than that of the WT sample up to a Ct value of 34. Upon further dilution, no signal was observed both in RAY or qRT PCR for these samples (Figure 4E). Taken together, RAY is sufficiently sensitive in detecting the N501Y VOC in a sample with only a few copies of the virus and is comparable to other sequencing platforms (Klempt et al., 2020)..
+
+We then proceeded to test RAY on a set of patient samples containing either the WT (n = 37) or the N501Y variants (n = 22) identified by sequencing. For each of these samples, a qRT-PCR and the SWT RAY were first performed to confirm SARS-CoV-2 positivity (Appendix 1, Supplementary file 1). With a single run of the assay, SN501Y was able to detect 36/37 WT samples and 19/22 N501Y samples corresponding to a sensitivity of 86% and a specificity of 97% across all ranges of Ct values (Figure 4F, Supplementary file 2). Thus, RAY can identify the N501Y SNV with high accuracy in patient samples underscoring its impact as a rapid screening methodology for SARS-CoV-2 VOCs..
+
+Notably, we were able to successfully validate RAY for two more mutations E484K and T716I in patient samples using corresponding sgRNAs suggesting that the assay can be optimized and adapted for other VOCs in addition to N501Y (Figure 4G). Among these, the E484K mutation has been associated with high transmissibility and the possibility of reinfection (Weisblum et al., 2020; Xie et al., 2021; Collier et al., 2021; Wibmer et al., 2021; Annavajhala et al., 2021; Resende et al., 2021; Nonaka et al., 2021; Naveca et al., 2021). Importantly, amplicons containing the E484K mutation do not show cross-reactivity with the N501Y sgRNA, highlighting the specificity of the assay between variants (Figure 4H). Finally, as seen in our earlier study, synthetic sgRNA containing a phosphorothioate backbone modification leads to higher stability and greater band intensity when compared to in vitro synthesized sgRNAs (Figure 4I)..
+
+Currently, deep-sequencing of patient samples is being routinely done by health authorities in various countries to track and isolate cases containing the SARS-CoV-2 variants (Meredith et al., 2020; Oude Munnink et al., 2020; McNamara et al., 2020; Rockett et al., 2020; Bhoyar et al., 2021). The accuracy of variant calling in any sequencing platform is dependent on the very high quality and coverage of reads to the reference genome. Since the process from sample to sequence consists of multiple steps, low viral titres can be missed out during sequencing assays for variant calling. The RAY pipeline uses an amplification step followed by enzymatic binding and is reproducible across a wide range of viral titres tested..
+
+The main advantage of sequencing COVID-19 samples is the generation of cumulative information about all mutations co-existing in a given variant (Chiu and Miller, 2019 and Vandenberg et al., 2021). This information is valuable to track and trace how lineages evolve and has led to the identification of mutations in the first place. RAY can identify only known VOCs and is therefore useful as a diagnostic tool for the early detection of variant signatures in a sample. For example, determining whether a sample belongs to the South African lineage through E484K specific RAY can allow early quarantine of the patient and prevent the spreading of a highly transmissible variant. Similarly, identifying a WT sample rapidly through RAY negates the necessity of sequencing such a sample thereby reducing the cost of the associated sequencing exercise. Together, this can ease the burden of surveillance and ensure both rapid disease control measures as well as the identification of newer variants efficiently..
+
+In the current format (lateral flow assay), RAY has limitations in multiplexing several VOC candidates in a single assay. Although longer amplicons can be used to identify multiple mutations that appear close to each other, we observed a drop in sensitivity probably due to reduced PCR efficiency for longer amplicons. Similarly, to increase the throughput of the assay, converting the readout into a fluorescence-based mode might be beneficial..
+
+Perhaps, the most imperative area of improvement for RAY is increasing the number of possible mutations that can be targeted. The necessity of an NGG PAM at a fixed position away from the position of the target mutation limits the total number of targets that RAY can identify. This can be significantly expanded by systematically exploring more sites in the sgRNA where a mutation weakens the enzyme:substrate interaction. Alternatively, engineering the enzyme to generate PAM-flexible versions can be considered..
+
+Routine sequencing of patient samples for disease surveillance is fraught with issues such as cost, logistics, and turnaround times. A typical deep sequencing cost per sample is several orders of magnitude higher than RAY (which costs ~7 USD per sample, Supplementary file 3) and the minimum turnaround time for sequencing is 36 hr. Importantly, sequencing runs are generally done on pooled samples to save on cost, workforce, and machine time, all of which necessitate the advent of alternate solutions that can identify variants through a simple pipeline. RAY -on the contrary- is scalable to any number of samples at a given time..
+
+Sequencing also generates a large amount of data and requires physical storage and high-performance computing methodologies to record, analyze and interpret the data (Chiu and Miller, 2019 and Vandenberg et al., 2021). In addition, dedicated personnel with a substantial understanding of sequence analysis and programming skills are necessary for identifying variants within reads generated from a sample. In contrast, RAY uses a visual readout on a paper strip leading to a binary decision about the sample. The automated image acquisition and recording through a smartphone app allows operators with a minimum skill set to process samples. This has the advantage of rapid screening, particularly at the point of care settings..
+
+In this study, we report the development of a CRISPR diagnostic platform for detecting the major VOCs in the SARS-CoV-2 genome. The outcomes of this platform can be extended to other pathogenic SNVs and can provide a robust solution for rapid variant calling in patient samples. Considering the rise and spread of mutated lineages of the virus in multiple countries, it is imperative to develop technologies that can quickly and accurately detect these variants. Since the first-generation vaccines against SARS-CoV-2 have been developed against the parent strain, careful assessment of the variant lineages and their response to the vaccine will become imperative during the course of the pandemic (Fontanet et al., 2021; Walensky et al., 2021). Novel variants, particularly those correlated with adverse disease manifestation, need to be controlled so that these do not spread rampantly across populations. Testing and isolating them will thus continue to be at the forefront of disease control measures..
+
+This paper was supported by the following grants:.
+
+http://dx.doi.org/10.13039/501100001501University Grants Commission
+Graduate student fellowship to Manoj Kumar..
+
+http://dx.doi.org/10.13039/501100001332CSIR
+Research Associateship to Sneha Gulati, Poorti Kathpalia..
+
+http://dx.doi.org/10.13039/501100001411Indian Council of Medical Research
+Graduate Student fellowship to Asgar H Ansari..
+
+http://dx.doi.org/10.13039/501100001332CSIR
+Graduate Student fellowship to Rhythm Phutela, Sundaram Acharya, Mohd Azhar, Jayaram Murthy..
+
+http://dx.doi.org/10.13039/501100001332CSIR
+MLP 2005 to Rajesh Pandey..
+
+http://dx.doi.org/10.13039/501100011318Fondation Botnar
+CLP-0031 to Rajesh Pandey..
+
+http://dx.doi.org/10.13039/100002418Intel Corporation
+CLP-0034 to Rajesh Pandey..
+
+http://dx.doi.org/10.13039/501100001429IUSSTF
+CLP-0033 to Rajesh Pandey..
+
+http://dx.doi.org/10.13039/501100001332CSIR
+HCP0008 to Souvik Maiti, Debojyoti Chakraborty..
+
+http://dx.doi.org/10.13039/501100007220Tata Steel
+SSP 2001 to Debojyoti Chakraborty..
+
+http://dx.doi.org/10.13039/100012117Lady Tata Memorial Trust
+GAP0198 to Debojyoti Chakraborty..
+
+We thank all members of Chakraborty and Maiti labs for helpful discussions and valuable insights. This study was funded by CSIR Sickle Cell Anemia Mission (HCP0008), TATA Steel CSR (SSP2001) and a Lady Tata Young Investigator award (GAP0198) to DC. The sequencing was funded by the CSIR (MLP-2005), Fondation Botnar (CLP-0031), Intel (CLP-0034) and IUSSTF (CLP-0033). We acknowledge Dr. Mohd. Faruq (CSIR IGIB) for help with isolation of RNA from the VTM of the RT-PCR positive samples. We thank Bala Pesala, Geethanjali Radhakrishnan and the entire team at ADIUVO Diagnostics for help with optimizing the image analysis application TOPSE. We also thank Sridhar Sivasubbu, Vinod Scaria and the IndiCoVGEN team for helpful discussions and support related to the work..
+
+No competing interests declared..
+
+Mohd. Azhar is currently an employee of TATA Medical and Diagnostics..
+
+A patent application has been filed in relation to this work. (0127NF2019)..
+
+Conceptualization, Data curation, Formal analysis, Writing - review and editing..
+
+Conceptualization, Data curation, Formal analysis, Writing - review and editing..
+
+Resources, Formal analysis..
+
+Data curation..
+
+Data curation..
+
+Investigation, Methodology..
+
+Investigation..
+
+Resources..
+
+Data curation..
+
+Data curation..
+
+Data curation..
+
+Data curation..
+
+Formal analysis, Supervision..
+
+Conceptualization, Funding acquisition, Methodology, Project administration, Writing - review and editing..
+
+Conceptualization, Formal analysis, Supervision, Funding acquisition, Investigation, Methodology, Writing - original draft, Project administration, Writing - review and editing..
+
+Human subjects: The present study was approved by the Ethics Committee, Institute of Genomics and Integrative Biology, New Delhi (CSIR-IGIB/IHEC/2020-21/01)..
+
+The cutoff for SWT is 6.7 and SN501Y is 10.2..
+
+Sequencing data associated with the manuscript have been deposited to GISAID with the following numbers: EPI_ISL_911542, EPI_ISL_911532, EPI_ISL_911543, EPI_ISL_911533, EPI_ISL_911544, EPI_ISL_911534, EPI_ISL_911545, EPI_ISL_911535, EPI_ISL_911546, EPI_ISL_911536, EPI_ISL_911547, EPI_ISL_911537, EPI_ISL_911538, EPI_ISL_911540, EPI_ISL_911541, EPI_ISL_911539..
+
+The following datasets were generated:.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911542.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911532.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911543.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911533.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911544.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911534.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911545.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911535.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911546.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911536.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911547.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911537.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911538.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911540.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911541.
+
+PandeyRKanakanAJananiSVMauryaRMuraliASSahniSKhanAChattopadhyayPDeviPMehtaPKumarARawatN2021SARS CoV-2 sequencing dataGISAIDEPI_ISL_911539.
+
+Micropipettes.
+
+Plastic ware (including sterile filter tips, PCR and micro centrifuge tubes)..
+
+Personal protective equipment (PPE).
+
+General laboratory materials and reagents, commonly used in molecular biology labs.
+
+Microfuge/Centrifuge as necessary.
+
+Thermal cycler.
+
+Thermal bath (Heat block).
+
+Set up the reactions in designated areas for sample processing, RT-PCR and amplification..
+
+Handle all RT-PCR amplified products in separate post-amplification areas to prevent contamination from amplified products..
+
+Use filter tips to set up all reactions..
+
+Set up positive control reactions at the end..
+
+NOTE!It is highly recommended to open tubes containing amplified PCR products from patient samples and positive controls, in a designated post amplification area, physically separated from the room where nucleic acid (RNA) extraction happens..
+
+ReagentsVolume (µl)Final concentrationForward Oligo (100 µM)1.252.5 µMReverse Oligo (100 µM)1.252.5 µMTotal Volume (with nuclease free water)upto 50 µl.
+
+Synthesis of in vitro transcribed (IVT) crRNAs targeting SAR-CoV-2 S gene and N501Y mutation.
+
+To assemble equimolar ratio of Forward and Reverse oligos (refer table below) for each target:.
+
+Heat the reaction mix at 95°C for 5 min followed by slow cooling at room temperature for 15 min..
+
+Perform in vitro transcription using commercially available T7 Polymerase based IVT kit as per recommended protocol. A sample is given below (MEGAscript T7 Kit, ThermoFisher Scientific)..
+
+Assemble the following reaction components at room temperature:.
+
+ReagentsVolume (µl)Final concentrationNuclease free waterupto 20ATP (75 mM)27.5 mMGTP (75 mM)27.5 mMCTP (75 mM)27.5 mMUTP (75 mM)27.5 mM10X Reaction Buffer21XEnzyme Mix2-Annealed oligo duplex from step 15-.
+
+Incubate the reaction mix overnight at 37°C..
+
+Add 1 µl of Turbo DNAse in the reaction mix and incubate at 37°C for 30 min..
+
+Heat inactivate at 70°C for 10 min..
+
+Optional: RNA can be visualized on a 2% agarose gel to check for its integrity..
+
+Column based RNA clean-up as per the commercially provided protocols (such as NucAway Spin Columns, AM10070, ThermoFisher Scientific)..
+
+Generation of chimeric gRNAs (crRNA:tracrRNA-FAM)..
+
+ReagentsVolume (µl)Final concentrationIVT synthesized crRNA-1 µMFAM labeled tracrRNA-1 µMAnnealing Buffer (100 mM NaCl, 50 mM Tris-Cl pH 8.0, 1 mM MgCl2)upto 50.
+
+Heat the reaction mix at 95°C for 5 min followed by slow cooling at room temperature for 15 min..
+
+NOTE!The crRNA and chimeric gRNA products can be produced in bulk and stored at −20°C for long term use..
+
+Extract patient RNA according to CDC recommendations..
+
+Set-up single step RT and PCR reaction..
+
+Assemble the reaction components as below (using Biotin-labeled primers):.
+
+ReagentsVolume (µl)Final concentrationForward Biotinylated Primer (10 µM)0.2200 nMReverse Biotinylated Primer (10 µM)0.2200 nMdNTPs (10 mM)0.1100 µM10X Reaction Buffer (200 mM Tris-Cl pH 8.4, 500 mM KCl)1(1X)MgCl2 (50 mM)0.31.5 mMDMSO (100%)0.33%Taq DNA polymerase (5 U/µl)0.050.025 U/µlReverse Transcriptase (200 U/µl)0.255 U/µlRNA sample (≥ 5 ng)*As per sampleRNase inhibitor (Optional, in casenot present with RT enzyme) 20 U/µl0.20.4 U/µlTotal Volume (with nuclease free water)upto 10.
+
+Optional: In order to confirm amplification after single step RT and PCR, a volume of 1–2 µl from NTC and PC can be checked on a 2% agarose gel..
+
+NOTE!For a single set of reactions one non-template control (NTC) and one positive control (PC) should be included, to check for non-specific amplification..
+
+3. Prepare dFnCas9-chimeric gRNA-RNP complexes for the samples to be tested. RNP complex against SARS-CoV-2 S gene and N501Y mutation should be assembled for each sample. Incubate dFnCas9 protein with Chimeric FAM-labeled guide RNA to generate RNP complexes for 10 min at Room Temperature (RT)..
+
+ReagentsVolume (µl)Final concentrationdFnCas9 protein (1 µM)1.0100 nMChimeric FAM-labeled gRNA (1 µM)1.0100 nMTotal Volume (with Buffer containing 20 mM HEPES pH 7.5, 150mM KCl, 10% glycerol, 1mM DTT and 10 mM MgCl2)upto 5.
+
+4. Add 5 µL of the biotinylated amplicon (from Step 2) to 5 µL of the dFnCas9 RNP complex (from Step 3)..
+
+NOTE!For a single set of reactions one non-template control (NTC) and one positive control (PC) should be included, to check dFnCas9 RNP specificity..
+
+5. Incubate the reaction mix (containing RNP complex and amplicon substrate) at 37°C for 10 min in aheating block or water bath..
+
+6. Add 80 µL of dipstick buffer (provided) to each tube containing 10 µL of the reaction mix from the previous step..
+
+7. Insert Milenia HybriDetect one lateral flow strip directly into reaction tubes..
+
+8. Allow the solution to migrate into the strip for 2 min at room temperature and observe the result..
+
+Notes: .
+
+NTC (non-template control) to be used as negative control..
+
+For accurate results, positive samples show up in the test band within 2 min while negative samples show very weak or no signal..
+
+Incubating for longer times leads to increasing background signal intensity at test band location making interpretation ambiguous..
+
+Signals between positive and negative assays can also be interpreted by densitometry analysis from images captured using any photographic device..
+
+Left panel shows outcome with SN501Y sgRNA and the right panel shows the outcome with SWT sgRNA..
+
+T.O.P.S.E (True Outcome Predicted via Strip Evaluation), starts by clicking ‘GET STARTED’ on the home page, which further directs to an app page where access to previous recorded data is given through entering a operator ID (eg. XYZ) or a new session of data recording begins. The app then further asks to record a background value for No template control (NTC)..
+
+Upon selecting ‘NEW NTC’, a new app page having a strip holder pops up, once the strip is placed in the holder, a numerical band intensity for the test band is calculated to set a background value. After clicking on ‘DONE’, a pop up asks to record for a patient sample..
+
+In the next page, clicking on ‘OPEN CAMERA’, takes the operator to another strip holder to record test band intensity of the patient sample strip. If the calculated test band intensity is above NTC threshold, the sample will be called as ‘POSITIVE’..
+
+Once a recording session is done, one can record for another sample just by clicking onto ‘ADD PATIENT’, the app will automatically use the previous NTC threshold value and need to be set again. For eg. if the calculated test band intensity for the second sample is below NTC threshold or within the error limit of the app, the sample will be called as ‘NEGATIVE’..
+
+For using TOPSE to perform N501Y RAY assay, the test intensity of the sample needs to be >10.2 for a sample to be called positive for the N501Y assay. The S gene intensity has to be >6.7 for the sample to be called positive for SARS CoV-2..
+
+Strips may be discarded according to standard procedures..
+
+MEGAscript T7 Transcription Kit (Cat. No. AM1334, ThermoFisher Scientific), Quantitect RT (Cat. No. 205311, Qiagen), Taq DNA Polymerase (Cat. No. 18038018, ThermoFisher Scientific), 5’ end biotinylated primers (Merck, Darmstadt, Germany), 3' end 6 – Fluorescein amidite (6-FAM) FnCas9 tracrRNA (GenScript Biotech (New Jersey, USA)) or Merck (Darmstadt, Germany), MILENIA HybriDetect1 (Cat. No. MILLENIA 01, TwistDx, UK or Giessen, Germany)..
+
+In the interests of transparency, eLife publishes the most substantive revision requests and the accompanying author responses..
+
+Acceptance summary:.
+
+This paper is likely to be of interest to those interested in developing diagnostic tools for rapid low cost detection of single nucleotide variants in viral and host pathogenic sequences; genetic disorders and development of precision medicine. Although the key scientific claims are an extension to a recently developed CRISPR diagnostic platform by the same group, this advance has potential application to the COVID-19 pandemic..
+
+The manuscript was revised to provide data and detailed methodologies to support the detection of two major variants of SARs CoV-2. It has been re-written such that the reader need not be familiar with the previous methodology published by the authors, which has been extended to detect these variants..
+
+Decision letter after peer review:.
+
+Thank you for submitting your work entitled "RAY: CRISPR diagnostic for rapid and accurate detection of SARS-CoV-2 variants on a paper strip" for consideration by eLife. Your article has been reviewed by 3 peer reviewers, and the evaluation has been overseen by a Reviewing Editor and K VijayRaghavan as the Senior Editor..
+
+The manuscript has some issues that need to be addressed, as outlined below:.
+
+This paper will be of interest to scientists interested in developing diagnostic tools for rapid low cost detection of SNVs in viral and host pathogenic sequences; genetic disorders and development of precision medicine. Although this tool has immediate application in healthcare during the current pandemic, the key scientific claims of the manuscript are an extension to a recently developed CRISPR diagnostic platform by the same groups. Further data and detailed methodologies need to be provided to support generalizing of the conclusions for applications to a broader field beyond detection of the two 2 variants of SARs-CoV-2..
+
+Briefly, we request a revised manuscript. It is written such that the reader must already be familiar with a previous paper published by the authors, of which this is an extension to detect variants. The manuscript should be stand alone and include all information about this assay and the method validation result. As the title of this manuscript is "detection of variants on a paper strip", generalizability must be addressed if this assay is able to do that. If not, the authors must discuss how to achieve generality and revise the title to "detection of common SARS-CoV-2 variants". In this scenario, the results can support the title..
+
+Reviewer 1:.
+
+Researchers from different groups have employed CRISPR-Cas9 protein variants (Cas13, and Cas12a) to develop nucleic acids detection platforms such as SHERLOCK (2017, Science, 356, 438; 2018, Science, 360, 439) and DETECTR (2018, Science, 360, 436). Both SHERLOCK and DETECTR rely on the "collateral effect" – promiscuous cleavage and degradation of neighboring ssRNA and ssDNA by Cas13 and Cas12a. Upon target binding, it will cleave the ssDNA probe. These CRISPR-based detections were used for SARS-CoV-2 detection after then (2020, Nature Biotechnology, 38, 870)..
+
+Authors previously reported that Francisella novicida (FnCas9) could be used for gene editing. In authors' preprint project, they reported the high specificity of FnCas9 to the point mismatch at the specific position of gRNA and there is no "collateral effect" of FnCas9. Based on this discovery, they developed a non-cleavage, affinity-based method for the nucleobase detection with single nucleotide mismatch sensitivity (ref 25)..
+
+Authors leverage the single nucleotide mismatch sensitivity of FnCAS9 and report herein a non-cleavage, affinity-based SARS-CoV-2 variants detection..
+
+Strengths:.
+
+– This assay provides a simple, rapid way to detect SARS-CoV-2 and its SNV..
+
+– Authors demonstrated the detection of SARS-CoV-2 and SAR-S-CoV2 variants (N501Y) in 18 patient samples and validated the samples by sequencing..
+
+Weaknesses:.
+
+– Although authors cite their previous preprint paper (similar assay called "FELUDA"), authors didn't describe any sensing mechanism of this assay (RAY). Readers cannot understand this assay by reading this manuscript only. The lack of description in this manuscript strongly affects readers to understand the experiments. Authors assume readers have read another article from the same group and understand the design and mechanism of their "FELUDA" assay. For example, Authors didn't mention that active FnCas9 was used in the experiment in Figure 2a while catalytic inactive FnCas9 was used for SNV detection assay "RAY"..
+
+– Only N501Y detection was demonstrated in this project. Authors did not demonstrate the generalizability of this assay by demonstration of detecting other SARS-CoV-2 variants. Furthermore, authors mentioned that only 10/32 SNV sites were targetable by FnCas9..
+
+– The concept / sensing mechanism of this assay is very similar to the assay reported in the same group (ref 25). They used a lot of results / discovery in the preprint (ref 25) to develop this assay and there are only 4 sets of new data reported in this manuscript..
+
+There are several points that may help authors to improve this project..
+
+"We found that out of the 32 defining SNVs 100 reported across all the three lineages, 10 sites were targetable by FnCas9 (Figure 1B,C, Supplementary Table 1)".
+
+Figure 1B shows the evolution of SARS-CoV-2 virus. How is it related to this statement? Figure 1C shows the position of different mutations in the genome. Why is it important to show the position of the mutations? Is it related to the targetability of FnCas9? Explanation is needed..
+
+Authors should explain how they find 10 of 32 single nucleotide variation (SNV) sites are targetable by FnCas9. Why only 10/32 SNV sites are targetable? Authors should explain this result. Without this explanation, readers will not understand how this assay works and how to use this assay to detect other SNV..
+
+As only 10 of 32 SNV sites are targetable, authors should discuss the generalizability of this assay..
+
+"Thirdly, we made modifications at the level of amplicon length, PCR conditions, and RNP concentration to generate the most optimal protocol that can produce a clear discernible signal on a commercially available paper strip".
+
+No data is shown about PCR conditions and RNP concentration optimization. Why does the assay not work well when the amplicon length is 541 bp or less?.
+
+In my view, the combination of the preprint paper (ref 25) and this manuscript will make it a detailed, comprehensive project..
+
+There are additional points that need addressing to improve this paper..
+
+Only N501Y detection was demonstrated in this paper strip assay. Paper strip detection of other targetable SNV sites could show the generalizability of this assay in specific conditions..
+
+This manuscript has a lot of abbreviations, but some of them only appear 1 or 2 times. It makes this manuscript difficult for readers to read..
+
+It is confused that Wt, mut and N501Y are all present in Figure 2a. Authors are suggested to label it more clearly to show that it is WT and mutated sgRNA (N501Y)..
+
+"Finally, we tested RAY on RNA extracted from samples of RT-PCR positive SARS-CoV-2 infected individuals who returned to India from the United Kingdom between December 2020 and January 2021.".
+
+The travel history of the patient is not necessary for assay validation..
+
+Reviewer 2:.
+
+The authors report the development of a CRISPR diagnostic platform for detecting variants (N501Y and T716I) in SARS-CoV-2. This is based on a technology, recently developed by the same research groups, using a Cas9 ortholog from Francisella novicida (FnCas9) based enzymatic readout for detecting nucleotide sequences. RAY (Rapid variant Assay), detect both the infection as well as the presence of the common N501Y mutation present in the 3 new variants and distinguish it from the parent CoV-2 lineage. The authors also adapt RAY to a lateral flow paper strip assay for low-cost rapid detection. This represents a novel sequencing-free rapid detection system for CoV-2 mutations..
+
+Although the paper does have major strengths in principle, the authors have not provided sufficient data and information directly for an end user to adapt this platform to their use. For a stand-alone resource article, authors must provide all the critical information within the text, figures, methods and supplementary figures required to understand the range, specificity, sensitivity, limits and error prone aspects (if any) of the technology..
+
+Further information and clarification are required for the following points:.
+
+Primer design and selection:.
+
+1. Given that the authors mention that they successfully established that FnCas9 is unable to bind or cleave targets having two mismatches -in the 2nd and 6th position; why were PAMs searched with mismatches in the 16th and 19th position (Figure 1D)?.
+
+2. How many pairs of flanking primers need to be designed for a specific point mutation? What experimental output would demonstrate optimal primer design?.
+
+3. More details on the amplicons are required..
+
+IVC Detection.
+
+1. What size fragments were generated? Was only one sgRNA used for each N501Y and T716I?.
+
+In figure 2a it seems like the amount of wild type amplicon is higher or equal to one of the cleaved fragments in the N501Y sample gel (mut lane). Is this due to poor cleavage by the FnCas9? A densitometry analysis would provide better quantification of fragment formations..
+
+2. What is the specificity, selectivity for each of these variants? Do altering sgRNA change the specificity? What conditions are necessary for the reaction to go to completion? How does one account for false negatives; is there a low copy number limit for this detection system. No experimental results have been provided for any of this..
+
+3. For the reaction between FnCas9 and sample/amplicons what are the ratio ranges; concentrations; volumes to be followed?.
+
+LFA Detection.
+
+1. Please elaborate the protocol for "modified single step" RT-PCR..
+
+2. The authors mention that they eliminate one of the biotin label primers to reduce the chances of background signal due to non-specific interactions of the unused biotin primers with the streptavidin. The authors should compare and quantitate the output using various methods used in the current work as well as previous FELUDA paper [double biotin labels; synthetic phosphothioate modified RNA etc].
+
+3. Authors should explain the difference between FnCas9 and dFnCas9 in at least the methods..
+
+4. What are the limits of detection of RAY? Is it similar to FELUDA? How does changing sgRNA/ chimeric gRNA effect the detection limit? No experimental results have been provided for this..
+
+5. If the only method of detection analysis is TOPSE then the authors must provide more details of how to access/use the app..
+
+Reviewer 3:.
+
+The work by Kumar et al. presents a new diagnostic technique (called "RAY") for detecting SARS-CoV-2 virus infection (responsible for the current COVID-19 pandemic). The researchers use a CRISPR-based method to provide a "quick" assay that can distinguish COVID positive and negative samples. This method is an extension of their previous work on a COVID-19 assay called FELUDA (https://www.medrxiv.org/content/10.1101/2020.09.13.20193581v1). The focus of the current work is to specifically identify COVID-positive samples as well as the particular variant of the viral genome. Typically, the different SARS-CoV-2 variants could differ by a few differences in the genome sequence. This work uses the specificity of the CRISPR reaction: the enzymatic cleavage only occurs for a completely complementary target and not for a target with mutations. The authors developed a lateral flow assay, where the signal corresponding to detection of the viral RNA and/or the mutant is read out as a line on a paper strip (similar to pregnancy strips). Appearance of these lines indicate presence of the virus in the sample. The work used 8 COVID positive samples, 8 positive samples with the mutation N501Y (earlier shown to be present in the British, South African and Brazilian variants of SARS-CoV-2), and 12 COVID negative samples, and identified all the clinical samples accurately..
+
+In terms of the scope, the current work demonstrates COVID19 mutation detection with an easy lateral flow-based readout, within ~75 minutes. While the assay has been shown to be able to detect 20 samples accurately, a larger data set might be needed to evaluate the sensitivity of the assay and the range of viral loads it can detect. The past year has seen a number of new techniques for COVID19 diagnosis, all of which will be useful for the still ongoing large-scale testing worldwide. In that context, this assay has practical and immediate use for COVID19 detection if it can be commercialized, especially with the rise of a number of variants of the SARS-CoV-2 virus..
+
+I liked reading the paper – it was very clear and crisp, and the data was well presented in both the text and the figures. However, as written, the paper seems to rely heavily on the reader's knowledge of their earlier work on FELUDA. From a reader's point of view, I felt that certain aspects of the assay, methodology and scope of immediate use could be expanded here even if it is a repeat from the authors' FELUDA work, to make this a stand-alone paper..
+
+Discussion can be included on the following points. While these are not technical concerns, I think it will be informative for scientific and lay audience to know where the assay stands in terms of immediate impact for COVID19 pandemic..
+
+– Metrics of the assay such as sensitivity and specificity (even if referring to previous works)..
+
+– Scope of the assay: Do the authors intend to use this as a clinical test or at POC? Specific aspects can be discussed for either or both of these scenarios..
+
+– For the assay to be useful in POC setting, sample processing is an important step. Assuming samples are collected on swabs, RNA needs to be extracted before RAY can be performed. How can this be brought into the regular workflow for the assay to work at a testing site outside a lab or clinical facility? How will this affect the cost of the assay? The tally of the assay cost excludes RNA extraction. How can such an enzymatic approach be performed in a remote site without a cold chain?.
+
+Briefly, we request a revised manuscript. It is written such that the reader must already be familiar with a previous paper published by the authors, of which this is an extension to detect variants. The manuscript should be stand alone and include all information about this assay and the method validation result. As the title of this manuscript is "detection of variants on a paper strip", generalizability must be addressed if this assay is able to do that. If not, the authors must discuss how to achieve generality and revise the title to "detection of common SARS-CoV-2 variants". In this scenario, the results can support the title..
+
+We thank the Senior and Reviewing Editors of eLife for the positive and helpful suggestions and for considering that this tool has immediate application in healthcare during the current pandemic. We are now submitting a revised manuscript taking care of the points raised by the reviewers, both in terms of a better description of the technology and its modifications and improvements alongside commenting on the generalizability of the assay in the Discussion section. We accept the suggestion made about the title and have amended the same in the new version..
+
+Reviewer 1:.
+
+Researchers from different groups have employed CRISPR-Cas9 protein variants (Cas13, and Cas12a) to develop nucleic acids detection platforms such as SHERLOCK (2017, Science, 356, 438; 2018, Science, 360, 439) and DETECTR (2018, Science, 360, 436). Both SHERLOCK and DETECTR rely on the "collateral effect" – promiscuous cleavage and degradation of neighboring ssRNA and ssDNA by Cas13 and Cas12a. Upon target binding, it will cleave the ssDNA probe. These CRISPR-based detections were used for SARS-CoV-2 detection after then (2020, Nature Biotechnology, 38, 870)..
+
+Authors previously reported that Francisella novicida (FnCas9) could be used for gene editing. In authors' preprint project, they reported the high specificity of FnCas9 to the point mismatch at the specific position of gRNA and there is no "collateral effect" of FnCas9. Based on this discovery, they developed a non-cleavage, affinity-based method for the nucleobase detection with single nucleotide mismatch sensitivity (ref 25)..
+
+Authors leverage the single nucleotide mismatch sensitivity of FnCAS9 and report herein a non-cleavage, affinity-based SARS-CoV-2 variants detection..
+
+Strengths:.
+
+– This assay provides a simple, rapid way to detect SARS-CoV-2 and its SNV..
+
+– Authors demonstrated the detection of SARS-CoV-2 and SARS-CoV-2 variants (N501Y) in 18 patient samples and validated the samples by sequencing..
+
+Weaknesses:.
+
+– Although authors cite their previous preprint paper (similar assay called "FELUDA"), authors didn't describe any sensing mechanism of this assay (RAY). Readers cannot understand this assay by reading this manuscript only. The lack of description in this manuscript strongly affects readers to understand the experiments. Authors assume readers have read another article from the same group and understand the design and mechanism of their "FELUDA" assay. For example, Authors didn't mention that active FnCas9 was used in the experiment in Figure 2a while catalytic inactive FnCas9 was used for SNV detection assay "RAY"..
+
+We thank Reviewer 1 for his/her assessment of the assay and appreciating its ability to detect SNVs that constitute the VOCs in the SARS-CoV-2 genome. We understand the concerns raised by the Reviewer about the description of the sensing mechanism of RAY and the lack of clarity about the active/inactive versions of the FnCas9 used in Figure 2a. In the revised version we have made changes reflecting a detailed explanation of the assay and its modifications and included a comprehensive Supplementary Note describing the assay implementation..
+
+– Only N501Y detection was demonstrated in this project. Authors did not demonstrate the generalizability of this assay by demonstration of detecting other SARS-CoV-2 variants. Furthermore, authors mentioned that only 10/32 SNV sites were targetable by FnCas9..
+
+We thank Reviewer 1 for this point. Although we achieved the design of a RAY strategy for multiple variants, we couldn't validate them all due to time and sample availability constraints (as not all the variants were detected in the samples that were sequenced). However, we picked three of the reported VOCs in the samples we had access to (namely N501Y, E484K, and T716I) and validated RAY on patient RNA samples. We were able to detect all three variants using our assay successfully. We chose to perform intensive validation and standardization with N501Y over a larger sample set owing to its common occurrence across multiple lineages (Figure 4)..
+
+The Reviewer has rightly mentioned about 10/32 SNV sites that were targetable by FnCas9 in our original submission. Due to the rapid progress and evolution of the SARS-CoV-2 virus, currently (as of May 2021), 13 emerging lineages have been reported (Figure 1B, revised manuscript). Out of these, 5 lineages have been designated as Variants of Concern (VOCs) and 8 lineages as Variants of Interest (VOIs) by the Centers for Disease Control and Prevention (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html#Interest). We reanalyzed the emerging lineages and found that there are 48 SNVs associated with these VOCs and VOIs and RAY design based on existing parameters can target 19 of these SNVs. Importantly, RAY is able to detect every VOC/VOI through at least one SNV. We represent this data in Supplementary Table 1 and Figure 1 (revised manuscript)..
+
+Interestingly, N501Y is associated with 3/5 VOCs (B.1.1.7, P.1, and B.1.351). Thus, by detecting this variant, RAY can detect whether a sample belongs to one of these VOCs. In the remaining VOCs (B.1.427 and B.1.429) RAY for the SNV W152C SNV can be used in detection. However, this has not been practically validated..
+
+– The concept / sensing mechanism of this assay is very similar to the assay reported in the same group (ref 25). They used a lot of results / discovery in the preprint (ref 25) to develop this assay and there are only 4 sets of new data reported in this manuscript..
+
+We thank the Reviewer for this point but would politely disagree. Although the sensing mechanism occurs through FnCas9 and as was described before (Azhar, Phutela, Kumar, Ansari, et al. Biosensors and Bioelectronics, 2021), the current manuscript shows the detection of SARS-CoV-2 VOCs on a paper strip, which in our opinion, is both novel and has a high translational impact. Currently, identifying SARS-CoV-2 variants from patient samples exclusively relies on deep sequencing that is both costly and time-consuming. Thus, the value of this manuscript goes beyond simple discovery to a more useful public resource methodology which we hope gets implemented on a larger scale. To enable this paper-strip readout that is robust and performs with high sensitivity and specificity required several rounds of iteration and modification of the original FELUDA protocol and cannot be seen as an extension of the previous work..
+
+There are several points that may help authors to improve this project..
+
+"We found that out of the 32 defining SNVs 100 reported across all the three lineages, 10 sites were targetable by FnCas9 (Figure 1B,C, Supplementary Table 1)".
+
+Figure 1B shows the evolution of SARS-CoV-2 virus. How is it related to this statement? Figure 1C shows the position of different mutations in the genome. Why is it important to show the position of the mutations? Is it related to the targetability of FnCas9? Explanation is needed..
+
+We thank the Reviewer for pointing this out. We agree that Figure 1B does not appropriately correlate with the statement made and has now been replaced in the revised manuscript. We have also explained this better in the manuscript and hope that these modifications will help understand the targeting scope of RAY..
+
+Authors should explain how they find 10 of 32 single nucleotide variation (SNV) sites are targetable by FnCas9. Why only 10/32 SNV sites are targetable? Authors should explain this result. Without this explanation, readers will not understand how this assay works and how to use this assay to detect other SNV..
+
+As only 10 of 32 SNV sites are targetable, authors should discuss the generalizability of this assay..
+
+We thank the Reviewer for this point. The mechanism by which FnCas9 based identification of SNVs has now been explained in detail in the revised manuscript (Figure 1 and Methods). We have also included a statement about the generalizability of this assay in the discussions section and made an amendment to the manuscript title to reflect this..
+
+"Thirdly, we made modifications at the level of amplicon length, PCR conditions, and RNP concentration to generate the most optimal protocol that can produce a clear discernible signal on a commercially available paper strip".
+
+No data is shown about PCR conditions and RNP concentration optimization. Why does the assay not work well when the amplicon length is 541 bp or less?.
+
+In my view, the combination of the preprint paper (ref 25) and this manuscript will make it a detailed, comprehensive project..
+
+We thank the Reviewer for pointing this out. In the revised manuscript, we have demonstrated the conditions for optimization in Figure 3 and Figure 4. We have also discussed the importance of amplicon length on RAY performance in the manuscript and included a detailed protocol as Supplementary Note 1..
+
+There are additional points that need addressing to improve this paper..
+
+Only N501Y detection was demonstrated in this paper strip assay. Paper strip detection of other targetable SNV sites could show the generalizability of this assay in specific conditions..
+
+We thank the reviewer for pointing this out. We have now demonstrated the detection of 2 more SNVs (E484K and T716I) in addition to N501Y on paper strips to show that several SNVs can be targeted through RAY (Figure 4G-H, revised manuscript)..
+
+This manuscript has a lot of abbreviations, but some of them only appear 1 or 2 times. It makes this manuscript difficult for readers to read..
+
+It is confused that Wt, mut and N501Y are all present in Figure 2a. Authors are suggested to label it more clearly to show that it is WT and mutated sgRNA (N501Y)..
+
+"Finally, we tested RAY on RNA extracted from samples of RT-PCR positive SARS-CoV-2 infected individuals who returned to India from the United Kingdom between December 2020 and January 2021.".
+
+The travel history of the patient is not necessary for assay validation..
+
+We thank the reviewer for mentioning these points. In the revised manuscript, we have taken care to refer to abbreviations judiciously and have removed the travel history information from the main manuscript text as suggested..
+
+Reviewer 2:.
+
+The authors report the development of a CRISPR diagnostic platform for detecting variants (N501Y and T716I) in SARS-CoV-2. This is based on a technology, recently developed by the same research groups, using a Cas9 ortholog from Francisella novicida (FnCas9) based enzymatic readout for detecting nucleotide sequences. RAY (Rapid variant Assay), detect both the infection as well as the presence of the common N501Y mutation present in the 3 new variants and distinguish it from the parent CoV-2 lineage. The authors also adapt RAY to a lateral flow paper strip assay for low-cost rapid detection. This represents a novel sequencing-free rapid detection system for CoV2 mutations..
+
+Although the paper does have major strengths in principle, the authors have not provided sufficient data and information directly for an end user to adapt this platform to their use. For a stand-alone resource article, authors must provide all the critical information within the text, figures, methods and supplementary figures required to understand the range, specificity, sensitivity, limits and error prone aspects (if any) of the technology..
+
+We are grateful to Reviewer 2 for appreciating the technology and critically evaluating the work. We value the concerns raised for providing detailed information within the text, figures, methods, and supplementary figures for better implementation of the assay by an end-user. We have now addressed each of these points in detail in the revised manuscript..
+
+Further information and clarification are required for the following points:.
+
+Primer design and selection:.
+
+1. Given that the authors mention that they successfully established that FnCas9 is unable to bind or cleave targets having two mismatches -in the 2nd and 6th position; why were PAMs searched with mismatches in the 16th and 19th position (Figure 1D)?.
+
+2. How many pairs of flanking primers need to be designed for a specific point mutation? What experimental output would demonstrate optimal primer design?.
+
+3. More details on the amplicons are required..
+
+We thank Reviewer 2 for pointing this out. We have addressed these as follows:.
+
+1. The PAM search from the 16th and 19th positions was done based on our observation that the combination of these positions could also allow the FnCas9 to discriminate between its targets. In the revised manuscript, we have shown the in vitro cleavage outcomes for both 2 and 6 and 16 and 19 mismatched positions (Figure 1A). We apologize for not including this crucial piece of data in the original version..
+
+2. A single primer pair of flanking primers are needed for a specific point mutation. The experimental output that demonstrates optimal primer design is the distinct difference in band intensities between the WT and SNV samples. In the revised manuscript, we have explained the methodology for smartphone-based evaluation of band intensities and subsequently calling the samples WT or Mutant..
+
+3. We have provided details of the amplicon design in the revised manuscript..
+
+IVC Detection.
+
+1. What size fragments were generated? Was only one sgRNA used for each N501Y and T716I?.
+
+In figure 2a it seems like the amount of wild type amplicon is higher or equal to one of the cleaved fragments in the N501Y sample gel (mut lane). Is this due to poor cleavage by the FnCas9? A densitometry analysis would provide better quantification of fragment formations..
+
+We have indicated the size of the fragments in the revised manuscript (Figure 2A). Two different sgRNAs were used for N501Y and T716I correspondingly. The sequences of these sgRNAs are provided in Supplementary Table 4 in the revised manuscript. Densitometric analysis showed 72% cleavage of the mutant substrate and 3% cleavage of the WT substrate for N501Y and 83% and 1% respectively for T716I. Taken together this shows that the mismatch containing sgRNAs are highly specific in distinguishing the two substrates. In the revised manuscript, we have shown the outcome of T716I only as a lateral flow assay for clarity (Figure 4G)..
+
+2. What is the specificity, selectivity for each of these variants? Do altering sgRNA change the specificity? What conditions are necessary for the reaction to go to completion? How does one account for false negatives; is there a low copy number limit for this detection system. No experimental results have been provided for any of this..
+
+3. For the reaction between FnCas9 and sample/amplicons what are the ratio ranges; concentrations; volumes to be followed?.
+
+The specificity and selectivity of these variants are high. In the revised manuscript, we present data from 37 WT and 22 N501Y samples and observe a sensitivity of 86 % and specificity of 97 % on LFA (Figure 4 in the revised manuscript). Since the discrimination of SNVs through RAY follows a design based on introducing mismatches, the possibility of alteration in sgRNA doesn’t arise since the mismatch positions are fixed with reference to the mutation..
+
+For both the PCR and the subsequent CRISPR reaction, the presence of components (primers, enzymes, buffers, etc.) are in excess (details in Supplementary Note 1), and therefore the reaction proceeds to completion. In our previous study (Azhar, Phutela, Kumar, Ansari, et al. Biosensors and Bioelectronics, 2021), we had optimized the time required for the FnCas9 based substrate-binding reaction to proceed to completion. In this manuscript, we have adapted the same reaction time for RAY..
+
+As seen in the revised manuscript (Figure 4E, F), false-negative results arise when the test band intensity is not high enough for visual/app-based detection. This can happen when the viral load is extremely low or the PCR efficiency is not optimal. Alternatively, a very low-intensity band can also be due to degradation of the CRISPR components in the assay (dFnCas protein or sgRNA)..
+
+The limit of detection expressed as a corresponding RT-PCR Ct value has now been presented in the revised manuscript (Figure 4E)..
+
+LFA Detection.
+
+1. Please elaborate the protocol for "modified single step" RT-PCR..
+
+We provide a detailed protocol of the modified PCR and LFA steps in Supplementary Note 1..
+
+2. The authors mention that they eliminate one of the biotin label primers to reduce the chances of background signal due to non-specific interactions of the unused biotin primers with the streptavidin. The authors should compare and quantitate the output using various methods used in the current work as well as previous FELUDA paper [double biotin labels; synthetic phosphothioate modified RNA etc].
+
+We thank Reviewer 2 for pointing this out. We have now addressed all the points raised (single vs. double biotin labels) in Figure 4 of the revised manuscript. In our earlier study, we found that phosphorothioate modified synthetic sgRNAs have better stability as compared to in vitro synthesized sgRNAs over multiple rounds of freeze-thaw. Indeed, the same was observed when we performed RAY with phosphorothioate modified N501Y sgRNAs (Figure 4I)..
+
+3. Authors should explain the difference between FnCas9 and dFnCas9 in at least the methods..
+
+We express regret for not clarifying this point well in the initial submission. We have now explained the difference clearly in the revised manuscript..
+
+4. What are the limits of detection of RAY? Is it similar to FELUDA? How does changing sgRNA/ chimeric gRNA effect the detection limit? No experimental results have been provided for this..
+
+We thank Reviewer 2 for raising this point. We would like to explain that RAY is an assay for discriminating between two samples (WT and mutant strains of the virus) while FELUDA is for detecting the viral RNA in a single patient sample. Thus for FELUDA, direct quantification of the limit of detection was possible (up to a Ct value of 38, Biosensors and Bioelectronics, 2021). For RAY, we performed serial dilutions of the WT and mutant strains (N501Y) and found that it was able to discriminate the two accurately up to a Ct value of 34. We have presented this data in Figure 4E (revised manuscript)..
+
+5. If the only method of detection analysis is TOPSE then the authors must provide more details of how to access/use the app..
+
+We thank the reviewer for mentioning this. We have now described the TOPSE based acquisition and final interpretation in Supplementary Note 1. The application has been uploaded to a web server, and details about accessing the app have also been included..
+
+Reviewer 3:.
+
+The work by Kumar et al. presents a new diagnostic technique (called "RAY") for detecting SARS-CoV-2 virus infection (responsible for the current COVID-19 pandemic). The researchers use a CRISPR-based method to provide a "quick" assay that can distinguish COVID positive and negative samples. This method is an extension of their previous work on a COVID-19 assay called FELUDA (https://www.medrxiv.org/content/10.1101/2020.09.13.20193581v1). The focus of the current work is to specifically identify COVID-positive samples as well as the particular variant of the viral genome. Typically, the different SARS-CoV-2 variants could differ by a few differences in the genome sequence. This work uses the specificity of the CRISPR reaction: the enzymatic cleavage only occurs for a completely complementary target and not for a target with mutations. The authors developed a lateral flow assay, where the signal corresponding to detection of the viral RNA and/or the mutant is read out as a line on a paper strip (similar to pregnancy strips). Appearance of these lines indicate presence of the virus in the sample. The work used 8 COVID positive samples, 8 positive samples with the mutation N501Y (earlier shown to be present in the British, South African and Brazilian variants of SARS-CoV-2), and 12 COVID negative samples, and identified all the clinical samples accurately..
+
+In terms of the scope, the current work demonstrates COVID19 mutation detection with an easy lateral flow-based readout, within ~75 minutes. While the assay has been shown to be able to detect 20 samples accurately, a larger data set might be needed to evaluate the sensitivity of the assay and the range of viral loads it can detect. The past year has seen a number of new techniques for COVID19 diagnosis, all of which will be useful for the still ongoing large-scale testing worldwide. In that context, this assay has practical and immediate use for COVID19 detection if it can be commercialized, especially with the rise of a number of variants of the SARS-CoV-2 virus..
+
+I liked reading the paper – it was very clear and crisp, and the data was well presented in both the text and the figures. However, as written, the paper seems to rely heavily on the reader's knowledge of their earlier work on FELUDA. From a reader's point of view, I felt that certain aspects of the assay, methodology and scope of immediate use could be expanded here even if it is a repeat from the authors' FELUDA work, to make this a stand-alone paper..
+
+We thank Reviewer 3 for appreciating our work and commenting that the assay has practical and immediate use for COVID19 detection if it can be commercialized. The prime objective for this study is to develop an assay that can detect variants rapidly bypassing the cost and time associated with sequencing, and we are happy to report that we are in talks with interested parties for the global deployment of this assay..
+
+We appreciate the Reviewer’s concerns about expanding more about the assay, methodology, and immediate use. We have now addressed each of these points in the revised version of the manuscript..
+
+Discussion can be included on the following points. While these are not technical concerns, I think it will be informative for scientific and lay audience to know where the assay stands in terms of immediate impact for COVID19 pandemic..
+
+–Metrics of the assay such as sensitivity and specificity (even if referring to previous works)..
+
+We thank Reviewer 3 for this point. We have now performed this assay on a larger sample size and have included the sensitivity and specificity metrics of the assay in the revised version of the manuscript (Figure 4E, F)..
+
+– Scope of the assay: Do the authors intend to use this as a clinical test or at POC? Specific aspects can be discussed for either or both of these scenarios..
+
+We intend to use this test for rapid early screening of variant signatures. The pipeline of the RAY assay requires a PCR machine and can therefore be done in clinical labs. It then again can be extended to become a POC test in combination with isothermal amplification. Since the FELUDA protocol has been shown to work with Recombinase Polymerase Amplification (RPA), we foresee that adapting RAY to POC-like settings is possible. As Reviewer 3 suggested, we have now discussed these scenarios in the manuscript..
+
+– For the assay to be useful in POC setting, sample processing is an important step. Assuming samples are collected on swabs, RNA needs to be extracted before RAY can be performed. How can this be brought into the regular workflow for the assay to work at a testing site outside a lab or clinical facility? How will this affect the cost of the assay? The tally of the assay cost excludes RNA extraction. How can such an enzymatic approach be performed in a remote site without a cold chain?.
+
+The Reviewer has correctly raised the point about RNA extraction being required for the assay. Currently, the original version of the assay (called FELUDA) is being done in lab settings. Since RNA requires careful handling, we do not foresee how this can be avoided except where an automated system for RNA extraction and subsequent assay steps can be set up. If this is successful, the test can be performed outside a lab or clinical facility..
+
+We have not included the cost of RNA extraction since the assay has been tested with samples obtained by both columns, automated as well as column-free extraction methods. Since the costs associated with each vary a lot, we have kept the extraction methods separate from the tally..
+

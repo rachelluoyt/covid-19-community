@@ -1,0 +1,607 @@
+The coronavirus disease (COVID-19) outbreak reported in China in December 2019 has spread throughout the world. The WHO declared it as a pandemic in March 2020. The pandemic severely affected public health and the global economy. Many studies conducted on the coronavirus have helped us to elucidate its pathogenicity and pathophysiology. However, it is important to study the behavior of the pathogen in the environment to develop effective control measures. While studying the persistence and transmission of viruses in drinking water and wastewater systems, a low concentration of coronavirus and its nucleic acids have been detected in municipal wastewaters. This could be due to their high susceptibilities to degradation in aqueous environments. Epidemiological study on coronaviruses in wastewater will serve two purposes, i.e., in early detection of outbreak and in identifying asymptomatic carriers. In such cases, the epidemiological study will help in early detection of the presence of the virus in the community. Secondly, it will help in knowing if there are asymptomatic carriers, as such people do not show any signs of symptoms but shed the viruses in feces. The present review focuses on the epidemiological surveillance of wastewater for coronaviruses, as in recent years these are increasingly causing global pandemics. In this review we have discussed, the four pertinent areas of coronavirus study: (1) occurrence of coronavirus in wastewater, (2) wastewater based epidemiological surveillance of coronaviruses, (3) epidemiological surveillance tools used for detection of coronaviruses in sewage, and (4) persistence and sustainability of coronaviruses in wastewater..
+
+
+.
+
+The pneumonia outbreak caused by severe acute respiratory syndrome coronavirus-2 (SARS-COV-2) was first reported in Wuhan, China, in December 2019. By March 2020, as the infectious disease spread across several countries, the World Health Organization (WHO) declared it as a pandemic (World Health Organization, 2020). The total number of recorded infected cases and morbidity is escalating, with the pandemic severely affecting public health and the global economy (Ali et al., 2020). The severity of the COVID-19 pandemic is unprecedented in the modern era. People with pre-existing morbidities are highly susceptible to COVID-19 infection. Physicians and healthcare workers are at high risk as they are constantly exposed to the coronavirus during patient care and treatment. Similarly, healthcare workers performing diagnostic procedures and those administering therapeutics are also at high risk (CDC, 2007). Therefore, the pandemic caused by the novel coronavirus-2 is a challenge to the scientific and medical community..
+
+Coronaviruses are classified as belonging to family Coronaviridae, subfamily Orthocoronavirinae, and order Nidovirales. Based on phylogenetic clustering, the Coronaviridae family is classified into four genera and includes Alpha, Beta, Gamma, and Delta coronaviruses (Colford et al., 2006). Coronaviruses were identified for the first time in the 1930s during the investigation of acute respiratory infections in domesticated chickens. The causal organism was identified as the infectious bronchitis virus (IBV). Later in the 1960s, human coronaviruses were identified in patients suffering from common cold and named as human coronavirus-229E and human coronavirus-OC43 (Leung et al., 2003). In recent years, the coronavirus SARS-COV in 2003, MERS-COV in 2012, and SARS-COV-2 in 2019 have been identified as causative agents of serious respiratory tract infections (Figs. 1). COVID-19 causing novel coronavirus-2 can infect different organs, apart from causing severe acute respiratory problems and pneumonia (La Rosa et al., 2020).Fig. 1Timeline of detection and characterization of coronavirus.
+
+Timeline of detection and characterization of coronavirus.
+
+The viruses are referred to as “coronavirus” because electron microscopy image shows the presence of large bulbous projections resembling a crown or a solar corona on the virus surface. The projections or spikes observed on the surface of the virus are proteinaceous and termed as peplomers. Coronavirus are large enveloped pleomorphic spherical particles of 120 nm size. The envelope is a lipid bilayer made up of membrane (M), envelope (E), and spike (S) structural proteins. Nucleocapsid consists of multiple copies of protein attached to positive-sense RNA, and the conformation is seen as continuous beads on a string. The genome of coronaviruses is approximately 27–34 kb. In comparison to other RNA viruses, coronavirus is considered to be the largest virus (Daughton, 2020)..
+
+Coronaviruses HCoV-229E, SARS-CoV, HCoV-OC43, MERS-CoV, HCoV-N, and HCoV-HKU1 infect humans. Whereas coronaviruses porcine enteric diarrhea CoV (PEDV), bat coronaviruses (BatCoV), feline infectious peritonitis virus (FIPV), bovine coronavirus (BCoV), and transmissible gastroenteritis virus (TGEV) infect wildlife, pets, and livestock (La Rosa et al., 2020). Coronaviruses capable of causing both respiratory and gastrointestinal infections are listed in Table 1.Table 1Characteristics of coronaviruses diseases and infectionsCoronavirusesDiseases / symptomsMode of transmissionFeline enteric coronavirusPneumonia, abdominal enlargement, chronic feverDirect contact, fecal–oral route, sheding feces, body fluidCanine coronavirusMild gastroenteritis, diarrheaFecal–oral route, small intestinal secretionTransmissible gastroenteritis virus in swineMild diarrhea, gastroenteritisFecal–oral route, small intestinal secretion, smearsPorcine epidemic diarrhea virusGastroenteritis, diarrhea, vomitingFecal–oral route, intestinal secretionBovine coronavirusGastroenteritis, dehydration, diarrhea, feverFecal–oral route, respiratory dropletsSARS coronavirusHumanSever acute respiratory syndrome, diarrhea, fever respiratory diseasesAerosol droplets, fecal–oral route, stool, serumSARS Cv (civet cats, bats)Subclinical, respiratory diseasesFecal–oral route, fecesAvian infectious bronchitis virusNephritis secretion, egg production decreasesIngestion of food contaminated with fecesTurkey coronavirusDiarrhea, cyanotic skinFecal–oral route, intestinal secretionSource: Fanner’s Veterinary Virology, 5th Edition, Chapter 24.
+
+Characteristics of coronaviruses diseases and infections.
+
+SARS coronavirus.
+
+Human.
+
+Source: Fanner’s Veterinary Virology, 5th Edition, Chapter 24.
+
+The virus infection is initiated when it comes in contact and binds to the receptors present on the complementary host cells. The proteases secreted by host cell cleave and activate the receptors attached to the viral spike. Viruses enter the host either by endocytosis or through direct fusion with the cell membranes. The genome of the virus, i.e., the RNA, is released into the cytoplasm. It uses the host cell ribosomal machinery for its translation and synthesis of nonstructural proteins required for its assembly. Further, it is transmitted from the respiratory droplets that are shed by infected patients during sneezing and coughing (Daughton, 2020)..
+
+Concerns over reemergence of the SARS coronavirus have led to increased research on vaccine development. Certain coronavirus-related diseases such as infectious bronchitis in birds and canine and feline coronavirus have been the target of vaccine production (Cavanagh, 2003). Currently, vaccines based on 12 types of platforms are at pre-clinical and clinical level trials against SARS-CoV-2 (Fig. 2). Various vaccine types being evaluated include nucleic acid-, viral vector-, virus-, and protein subunits, of which over 70 vaccines use protein subunit platform, 30 use non-replicating viral vector platforms, and 29 use RNA platforms. Currently, there are 66 vaccines in clinical trials, with 17 trials in phase I, 23 trials in phases I–II, 6 trials in phase II, and 20 trials in phase III. The trials of four candidates were halted. In phase III trials, some of the COVID 19 vaccines showed up to 95% efficacy in preventing symptomatic COVID-19 infections (Mellet & Pepper, 2021). Currently, the various vaccine candidates undergoing phase III clinical trials and approved for emergency use are listed in Table 2. Among the pharmacological therapeutic strategies, Remdesivir (GS-5734) a broad-spectrum antiviral drug was the first antiviral agents to be evaluated against SARS-CoV-2. Clinical trials are currently testing its safety and efficacy for COVID-19 treatment in humans. Fostamatinib, an inhibitor of the spleen tyrosine kinase, plays a role in adaptive immune receptor signaling, innate immune recognition, and platelet function. This FDA approved drug is currently in phase II clinical trials for COVID-19. Similarly, clinical trials are conducted to evaluate the efficacy and timing of corticosteroid treatment for COVID-19. Convalescent plasma obtained from recovered COVID-19 patients containing naturally produced antibodies have also been explored for clinical administration, but these warrant standardization of protocols. Among the antibodies, the first synthetic one for clinical use has been REGN-COV2 antibody cocktail developed by Regenron (Izda et al., 2020). With the emergence of SARS-CoV-2, both therapeutic approaches and a vaccine solution are being investigated relentlessly to control COVID-19 morbidity and mortality.Fig. 2Molecular platforms used for clinical evaluation of SARS-CoV-2 vaccinesTable 2Covid 19 vaccine candidates under phase III clinical trials and authorized for emergency useVaccine platform/vaccine targetCandidateConsiderations and storage temperatureCurrent stage of clinical trial and doseRNA vaccines/S protein with two proline substitutions (K986P and V987P)BNT162b2 from BioNTech/PfizerLow cost and simple to develop, requires storage at low temperatures (− 70 to − 10 °C)Phase III2 dose in 3 to 4 weeksRNA vaccines/S protein with two proline substitutions (K986P and V987P)mRNA-1273 from Moderna/NIAIDLow cost and simple to develop, requires storage at low temperatures (− 20 + − 5 °C) Phase III2 dose 4 weeksConventional inactivated vaccines/whole virusCoronaVac from Sinovac Research and Development Co., Ltd. ChinaEssential adjuvant is used to boost an immune response, requires storage at low temperatures(2–8 °C)Phase III2 dose 4 weeksConventional inactivated vaccines/whole virusBBIBP-CorV from Beijing Institute of Biological products, Wuhan Institute of Biological Products and Sinopharm, ChinaEssential adjuvant is used to boost an immune response, requires storage at low temperatures (2–8 °C)Phase III2 dose 4 weeksConventional inactivated vaccines/whole virusBBV152 (Covaxin) from Bharat Biotech and Indian Council of Medical Research, IndiaEssential adjuvant is used to boost an immune response, requires storage at low temperatures(2–8 °C)Phase III2 dose 4 weeksViral vector vaccine/full length S proteinSputnik V COVID-19 vaccines from Gamaleya Research Institute and Health Ministry of the Russian Federation. RussianProduces strong immune response and requires storage at low temperatures(2–8 °C).Phase III a2 dose in 3 weeksViral vector vaccine/full length S proteinOxford-AstraZeneca COVID-19 vaccines (ChAdOx1 nCoV-19, Covishield) from University of Oxford, AstraZeneca, UK (Sweden)Produces strong immune response and requires storage at low temperatures(2–8 °C).Phase III2 dose in 4–12 weeksViral vector vaccine/Full length S proteinConvidicea vaccine (Ad5-nCoV) from Beijing Institute of Biotechnology, ChinaProduces strong immune response and requires storage at low temperatures(2–8 °C).Phase IIISingle doseViral vector vaccine/S protein with two proline substitutions (K986P and V987P) and at Furin cleavage sites (R682S and V987P)Johnson & Johnson COVID-19 vaccine. (Ad26.COV2.s) from Janseen Pharmaceutical companiesProduces strong immune response and requires storage at low temperatures(2–8 °C).Phase IIISingle dosePeptide vaccine/RBD-dimer (residues 319–537 as tandem repeat)ZF2001 (BBD- Dimer) from Anhui Zhifei Longcom Biopharmaceutical and Institute of Microbiology, Chinese Academy of Sciences, ChinaA consistent safety record in the past,Provided with an adjuvant to boost an immune response, requires storage at low temperatures(2–8 °C).Phase III2 dose 2 weeksPeptide vaccine/full length S proteinNovavax COVID-19 (NVX-C0V2373) from Novavax, USAA consistent safety record in the past,Provided with an adjuvant to boost an immune response, requires storage at low temperatures (2–8 °C).Phase III.
+
+Molecular platforms used for clinical evaluation of SARS-CoV-2 vaccines.
+
+Covid 19 vaccine candidates under phase III clinical trials and authorized for emergency use.
+
+Phase III.
+
+2 dose in 3 to 4 weeks.
+
+Low cost and simple to develop, requires storage at low temperatures.
+
+ (− 20 + − 5 °C) .
+
+Phase III.
+
+2 dose 4 weeks.
+
+Essential adjuvant is used to boost an immune response, requires storage at low temperatures.
+
+(2–8 °C).
+
+Phase III.
+
+2 dose 4 weeks.
+
+Essential adjuvant is used to boost an immune response, requires storage at low temperatures .
+
+(2–8 °C).
+
+Phase III.
+
+2 dose 4 weeks.
+
+Essential adjuvant is used to boost an immune response, requires storage at low temperatures.
+
+(2–8 °C).
+
+Phase III.
+
+2 dose 4 weeks.
+
+Produces strong immune response and requires storage at low temperatures.
+
+(2–8 °C)..
+
+Phase III a.
+
+2 dose in 3 weeks.
+
+Produces strong immune response and requires storage at low temperatures.
+
+(2–8 °C)..
+
+Phase III.
+
+2 dose in 4–12 weeks.
+
+Viral vector vaccine/.
+
+Full length S protein.
+
+Produces strong immune response and requires storage at low temperatures.
+
+(2–8 °C)..
+
+Phase III.
+
+Single dose.
+
+Viral vector vaccine/.
+
+S protein with two proline substitutions (K986P and V987P) and at Furin cleavage sites (R682S and V987P).
+
+Produces strong immune response and requires storage at low temperatures.
+
+(2–8 °C)..
+
+Phase III.
+
+Single dose.
+
+Peptide vaccine/.
+
+RBD-dimer (residues 319–537 as tandem repeat).
+
+A consistent safety record in the past,.
+
+Provided with an adjuvant to boost an immune response, requires storage at low temperatures.
+
+(2–8 °C)..
+
+Phase III.
+
+2 dose 2 weeks.
+
+A consistent safety record in the past,.
+
+Provided with an adjuvant to boost an immune response, requires storage at low temperatures .
+
+(2–8 °C)..
+
+An individual excretes a large number of microorganisms in feces and urine which are carried away in sewage. Enteric pathogens capable of surviving in water cause waterborne diseases and are transmitted through fecal–oral-route (Guan et al., 2003). Several viruses, bacteria, and protozoans are identified as enteric pathogens as they are transmitted by consumption of drinking water contaminated with wastewater. These pathogens can also spread through contaminated surfaces or from person to person contact (Dayaram et al., 2017). Infected individuals shed millions of virus particles in their feces or body fluids, which eventually enter sewage systems. Effective management of human excreta in municipal waste is the primary step for the prevention of the pathogen from spreading into the environment (Garcia-Aljaro et al., 2019)..
+
+The presence of enteric viruses in aquatic environments is due to sewage discharge, which is considered to be the primary source of water contamination. Commonly occurring pathogenic enteric viruses in wastewater include norovirus, enterovirus, adenovirus, astrovirus, and rotavirus. The gastroenteritis outbreaks across the world have been mainly attributed to direct or indirect exposure of humans to treated sewage water containing persistent pathogens or their spores. The enteric viruses can replicate only in human hosts and cause a wide range of infections in humans with diverse symptoms (Parasidis et al., 2013)..
+
+In 1975, coronaviruses were first observed using electron microscopy in the feces of a person with the gastroenteric infection. Investigation of severe acute respiratory syndrome (SARS) outbreak in 2003 revealed that the transmission was limited to people in close contact with patients. However, the possible transmission from the wastewater system could not be ruled out as patients excreted coronavirus and RNA of these viruses were found in the stools samples in Amoy Gardens, Hong Kong. Similarly, coronavirus responsible for Middle East respiratory syndrome coronavirus (MERS-CoV) outbreak in 2013 caused atypical presentations including gastroenteritis in infected patients (Peiris et al., 2003). In the current situation, the major focus of the global scientific community is on understanding the pathogenic behavior and environmental persistence of the novel coronavirus-2..
+
+In the pandemic affected countries, scientists are analyzing sewage water for the presence of novel coronavirus. Such surveillance of wastewater helps in calculating the total number of infected cases prevalent in a community (Le Poder, 2011). A single waste treatment plant contains wastewater from more than one million people (Mallapaty, 2020). Therefore, successful detection of virus or their gene fragments will be useful in calculating the approximate number of people infected in a geographic area. Thus, the time and resources required for testing every individual can be reduced. Surveillance of wastewater will help in identifying infections at initial stages and set up an early warning system for outbreak detection (Mallapaty, 2020). Such alert and response systems will ensure effective control of the outbreak and prevent it from escalating into a pandemic like situations..
+
+In recent years, there is a considerable increase in the studies on the occurrence of coronaviruses in water and wastewater environments in many countries (Table 3). In the future, wastewater-based epidemiology will be a potential tool for disease monitoring and for devising control strategies during epidemic events. Quantifying and calculating the pathogenic viruses in wastewater will help in determining the degree of treatment required to reduce the health risk due to infections (Yuan et al., 2020).Table 3Occurrence and detection of infectious coronaviruses in water environmentVirusWater matrixDetection methodCountry/yearsReferenceAlpha and Beta corona virusSurface water (water channels)Out of 21 samples tested, one was found positive for corona virus by broad range semi-nested RT PCRCentral Saudi Arabia (2015)Blanco et al., 2019Human coronavirus 229E and Human coronavirus HKU1Class B biosolids from waste water treatment facility83% of samples tested were positive for corona virus and higher relative abundance was observed in influent samples than in effluentsUSA (2011)Bibby et al., 2011Human coronavirus HKU1Influent and effluent sludgeSamples were tested using RT-PCR. N1 fragment was detected in sewage from 6 sites; N3 and E fragment were detected from 2 sitesUSA (2013)Bibby & Peccia, 2013Human coronavirus 229ESewage sample from 7 cities and from airport Virus RNA detected using qRT-PCR Netherlands (2020)Mallapaty, 2020SARS CoV-2Sewage water of Amsterdam airport and human waste water from TilburgGene fragment of novel coronaviruses in untreated sewage sample from two WWTP detected using RT-qPCRNetherlands (2020)Mallapaty, 2020SARS CoV-2Untreated sewage sample from suburban pumping station (PS) and two treatment plants (WWTP) from urban catchment of Southeast Queensland Viral RNA detected in two sample using RT-PCR Southeast Queensland (SEQ) Australia (2020)Ahmed et al., 2020a, bSARS CoV-2Random collection of sewage sample from pumping stations Viral RNA identified using RT-PCRChennai, India (2020)Chennai metro water supply and sewage board. (CMWSSB).
+
+Occurrence and detection of infectious coronaviruses in water environment.
+
+Wastewater-based epidemiology (WBE) is a new concept. It gives detailed and comprehensive information about health risks in communities. It is based on extraction, detection, inspecting, and elucidating chemical or biological compounds (also known as biomarkers) from wastewater matrix (Sims & Kasprzyk-Hordern, 2020). The concept of WBE was introduced by Daughton in 2001 for analyzing the drug residue in sewage water (Daughton, 2001). Further, the concept was adopted for extracting and quantifying cocaine in both the surface water and wastewater (Zuccato et al., 2005). Similarly, for effective management of current situations such as COVID-19 pandemic, WBE techniques can provide unbiased information of microbial risk in wastewaters (Kasprzyk-Horden et al., 2014)..
+
+Monitoring of diseases and rapid reliable information of disease outbreak in a community can be identified by utilizing WBE as a complementary surveillance technique (Sims & Kasprzyk-Hordern, 2020).The use of WBE has given good results in drug consumption monitoring and population-wide exposure. However, its application in the current pandemic like situation needs to be discussed (Choi et al., 2019; Daughton, 2018). The identification of potential biomarkers which could be pathogenic bacteria and viruses or their constituents could be helpful in monitoring wastewater for detecting the presence and potential spread of infectious diseases in the community (Sims & Kasprzyk-Hordern, 2020)..
+
+The genetic material (RNA) of pathogenic organisms serves as a potential biomarker, and their detection in feces (< 1 × 101–106.5) has been used as an indicator of severe acute respiratory syndrome (SARS-CoV) in the community (Poon et al., 2004). The detection of such biological markers (pathogenic DNA/RNA) in influent sewage water implies that the disease is circulating within the community. The viral pathogens present in the aquatic environment show a significant threat for humans due to their high rate of mutation and adaptation ability inside the human cells. Thus, in such cases, WBE surveillance techniques can be used for the detection of these viruses (Woolhouse & Gowtage-Sequeria, 2005). Carducci and his team worked on understanding virological risk assessment in the entry and exit point of the wastewater plants. Their study reveals that treated wastewater contains infectious human viral pathogen. The finest indicator for inactivation of viruses in recycled water seems to be adenovirus followed by somatic coliphages (Carducci et al., 2009)..
+
+The concept of the WBE approach is promising with potential results in the hepatitis A and norovirus outbreak (Hellmér et al., 2014). The WHO guidelines about monitoring polio in the wastewater matrix are good proof for the success of WBE in analyzing poliovirus circulation within the population (World Health Organization, 2003). Similar research about persistence and surveillance of the coronavirus in aquatic environments will give a complete picture regarding its potential transmission risk in the community (La Rosa et al., 2012)..
+
+Many studies that have analyzed municipal wastewater from affected communities have shown the presence of the pathogenic virus. Wastewater-based epidemiology can help in detecting the prevalence of pathogenic viruses in the wastewater treatment plant as the effluent contains viruses excreted from both the asymptomatic and symptomatic individuals in the community (Sinclair et al., 2009; Xagoraraki & O'Brien, 2020). Wastewater-based epidemiology tool has been successfully used to caution and notify the early disease outbreaks of enteric viruses including norovirus, hepatitis A virus, and poliovirus resulting in the effective public health interventions (Hellmér et al., 2014; Asghar et al., 2014). The estimation and concentration of viral RNA in wastewaters have shown a high range of correlation with the epidemic status of the population linked to the wastewater network (Ahmed et al., 2020a, b)..
+
+WBE techniques help in giving desired information regarding environmental exposure and health status of a community. Reasonable and replicable methods are used for the detection of viral pathogens in contaminated water (Sims et al., 2020). Pandemic situations demand adequate detection and a survey of virus distribution in the environment. WBE can be used for early prediction and to point out the viral hotspots to protect the public from risk (Venugopal et al., 2020). Detection of viral pathogens in sewage water could help public health officials to initiate early intervention measures including quarantine and other preventive steps. Such timely identification of the virus arrival in a community can result in prompt action towards the control of outbreak and reduce the health and economic damage caused by novel viruses including SARS-COV-2 and other re-emerging viruses (World Health Organization, 2020a)..
+
+The emerging and remerging disease outbreaks and its surveillance have become an integral component of public health risk assessment. Therefore, disease monitoring is one of the best ways to analyze the disease outbreak. Water fingerprinting is also considered to be one of the best methods in WBS. Here, the extraction, detection, and analysis of biomarkers reflect the potential health risk in water and wastewater (Sims & Kasprzyk-Hordern, 2020). In Australia, WBE has been used as a potential tool for SARS-CoV surveillance and monitoring. The presence of COVID-19 in wastewater was confirmed using molecular methods including RT-qPCR and sequencing techniques (Ahmed et al., 2020a, b). Similar studies on the possible transmission of coronaviruses from sewage have been conducted using advanced molecular techniques such as PCR. Wang and his team in China found nucleic acid of SARS-CoV in sewage before disinfection in Beijing Hospital and 309th Hospitals of the Chinese People’s Liberation Army. They adopted an electropositive filter media to concentrate virus from sewage, followed by semi-nested RT-PCR and gene sequencing to confirm its presence. On analyzing disinfected sewage samples from the 309th Hospital, the presence of a virus was confirmed. The study revealed that the virus can survive for 14 days in sewage at 40 °C and for 2 days at 20 °C. The SARS-CoV could survive for 8 days, though the inactivation process was adopted (Wang et al., 2005a, b, c). Southwestern Greece wastewater plant was examined for 2 years to evaluate and detect the viral circulation in the city. PCR techniques were adopted to survey the viral strains, such as hepatitis A viruses, noroviruses, adenoviruses, human polyomaviruses, and hepatitis E viruses in sewage water. The study revealed the distribution and frequency of pathogenic viral strains in the community. Around 87.5% of the virus was identified in the wastewater sample. The result confirmed the presence of both DNA and RNA viruses in wastewater treatment plants (Kokkinos et al., 2011). Thus, WBE when equipped with molecular tools such as PCR can be used for rapid and early detection of a potential viral outbreak in the community. Dutch scientists detected the presence of COVID-19 in sewage waters collected from Amsterdam Schiphol airport in Tilburg, Netherlands. This was the first study reporting the detection of SARS-COV-2 in sewage in the current outbreak situation. Thus, surveillance of wastewater can be a sensitive tool for monitoring community spread of the virus, especially when the coronavirus has low prevalence (Mallapaty, 2020)..
+
+Similarly, surveillance for variants in wastewater could be used to rapidly detect emergence of variants of CoV-2 and monitor their spread in a community. A number of new SARS-CoV-2 variants with high number of mutations have been reported across the world. These variants have been classified by the Centers for Disease Control and Prevention (CDC) as variants of interest, variants of concern, and variants of high consequence based on certain attributes. Three new variants B.1.1.7, 501Y.V2 (B.1.351), and P.1 (B.1.1.28.1) are of foremost importance and are classified as variants of concern (VoC) due to their high transmissibility and antibody escape. These VoC lineages have gained attention as they are rapidly spreading at high efficiency worldwide. Large-scale genomic screening study has led to the identification of Lineage B.1.1.7 (23 mutations with 17 amino acid changes) in the UK. Through similar surveillance studies, lineage B.1.351 (23 mutations with 17 amino acid changes) was first documented in South Africa followed by emergence of lineage P.1 (approximately 35 mutations with 17 amino acid changes) in Brazil (Abdool Karim & de Oliveira, 2021). These variants have N501Y mutation which changes the amino acid in the receptor-binding domain of the spike protein. The key concerns of the new variants are their viral transmissibility, disease severity, reinfection rates, and vaccine effectiveness. Lineages B.1.351 and P.1 have shown increased resistant to antibody neutralization (Wang et al., 2021). Recently, few more SARS-CoV-2 variants, B.1.427 and B.1.429 first detected in California, and B.1.617, B.1.617.1, B.1.617.2, and B.1.617.3 detected in India have shown more transmissibility than other variants. Therefore, the spread of these variants in the community should be monitored to know their transmission dynamics and take appropriate measures to keep them in check. Variants surveillance done through whole genome sequencing of clinical samples is expensive and time-consuming. Therefore, genome sequencing of viral RNA isolated from sewage can rapidly detect and identify any sequence variation (Izquierdo-Lara et al., 2021). Thus, deep sequencing initiatives in sewage samples can help detect new and rare mutations from mixtures of SARS-CoV-2 lineages and identify VoC in sewage and subsequently their presence in the community (Heijnen et al., 2021)..
+
+The adaptation of water safety plans is a very important guideline for maintaining the quality of water. Qualitative microbial risk assessment (QMRA) is an answerable model for water treatment monitoring. The model assesses the health-based target and requires wastewater monitoring for safe drinking water (Smeets et al., 2010)..
+
+More research and studies on valid and reproducible techniques for the perception of viral pathogens in the wastewater is required. This will help in regulating the scope of contamination of the aquatic environment and understanding the correlation between viral contaminations with aquatic environmental factors. QMRA technique helps in understanding the use of water quality data, pathogenic-specific characteristics, prevalence, and exposure data. This will help in providing awareness of health risks associated with wastewater system and upgrade outbreak control methods (La Rosa et al., 2012). QMRA is a helpful tool in detecting health risks associated with identifying pathogens and understanding its relation in the environment. It includes field data and laboratory experiments to measure and quantify the disease in a specific exposed environment. Previously, QMRA has been successfully used in detecting food-borne disease outbreak and now implied for application in waterborne disease caused by enteric pathogens (Bentham & Whiley, 2018). The guidelines regarding QMRA by the World Health Organization include important steps such as (1) hazard identification, (2) dose response, (3) exposure assessment, and (4) risk characterization (Ashbolt, 2004). QMRA is an ideal means of predicting and analyzing the microbial risks in a community (Bentham & Whiley, 2018). The Federal-Provincial-Territorial Committee on Drinking Water (CDW) of Canada documented the risks associated with the circulation of enteric viruses in potable water. The minimum 4-log inactivation level was required to remove pathogenic viruses in drinking water sources. Characterization of risk related to water sources is required for implementing necessary disinfection methods for controlling the circulation of the pathogenic viruses in water sources (CDC, 2017). QMRA for pathogenic enteric viruses present in drinking water followed by the committee on drinking water in Canada has been discussed in Table 4. In the present COVID-19 scenario, QMRA in WWTPs can be developed by taking into considerations factors such as shedding of CoV-2 into raw wastewater, concentration of CoV-2 in raw and treated wastewater, aerosolized water inhaled by workers, effect of humidity and temperature on viability of aerosolized coronaviruses, and frequency and duration of exposure (Dada & Gyawali, 2021). In three COVID-19 scenarios, QMRA was used to estimate the risk of infection in WWTP workers based on viral loads and infectivity of CoV-2 in sewage affluent. Such QMRA study is useful for risk management decisions and to plan emergency response (Zaneti et al., 2021).Table 4Summary of QMRA associated with viruses in contaminated water sourcesHealth hazard identification• Gastrointestinal diseases results in circulation of enteric viruses in drinking water• Norovirus-viral gastroenteritis is observed in all age groups. Rotavirus causes infection in children. Astrovirus infection leads to diarrhea. Adenoviruses cause acute viral gastroenteritis in children. Enteroviruses cause meningitis, encephalitis, and poliomyelitis.Exposure assessment• Level of exposure reveled by the comparative study of volume of ingested water per day with concentration of enteric viruses in drinking water• Level of water concentration estimated will help in monitoring the health risk assessment• Varies in combination of log reduction carried out through treatment process• Pathogens exposure was examined and reduction of pathogen attained by developing and applying benchmark measures Dose response assessment• Predictable health hazard is attained by adaptation of dose response model• Dose response model helped in calculating the probability of infection and risk of illness after exposure of viruses• Dose response model developed and applied for rotavirus, is used in risk assessment and the data are characterized by beta-Poisson modelsRisk quantification• Characterization of risk in this report guided to maintain the minimum of 4 log reduction to all drinking water• Level of virus reduction in water source is calculated by site specific assessment, which helps in monitoring water source and estimating the contamination or risk• Increased viruses concentration in water is always demands for greater reductionSource: Enteric viruses in drinking water, document for public consultation, prepared by the Federal-Provincial-Territorial Committee on Drinking Water, Canada, 2017.
+
+Summary of QMRA associated with viruses in contaminated water sources.
+
+• Gastrointestinal diseases results in circulation of enteric viruses in drinking water.
+
+• Norovirus-viral gastroenteritis is observed in all age groups. Rotavirus causes infection in children. Astrovirus infection leads to diarrhea. Adenoviruses cause acute viral gastroenteritis in children. Enteroviruses cause meningitis, encephalitis, and poliomyelitis..
+
+• Level of exposure reveled by the comparative study of volume of ingested water per day with concentration of enteric viruses in drinking water.
+
+• Level of water concentration estimated will help in monitoring the health risk assessment.
+
+• Varies in combination of log reduction carried out through treatment process.
+
+• Pathogens exposure was examined and reduction of pathogen attained by developing and applying benchmark measures .
+
+• Predictable health hazard is attained by adaptation of dose response model.
+
+• Dose response model helped in calculating the probability of infection and risk of illness after exposure of viruses.
+
+• Dose response model developed and applied for rotavirus, is used in risk assessment and the data are characterized by beta-Poisson models.
+
+• Characterization of risk in this report guided to maintain the minimum of 4 log reduction to all drinking water.
+
+• Level of virus reduction in water source is calculated by site specific assessment, which helps in monitoring water source and estimating the contamination or risk.
+
+• Increased viruses concentration in water is always demands for greater reduction.
+
+Source: Enteric viruses in drinking water, document for public consultation, prepared by the Federal-Provincial-Territorial Committee on Drinking Water, Canada, 2017.
+
+Wastewater-based epidemiology consists of four main steps which include sampling of wastewater, storage of sample, concentration step, extraction, and detection (Alygizakis et al., 2021). Sampling is one of the most crucial steps as it can affect the entire analysis. As seen for the analysis of SARS-CoV-2 in wastewaters, though composite sampling is recommended WBE technique, yet grab sampling has been used more often. However, parameters including flow rate, volume of wastewater, and temperature are not considered in this sampling technique. This limitation of grab sampling can be avoided by using 24-h flow/time composite samples. Sample volume should also be given importance as low volume can lead to low recovery and result in false-negative results. Thus, increased volume can produce signals even if recovery is low (Hart & Halden, 2020). During WBE, samples have to be stored at temperature of – 20 °C to inactivate the bacterial activity and for degradation of contaminants of emerging concern. But this temperature is not favorable for CoV-2 genetic material. Further, freezing and thawing can lead to RNAses degrading CoV-2 RNA in wastewater, and the loss in viral load could impact further analysis analysis (Alygizakis et al., 2021). The storage protocol for samples and genetic materials has to be optimized at the earliest. A number of concentration methods are used for enriching CoV-2 from wastewater. But these methods lack use of ideal external control standards having properties similar to SARS-CoV-2. On comparative analysis of seven concentration methods for recovery of CoV-2 in wastewater, absorption-extraction method proved to be the most rapid and effective. Adding MgCl2 to pre-filtered wastewater improved recovery when using electronegative membrane. Amicon Ultra-15 filter used in ultrafiltration showed acceptable functioning performance. But sample volume and the filter type are also important for analysis. Use of PEG gave low yields and increased concentration of PCR inhibitors. Though pre-centrifugation removed larger particles and debris, it lowered recovery as pellet absorbs genetic material (Ahmed et al., 2020a, b). Isolation of CoV-2 RNA from concentrated extracts is performed by commercially available kits as they include lysis and inhibitor which guarantees high-quality, ready-to-use RNA in highly complex matrices. However, the yield of SARS-CoV-2 virus recovered, and RNA isolated must be quantified. This could be done by adding non-target RNA sequence after concentration or addition of the lysis solution (Medema et al., 2020). For the detection of CoV-2, a number of assays for virus detection differing in sensitivity and specificity using various pairs of specific primers and probes are reported. However, Centers for Disease Control and Prevention recommended protocol, primers and probes are highly used. In the WBE studies, the first PCR assays for CoV-2 was developed against the E-gene and the N-gene. Later PCR assays targeting RdRP and ORF1ab were also reported (La Rosa et al., 2020). The limitation of PCR assays are possibilities of false-negative and false-positive results due to any of the reasons such as errors in sampling, low viral load in samples, and degradation of the RNA. CoV-2 detection in wastewaters has been confirmed using the “gold standard” RT-qPCR which uses one-step RT-qPCR with efficient cDNA synthesis and real-time PCR in a single tube (Rimoldi et al., 2020). Apart from RT-qPCR, ultrasensitive assays using nested PCR and droplet digital PCR (ddPCR) have been used in WBE studies. Nested PCR uses two sets of primers and thus increases sensitivity by reducing the non-specific binding. ddPCR improves the limit of detection and accuracy in the detection of CoV-2 even in samples with low viral load. It gives absolute quantification of virus genome copy numbers without the need for external calibration (Liu et al., 2020). However, it is expensive as it requires the use of high cost instruments and reagents. Genome sequencing methods have been used to eliminate false-positive PCR results as wastewater is a complex matrix with contaminants affecting analysis. Though sequencing is not favorable for screening of massive samples in clinical settings, yet the next-generation sequencing has potential in WBE studies (Westhaus et al., 2020)..
+
+A number of wastewater-based epidemiological surveillance on COVID-19 has been conducted in different parts of the world. In this section, the techniques adopted by the researchers worldwide for the sample collection, processing, and detecting the viral genetic material have been reviewed. The merits and limitations of the methods used have been discussed. The findings and implications of these studies have been summarized in Table 5. The primers and probes used in RT-qPCR for detection of CoV-2 in wastewater samples have been listed in Table 6.Table 5Analytical methods used for detection of SARS-CoV-2 in wastewatersSampling processRNA isolationDetection and quantification of RNAReference24-h flow-dependent compositeCentricon® Plus-70 centrifugal ultrafiltersRNeasy PowerMicrobiome KitRT-qPCR2.6–2.2 × 103 copies/LMedema et al., 202024-h flow-dependent compositeUltrafiltrationNucleoSpin RNA Virus kitRT-qPCR and Sanger sequencing analysis30–200 gene equivalents/LWesthaus et al., 2020Refrigerated autosampler,submersible in situ high frequency autosampler and grab samplingDirect RNA extraction from electronegative membranesRT-qPCRN_Sarbeco RT-qPCRSanger and Illumina sequencing8.3 copies/reactionCorman et al., 2020Composite samples,autosampler,ultrafiltration with spin concentratorsRNeasy Mini Kit (QIAGEN)qRT-PCRNanopore and sanger sequencingNemudryi et al., 2020NanoCeram column filters Viral RNA QIAGEN KitRT-qPCR104–105 genomic copies/LMiyani et al., 2020Composite samplingprecipitated with polyethylene glycol 8000 (PEG),0.2-μm-filtrationTrizol (Thermofisher)RT-qPCRSanger sequencingWu et al., 2020Grab and poolPEG 9000NucleoSpin® RNA VirusTaqPath™ Covid-19 RT-PCR Kit5.6 × 10–3.5 × 102 copies/LKumar et al., 2020Composite sampling for 24 hUltrafiltrationPEG 8000ABIOpure Viral DNA/RNA Extraction kits (Alliance Bio Inc)TRIzolRT-qPCR31.7 gene copies/mLHasan et al., 2021Grab (0.2 L)Aluminum-driven flocculationGrab (0.5–1 L)Aluminum hydroxide adsorption-precipitation protocolCentrifugation at 1900 × g for 30 minNucleo-Spin RNA virus kitRT-qPCR1.6–9.7 × 105 copies/LTaqMan real-time RT-PCR6.3 × 104–6.3 × 105 copies/LRandazzo et al., 2020Composite samplingCentrifugated at 200,000 × g for 1 h at 4 °C using XPN80 (Coulter Beckman)PowerFecal Pro kit (QIAGEN)RT-qPCR5.104 GU/L to 3.106 GU/LWurtzer et al., 2020Composite samplingcentrifugation at 3000 × gFiltration (Nalgene Rapid-flow™ 0.45 µM filter)Concentrated using Centriprep centrifugal filter units (Merck)High Pure viral RNA kit (Roche Life Science, Mannheim, Germany)RT-qPCR3.50 and 4.20 Log10 gc/LMartin et al., 2020Grab samplinginfluent post grit solids and primary clarified sludgeGeneRotex automated nucleic acid extraction systemRT-qPCRRT-ddPCR (2 copies/reaction)D'Aoust et al., 2021Composite sampling using fixed-site samplerNanoCeram filter flocculation and adsorptionDNeasy Blood and Tissue kit (Qiagen)RT-qPCR7300 fast real-time PCR system3.6 × 108 genomes per 5µLSaguti et al., 2021Grab samplingaluminum-based adsorption precipitationMaxwell RSC Pure Food GMO and Authentication Kit (Promega)RT-qPCR using One Step PrimeScript™ RT-PCR KitIllumina sequencingPerez-Cataluna et al., 2021Composite samplingConcentrated using 100 kDa Centricon ultrafiltersNuclisens kit (bioMérieux)Multiplex PCRNanopore and Illumina sequencingIzquierdo-Lara et al., 2021Grab samplingGeneRotex automated nucleic acid extraction systemqPCR assays500 copies/mLZhou et al., 202124-h composite samplingCentrifugationUltrafiltration through Centricon® Plus-70 centrifugal ultrafiltersmagnetic extraction reagents from Biomerieux Nuclisens kit (Biomerieux)RT-ddPCR2.7 copies of B.1.351 variant and 2.3 copies of wild-typeHeijnen et al., 202124-h composite samplingPEG-dextran methodNucliSENS miniMAG semi-automated extraction systemThree different nested RT-PCR assays, one real-time qPCR assay and direct nucleotide sequencing using the Sanger method102–5.6 × 104 copies/LLa Rosa et al., 2020;La Rosa et al., 2021Grab samplingAdsorption-extraction (pH = 4; neutral pH; 25 mM MgCl2)Centrifugal filter (Amicon ultra-15 (30 K); Centricon Plus-70)Polyethylene glycol (PEG 8000) precipitationUltracentrifugationRNeasy PowerMicrobiome KitTaqMan-based RT-qPCR19–120 copies/LAhmed et al., 2020a, b24-h composite and grab samplingElectronegative membranesUltrafiltrationRNeasy PowerWater Kit and RNeasy PowerMicrobiome KitRT-qPCRSequencing with Illumina and SangerAhmed et al., 2020a, bWeekly pooled 24 h and grabInnovaPrep Concentrating Pipette SelectElectronegative filtrationArmored RNA Quant (protocol B 2.0.1 with modifications)Reverse transcription droplet digital PCR (RT-ddPCR)102–105 copies/LGonzalez et al., 2020GrabElectronegative membrane-vortexFiltration with mixed cellulose-ester membraneQIAamp Viral RNA Mini Kit and RNeasy PowerWater KitRT-qPCR, Nested PCR and Sanger sequencing1.8 × 105–1.0 × 108 copies/LHaramoto et al., 202024-h composite (time or flow dependent)Direct flocculationNucliSENS® miniMAG® systemEliGene COVID19 Basic A RT kitMlejnkova et al., 2020Grab samplingQIAMP Viral RNA mini kitT-qPCR, whole genome sequencing and Ion Torrent PGMRimoldi et al., 202024-h composite and grabUltrafiltrationCentricon® Plus-70 centrifugal filterElectronegative membraneZR Viral RNA KitRT-qPCR3.1–7.5 × 103 copies/LSherchan et al., 2020Table 6Target genes, primers and probes approved by CDC for SARS-CoV-2 detection by PCR in wastewatersTarget GenePrimers and probesN- Sarbeco proteinF-CACATTGGCACCCGCAATCR-GAGGAACGAGAAGAGGCTTGP-FAM-ACTTCCTCAAGGAACAACATTGCCA-BHQ1THREE regions of nucleocapsid (N) gene (CDC)2019-nCoV_N1–F: GAC CCC AAA ATC AGC GAA AT2019-nCoV_N1-R: TCT GGT TAC TGC CAG TTG AAT CTG2019-nCoV_N1–P: FAM-ACC CCG CAT TAC GTT TGG TGG ACC-BHQ12019-nCoV_N2 Forward Primer TTA CAA ACA TTG GCC GCA AA2019-nCoV_N2 Reverse Primer GCG CGA CAT TCC GAA GAA2019-nCoV_N2 Probe FAM-ACA ATT TGC CCC CAG CGC TTC AG-BHQ12019-nCoV_Forward Primer: AGA TTT GGA CCT GCG AGC G2019-nCoV_Reverse Primer: GAG CGG CTG TCT CCA CAA GT2019-nCoV_F Probe: FAM – TTC TGA CCT GAA GGC TCT GCG CG – BHQ-1FW GGGGAACTTCTCCTGCTAGAATRW CAGACATTTTGCTCTCAAGCTGprobe 5′-FAM- TTGCTGCTGCTTGACAGATT-TAMRA-3′Envelope protein (E) geneE_Sarbeco_F: ACAGGTACGTTAATAGTTAATAGCGTE_Sarbeco_R: ATATTGCAGCAGTACGCACACAE_Sarbeco_PROBE: FAM-ACACTAGCCATCCTTACTGCGCTTCG-BBQORF1abFW1 GTGCTAAACCACCGCCTGREV1 CAGATCATGGTTGCTTTGTAGGTFW2 CGCCTGGAGATCAATTTAAACACREV2 ACCTGTAAAACCCCATTGTTGAFW CCCTGTGGGTTTTACACTTAARW ACGATTGTGCATCAGCTGAprobe 5′-FAM-CCGTCTGCGGTATGTGGAAAGGTTATGG-BHQ1-3RdRPRdRP_SARSr-F2 GTGARATGGTCATGTGTGGCGGSWuhanCoV-spk1-F: TTGGCAAAATTCAAGACTCACTTTWuhanCoV-spk2-R: TGTGGTTCATAAAAATTCCTTTGTG.
+
+Analytical methods used for detection of SARS-CoV-2 in wastewaters.
+
+24-h flow-dependent composite.
+
+Centricon® Plus-70 centrifugal ultrafilters.
+
+RT-qPCR.
+
+2.6–2.2 × 103 copies/L.
+
+24-h flow-dependent composite.
+
+Ultrafiltration.
+
+RT-qPCR and Sanger sequencing analysis.
+
+30–200 gene equivalents/L.
+
+Refrigerated autosampler,.
+
+submersible in situ high frequency autosampler and grab sampling.
+
+RT-qPCR.
+
+N_Sarbeco RT-qPCR.
+
+Sanger and Illumina sequencing.
+
+8.3 copies/reaction.
+
+Composite samples,.
+
+autosampler,.
+
+ultrafiltration with spin concentrators.
+
+qRT-PCR.
+
+Nanopore and sanger sequencing.
+
+RT-qPCR.
+
+104–105 genomic copies/L.
+
+Composite sampling.
+
+precipitated with polyethylene glycol 8000 (PEG),.
+
+0.2-μm-filtration.
+
+RT-qPCR.
+
+Sanger sequencing.
+
+Grab and pool.
+
+PEG 9000.
+
+TaqPath™ Covid-19 RT-PCR Kit.
+
+5.6 × 10–3.5 × 102 copies/L.
+
+Composite sampling for 24 h.
+
+Ultrafiltration.
+
+PEG 8000.
+
+ABIOpure Viral DNA/RNA Extraction kits (Alliance Bio Inc).
+
+TRIzol.
+
+RT-qPCR.
+
+31.7 gene copies/mL.
+
+Grab (0.2 L).
+
+Aluminum-driven flocculation.
+
+Grab (0.5–1 L).
+
+Aluminum hydroxide adsorption-precipitation protocol.
+
+Centrifugation at 1900 × g for 30 min.
+
+RT-qPCR.
+
+1.6–9.7 × 105 copies/L.
+
+TaqMan real-time RT-PCR.
+
+6.3 × 104–6.3 × 105 copies/L.
+
+Composite sampling.
+
+Centrifugated at 200,000 × g for 1 h at 4 °C using XPN80 (Coulter Beckman).
+
+RT-qPCR.
+
+5.104 GU/L to 3.106 GU/L.
+
+Composite sampling.
+
+centrifugation at 3000 × g.
+
+Filtration (Nalgene Rapid-flow™ 0.45 µM filter).
+
+Concentrated using Centriprep centrifugal filter units (Merck).
+
+RT-qPCR.
+
+3.50 and 4.20 Log10 gc/L.
+
+Grab sampling.
+
+influent post grit solids and primary clarified sludge.
+
+RT-qPCR.
+
+RT-ddPCR (2 copies/reaction).
+
+Composite sampling using fixed-site sampler.
+
+NanoCeram filter flocculation and adsorption.
+
+RT-qPCR.
+
+7300 fast real-time PCR system.
+
+3.6 × 108 genomes per 5µL.
+
+Grab sampling.
+
+aluminum-based adsorption precipitation.
+
+RT-qPCR using One Step PrimeScript™ RT-PCR Kit.
+
+Illumina sequencing.
+
+Composite sampling.
+
+Concentrated using 100 kDa Centricon ultrafilters.
+
+Multiplex PCR.
+
+Nanopore and Illumina sequencing.
+
+qPCR assays.
+
+500 copies/mL.
+
+24-h composite sampling.
+
+Centrifugation.
+
+Ultrafiltration through Centricon® Plus-70 centrifugal ultrafilters.
+
+RT-ddPCR.
+
+2.7 copies of B.1.351 variant and 2.3 copies of wild-type.
+
+24-h composite sampling.
+
+PEG-dextran method.
+
+Three different nested RT-PCR assays, one real-time qPCR assay and direct nucleotide sequencing using the Sanger method.
+
+102–5.6 × 104 copies/L.
+
+La Rosa et al., 2020;.
+
+La Rosa et al., 2021.
+
+Grab sampling.
+
+Adsorption-extraction (pH = 4; neutral pH; 25 mM MgCl2).
+
+Centrifugal filter (Amicon ultra-15 (30 K); Centricon Plus-70).
+
+Polyethylene glycol (PEG 8000) precipitation.
+
+Ultracentrifugation.
+
+TaqMan-based RT-qPCR.
+
+19–120 copies/L.
+
+24-h composite and grab sampling.
+
+Electronegative membranes.
+
+Ultrafiltration.
+
+RT-qPCR.
+
+Sequencing with Illumina and Sanger.
+
+Weekly pooled 24 h and grab.
+
+InnovaPrep Concentrating Pipette Select.
+
+Electronegative filtration.
+
+Reverse transcription droplet digital PCR (RT-ddPCR).
+
+102–105 copies/L.
+
+Grab.
+
+Electronegative membrane-vortex.
+
+Filtration with mixed cellulose-ester membrane.
+
+RT-qPCR, Nested PCR and Sanger sequencing.
+
+1.8 × 105–1.0 × 108 copies/L.
+
+24-h composite (time or flow dependent).
+
+Direct flocculation.
+
+24-h composite and grab.
+
+Ultrafiltration.
+
+Centricon® Plus-70 centrifugal filter.
+
+Electronegative membrane.
+
+RT-qPCR.
+
+3.1–7.5 × 103 copies/L.
+
+Target genes, primers and probes approved by CDC for SARS-CoV-2 detection by PCR in wastewaters.
+
+F-CACATTGGCACCCGCAATC.
+
+R-GAGGAACGAGAAGAGGCTTG.
+
+P-FAM-ACTTCCTCAAGGAACAACATTGCCA-BHQ1.
+
+2019-nCoV_N1–F: GAC CCC AAA ATC AGC GAA AT.
+
+2019-nCoV_N1-R: TCT GGT TAC TGC CAG TTG AAT CTG.
+
+2019-nCoV_N1–P: FAM-ACC CCG CAT TAC GTT TGG TGG ACC-BHQ1.
+
+2019-nCoV_N2 Forward Primer TTA CAA ACA TTG GCC GCA AA.
+
+2019-nCoV_N2 Reverse Primer GCG CGA CAT TCC GAA GAA.
+
+2019-nCoV_N2 Probe FAM-ACA ATT TGC CCC CAG CGC TTC AG-BHQ1.
+
+2019-nCoV_Forward Primer: AGA TTT GGA CCT GCG AGC G.
+
+2019-nCoV_Reverse Primer: GAG CGG CTG TCT CCA CAA GT.
+
+2019-nCoV_F Probe: FAM – TTC TGA CCT GAA GGC TCT GCG CG – BHQ-1.
+
+FW GGGGAACTTCTCCTGCTAGAAT.
+
+RW CAGACATTTTGCTCTCAAGCTG.
+
+probe 5′-FAM- TTGCTGCTGCTTGACAGATT-TAMRA-3′.
+
+E_Sarbeco_F: ACAGGTACGTTAATAGTTAATAGCGT.
+
+E_Sarbeco_R: ATATTGCAGCAGTACGCACACA.
+
+E_Sarbeco_PROBE: FAM-ACACTAGCCATCCTTACTGCGCTTCG-BBQ.
+
+FW1 GTGCTAAACCACCGCCTG.
+
+REV1 CAGATCATGGTTGCTTTGTAGGT.
+
+FW2 CGCCTGGAGATCAATTTAAACAC.
+
+REV2 ACCTGTAAAACCCCATTGTTGA.
+
+FW CCCTGTGGGTTTTACACTTAA.
+
+RW ACGATTGTGCATCAGCTGA.
+
+probe 5′-FAM-CCGTCTGCGGTATGTGGAAAGGTTATGG-BHQ1-3.
+
+WuhanCoV-spk1-F: TTGGCAAAATTCAAGACTCACTTT.
+
+WuhanCoV-spk2-R: TGTGGTTCATAAAAATTCCTTTGTG.
+
+SARS-CoV-2 RNA was detected in domestic wastewater of cities and a main airport during the early stages of the COVID-19 epidemic in the Netherlands. RT-qPCR was performed with the primers for N1–N3 set and E gene. During the initial days of infection, viral RNA was detected in sewage at a concentration of 2.6 –30 gene copies per mL. In one particular sampling location, N3 was detected in sewage 6 days prior to the reporting of first case. It was observed that with the increase in COVID-19, the viral RNA detected for N1–N3 genes by qRT-PCR assay increased to 790–2200 gene copies per mL. The detection of the CoV-2 RNA in sewage before the onset of COVID-19 and during the initial days of infection clearly indicates the usefulness of sewage surveillance as a sensitive tool to monitor the prevalence of virus in the community (Heijnen et al., 2021). In a WBE study in nine municipal wastewater treatment plants in Germany, samples were processed and analyzed for a set of CoV-2-specific genes and pan-genotypic gene sequences using RT-qPCR. The study showed the presence of CoV-2 genetic traces in different raw wastewaters. Sanger sequencing confirmed the specificity of the assay and origin of the coronavirus (Westhaus et al., 2020). In an Australian WBE study, SARS-CoV-2 RNA was concentrated from wastewater using two types of automated sampling techniques — refrigerated autosampler or a submersible in-situ high frequency autosampler and grab sampling techniques. Viruses were concentrated by direct RNA extraction from electronegative membranes. The viral RNA copies were enumerated using RT-qPCR, and viral RNA copy numbers were used to estimate infected individuals via Monte Carlo simulation. A median range of 171 to 1,090 infected persons in the catchment was estimated in agreement with clinical observations. N_Sarbeco RT-qPCR followed by Sanger and Illumina sequencing showed that the N_Sarbeco assay is more sensitive than the NIID_2019-nCOV_N assay as the LOD of the assay was 8.3 copies/reaction (Corman et al., 2020)..
+
+A study conducted for a period of 74 days in a WWTP located in Bozeman, Montana (USA), showed that WBE with genome sequencing can be used to monitor viral prevalence in the community and simultaneously help in genotyping circulating viral strains in a community. Untreated wastewater samples were collected using autosampler. Prior to RNA extraction, they were filtered and concentrated using ultrafiltration with spin concentrators. qRT-PCR reaction was performed with extracted RNA using primer pairs for nucleocapsid (N) gene from SARS-CoV-2. qRT-PCR study provided a real-time measure of viral prevalence in the community as samples tested positive for SARS-CoV-2 mimicked with COVID-19 cases in the community. Phylogenetic analyses using nanopore genome sequencing of 14,970 SARS-CoV-2 genomes from 74 different countries showed that the Bozeman wastewater SARS-CoV-2 sequence differed from the Wuhan-Hu-1/2019 reference sequence but was closely related to viral strains from California and Victoria, Australia. Thus, such a surveillance study helps in understanding COVID-19 epidemiology and tracing virus spread patterns. The limitations of the study were the nanopore sequencing which has an error rate of ∼ 10–15% resulting in detection of genotypes with > 10–15% representation. In this study, a single method was used for the concentration of virus from sample, and this rules out comparative analysis of alternative efficient concentration methods (Nemudryi et al., 2020)..
+
+In a WBE study conducted in Water Resource Recovery Facility (WRRF) in Michigan, SARS-electropositive NanoCeram column filters were used to isolate CoV-2 from wastewater samples. The capacity of the filter was 40–70 L of influent with a flow rate of 11.3 L/min. CoV-2 was isolated from these filters and quantified by qRT-PCR. These filters could be stored at 4 °C until elution and until 48 h after sampling. The elution techniques is simple, wherein cartridge used for filtration is submerged in beef extract solution for 1 min. Further, beef extract eluate is magnetically stirred and then centrifuged at 3,800 rpm for 15 min. The pellet contains virus and is dissolved in Na2HPO4 to prevent virus loss. A two-step RT-qPCR was performed with primers and probe targeting the N1 gene of SARS-CoV-2. It detected and quantified SARS-CoV-2 in all the samples tested at a concentration of 104–105 genomic copies/L. Thus, a modified procedure in sample processing and virus recovery proved to be efficacious (Miyani et al., 2020)..
+
+In WBE in urban treatment facility in Massachusetts, two methods were used to detect CoV-2 RNA. Initially, Sanger sequencing was used to validate the S gene. It was followed by RT-qPCR with primer and probe sets targeting the N1, N2, and N3 loci to detect N gene (57 to 303 copies per ml of sewage). Raw sewage precipitated with polyethylene glycol 8000 (PEG) and 0.2-μm-filtered sewage were comparatively analyzed for viral enrichment. The former was found to give strongest and consistent results for RNA extraction. Thus, a simple viral enrichment protocol can be used for viral identification. The study also reported that pasteurization of the sample for 90 min at 60 °C as a first step ensured the safety of the protocol. The protocol followed here is simple and less expensive avoiding usage of expensive chemicals and commercial kits for viral RNA extraction. The viral titers obtained through this study were higher than clinically confirmed cases. This could be due to less loss in viral titer during sample processing or RNA extraction (Wu et al., 2020). Similarly, a simple procedure was used in WBE study in a Wastewater Treatment Plant (WWTP) at Ahmedabad, India. ORF1ab, N and S genes of SARS-CoV-2 were found in the influent with the estimated maximum concentration of 3.5 × 102 copies/L. The high SARS-CoV-2 genetic loading in the wastewater concurred with corresponding increase in the active COVID-19 cases in the city. However, no genes were detected in the effluent collected during the same period. The study asserts the need for monitoring temporal changes in SARS-CoV-2 RNA concentrations in wastewater (Kumar et al., 2020). Such a study was conducted for comparison of SARS-CoV-2 viral load in wastewater influents, treated effluents, and untreated wastewater in the United Arab Emirates (UAE). The samples were collected for over 24 h and thermally deactivated, followed with ultrafiltration, RNA extraction, and viral quantification using RT-qPCR. Viral load in wastewater influents ranged from 7.50E + 02 to over 3.40E + 04 viral gene copies/L, and in untreated wastewater samples, it was between 2.86E + 02 and over 2.90E + 04 gene copies/L. However, none of the treated effluents tested positive for the virus which implies efficient degradation of SARS-CoV-2 and safety of the treated water for re-use. Thus, the study not only emphasizes wastewater testing in monitoring an outbreak at the community level but also helps in assessing the safety of treated effluent (Hasan et al., 2021)..
+
+The use of an aluminum hydroxide adsorption-precipitation concentration method for CoV-2 in wastewater sample has been validated. Influent, secondary, and tertiary effluent water samples in six WWTPs in Spain were monitored for CoV-2 using the said concentration method. Quantification of CoV-2 RNA in untreated wastewater by RT-qPCR targeting three regions of the nucleocapsid N gene, led to estimation of 5.4 ± 0.2 log10 genomic copies/L. None of the tertiary water samples tested positive. The surveillance data revealed CoV-2 RNA in sewage even before the first case was reported by local or national authorities. Thus, WBE could be used an early indicator of the infection in a community. The limitation in the studies were the discrepancies observed in the RT-qPCR for N1, N2, and N3 assays for several samples which could be due to variation in analytical sensitivity, detection of possible false positive samples for N3, and inhibitory effect of matrix. The authors have suggested exclusion of N3 primers/probe set to limit false-positive results and use of digital RT-qPCR for more sensitive estimation of SARS-CoV-2 in wastewaters (Randazzo et al., 2020)..
+
+Concentration of samples by ultracentrifugation was found to be more efficient than filtration in a study conducted in WWTP in Paris. Ultracentrifugation was easier to perform and showed better CoV-2 recovery rate than filtration as approx. 2.5 106 UG/L was detected. The study adopted a specific RT-qPCR where initially E gene was detected and quantified. Further, positive results were confirmed by amplification of viral RdRp gene. The time-course monitoring of viral load in WW was compared with total number of COVID-19 cases. The observed delay between epidemiological curves in humans and viral RNA detected in WW was attributed to various reasons including timing and temporal kinetics of viral RNA shedding in feces. The study also indirectly proved relevant reduction of virus transmission during lockdown. Thus, real-time integrated WBE of CoV-2 helped in identifying stages of epidemics, virus circulation in community, and effectiveness of lockdowns and such barrier measures (Wurtzer et al., 2020)..
+
+Sewage surveillance for SARS-CoV-2 in WWTP in Italy was analyzed with influent wastewater samples collected before and after the onset of the epidemic. Both nested RT-PCR and real-rime RT-PCR assays was used for detecting and quantifying viral genes. The limit of detection (LOD) of virus in wastewater was found to be to 5.6 × 104 genome copies/L. The study showed that SARS-CoV-2 was already circulating in various geographic locations of Italy before the first Italian COVID-19 case was documented. The report highlights the importance of WBE surveillance for early warning of virus circulating in the community. Similarly the study also documents the use of modified protocol for the surveillance of poliovirus in sewage and concentration by two-phase (PEG-dextran) separation method (La Rosa et al., 2021). This study is also an improvisation of an earlier study on the first detection of SARS-CoV-2 in wastewater in Italy (La Rosa et al., 2020). In the previous study, no positive results were obtained by real-time RT-qPCR. Therefore, in this study, a newly designed real-time RT-(q)PCR assay was evaluated, and nested RT-PCR targeting the ORF1ab region was used. The study stresses that sewage being complex matrix may always not give complicit results for assays developed mainly for clinical samples (La Rosa et al., 2021)..
+
+Similar novel nested RT-PCR approach was used to detect the presence of CoV-2 RNA in wastewater in South East England. The RT-qPCR assay targeting five different regions of the viral genome resulted in improved sensitivity. Further, NGS analysis of PCR products showed single nucleotide polymorphisms at five selected nucleotide positions. This helped to detect co-circulating virus variants, specifically prevalent in England. Further, changes in sequences with time consistent with the increase in presence of Spike protein G614 pandemic variant were also identified. Thus, RT-qPCR clubbed with NGS helps in detection of the presence of CoV-2 variants in wastewater which further implies its prevalence in the community (Martin et al., 2020)..
+
+RT-qPCR and RT-ddPCR assays were used to detect and quantify CoV-2 in primary treated sewage samples in a WWTP in Canada. The genes targeted were N1 and N2 gene regions of the viral RNA. Signal inhibition in certain samples was observed while using RT-ddPCR, whereas RT-qPCR shows higher frequency of detection of N1 and N2 gene regions. The study also showed that choice of the sample also matters as higher viral load was detected in clarified sludge than grit solids. The study also made use of pepper mild mottle virus (PMMoV) as a biomarker for normalization of CoV-2 signal. PMMoV, a fecal indicator, can be used for monitoring when there is low incidence of SARS-CoV-2 infection in communities (D'Aoust et al., 2021)..
+
+Two techniques were used for concentration of SARS-CoV-2 in wastewater samples in Sweden. Milk powder and NanoCeram filter were used for flocculation and adsorption for sampling the process. NanoCeram filter was more sensitive for CoV-2 detection. Milk powder may not adsorb enveloped viruses, whereas the non-enveloped SARS-CoV-2 nucleocapsids were adsorbed. But this is not a problem in case of NanoCeram filter as both encapsidated and non-encapsidated forms adsorbed to it. Based on variation in the viral peaks with regular temporal intervals, it was implied that CoV-2 may have a cluster spread. A correlation was observed between increase in concentrations of CoV-2 RNA detected in wastewater and newly hospitalized COVID-19 infected patients as CoV-2 detected in wastewater preceded virus detection in patient clinical samples. Such studies are useful to rapidly identify local spread of the virus (Saguti et al., 2021)..
+
+Viral metagenomics is an advanced study that has found potential application in epidemiological surveillance. The use of metagenomics tool for detecting SARS-CoV-2 in wastewater in a study in Spain has resulted in the detection of variants circulating in the community. The study used 40 grab samples collected from 14 WWTPs in Spain. Influent samples were concentrated by aluminum-based adsorption precipitation method. SARS-CoV-2 nucleic acid was detected by RT-qPCR targeting three genomic regions, i.e., the N1 region, E gene, and IP4 gene. ARTIC protocol version 3 was used for genomic sequencing of CoV-2 from wastewater samples. Sequencing libraries were built and sequenced on the Illumina MiSeq platform by paired-end reads. For the variant analysis, SARS-CoV-2 isolate Wuhan-Hu-1 (MN908947.3) was used as reference genome. Through the study, 238 nucleotide substitutions, 6 deletions, and nucleotide variants were detected in the spike glycoprotein. Three novel variants in the spike gene and six new variants in the spike glycoprotein were reported for the first time. The metagenomic approach helps in analyzing large number of genomes and aids in detecting low-frequency variants circulating in a community. Metagenomic sequencing of sewage can be used for monitoring new mutations and variants of SARS-CoV-2 (Perez-Cataluna et al., 2021). A similar study conducted using NGS analysis of sewage samples has stressed the surveillance of wastewater to monitor for viral diversity in a geographic location and emergence of novel mutations. The 4 primer–probe sets targeting the N1–N3 and E gene were used for RT-qPCR quantification, while CoV-2-specific multiplex PCR was used for nanopore sequencing. Next-generation sequencing and phylogenetic analysis of sewage samples collected from the Netherlands and Belgium revealed the presence of prevalent clades 19A, 20A, and 20B and several novel mutations in the CoV-2 genome. Nanopore and Illumina NGS analysis was useful in studying the diversity of CoV-2 in sewage as 51 novel mutations in sewage consensus sequences were detected that were not previously reported. Low-frequency variants analysis showed 8 novel mutations not previously observed in either the Netherlands–Belgium or global datasets. Thus, NGS analysis of wastewater could be used to study CoV-2 diversity in a community. Genome sequencing of sewage could be either used independently or with clinical surveillance to observe for changes in viral diversity and clinically relevant mutations (Izquierdo-Lara et al., 2021)..
+
+In a study conducted in Wuhan, detection of CoV-2 in urban wastewater treatment plants and medical wastewater was compared using two techniques, qPCR and droplet digital PCR (ddPCR) assay, and by targeting ORF1ab, N gene and E gene. CoV-2 RNA was detected in all the tested samples by either qPCR or ddPCR. The LoDs of ddPCR were 2 copies/reaction for all three targets. The detection rates of qPCR were 50% for ORF1ab in ddPCR; it was 100%. qPCR for one of the concentrated sample showed no presence of N gene, while ddPCR assay detected CoV-2 RNA in the same sample. Thus, ddPCR seems to have high sensitivity for the complex wastewater samples (Zhou et al., 2021)..
+
+RT-ddPCR has also been used in wastewater samples for specific detection of SARS-CoV-2 variants such as mutation N501Y. N501Y and wild-type could be simultaneously detected from a mixture of CoV-2 RNA in raw sewage samples in a study conducted in the Netherlands. Detection of N501Y wastewater aligned with B.1.1.7 as causative CoV-2 in COVID-19 cases. The variants with B.1.1.7, B.1.351, and P.1 lineages are known to contain N501Y mutation. The mutation is known to influence spike protein binding to its host receptor. In this study, digital droplet RT-PCR primers were used to amplify 80 bp fragment of the spike gene where mutation leads to the N501Y amino acid change in the spike protein. FAM-labeled probe that binds to N501Y mutation and HEX-labeled probe to bind wild-type CoV-2 sequence were used. In ddPCR technique, PCR occurs in separate self-contained droplets which help to identify mutant fragments at low frequencies amidst wild-type fragments. Thus, using ddPCR rare mutations can be detected and closely related sequences distinguished. Application of RT-ddPCR for wastewater assessment can help in monitoring presence of any mutants in the community (Heijnen et al., 2021)..
+
+Thus, different concentration and extraction methods have been used to determine the viral gene in the wastewater matrix (Hjelmso et al., 2017; Sherchan et al., 2020). Molecular techniques such as digital PCR (dPCR) and next-generation sequencing provide efficient and rapid information about the presence of different microbial pathogens in samples. The metagenomics technique could have potential applications in epidemiological studies of WWTP during pandemic situations (Sims & Kasprzyk-Hordern, 2020). Advanced WBE techniques can overcome the limitations associated with conventional techniques. Another potential technology that could be used to detect the pathogen in a sample is the CRISPR (clustered regularly interspaced short palindromic repeats). It is a powerful, highly specific and versatile tool and provides unprecedented control over genome editing. CRISPR/Cas9 has been used for detection of certain human viruses and has potential applications in novel therapeutic approaches (White et al., 2015). Paper-based tests have been developed for rapid and easy detection of COVID-19 from wastewater for predicting the infection level in the community. Here, the virus present in sewage water is used as a biomarker. The preloaded reagents in the device detect the presence of nucleic acid from SARS-CoV-2, which can be visualized and does not require any readout device. Such techniques are useful for identifying asymptomatic carriers present in the community for prevention and early warning (Mao et al., 2020). Serological and molecular techniques are also useful in quantifying viruses in the sewage water matrix. Indirect immunofluorescence and flow cytometer method has been used to detect infectious human retroviruses (Reslova et al., 2017). Some of the other methods used for virus detection and analysis in the aquatic environment are electron microscopy, nucleic acid sequence-based amplification, fluorescent microscopy, microarray techniques, and flow cytometry. A combination of different methods also gives good results for detection, such as PCR with plaque-forming tests and protein microarray technology with atomic force microscopy (Hryniszyn & Skonieczna, 2013). The advantages and limitations associated with the techniques used for the detection of viruses in wastewater are listed in Table 7.Table 7Advantages and disadvantages of some of the detection techniques used for detection of viruses in wastewaterVirus detection and analysis methodsAdvantageDisadvantagesPCR• Accurate and high specificity• Detection in short duration of time• Unable to detect diverse viruses at a time• Unable to isolate single virus from a sample• Humic acid activities control the reaction• Requires more primers and its mutual interference may leads to difficulties in detecting virus• Can be used only for known organisms• Low sensitivityELISA• It is cost effective• Relatively simple• Shows high specificity• Concentration of sample is mandatory• Hidden epitopes present in protein structure leads to inefficiency in test results• Bacteria present in the samples may influence the resultsPlaque forming test• Pathogenic and nonpathogenic viruses screening is easy• High sensitivity with short duration• High analysis costs• Difficulties associated with plaque observation• Time-consumingNucleic acid sequence based amplification• Highly specific and accurate• Can amplify more copies in short duration• Concentration of sample is mandatory• Can be used for only known viruses, it has limit of detectionBiosensors• It enables fast and cheap detection and analysis of virus• Does not require special laboratory facilities and manual sample preparation• Size of biosensor makes it easy to transport, requires less volume of samples, and reagents• Good results with intermolecular observation in real time• Highly sensitive method• Still in research phasePlaque forming test combined with PCR• Easy screening of pathogen and nonpathogenic viruses• Enables removal of PCR inhibitorsNone.
+
+Advantages and disadvantages of some of the detection techniques used for detection of viruses in wastewater.
+
+• Accurate and high specificity.
+
+• Detection in short duration of time.
+
+• Unable to detect diverse viruses at a time.
+
+• Unable to isolate single virus from a sample.
+
+• Humic acid activities control the reaction.
+
+• Requires more primers and its mutual interference may leads to difficulties in detecting virus.
+
+• Can be used only for known organisms.
+
+• Low sensitivity.
+
+• It is cost effective.
+
+• Relatively simple.
+
+• Shows high specificity.
+
+• Concentration of sample is mandatory.
+
+• Hidden epitopes present in protein structure leads to inefficiency in test results.
+
+• Bacteria present in the samples may influence the results.
+
+• Pathogenic and nonpathogenic viruses screening is easy.
+
+• High sensitivity with short duration.
+
+• High analysis costs.
+
+• Difficulties associated with plaque observation.
+
+• Time-consuming.
+
+• Highly specific and accurate.
+
+• Can amplify more copies in short duration.
+
+• Concentration of sample is mandatory.
+
+• Can be used for only known viruses, it has limit of detection.
+
+• It enables fast and cheap detection and analysis of virus.
+
+• Does not require special laboratory facilities and manual sample preparation.
+
+• Size of biosensor makes it easy to transport, requires less volume of samples, and reagents.
+
+• Good results with intermolecular observation in real time.
+
+• Highly sensitive method.
+
+• Easy screening of pathogen and nonpathogenic viruses.
+
+• Enables removal of PCR inhibitors.
+
+Coronaviruses are not a major problem for wastewater and water industries as they are present in low concentrations. They are highly prone to degradation in an aqueous environment and on disinfection. The survival capacity of these viruses depends on environmental temperature (Zheng et al., 2013). Behavior and survival of coronavirus in various aquatic environments have been discussed in Table 8.Table 8Persistence and sustainability of corona viruses in wastewater environmentVirusesWater matrixesResultsReferencesTransmissible gastroenteritis virus (TGEV)Reagent-grade water and lake waterThe TGEV were reduced by 99.9% after 33 days and at 25 °C. In regent grade water neither TGEVCasanova et al., 2009Pasteurized settled human sewageIn pasteurized water TGEV WERE reduced by 99.9% after 14 days at 25 °CMurine hepatitis virus, strain A59Waste water and pasteurized waterIn waste water at 25 °C, MHV was reduced by 90% after 13 + -1 h: at 10 °C, 90% reduction was reached after 36 + -5 h In pasteurized wastewater at 25 °C, MHV was reduced by 90% after 19 + -8 h: at 10 °C, 90% reduction was predicted. In non-enveloped viruses 90% reduction was predictedYe et al., 2016Human coronavirus 229E (HCoV), ATCC-740Feline infectious peritonitis virus (FIPV), ATCC-990Pasteurized wastewater and tap waterIn the pasteurized water at 23 °C, HCoV and FIPV reduction by 99.9% was reached after 12.1 and 12.5 days. In tap water at 4 °C, HCoV and FIPV reduction by 99.9% was predicted after > 100 daysGundy et al., 2009 Human coronavirus 229E (HCoV), ATCC-740Feline infectious peritonitis virus (FIPV), ATCC-990Filtered (0.2 μm) tap water,. Filtered (0.2 μm) primary sludge effluent Activated sludge (secondary sludge, prior to chlorination) effluentCoronaviruses reduction was quicker in filtered tap water than in tap water (organic matter and suspended solids can provide protection for viruses in water).In wastewater (primary and secondary sludge) at 23 °C, coronaviruses decrease by 99.9% in 2.77–3.54 days.In tap water (both filtered and unfiltered) at 23 °C, PV-1 survives six times longer than coronaviruses.In wastewater (primary and secondary sludge), PV-1 survives 2 to 3 times longer than coronaviruses Gundy et al., 2009.
+
+Persistence and sustainability of corona viruses in wastewater environment.
+
+Human coronavirus 229E (HCoV), ATCC-740.
+
+Feline infectious peritonitis virus (FIPV), ATCC-990.
+
+Coronaviruses reduction was quicker in filtered tap water than in tap water (organic matter and suspended solids can provide protection for viruses in water)..
+
+In wastewater (primary and secondary sludge) at 23 °C, coronaviruses decrease by 99.9% in 2.77–3.54 days..
+
+In tap water (both filtered and unfiltered) at 23 °C, PV-1 survives six times longer than coronaviruses..
+
+In wastewater (primary and secondary sludge), PV-1 survives 2 to 3 times longer than coronaviruses.
+
+Factors that can influence virus survival in water include temperature, organic matter, and aerobic microorganisms (Melnick et al., 1980; Sobsey & Meschke, 2003; John & Rose, 2005). The presence of protozoan and action of proteases and nucleases in water increase the inactivation rate of the viruses (Gerba et al., 1978; John & Rose, 2005)..
+
+Denaturation of a viral protein coat and cellular activity of viral enzymes decreases with increasing temperature (Hurst et al., 1989; John & Rose, 2005). Viruses are intercellular parasites and are active only within their hosts. In the case of COVID-19, it is not certain how long the virus survives on the surface. But its behavior resembles other coronaviruses. The survival of human coronaviruses on surfaces had large variability, ranging from 2 h to 9 days (Kampf et al., 2020). The enveloped viruses are less stable than non-enveloped viruses. Coronaviruses have a high degree of inactivation to temperature due to the enveloped coat. SARS-CoV identified in hospital wastewater, domestic sewage, and tap water were found to persist for 2 days at 20 °C and 14 days at 4 °C in wastewater. Coronaviruses are rapidly inactivated in wastewater with a 99.9% reduction in 2 to 3 days (Wang et al., 2005a)..
+
+The virus requires environmental vectors for their transmission (water, soil, metals, and hard surface). The many parameters including pH, salinity, temperature, and turbidity influence the persistence of viruses in the water (Melnick et al., 1980; Sobsey & Meschke, 2003; John & Rose, 2005). Viruses have high inactivation at greater temperature, i.e., at greater than 20 ℃ (John & Rose, 2005). Many experiments have been conducted to study the survival of coronavirus in water and wastewater. Coronavirus dies off rapidly in wastewater with a 99.9% reduction occurring in 2 to 3 days. The survival of the coronaviruses in primary wastewater is slightly longer than in secondary water due to the presence of a higher concentration of suspended solids which protects it from inactivation (Gundy et al., 2009)..
+
+To date, the COVID-19 virus survival in water or sewage is not evident due to its inactivation which is significantly rapid in comparison to non-enveloped human waterborne enteric viruses (adenovirus, norovirus, rotavirus etc.). Other human coronaviruses have survived for 2 days in dechlorinated tap water and hospital wastewater at 20 ℃ (Gundy et al., 2009). Inactivation of coronavirus is highly temperature-dependent and is affected by the concentration of organic matter and antagonistic bacteria in its environment. In tap water, coronaviruses are inactivated faster at 23 ℃ (10 days) than at 4 ℃. Coronaviruses die rapidly in wastewater, with T99.9 values between 2 and 4 days (Wang et al., 2005b)..
+
+The rate of survival of coronavirus in water or sewage is less. It is inactivated easily as present drinking water treatment plants disinfect viruses through filtration and other strategies. However, the presence of coronavirus or its genetic materials in wastewater will serve as a useful biomarker for wastewater based epidemiology and surveillance. Monitoring of the wastewater for the presence of pathogenic viruses will help in early warning and forecasting of disease outbreak and, hence, help in strategizing effective control measures..
+
+Publisher's Note.
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations..
+
+The manuscript was conceptualized by Snehalatha Basavaraju, Jamuna Bai Aswathanarayan, Madhu Basavegowda, and Balasubramanian Somanathan. The original draft was prepared by Snehalatha Basavaraju and Jamuna Bai Aswathanarayan. The manuscript was reviewed and edited by Snehalatha Basavaraju, Jamuna Bai Aswathanarayan, Madhu Basavegowda, and Balasubramanian Somanathan. The manuscript was supervised by Balasubramanian Somanathan and Jamuna Bai Aswathanarayan..
+
+All the authors have read and agreed for publishing the manuscript..
+
+The authors declare no competing interests..
+

@@ -1,0 +1,486 @@
+Competing Interests: The authors declare no competing interests..
+
+High viral transmission in the COVID-19 pandemic has enabled SARS‐CoV‐2 to acquire new mutations that may impact genome sequencing methods. The ARTIC.v3 primer pool that amplifies short amplicons in a multiplex-PCR reaction is one of the most widely used methods for sequencing the SARS-CoV-2 genome. We observed that some genomic intervals are poorly captured with ARTIC primers. To improve the genomic coverage and variant detection across these intervals, we designed long amplicon primers and evaluated the performance of a short (ARTIC) plus long amplicon (MRL) sequencing approach. Sequencing assays were optimized on VR-1986D-ATCC RNA followed by sequencing of nasopharyngeal swab specimens from fifteen COVID-19 positive patients. ARTIC data covered 94.47% of the virus genome fraction in the positive control and patient samples. Variant analysis in the ARTIC data detected 217 mutations, including 209 single nucleotide variants (SNVs) and eight insertions & deletions. On the other hand, long-amplicon data detected 156 mutations, of which 80% were concordant with ARTIC data. Combined analysis of ARTIC + MRL data improved the genomic coverage to 97.03% and identified 214 high confidence mutations. The combined final set of 214 mutations included 203 SNVs, 8 deletions and 3 insertions. Analysis showed 26 SARS-CoV-2 lineage defining mutations including 4 known variants of concern K417N, E484K, N501Y, P618H in spike gene. Hybrid analysis identified 7 nonsynonymous and 5 synonymous mutations across the genome that were either ambiguous or not called in ARTIC data. For example, G172V mutation in the ORF3a protein and A2A mutation in Membrane protein were missed by the ARTIC assay. Thus, we show that while the short amplicon (ARTIC) assay provides good genomic coverage with high throughput, complementation of poorly captured intervals with long amplicon data can significantly improve SARS-CoV-2 genomic coverage and variant detection..
+
+Raw sequencing data have been deposited to the NCBI Sequence Read Archive (accession ID PRJNA729878)..
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative pathogen for COVID-19 disease, continues to impact the global population with a growing number of variants [1]. Community spread is the predominant mechanism leading to the increasing incidence of COVID-19 disease world-wide. SARS-CoV-2 genome sequencing data suggest that several novel variants and regional strains are emerging in the United States [2, 3]. Whole genome sequencing (WGS) analysis of these viruses enables high resolution genotyping of circulating viruses to identify emerging strains [4, 5]. Genome sequencing is a powerful tool that can be used to understand the transmission dynamics of outbreaks and the evolution of the virus over time [6]. Phylogenetic analysis of WGS data can reveal a virus’s origin and genetic diversity of circulating strains of the virus [7, 8]. With the ongoing pandemic, SARS-CoV-2 is getting ample opportunities to replicate and incorporate new mutations that can potentially impact virus characteristics such as transmissibility as reported in the cases of the B.1.1.7 lineage in England, B.1.351 lineage in South Africa and B.1.617.2 in India [9–12]. In addition, the abundance of mutations in new strains can also impact the performance of diagnostic and research methods that were developed based on the original reference genome from the beginning of the pandemic last year [13–15]. Therefore, methods and strategies of virus detection and genome sequencing need to be updated..
+
+The ARTIC network protocol is one of the most widely used methods to sequence the SARS-CoV-2 genome [8, 16]. Two pools of primers in this assay amplify multiple short amplicons to assemble the entire genome. An increasing number of mutations in emerging strains poses one potential challenge to this strategy, as mutated primer binding sites may cause amplicon dropout or uneven sequencing coverage resulting in the loss of information or inaccurate data. To address this issue, we developed a new approach that amplifies each specimen using both, short and long amplicon primers to uniformly capture the entire viral genome. This approach offers two potential benefits. First, a smaller number of primers needed to amplify the entire genome reduces the chance of encountering a mutated site. Second, besides single nucleotide changes, deletions and insertions can be captured more effectively with longer amplicons and sequencing reads. Here, we present our approach to supplement ARTIC’s short amplicon sequences with long-amplicons to generate more complete and high-quality sequencing data for mutation detection and phylogenetic analysis (Fig 1A)..
+
+Panel A illustrates the study’s rationale and sketches the layout of the ARTIC and MRL primer pools across the SARS-CoV-2 genome. Small and long arrows indicate short and long amplicons, respectively. Red arrows indicate a mutation with potential to alter the primer binding site. Panel B shows the design of the three assays developed and assessed in the present study. Assay-1 is based on short-amplicons generated with the ARTIC primer pool. Assay-2 is based on long-amplicons made with MRL primers followed by short-read sequencing on MiSeqDx. Assay-3 is based on long-amplicons sequenced by long read sequencing technology on MinION platform..
+
+We used ATCC VR-1986D as our positive control RNA and a human dendritic cell RNA as our negative control to test our own primer design (MRL-Primer) and ARTIC primers. Next, we tested RNA from fifteen SARS-CoV-2 virus positive nasopharyngeal swabs received in universal transport media. Alinity M SARS-CoV-2 AMP Kit on an automated Alinity system was used for qPCR. Samples with Ct value <30 were used for investigation. Samples were de-identified and analyzed with a waiver from UT Southwestern Institutional Review Board. Study specimens were de-identified before authors have access to them. Research team had no access to any identifying information..
+
+We designed our own set of primers that amplify long-amplicons spanning 1.5–2.5Kb of the SARS-CoV-2 viral genome. Details on our primer sequences are provided in S1 File. ARTIC data was generated using ARTIC nCoV-2019 V3 Panel primers [16] purchased from Integrated DNA technologies (IDT)..
+
+We developed three assays to sequence the SARS-CoV-2 genome and assessed their performance in the present study (Fig 1B). In Assay-1, virus genome was amplified using the ARTIC primer pool only and sequenced on the MiSeqDx Illumina platform. In second assay, we used our own primer design (MRL Primer) to generate 19 long amplicons of 1.5–2.5Kb size to capture the complete genome of the virus. These long amplicons were then fragmented into 300-500bp sizes and sequenced on the MiSeqDx platform. The third assay also used our own primers (MRL Primers), but the long-amplicons were directly sequenced on the long-read sequencing platform, MinION, from Oxford Nanopore Technology (ONT). Finally, the performance of the individual assays as well as the combined assays, (Hybrid 1 & Hybrid 2), were assessed..
+
+RNA was extracted from nasopharyngeal swabs using the Chemagic Viral DNA/RNA 300 Kit H96 (Cat# CMG-1033-S) on a Chemagic 360 instrument (PerkinElmer, Inc.) following the manufacturer’s protocol. A sample plate, elution plate, and a magnetic beads plate were prepared using an automated liquid handling instrument (Janus G3 Reformatter workstation, PerkinElmer Inc). In brief, an aliquot of 300μl from each sample, 4μL Poly(A) RNA, 10μL proteinase K and 300μL lysis buffer 1 were added to respective wells of a 96 well plate. The sample plate, elution plate, (60μL elution buffer per well) and magnetic beads plate (150μL beads per well) were then placed on a Chemagic 360 instrument and RNA was extracted automatically with an elution volume of 60μL. No direct quantification of extracted RNA was done due to small concentration. Ct values of <30 was used as inclusion criterion..
+
+We used Invitrogen SuperScript™ III One-Step RT-PCR System with Platinum™Taq High Fidelity DNA Polymerase (Catalog Number: 12574–035) to make and amplify cDNA. SARS Cov-2 gene-specific primer set MRL-design and ARTIC design were synthesized from IDT. The MRL primer set included two primer pools (19 pairs, about 1.5Kb to 2.5Kb/ amplicon, Tm 59–60°C), whereas ARTIC CoV-2019 primer pools included 109 pairs (about 400nt/ amplicon, Tm 60–62°C). Both primers were used to amplify ATCC VR-1986D genomic RNA from severe acute respiratory syndrome-related coronavirus 2 Positive control. We also used a negative control of Human RNA extracted from monocyte-derived dendritic cells (MDDCs) to test our assay. We started with 0.1 ng of ATCC VR-1986D RNA (8000 genome copies), 100 ng of human MDDCs RNA, and 3–6 ul of Covid -19 patient RNA (RT-PCR Ct value 30) as an input RNA amount per each cDNA synthesis reaction. Reverse transcription was performed at 50°C for 30 min, followed by denaturation at 94°C for 2 min. PCR amplification involved 35 cycles (95°C for 30 s, 55°C for 1 min, 68°C for 4.5 min) followed by a final extension at 68°C for 10 min. Reaction products from two primer pools were combined and a bead-based cleanup was performed. Agencourt AMPure XP beads by Beckman Coulter (Catalog# A63881) were used for purification. Then, the cDNA quantity was measured using the Picogreen method. Quant-iT™ PicoGreen dsDNA Assay kit by Invitrogen with Catalog # P7589 and a PerkinElmer plate reader (PerkinElmer Victor X3, 2030 Multilabel Reader) were used in the assessment; and the cDNA quality was verified with a Bioanalyzer (Agilent High Sensitivity DNA kit, Catalog # 5067–4626)..
+
+We used the Kapa HyperPlus Library Preparation Kit (Catalog #KK8514) to construct our sequencing libraries. The cDNA input amount for each library preparation was between 50–500 ng due to the limitation of cDNA quantity. We started with a 5-minute 37°C enzymatic fragmentation for the cDNA amplicons generated by MRL-primer. Since ARTIC amplicon size w is already around 400bp, no fragmentation was performed on these replicates. Then end-repair, A-tailing, and UMI adapter ligation were performed on the amplicons. After the ligation step, we performed a double-sided size selection with AMPure XP beads followed by 4 to 8 PCR cycles to amplify adapter ligated fragments. Finally, the amplified libraries were purified by AMPure XP beads to form the final libraries. The libraries’ quantity was measured with Picogreen, and the quality was verified with a Bioanalyzer (Agilent DNA 1000 kit, catalog # 5067–1504). In addition, we did qPCR to check the adapter ligation efficiency using Applied Biosystems 7500 Real-Time PCR instrument..
+
+About 20pM barcoded libraries were sequenced on MiSeqDx sequencer using 600 cycle v3 flow cell kit. About 5% PhiX DNA was added to the sequencing run to increase diversity. The summary of sequencing metrics is given in Table 1..
+
+The leftover cDNA amplicons from step 2 were used to generate libraries for long-read sequencing analysis on MinION. EXP-NBD104 and SQK-LSK109 kits were used with Oxford Nanopore’s (ONT) native barcoding protocol (Version: NBE_9065_v109_revV_14Aug2019) to construct the libraries. Due to limited sample concentration, this assay was only done on positive control ATCC RNA and 3 patient samples. Library preparation was performed according to the manufacturer’s recommended protocol. Native barcoded libraries were pooled in equimolar concentrations and loaded onto a MinION sequencer using a R9.4 flow cell. Sequencing was run for 48 hours. The FAST5 data was basecalled using ONT’s Guppy pipeline..
+
+After trimming and removing the adapters, FASTQ files were mapped with bowtie2 [17] to the SARS-CoV-2 genome (NC_045512.2). To facilitate reproducibility, analysis samples were processed using the publicly available nf-core/viralrecon pipeline version 1.1.0 implemented in Nextflow 20.01.0 using Singularity 3.3.0 (10.5281/zenodo.3901628) [18–20]. Briefly, reads were trimmed using fastp [21], and de novo assembly was performed by spades, metaspades, unicycler, and minia. Variant calling was done by bcftools [22] using viral genome NC_045512.2, and variants were filtered where the BAQ was less than 20 or had a depth less than 10 reads. Minimum allele frequency for calling variants was set to 0.25, max was 0.75. De novo assembly was performed using spades, CoronaSPAdes, metaspades, unicycler and minia. Quast and Icarus were used to summarize contig and assembly statistics where the reference viral genome was NC_045512.2. FASTQ files from Illumina MiSeqDx runs were generated using bcl2fastq2. Sequencing reads were trimmed using Cutadapt (min Q30, adapter presence, shorter than 50 bases). The presence of host reads was detected using Kraken 2, the host genome version used was GRCh38 [23]. Fast5 files from Mk1C runs were base called and demultiplexed with guppy (GPU enabled), PycoQC, FastQC and NanoPlot were used for sequencing QC visualizations [24]. The ARTIC network bioinformatics pipeline (https://github.com/artic-network/artic-ncov2019) was also used to generate a comprehensive view of our Oxford Nanopore long reads. Briefly, reads were mapped to NC_045512.2 with Minimap2 and BAM files were sorted and indexed [25]. Variants were called using Nanopolish where ploidy was set to 1 [26]. The minimum allele frequency was 0.15, the minimum flanking sequence was 10 bases, and at most, 1000000 haplotypes were considered. Combination of Illumina MiSeq paired end reads and Oxford Nanopore Mk1C long reads were assembled using SPAdes, hybrid assembly stats were summarized with Quast. Contiguous scaffolds were visualized with bandage (https://github.com/rrwick/Bandage). Pipeline automation was done by creating Nextflow workflows (v20.01.0)..
+
+We generated more than 500K sequencing reads on each study sample including the positive control ATCC SARS-CoV-2 RNA and fifteen COVID-19 positive patients that had their nasopharyngeal swabs tested by RT-PCR for the presence of SARS-CoV-2. All the patient samples had RT-PCR Ct values <30 (Table 1). The ARTIC primer generated >80% pass filter sequencing reads. The summary of sequencing metrics is given in Table 1. As shown, 99.26% of the sequencing reads on ATCC SARS-CoV-2 RNA mapped to SARS-CoV-2 reference genome (NC_045512.2). Similarly, over 90% of the sequencing reads in patient samples also mapped to the reference genome, except for a few samples (Table 1, Fig 2A). These viral reads in positive control and patient samples accounted for >94% of the virus genome (Table 1, Fig 2B). Variant analysis detected 209 single nucleotide variants (SNVs) and 8 deletions & insertions (S2 File). Of these 28 mutations were SARS-CoV-2 lineage defining variants including several variants of concern i.e. K417N, E484K, N501Y, P618H and variants of interest i.e. L18F, 69–70 Del, D80A, Y144Del, L242Del, A570D, A701V and T716I. Interestingly most of these new mutations were detected in a more recently collected samples. Variant analysis showed a range of mutations starting from minimum 14 and maximum 38 mutations per sample. Phylogenetic Assignment of Named Global Outbreak Lineages (PANGOLIN) lineage analysis on study samples identified four samples with B.1.1.7, three samples with B.1.2, two samples with B.1.617.1 and at least one sample with A, B.1.351, B.1.427, B.1.527, B.1.575.1 and P.1.1 lineages (Table 1). Interestingly, two specimens, A4 and B10 were assigned B.1.617.1 lineage that represent Kappa strain..
+
+Percentage of virus genome mapped sequencing reads (A) and virus genome fraction covered with ARTIC primers (B). NC represents the negative control (Human Dendritic Cell RNA), PC represents the positive control (VR1986D-ATCC SARS-CoV-2 RNA), and fifteen nasopharyngeal swab RNAs from COVID-19 positive patients. Panels C and D, show the percentage of viral genome mapped sequencing reads (C) and virus genome fraction covered (D) with MRL primers. Data in panels E & F show the percentage of the viral genome mapped sequencing reads (E) and virus genome fraction covered (F) in ARTIC plus MRL Hybrid data set. The NP2 sample could not be analyzed with MRL primers due to limited sample material. Panel G: Venn-diagram summarizes the number of mutations that were uniquely or commonly detected by individual (ARTIC or MRL) primers and hybrid analysis. Panel G: Shows average read depth on ambiguous mutations in ARTIC assay. T-test p value for read depth comparison is shown..
+
+Next, we analyzed the sequencing data generated with MRL primers: Assay-2. This assay did not include sample NP2 due to insufficient material. The sequencing metrics are described in Table. This assay generated 2–5 million sequencing reads on patient specimens. The percentage of reference mapped reads and genomic fractions are given in Table 1. The percentage of viral genome mapped reads and genomic fraction covered with MRL primers showed more variations among samples (Fig 2C and 2D. Variant analysis on assay-2 data identified a total of 156 mutations in study samples which included 152 SNVs and 4 insertion & deletion variants (S3 File). Of these 156 mutations, 125 (80%) were concordant with those called in the short-amplicon data, assay-1. The low coverage samples showed genotypic discordance in two data sets due to poor genomic coverage in either assay. Long-amplicon data captured 20 key lineage defining mutations including spike gene variants of concern K417N, E484K, N501Y and P618H (S3 File). Overall, long-amplicon assay detected 12 mutations that were either ambiguous or not at all called in ARTIC assay (S4 File). Further in-depth analysis of the ambiguous base calls in assay-1 or assay-2 revealed that the observed discrepancy was either due to insufficient sequencing read depth or incorrect read alignments..
+
+To improve the sequencing coverage across poorly captured genomic segments in individual assays, we merged the sequencing reads from assay-1 and assay-2 to generate a hybrid assembly and then called the variants again. The hybrid data set has about 4–12 Million reads per sample (Table 1). As shown in Fig 2E and 2F, hybrid-I data improved both percentage of virus genome mapped reads as well as a fraction of covered genome (Fig 2E and 2F). This eventually improved variant detection overall and the resolution of lineage assignments, at least in one sample (NP1). Fig 2G summarizes unique and shared number of variants in individual and hybrid analyses. As shown, 125 variants were common in all the three analyses. Hybrid data identified a total of 218 mutations in study samples which included 210 SNVs and 8 insertion & deletion variants (S5 File). Investigation of mutations that were ambiguous in ARTIC data showed poor read quality and poor sequencing coverage across these 12 positions in the ARTIC data (Fig 2H)..
+
+Next, analysis of sequencing coverage in short (ARTIC) and long amplicon (MRL) data identified genomic intervals that were poorly captured in ARTIC assay (Fig 3). As illustrated in Fig 3A, short amplicon data in positive control ATCC RNA and four patient samples (NP1, NP3, A4, A10) shows genomic intervals that exhibit a sudden drop (<10 sequencing reads) in sequencing coverage across the Spike, ORF3a and E gene regions. On the other hand, long-amplicon sequencing on the exact same set of samples shows relatively uniform coverage across this region (Fig 3B green tracks). The colored lines on the coverage tracks indicate the detected mutations in patient samples. As shown, mutation, i.e.,Q57H in the genomic region that have good uniform sequencing coverage in both assays, was consistently picked up by both short (Panel 3A) as well as long-amplicon data (Panel 3B). However, a nonsynonymous mutation G172V in ORF3a gene at nt25907(G → T), and a synonymous mutation A2A in M gene at nt26528(A → G) located in the poorly captured region in ARTIC assay, were missed in short amplicon data (Panel A), whereas the long-amplicon data did detect G172V in samples NP1 and NP3, and A2A mutation in sample A10 (Panel B). Next, analysis of merged short and long-amplicon sequences confirmed this mutation with high confidence in Hybrid data as shown in Fig 3C. Overall hybrid data improved the detection of 12 mutations that were either ambiguous or not called in ARTIC data due to poor sequencing coverage or alignment issues (S4 File). Thus, hybrid data identified final set of 214 high confidence mutations that were included in-depth downstream phylogenetic analysis (S6 File)..
+
+The Integrative genomics viewer (IGV) plot shows sequencing coverage tracks in ATCC positive control and four patient samples based on ARTIC primers (short-amplicon data in panel A), MRL primers (long-amplicon in panel B) and Hybrid data (short + long-amplicons in panel C). Data is shown for ATCC RNA and four patient samples (NP1, NP3, A10 and A4) in each panel. The x-axis shows the genomic position in virus genome and the y-axis shows the individual samples. Top panel grey tracks represent ARTIC data, middle panel green tracks represent MRL data and bottom panel purple tracks represent Hybrid data. Colored lines on the sequencing coverage tracks indicate detected mutations. Black solid arrows point to the poorly captured genomic intervals in ARTIC data set. Blue solid arrows point to examples of three mutations, Q57H, G172V and A2A mutations..
+
+We assessed the mutation load in patient specimens that were collected several months apart. As shown in Fig 4A, first five samples (NP1-NP5, blue bars) were collected during the months of January-February 2021, whereas remaining ten samples (C6-A5, red bars) were collected during the months of May-June 2021. Consistent with literature that SARS-CoV-2 virus in gaining on an average 1–2 mutations per month, our data show increased number of mutations (~1.4 time) in May June specimens as compared to those collected in Jan-Feb 2021 (Fig 4A). It was further supported by the appearance of Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1.1) and Kappa (B.1.617.1) strains of virus in more recent samples (Fig 4A). The highest number of mutations in samples with B.1.617.1, B.1.1.7 and P.1.1. lineage of virus is consistent with literature documented trend of ongoing evolution in SARS-CoV-2 genome. Lineage assignment were mostly consistent between ARTIC only and Hybrid data except for NP1 sample which was assigned B.1.2 in ARTIC data, whereas Hybrid data assigned it B.1.596 lineage. Next, hybrid data analysis showed 8 mutations that were quite common (>40% frequency, blue label color) in study sample cohort (Fig 4B). These are shown with solid color bars in the Fig 4B. Amino acid changes in these common variants are indicated on the top of each bar. In addition, many CDC noted variants of concern and variants of interest were also observed to be accumulating in spike gene region (highlighted with red font color). This analysis also showed that several common and low frequency mutations are emerging in the Spike, Membrane and Nucleocapsid gene regions (Fig 4B)..
+
+Panel A shows number of mutations detected in ATCC RNA and fifteen patient samples in Hybrid data set. The x-axis shows the study samples. ATCC RNA is shown in black bar. NP1-NP5 samples shown as blue bars indicate samples collected during the month of Jan-Feb 2021. Samples C6-A5 were collected during the month of May-June 2021 are shown with red bars. The y-axis shows total number of mutations detected in each study sample. Pangolin lineage and WHO label for that lineage are shown on the top of individual bar. Panel B show frequency distribution of 214 high confidence mutations in the study samples. The x-axis shows genomic position of detected mutations. The y-axis shows the frequency of each mutation in the study sample. Each bar represents an individual mutation. In this study’s cohort, 8 high bars show mutations with >40% frequency. Amino acid alterations are shown on the top of each bar for the 8 most common mutations (Blue font color) and several variants of concern and variants of interest in spike gene (Red font color)..
+
+There are endemic human coronaviruses HCoV-229E, NL63, OC43, and HKU1 that cause upper and lower respiratory tract infections in children and adults [27–29]. SARS-CoV-2 resembles these endemic viruses, original severe acute respiratory syndrome coronavirus (SARS-CoV-1) and Middle Eastern respiratory syndrome (MERS-CoV) [30]. So, to explore the evolutionary history and relationship among these different coronaviruses, we performed phylogenetic analysis on the study samples. A maximum likelihood phylogenetic tree was constructed on various endemic strains and present study specimens. As shown in Fig 5, all the endemic strains formed a tight clade that evolves into MERS, SARS1 and SARS-CoV-2 viruses. Except two study samples C6 and B11 that shared the clade with SARS and original SARS-CoV-2 strain (ATCC), all NP1-NP5 samples that represent SARS-CoV-2 virus in January-February 2021 formed one tight clade. On the other hand, most of the recently collected study specimens formed a distinct clade which showed significant genetic diversity and heterogeneity, suggesting ongoing viral evolution (Fig 5)..
+
+A maximum likelihood tree was constructed to explore the phylogenetic relationship between SARS-CoV-2, SARS-CoV-1, MERS and endemic coronaviruses (HCoV-NL63, HCoV-229E, HCoV-OC43, HCoV-HKU). The whole genome sequences for SARS, MERS and endemic coronaviruses were downloaded from NCBI. The numbers along the branches mark the bootstrap values percentage out of 1000 bootstrap resamplings. Samples NP1-NP5 that represent sampling from Jan-Feb 2021 form a clade and are highlighted with pink color. ATCCVR RNA shown in green font color and C6 and B11 patient sample are part of separate clade. Sample B9, A5, A12, and A10 shown in blue label font color cluster closely on tree. Dots labels as Alpha, Beta and Delta represent reference genomes for respective strains downloaded from NCBI..
+
+To assess the performance of our MRL primers with the long-read sequencing pipeline from Oxford Nanopore Technology, we sequenced the long amplicons from the ATCC positive control and three patient samples (NP1, NP3 & NP4) on MinION R.9.4.1 flow cell for 48 hours. These samples were selected based on the amount of available RNA sample. As summarized in S7A File, we generated 500K-1 million sequencing reads on each sample on MinION. More than 80% of the sequencing reads were mapped to the viral genome (Fig 6A). The genomic fraction covered was >95% in all four samples (Fig 6B, S7A File). We mapped the nanopore sequencing data to the reference genome and called the variants. In total, 77 mutations were detected in the nanopore sequencing data, of which 50 were concordant with ARTIC assay-1, and 48 were concordant with MRL assay-2 data from Illumina short-read sequencing (S6 File). Of 77 mutations, 72 were SNVs and 5 were insertion & deletions (S7B File). However, these insertions and deletions were only detected in nanopore data, so further validation and confirmation is needed. We also combined MRL long-read sequences with ARTIC short-read sequences as Hybrid-II data and observed improvement in the percent of reads mapping to the viral genome as well as in overall genomic coverage (Fig 6C and 6D). As shown in case of ATCC RNA, we observed that long-read sequencing data has more uniform sequencing coverage across the deletion-prone region of the spike gene than short-read ARTIC data. MRL long-read data shows uniform depth of coverage across the 2KB interval in the spike gene region as compared to short-amplicon data for ATCC positive control (Fig 6E and 6F). The bottom panel (Fig 6G) shows a snapshot of UCSC genome browser across the spike gene region where several micro and major deletions have been reported recently in emerging lineages of the SARS-CoV-2 virus (Fig 6G)..
+
+Panel A shows the percentage of the virus genome mapped sequencing reads (A) and virus genome fraction covered with Nanopore sequencing data (B), in the positive control (VR1986D ATCC SARS-CoV-2 RNA). Panels C-D show reads mapped to the virus genome and covered genomic fraction in combined, ARTIC + Long-read (Hybrid-II) data, respectively. Panel E illustrates a gene sketch on known deletions in 2kb region of the spike gene. Panel F shows sequencing coverage across a deletion-prone region of the spike gene in ATCC positive control RNA in short-amplicon ARTIC and long-amplicon MRL data. Top coverage plot on ATCC_PC_ARTIC shows sequencing coverage in short-amplicon on Illumina MiSeqDx platform, whereas second track underneath show long-read sequencing data on ATCC_PC sample using MRL long-amplicon primers. Panel G shows a UCSC genome browser snapshot across spike gene region that show previously reported deletions in this genomic interval of SARS-CoV-2 genome..
+
+High viral transmission in the ongoing COVID-19 pandemic is enabling SARS‐CoV‐2 to mutate at a faster rate, resulting in an abundance of new mutations in the genome [8, 31–34]. Since most of the currently used PCR primers, protocols, and sequencing strategies were developed on the original reference genome from the beginning of the pandemic, mutations in new strains of the virus might impact diagnostic and research methods [35]. The ARTIC primer pool that amplifies multiple short amplicons in a multiplex-PCR reaction is a widely used method to sequence the SARS-CoV-2 genome [16, 33, 36]. However, as no method is perfect, researchers have identified issues with existing short amplicon-based methods and provided potential alternative solutions [37–39]. Data from the present study (Fig 3) and others show that some key regions of the genome are poorly captured with ARTIC primers [40]. This could be due to poor performance of some primer pairs in multiplexed PCR due to either sub-optimal PCR conditions within the assay or emerging mutations on primer binding sites [41]. Our approach to capture and assemble the genome using both short and long-amplicons improve the chance of capturing mutations in the intervals that may have uneven sequencing coverage on ARTIC assay. This strategy allows for variant calling with high confidence. Accurate detection of all the mutations in the virus genome is important for correct phylogenetic lineage assignment and functional studies. Although, overall lineage assignments in ARTIC and Hybrid data were the same, but we did observe improved resolution of lineage in case of NP1 sample which was assigned B.1.2 lineage in ARTIC assay and B.1.596 in Hybrid assay. We observed that on 8 of the 12 mutations that were not called in ARTIC assay had very poor sequencing depth i.e. <20 reads and the remaining 4 seems to have issues with read alignments that require further investigation. Similarly, the MRL assay did not picked 79 mutations that were detected in ARTIC assay. We speculate that it could be due to unsuccessful amplification of some long amplicons in some samples due to poor Viral RNA complexity as a long RNA template is essential to generate long amplicons. Therefore, samples with degraded RNA may not yield good data with long amplicon PCR. This suggests that sequencing each sample with both short and long amplicon primers can provide more complete and comprehensive genomic coverage to accurately detect true mutations across the genome. The two primer set approach also allows confirmation of low frequency novel mutations and excludes sequencing and analysis related artifacts. We admit that sequencing with two sets of primers would increase the cost of reagents and processing time in the protocol. However, it is worth it for the accuracy and completeness of the genomic data, especially given that the virus is still mutating and several new mutations are currently emerging globally. Our assay can be employed to investigate clinically complicated specimens that require complete genomic coverage, such as those with large structural mutations. Although our findings are based on a small number of samples, but we have demonstrated a strategy to capture the mutations in SARS-CoV-2 genome more accurately and efficiently..
+
+(XLSX).
+
+Click here for additional data file..
+
+(XLSX).
+
+Click here for additional data file..
+
+(XLSX).
+
+Click here for additional data file..
+
+(XLSX).
+
+Click here for additional data file..
+
+(XLSX).
+
+Click here for additional data file..
+
+(XLSX).
+
+Click here for additional data file..
+
+(XLSX).
+
+Click here for additional data file..
+
+Authors gratefully acknowledge donors of de-identified patients who provided nasopharyngeal swabs samples for this study..
+
+The authors acknowledge the Texas Advanced Computing Center (TACC) at The University of Texas at Austin for providing HPC and visualization resources that have contributed to the research results reported within this paper. URL: http://www.tacc.utexas.edu. Our sincere thanks to Kaylee D for her diligent proofreading of the manuscript..
+
+
+26 Jul 2021
+.
+
+PONE-D-21-19442.
+
+A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome.
+
+PLOS ONE.
+
+Dear Dr. Raj,.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+Please submit your revised manuscript by Sep 09 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file..
+
+Please include the following items when submitting your revised manuscript:.
+
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'..
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'..
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter..
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: http://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols..
+
+We look forward to receiving your revised manuscript..
+
+Kind regards,.
+
+Chandrabose Selvaraj, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+Journal requirements:.
+
+When submitting your revision, we need you to address these additional requirements..
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at.
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and.
+
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+.
+
+2. We note that your ethics statement in the online submission form states that the ethics committee granted approval, whilst the methods state that a waiver was granted. Please ensure you have accurately reported whether approval or a waiver was granted in both places. In addition, please state whether samples were deidentified before you had access to them..
+
+3. Thank you for stating the following financial disclosure:.
+
+“NO”.
+
+At this time, please address the following queries:.
+
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution..
+
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”.
+
+c) If any authors received a salary from any of your funders, please state which authors and which funders..
+
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”.
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf..
+
+4. Thank you for stating the following in your Competing Interests section: .
+
+“NONE”..
+
+Please complete your Competing Interests on the online submission form to state any Competing Interests. If you have no competing interests, please state "The authors have declared that no competing interests exist.", as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.
+
+This information should be included in your cover letter; we will change the online submission form on your behalf..
+
+5. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to ‘Update my Information’ (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: https://www.youtube.com/watch?v=_xcclfuvtxQ.
+
+6. Please include captions for your Supporting Information files at the end of your manuscript, and update any in-text citations to match accordingly. Please see our Supporting Information guidelines for more information: http://journals.plos.org/plosone/s/supporting-information.
+
+Additional Editor Comments (if provided):.
+
+1. Kindly ensure to provide the proper updated references in appropriate places.
+
+[Note: HTML markup is below. Please do not edit.].
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+5. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #1: Article entitled “A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome” provides an approach to supplement ARTIC’s short amplicon sequences with long amplicons to generate more complete and high-quality sequencing data for mutation detection and phylogenetic analysis. This article may be considered after revision..
+
+Comments.
+
+• Nasopharyngeal swabs were taken only from 5 patients , is that sufficient for the analysis?.
+
+• Here, They reported two of the spike gene variants at nucleotide positions 23604 (P681H) & 23709 (T716I) , ? is it novel variants?.
+
+• Main claim is new strategy that capture the mutating SARS-CoV-2 genome more accurately and efficiently, allowing for improved analysis of genomic information on evolving strains. How this approach is better when compare to other approaches ?.
+
+• Is these any similar approach which reported with better efficiency?.
+
+• Results parts need more discussion comparing other variants linked to specific population..
+
+• Are the five COVID-19 positive patients from same location ?.
+
+Reviewer #2: "A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome" by Arana et al. describes a study comparing short amplicons, long amplicons, and a hybrid analysis approach for tiled amplicon genome sequencing of SARS-CoV-2. The study design and analysis is systematic and allows for robust comparison between the methods. The ability to minimize drop outs due to deletions or under-amplification with a given short amplicon primer pair is an advantage of this method. Several questions and requested clarifications are below, but pending these revsions I support the publication of this manuscript in PLOS One..
+
+Major points and questions.
+
+-We routinely get high (>99.5%) coverage with ARTIC primers, though this is dependent on the sequencing depth of the sample and also sensitive to Ct and sample type. Do you have Ct values or other estimates of viral load for the samples that were analyzed in this study?.
+
+-Figure 2B,D,F - Is this coverage at at least 1x or with some other threshold applied?.
+
+-Figure 2B,D,F - The ARTIC primers don't cover 100 percent of the viral genome (and you will also lose some coverage at the 5' and 3' ends if primers are trimmed), so it is surprising that some of these bars say 100%. I am guessing this is rounded from 99 point something, but the authors should include another decimal place or otherwise clarify these coverage numbers..
+
+-Figure 2G - Are these variants called with a minimum read depth threshold as indicated in the methods? Which of the three variant calling pipelines was used to generate these numbers (or was it a consensus between the three tools)?.
+
+-Figure 2G - It might be good to include a similar Venn diagram (as panel H or a supplement) that summarizes the overlap if only regions with adequate coverage in both data sets are considered to complement the discussion at the beginning of page 15..
+
+-Figure 2G - The Venn diagram seems to indicate 60 mutations present in more than one analysis (41 + 10 + 4 + 5), but the text and Table 6 lists 59. What is behind this discrepancy?.
+
+-Figure 4B - I am not sure that the MJ network figure provides useful information since these are just 5 random patient samples. It might be better to show the Nextstrain plot with these samples highlighted to put them in context of the global viral diversity..
+
+-Discussion - Given that high coverage can be routinely obtained with short amplicons in most cases and the fact that adding a second library prep and sequencing dataset adds significant cost and time to the analysis workflow (the "slightly increase" wording is deceptive and should be changed as this at least doubles the cost). It would be useful to reframe the discussion to focus on when application of this technique would be most beneficial. I think it is hard to imagine (and likely overkill) for most routine large-scale surveillance sequencing, but may be useful as a reflex option for problematic samples or in a clinical context where complete coverage and additional confidence in the data is required..
+
+Minor points.
+
+-Page 8 - Abstract: Please qualify first sentence "High viral transmission in the COVID-19 pandemic has enabled SARS‐ CoV‐ 2 to acquire new mutations that *may* impact genome sequencing methods.".
+
+-Page 9 - Introduction: "overtime" should be two words "over time.".
+
+-Page 12 - Step 4: Sequencing section. Please define "quality pass sequencing reads" or clarify this phrase..
+
+-Page 12-13. The data analysis seems to be described twice (once in the sequencing section and once in the data analysis section). Please consolidate these descriptions..
+
+Reviewer #3: In this paper, authors have used three methods including long and short read technologies for sequencing of SARS-CoV-2 genome and concluded that, combination of short and long sequencing reads gives better representation of SARS-CoV-2 variants. However, I have few concern mentioned below..
+
+1. Nowadays, scientific community is looking for cheaper alternatives and wanted to reduce the cost of sequencing as much as low. In this direction, authors have used two different sequencing technologies to achieve the target, which in turn, increase the cost per sample..
+
+2. Authors have used only five samples for sequencing. Were all the samples of the same lineage? or of different lineages? If, they were of the same lineage, authors must validate their long-amplicon primers on different lineages of the SARS-CoV-2..
+
+3. Why authors have checked the quality of RNA on bioanalyzer? Which module, I mean Prokaryotic or Eukaryotic was used to run? Based on bioanalyzer results, how the quality of viral RNA was decided?.
+
+4. The Thermo Fisher Scientific, SARS-CoV-2 NGS panel consist of two pools with amplicons ranging from 125–275bp in length for complete coverage of over 99% of the viral genome and variants and that is irrespective of the virial lineage. How your method is superior to this?.
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.].
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step..
+
+
+1 Oct 2021
+.
+
+PONE-D-21-19442 .
+
+A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome.
+
+Authors thank reviewers and Editors for taking time to read our manuscript and provide valuable suggestions to further improve it. We have responded to each and every point raised by the reviewers. We have added more samples and performed additional data analysis. All the new data have been included in the revised manuscript..
+
+Reviewer #1: Article entitled “A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome” provides an approach to supplement ARTIC’s short amplicon sequences with long amplicons to generate more complete and high-quality sequencing data for mutation detection and phylogenetic analysis. This article may be considered after revision..
+
+Comments.
+
+• Nasopharyngeal swabs were taken only from 5 patients , is that sufficient for the analysis?.
+
+Ans: More samples are always good. But to assess the genomic coverage and variant detection consistency of two types of assays, we believe five samples were sufficient. Anyway, we have sequenced 10 additional specimens, including alpha, beta and gamma strains of virus to increase the sample size in the revised manuscript..
+
+• Here, They reported two of the spike gene variants at nucleotide positions 23604 (P681H) & 23709 (T716I) , ? is it novel variants?.
+
+Ans: These two spike variants are part of B1.1.7 lineage and were relatively less common but recently emerged mutations. C23604A variant is a nonsynonymous mutation at exonic region of S: p.P681H. Frequency of this mutation is highest in the specimens analyzed in United States. On the other hand, C23709T change is a nonsynonymous mutation at exonic region of Spike p.T716I. This is relatively less common variant overall. But it was interesting to find these two mutations in 1 out of 5 specimens. Our new data analysis shown several new variants in addition to these two..
+
+• Main claim is new strategy that capture the mutating SARS-CoV-2 genome more accurately and efficiently, allowing for improved analysis of genomic information on evolving strains. How this approach is better when compare to other approaches?.
+
+Ans: Large number of SARS-CoV-2 genome sequencing studies have used ARTIC primers. ARTIC design amplifies hundreds of short amplicons to assemble the full viral genome. This method was successfully used throughout the pandemic. These primers were designed based on the original, Wuhan strain of the virus. But, with ongoing pandemic, we know that virus has mutated significantly as evidenced by the emergence of several new and more transmissible strains i.e. B.1.1.7, B.1.35, B.1.617, P.1, B.1.617.1, etc. Therefore, we hypothesize that increasing mutation load in evolving virus may alter the original primer binding sites resulting in primer drop out and loss of data. Our approach amplify each specimen using both, short amplicon primers (ARTIC) as well as long-amplicon primers (MRL) and bioinformatically merge two data sets to assemble complete genome. Long amplicons and long-read sequencing has two major advantages. First: Using less number of primers to amplify genome reduces probability of encountering a mutated site. Second, long amplicons sequenced with long-read sequencing technology allow more accurate capture of structural variants such as large deletions and insertions. So, with these merits in our method, we strongly believe that a hybrid data analysis using both ARTIC plus MRL primers can improve the data quality, especially in the genomic intervals that are poorly captured by individual primers..
+
+• Is these any similar approach which reported with better efficiency?.
+
+Ans: ARTIC primers and protocols have been extensively and widely used. Our work can further improve the existing method, especially in cases with higher mutational load and novel deletions and insertions..
+
+• Results parts need more discussion comparing other variants linked to specific population..
+
+Ans: We have added more discussion on population specific variants, as suggested. .
+
+• Are the five COVID-19 positive patients from same location?.
+
+Ans: Yes. These specimens were collected and analyzed at UT Southwestern Medical Center..
+
+Reviewer #2: "A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome" by Arana et al. describes a study comparing short amplicons, long amplicons, and a hybrid analysis approach for tiled amplicon genome sequencing of SARS-CoV-2. The study design and analysis is systematic and allows for robust comparison between the methods. The ability to minimize drop outs due to deletions or under-amplification with a given short amplicon primer pair is an advantage of this method. Several questions and requested clarifications are below, but pending these revsions I support the publication of this manuscript in PLOS One..
+
+Major points and questions.
+
+We routinely get high (>99.5%) coverage with ARTIC primers, though this is dependent on the sequencing depth of the sample and also sensitive to Ct and sample type. Do you have Ct values or other estimates of viral load for the samples that were analyzed in this study?.
+
+Ans: I agree, ARTIC primers provides high coverage in general, but we did perform additional sequencing on couple of specimens, that did not improve the unevenness throughout. There are certain intervals that are still poorly captured even after additional sequencing. In the revised manuscript, we have now analyzed 10 additional samples, that do have precise Ct values see Table2. We do observe some association between CT value and covered genomic fraction in the assay. As shown in Table 2, A10 sample has lowest Ct value (5.4) and highest (99.90%) genomic coverage. On the other hand, B11 sample has Ct value of 25 and genomic fraction covered is 86.30%. Since specimens were de-identified, we could only get many other clinical details on these samples. I agree, heterogeneity in coverage could be attributed to original viral load..
+
+-Figure 2B,D,F - Is this coverage at least 1x or with some other threshold applied?.
+
+Ans: We have provided coverage at both 1x and 10x in the revised manuscript..
+
+-Figure 2B,D,F - The ARTIC primers don't cover 100 percent of the viral genome (and you will also lose some coverage at the 5' and 3' ends if primers are trimmed), so it is surprising that some of these bars say 100%. I am guessing this is rounded from 99 point something, but the authors should include another decimal place or otherwise clarify these coverage numbers..
+
+Ans: Yes, these numbers are rounded. We have updated these plots with exact decimal points in the revised manuscript. .
+
+-Figure 2G - Are these variants called with a minimum read depth threshold as indicated in the methods? Which of the three variant calling pipelines was used to generate these numbers (or was it a consensus between the three tools)?.
+
+Ans: Now with additional samples analyzed, mutations that were called in Hybrid data set were used for the downstream analysis. Venn diagram presents variants shared in various analyses in new data set. .
+
+-Figure 2G - It might be good to include a similar Venn diagram (as panel H or a supplement) that summarizes the overlap if only regions with adequate coverage in both data sets are considered to complement the discussion at the beginning of page 15..
+
+Ans: Instead of a Venn diagram, we have shown that discordant mutations have significantly lower sequencing coverage in ARTIC assay as compared to MRL assay (Fig. 2H). Similar was true in case of mutations that were captured by ARTIC assay but missed by MRL. Again, this suggest, hybrid data analysis is still a reasonable approach to improve the coverage and variant detection, especially in poorly captured genomic intervals in either assay..
+
+-Figure 2G - The Venn diagram seems to indicate 60 mutations present in more than one analysis (41 + 10 + 4 + 5), but the text and Table 6 lists 59. What is behind this discrepancy?.
+
+Ans: Thanks for catching this. The final number was actually 60 in the old data. But since now we have sequenced and analyzed 10 more samples in the revised manuscript, the final number of high confidence mutations is 214 (Table 7). These were identified based on their call in Hybrid data set. Details on these final set of mutations are provided in the Table 7 of revised manuscript. .
+
+-Figure 4B - I am not sure that the MJ network figure provides useful information since these are just 5 random patient samples. It might be better to show the Nextstrain plot with these samples highlighted to put them in context of the global viral diversity..
+
+Ans: As per Reviewer’s suggestions, we have excluded MJ network from the revised manuscript. Instead, we have provided a maximum likelihood phylogenetic analysis and a Nextstrain plot on study samples..
+
+-Discussion - Given that high coverage can be routinely obtained with short amplicons in most cases and the fact that adding a second library prep and sequencing dataset adds significant cost and time to the analysis workflow (the "slightly increase" wording is deceptive and should be changed as this at least doubles the cost). It would be useful to reframe the discussion to focus on when application of this technique would be most beneficial. I think it is hard to imagine (and likely overkill) for most routine large-scale surveillance sequencing, but may be useful as a reflex option for problematic samples or in a clinical context where complete coverage and additional confidence in the data is required..
+
+Ans: We have reframed our statements as suggested and updated the discussion section in the revised manuscript. .
+
+Minor points.
+
+-Page 8 - Abstract: Please qualify first sentence "High viral transmission in the COVID-19 pandemic has enabled SARS‐ CoV‐2 to acquire new mutations that *may* impact genome sequencing methods.".
+
+Ans: This correction has been made in the revised manuscript..
+
+-Page 9 - Introduction: "overtime" should be two words "over time.".
+
+Ans: This correction has been made in the revised manuscript.
+
+-Page 12 - Step 4: Sequencing section. Please define "quality pass sequencing reads" or clarify this phrase..
+
+Ans: Sequencing reads QC means that reads were trimmed using Cutadapt (min Q30, adapter presence, shorter than 50 bases). The presence of host reads was detected using Kraken 2. This section is updated and more information is provided in the revised manuscript..
+
+-Page 12-13. The data analysis seems to be described twice (once in the sequencing section and once in the data analysis section). Please consolidate these descriptions..
+
+Ans: This is corrected in the revised manuscript.
+
+Reviewer #3: In this paper, authors have used three methods including long and short read technologies for sequencing of SARS-CoV-2 genome and concluded that, combination of short and long sequencing reads gives better representation of SARS-CoV-2 variants. However, I have few concern mentioned below..
+
+1. Nowadays, scientific community is looking for cheaper alternatives and wanted to reduce the cost of sequencing as much as low. In this direction, authors have used two different sequencing technologies to achieve the target, which in turn, increase the cost per sample..
+
+Ans: I agree. Our method uses two assays instead of one, which certainly increases the cost per sample but the advantage is more complete data, which is important too. Due to cost, our method may not fit for very routine virus surveillance but certainly useful to profile clinically complex specimens that require more complete genomic coverage to profile novel structural variants i.e. deletions and insertions. .
+
+2. Authors have used only five samples for sequencing. Were all the samples of the same lineage? or of different lineages? If, they were of the same lineage, authors must validate their long-amplicon primers on different lineages of the SARS-CoV-2..
+
+Ans: These were from different lineages but not huge diversity. Now we have sequenced additional strains to further test and validate our primers and sequencing pipeline, as suggested by reviewer. Data on new samples with Alpha, Beta and Gamma strains of virus have been included in the revised manuscript..
+
+3. Why authors have checked the quality of RNA on bioanalyzer? Which module, I mean Prokaryotic or Eukaryotic was used to run? Based on bioanalyzer results, how the quality of viral RNA was decided?.
+
+Ans: Sorry for the confusion, we have corrected this. Given the limited amount of RNA on these specimens, we have not checked quality/quantity on input RNA. RT-PCR Ct value of<30 was considered as inclusion criterion. We have used Tapestation 5000 to do the quality control on cDNA and final sequencing libraries. .
+
+4. The Thermo Fisher Scientific, SARS-CoV-2 NGS panel consist of two pools with amplicons ranging from 125–275bp in length for complete coverage of over 99% of the viral genome and variants and that is irrespective of the virial lineage. How your method is superior to this?.
+
+Ans: Most of the currently employed methods use pools of primers that amplify multiple overlapping amplicons to assemble the viral genome. We noticed that some primer pairs (in case of ARTIC) have very low sequencing coverage, which results in loss of genomic information. To improve the variant detection across such low coverage intervals, our long amplicons provides uniform sequencing coverage enabling variant detection and accurate genotyping of the virus. In summary, our method does not replace existing methods but complement them to generate better genomic data, especially across the poorly captured regions with short amplicons. Our new data shows that our approach works well with emerging strains as well..
+
+Submitted filename: Response to reviewers.docx.
+
+Click here for additional data file..
+
+
+1 Nov 2021
+.
+
+PONE-D-21-19442R1A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 GenomePLOS ONE.
+
+Dear Dr. Raj,.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+Please submit your revised manuscript by Dec 16 2021 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file..
+
+Please include the following items when submitting your revised manuscript:A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter..
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'..
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'..
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols..
+
+We look forward to receiving your revised manuscript..
+
+Kind regards,.
+
+Chandrabose Selvaraj, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+Journal Requirements:.
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice..
+
+[Note: HTML markup is below. Please do not edit.].
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+6. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #1: all comments have been addressed in the revised version , this article may be accepted..
+
+Reviewer #2: The revised manuscript, "A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome" by Arana et al. has satisfactorily addressed all of my major comments and concerns. Aside from a couple of minor suggestions to improve the clarity of the figures (below), I think the data and interpretations are solid and support publication..
+
+Minor points.
+
+-Figure 2: Harmonizing the labels (Assay I, Assay II, etc.) with those used in Figure 1 would help to make the figure more easily interpretable. Numbers are used for the assays in Figure 1 and 3, but roman numerals are used in Figure 2..
+
+-Figure 6: Coverage values are rounded to the nearest integer. I suggest adding an additional decimal point as in Figure 2..
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.].
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step..
+
+
+18 Nov 2021
+.
+
+We have updated the figure 2 and figure 6 as per reviewer's suggestion. Revised manuscript has updated figures..
+
+Submitted filename: Response to reviewers.docx.
+
+Click here for additional data file..
+
+
+23 Nov 2021
+.
+
+A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome.
+
+PONE-D-21-19442R2.
+
+Dear Dr. Raj,.
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements..
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication..
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org..
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org..
+
+Kind regards,.
+
+Chandrabose Selvaraj, Ph.D..
+
+Academic Editor.
+
+PLOS ONE.
+
+
+28 Dec 2021
+.
+
+PONE-D-21-19442R2 .
+
+A Short Plus Long-Amplicon Based Sequencing Approach Improves Genomic Coverage and Variant Detection In the SARS-CoV-2 Genome .
+
+Dear Dr. Raj:.
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department. .
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact onepress@plos.org..
+
+If we can help with anything else, please email us at plosone@plos.org. .
+
+Thank you for submitting your work to PLOS ONE and supporting open access. .
+
+Kind regards, .
+
+PLOS ONE Editorial Office Staff.
+
+on behalf of.
+
+Dr. Chandrabose Selvaraj .
+
+Academic Editor.
+
+PLOS ONE.
+

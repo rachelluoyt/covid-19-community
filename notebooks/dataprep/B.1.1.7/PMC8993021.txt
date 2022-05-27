@@ -1,0 +1,409 @@
+Competing Interests: The other authors have declared that no competing interests exist..
+
+A correlate of protection (CoP) is an immunological marker associated with protection against infection. Despite an urgent need, a CoP for SARS-CoV-2 is currently undefined..
+
+Our objective was to review the evidence for a humoral correlate of protection for SARS-CoV-2, including variants of concern..
+
+We searched OVID MEDLINE, EMBASE, Global Health, Biosis Previews and Scopus to January 4, 2022 and pre-prints (using NIH iSearch COVID-19 portfolio) to December 31, 2021, for studies describing SARS-CoV-2 re-infection or breakthrough infection with associated antibody measures. Two reviewers independently extracted study data and performed quality assessment..
+
+Twenty-five studies were included in our systematic review. Two studies examined the correlation of antibody levels to VE, and reported values from 48.5% to 94.2%. Similarly, several studies found an inverse relationship between antibody levels and infection incidence, risk, or viral load, suggesting that both humoral immunity and other immune components contribute to protection. However, individual level data suggest infection can still occur in the presence of high levels of antibodies. Two studies estimated a quantitative CoP: for Ancestral SARS-CoV-2, these included 154 (95% confidence interval (CI) 42, 559) anti-S binding antibody units/mL (BAU/mL), and 28.6% (95% CI 19.2, 29.2%) of the mean convalescent antibody level following infection. One study reported a CoP for the Alpha (B.1.1.7) variant of concern of 171 (95% CI 57, 519) BAU/mL. No studies have yet reported an Omicron-specific CoP..
+
+Our review suggests that a SARS-CoV-2 CoP is likely relative, where higher antibody levels decrease the risk of infection, but do not eliminate it completely. More work is urgently needed in this area to establish a SARS-CoV-2 CoP and guide policy as the pandemic continues..
+
+All relevant data are within the paper and its Supporting information files..
+
+Both previous infection and vaccination against SARS-CoV-2 provide protection against infection and severe disease, but the mechanism and durability of that protection remains unclear [1]. Immunity to SARS-CoV-2 is likely both humoral and cellular [2], but it is uncertain whether a correlate of protection (CoP) for SARS-CoV-2 exists, and if so, whether it is easily quantifiable using diagnostic testing. Without a CoP, serological testing cannot confirm immunity, leaving an evidence gap in public health policy particularly as new variants of concern emerge..
+
+A CoP is an immunological marker associated with protection from an infectious agent following infection or vaccination [3]. Some CoPs are mechanistic (i.e. directly responsible for protection), while others are non-mechanistic or surrogate, and although not directly responsible for protection, can be used in substitute of the true correlate [3, 4]. A CoP can be absolute, where protection against disease is certain above a threshold, or relative, where higher levels of a biomarker correspond to more protection [2]. Some correlates vary by endpoint (e.g. symptomatic infection or severe disease), or are only applicable to a specific endpoint [3]. The majority of CoPs described are humoral and used in a surrogate manner, as these antibodies are easier to detect in clinical laboratory settings than components of cellular immunity [5]..
+
+Elucidating a CoP for SARS-CoV-2 is critical for improving our understanding of the extent and duration of protection against infection for individuals and populations. At the individual level, a CoP would provide clear immunological vaccine trial endpoints, and therefore may provide a pathway to licensure for new vaccines [5]. If measurable using a diagnostic test, a CoP would enable determination of individual and community-level immunity, which is particularly important for immunocompromised individuals [6, 7] and the assessment of population level immunity through serosurveys [5]..
+
+The search for a SARS-CoV-2 CoP is further complicated by the emergence of variants of concern (VOCs). Sera from previously infected and/or vaccinated individuals have reduced neutralizing ability against VOCs including Beta (B.1.351), Delta (B.1.617.2) and Omicron (B.1.1.529) [8–10], with the latter showing the greatest extent of immune evasion of all VOCs thus far [11]. This variation raises the possibility that a SARS-CoV-2 CoP may be VOC-specific..
+
+With these facts in mind, and considering that an easily measurable CoP would most likely be humoral and not cellular, we performed a systematic review to assess the evidence for a humoral CoP for SARS-CoV-2..
+
+We searched the OVID MEDLINE database from inception to December 31, 2021, and the EMBASE, Global Health, Biosis Previews and Scopus databases from inception to January 4, 2022. We used the NIH iSearch COVID-19 Portfolio tool to search for preprint articles published up to December 31, 2021. Our search included studies reporting either re-infection or breakthrough infection following vaccination. Full search terms used are reported in S1 Table. We also searched reference lists for suitable articles, and requested article recommendations from experts in the field..
+
+One reviewer screened titles and abstracts using Distiller SR (Ottawa, Ontario, Canada). Studies passed title and abstract screening if their abstracts discussed re-infection with SARS-CoV-2 or breakthrough infection following vaccination; mentioned antibody measures specific to SARS-CoV-2; or mentioned a correlate or threshold of protection against SARS-CoV-2. We excluded studies that focused on immunocompromised populations or animal models..
+
+Two reviewers screened full texts of articles that passed title/abstract screening using defined criteria (Table 1). We included studies reporting a quantitative CoP against SARS-CoV-2, and studies reporting re-infection or breakthrough infection along with associated pre-infection measures. If these studies reported aggregate antibody measures (i.e. geometric mean titres (GMT)) we required them to include summary statistics (i.e. statistical significance testing or 95% confidence intervals (95% CI)). We also included studies that correlated antibody levels to vaccine efficacy (VE) or effectiveness, but only if they provided statistical summary measures (e.g. a correlation co-efficient describing the relationship between antibody level and VE), or if they correlated an antibody concentration to a VE of 100% (i.e. absolute protection). We only included studies written English or French. We calculated a Cohen’s Kappa to assess inter-rater agreement for full-text screening..
+
+Two reviewers extracted data in duplicate from articles that met full-text screening criteria, using WebPlotDigitizer [12] for figures. We used the National Institutes of Health National Heart, Lung and Blood Institute (NIH NHLBI) Study Quality Assessment tools to assess study quality [13], adapting it by adding questions specific to this study. Studies correlating VE to antibody levels were evaluated using the Cohort and Cross Sectional Tool..
+
+We reported our results using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 [14]. A PRISMA reporting checklist can be found in the Supplemental files section (S1 Checklist). Recognizing that that the immune response following natural infection and vaccination may differ, we grouped studies involving re-infection separately from studies examining breakthrough infection..
+
+We identified 11,803 records for screening (Fig 1). After de-duplication, we screened 4,919 peer-reviewed studies, 783 preprint studies and 16 studies identified through expert recommendations and scanning of article reference lists. After title/abstract screening, full-text screening (Kappa = 1.0) and quality assessment, we included 25 articles in our review. Of these, 14 described SARS-CoV-2 re-infection along with individual or aggregate humoral measures [15–28], and 11 studies described SARS-CoV-2 breakthrough infection following vaccination or statistical modelling to explore associations between VE and antibody levels [29–39] (Table 2). Only two studies estimated a SARS-CoV-2 antibody CoP, both using statistical modelling methods [33, 34]..
+
+Fourteen studies met our SARS-CoV-2 re-infection definition and provided pre-infection antibody values (Table 3). These included seven cohort studies [15, 17, 18, 20–22, 27], and seven case reports [16, 19, 23–26, 28]. The majority of studies reported re-infection in healthcare workers, patients, or long term care home residents [15–18, 20, 22, 24–28], with a minority reporting re-infection in the general population [19, 21, 23]. When reported, specimen collection occurred between 14 days and seven months after initial infection [16, 26] and between 4 days and seven months before re-infection [20, 27]. Antibody testing methods included various commercial and laboratory developed enzyme-linked immunosorbent assays (ELISAs) targeting anti-spike (anti-S), anti-receptor binding domain (anti-RBD) and anti-nucleocapsid (anti-N) antibodies, as well as neutralization assays. No study utilized the World Health Organization (WHO) International Standard (IS) [40]. Only three papers reported on the SARS-CoV-2 lineage of the re-infection [16, 24, 26], with none reporting serological measures preceding re-infection with VOCs..
+
+#—Assay results from each study were included for every antibody type (i.e.–anti-S, anti-N, anti-RBD) and isotype (i.e.–IgG, IgM, IgA) measured. In instances where more than one assay target was used to measure the same antibody target in the same study (i.e.–both PRNT and pseudoneutralization results, or anti-S results from two different assays), we included only one of these results. Full data extraction for every study can be provided upon request..
+
+*- if more than one test result was provided, the result closest in time to re-infection is presented..
+
+**—In these studies, other reinfections were reported as well, but with no accompanying temporal and laboratory data, or did not met our reinfection criteria.
+
+Definitions: anti-S = anti-spike, anti-N = anti-nucleocapsid, anti-RBD = anti-receptor binding domain, PRNT = plaque reduction neutralization test, LDT = laboratory-developed test, ELISA = enzyme-linked immunosorbent assay, AU = arbitrary units, OD = optical density, IRR = increased relative risk, HCW = health care worker, LTC = long term care.
+
+Two studies compared antibody levels between re-infected and protected individuals. Krutikov et al. found no statistically significant difference in anti-N IgG between cases and controls (p = 0.544) but showed that individuals who were antibody-negative at baseline were at greater risk of infection than those who were antibody-positive [20]. Using Poisson regression, Lumley and colleagues also found that anti-S positive individuals were less likely to be infected compared to those who were anti-S negative (incidence rate ratio (IRR) of 0.11 (95% CI 0.03, 0.44)) [22]. Similar findings were observed using anti-N antibody (IRR = 0.11 (95% CI 0.03, 0.45)). Analysis of the association between continuous antibody concentrations and incidence was also statistically significant for both antibodies (p<0.001) [22]..
+
+We included 11 studies describing breakthrough SARS-CoV-2 infection. These included two case reports [36, 37], one cohort study [35], two case-control studies [29, 38], and two studies that re-analyzed antibody data from a clinical trial [32, 39]. Five in silico studies utilized statistical methods to explore the association between antibody levels and VE [30–34]. The populations studied were either clinical trials or other vaccine study participants [30–34, 39] or healthcare workers [29, 35–38]. Three studies reported results in WHO IS units (binding antibody units (BAU)/mL) [32, 33, 37]..
+
+Of the 11 studies describing breakthrough infection, six studies provided individual or aggregate humoral measures [29, 35–39], four studies used statistical modelling to explore associations between VE and antibody levels [30, 31, 33, 34], and one study included both humoral measures and statistical modelling [32] (Tables 4 and 5). Five studies [29, 36–39] reported the lineage of the breakthrough infection, and two modeling studies include VOCs in their analysis [30, 33]..
+
+#—Assay results from each study were included for every antibody type (i.e.–anti-S, anti-N, anti-RBD) and isotype (i.e.–IgG, IgM, IgA) measured. In instances where more than one assay target was used to measure the same antibody target in the same study (i.e. both PRNT and pseudoneutralization results, or anti-S results from two different assays), we included only one of these results. Full data extraction for every study can be provided upon request..
+
+*- If more than one test result was provided, the result closest in time to re-infection is presented..
+
+**—In these studies, other breakthrough infections were reported as well, but with no accompanying temporal and laboratory data.
+
+Definitions: anti-S = anti-spike, anti-N = anti-nucleocapsid, anti-RBD = anti-receptor binding domain, PRNT = plaque reduction neutralization test, LDT = laboratory-determined test, ELISA = enzyme-linked immunosorbent assay, AU = arbitrary units, OD = optical density, IRR = increased relative risk, HCW = health care worker, LTC = long term care, GMC = geometric mean concentration, GMT = geometric mean titre, 95% CI = 95% confidence interval, ID50 = infectious dose titer 50, WHO IS = World Health Organization SARS-CoV-2 antibody International Standard, HR = hazard ratio, RCT = randomized controlled trial, MSD = Mesoscale Discovery.
+
+#-Assay results from each study were included for every antibody type (i.e.–anti-S, anti-N, anti-RBD) and isotype (i.e.–IgG, IgM, IgA) measured. In instances where more than one assay target was used to measure the same antibody target in the same study (i.e.–both PRNT and pseudoneutralization results, or anti-S results from two different assays), we included only one of these results. Full data extraction for every study can be provided upon request..
+
+Definitions: anti-S = anti-spike, anti-N = anti-nucleocapsid, anti-RBD = anti-receptor binding domain, PRNT = plaque reduction neutralization test, LDT = laboratory-determined test, ELISA = enzyme-linked immunosorbent assay, OD = optical density, IRR = incidence rate ratio, HCW = health care worker, LTC = long term care, HCS = human convalescent sera, NAAT = nucleic acid amplification testing.
+
+Seven of 11 studies reported antibody levels following one [35] or two doses of COVID-19 vaccine, including BNT162b2 (Pfizer-BioNTech) [29, 35–38] mRNA-1273 (Moderna) [32] and ChAdOx1 nCoV-19 (AstraZeneca) [39] (Table 4). Sera were collected between nine [36] and 109 days [32] after the second vaccine dose, but the time from sampling to breakthrough infection was not always reported. Antibody levels were assessed using a variety of commercial serology assays and/or neutralization assays. Five studies reported the viral lineage, including three studies reporting Alpha (B.1.1.7) [29, 37, 39], one reporting B.1.525 [36], and one reporting Delta (B.1.617.2) [38] infections..
+
+Four studies compared aggregate antibody levels between cases and non-cases. Gilbert et al. calculated geometric mean concentration (GMC) ratios of cases to non-cases, ranging from 0.57 (95% CI 0.39, 0.84) to 0.71 (95% CI 0.54, 0.94), depending on antibody target and sampling interval [32]. Using Cox regression, the authors found statistically significant associations between increasing antibody levels and decreasing risk of COVID-19. Bergwerk et al. applied generalizing estimating equations to predict antibody levels and generate GMT ratios of cases to non-cases. For neutralizing antibodies, these ranged from a case-to-control ratio of 0.15 (95% CI, 0.04, 0.55) within the first month after the second vaccine dose to 0.36 (95% CI 0.17, 0.79) by the week before breakthrough infection [29]. Using linear regression, this study demonstrated a statistically significant correlation between cycle threshold (Ct) value of cases and neutralizing antibody level, suggesting an inverse relationship between antibody level and viral load. Feng and colleagues found no statistically significant difference between median antibody levels of cases and non-cases [39]. However, using a generalized additive model, symptomatic infection risk was found to be inversely correlated to antibody levels. Yamamoto et al. found no statistically significant difference in post-vaccination neutralization levels in healthcare workers who experienced a breakthrough infection and matched controls during the Delta wave [38]. The authors found that neutralizing titres were lower against Alpha and Delta variants than the wild-type virus, but were comparable between cases and controls..
+
+Five studies described correlations between antibody levels and VE against BNT162b2 [30, 31, 33, 34], mRNA-1273 [31–34], ChAdOx1 nCoV-19 [30, 31, 33, 34], Ad26.COV2.S (Janssen/ Johnson and Johnson) [30, 31, 33, 34], NVX-CoV2373 (Novavax) [30, 31, 34], CoronaVac (SinoVac) [31, 34], and rAd26+S+rAd5-S (Gamaleya Research Institute) [31, 34] vaccine using re-analyzed clinical trial and other vaccine. The studies generated correlations using either neutralizing antibody levels, derived through plaque reduction neutralization tests (PRNT) or microneutralization assays, or IgG levels measured through ELISAs..
+
+Three of five studies [30, 31, 34] reported correlation coefficients for the relationship between neutralizing antibodies and VE ranging from 0.79 to 0.96. Two studies [31, 33] reported correlation coefficients of 0.82 to 0.94 to describe the relationship between anti-Spike IgG and VE. Since serology and neutralization assays were not calibrated to a common standard, three studies [30, 31, 34] normalized antibody concentrations against convalescent sera used in their respective clinical trials, and reported antibody concentrations as a ratio of the antibody concentration/convalescent serum concentration. The remaining two studies [32, 33] provided results using the WHO IS..
+
+Using different statistical methods, three studies [31–33] attempted to quantitate the contribution of antibodies to VE measures. Earle et al. incorporated data from seven vaccine clinical trials and reported that neutralizing antibodies accounted for 77.5% to 84.4% of VE [31]. Gilbert et al. focused on mRNA-1273 clinical trial data and reported that neutralizing antibodies accounted for 48.5% (95% CI 34.5, 62.4%) to 68.5% (95% CI 58.5, 78.4%) of VE [32]. This approach was also taken to estimate the effect of anti-S antibodies, with Earle and colleagues finding that anti-S antibody accounts for 91.3% to 94.2% (no CIs provided) of variation in efficacy [31]. Using data from individuals vaccinated with BNT162b2, mRNA-1273, ChAdOx1 nCoV-19 or Ad26.COV2.S, Goldblatt et al. reported that anti-S antibodies account for 68.6% to 97.4% (no CIs provided) of variation in efficacy [33]..
+
+Two studies estimated a SARS-CoV-2 threshold of protection. Goldblatt et al. used a random effects meta-analytic approach to calculate protective thresholds in WHO IS units for ancestral strain SARS-CoV-2 and Alpha (B.1.1.7) of 154 (95% CI 42, 559) and 171 (95% CI 57, 519) anti-S binding antibody units (BAU/mL), respectively. Khoury and colleagues used a protective neutralization classification model to estimate the antibody concentration resulting in 100% protection, which they estimated to be 28.6% (95% CI 19.2–29.2%) of the mean convalescent antibody level [34]. The authors also applied a logistic model to calculate the 50% protective neutralization level for symptomatic disease (the titre at which 50% of individuals are protected from symptomatic infection), which was found to be 20.2% (95% CI 14.4, 28.4) of the mean convalescent antibody level. This level corresponded to a neutralization titre of between 1:10 to 1:30 in most assays, which the authors estimate corresponds to 54 (95% CI 30–96) international units (IU)/ml. For severe disease, the 50% threshold was estimated to be only 3% (95% CI 0.71, 13.0%) of the mean convalescent level..
+
+During quality assessment (S2 Table), we excluded studies that provided inadequate antibody measures or were missing sampling dates, data or laboratory methods details. Of the included studies, we noted that few reported antibody levels at 30–60 days post infection or vaccination or within 30 days of re-infection or breakthrough [20–22, 26, 28, 35, 37], the time periods which would provide the most insight on antibody levels..
+
+Our systematic review found mixed evidence regarding a SARS-CoV-2 CoP, with a lack of standardization between laboratory methodology, assay targets, and sampling time points complicating comparisons and interpretation. Studies examining the relationship between antibody levels and VE presented high correlation coefficients, despite utilizing diverse data that included several vaccines and a variety of assays, VE endpoints and populations [30, 31, 33, 34]. The robust correlations despite data heterogeneity support the concept of an anti-S antibody or neutralizing antibody CoP. Furthermore, several studies that explored differences in GMTs between cases and non-cases [29, 32] or associations between antibody levels and viral load with infection incidence or risk [22, 29, 32, 39], found statistically significant differences and associations. Taken together, these aggregate data reports support an antibody target as a potential correlate. However, individual-level data provided contradictory findings. Individuals described in case reports experienced re-infection or breakthrough infection with considerable anti-S or neutralizing antibody levels pre-infection. Studies that attempted to estimate the contribution of antibody levels to VE measures [31–33] found that a substantial proportion of VE was not explained by antibody levels, suggesting that antibodies are only one component of protection. These findings echo SARS-CoV-2 vaccine trial data showing protection after one dose with very low levels of neutralizing antibodies, and suggest that cellular immunity or non-neutralizing antibodies may also play a role in protection [31, 41]..
+
+Our review of the literature indicates that a humoral SARS-CoV-2 CoP may be relative, such that antibodies reduce risk of infection but not eliminated it [4]. An analogous example is the influenza 50% protective dose, defined as the antibody concentration at which the risk of infection is reduced by half [3, 42]. Khoury and colleagues provided evidence for a relative correlate in calculating a “50% protective neutralization level” across vaccine studies, and found that lower antibody levels are required to prevent severe disease than to prevent symptomatic infection [34]. Our findings are also in line with real-world observations where SARS-CoV-2 breakthrough cases are often mild or asymptomatic, suggesting that while there is not adequate immunity to prevent infection, there is adequate immunity to prevent symptomatic or severe disease [43, 44]. Furthermore, since mRNA vaccines produce high antibody levels while viral vector vaccines result in robust cellular immunity, it is also possible that the CoP following vaccination may differ by vaccine product [33, 41]..
+
+Other data sources that were not eligible for inclusion in our review are supportive of a humoral CoP. Transfer of SARS-CoV-2 convalescent IgG to naïve rhesus macaques was found to be protective [45], and convalescent plasma and monoclonal antibody therapy have been used clinically [46, 47]. Although neither animal model nor passive transfer of immunity mimics the human immune response precisely, these data underscore the importance of humoral immunity for protection against SARS-CoV-2..
+
+There were several limitations to the available literature for this systematic review. We included several case-reports, which generally provide a lower level of evidence and are prone to bias. The included studies used different laboratory assays and heterogeneity in targets. The WHO IS was seldom used, and the diversity of laboratory assays and results precluded a meta-analysis of our data. To overcome the lack of calibration between laboratory assays, some studies normalized results against convalescent sera. However, since the humoral immune response to natural infection varies by age and disease severity [48], this method is not ideal. Most studies did not report which SARS-CoV-2 lineage. With the emergence of Omicron (B.1.1.529), the lack of Omicron-specific serological data prior to re-infection or breakthrough is unfortunate. Evidence based on in vitro neutralization assays suggests that, for immune responses to Omicron in individuals who have already been exposed to Ancestral SARS-CoV-2 antigens (whether through infection or vaccination), an Omicron CoP may be higher than for Ancestral SARS-CoV-2 or other VOCs, due to the reduced effectiveness of Ancestral antibodies for variant spike protein. To that point, Pfizer-BioNTech has reported a 25-fold reduction in neutralization titres against Omicron compared to Ancestral SARS-CoV-2 in individuals vaccinated with two doses of BNT162b2 [49]. Studies from South Africa and Germany report a reduction in neutralization up to 41-fold [50, 51], despite two or three doses of BNT162b2 or mRNA-1273 and previous infection. However, neutralization levels cannot be interpreted with regards to immunity in the absence of a CoP. This issue will be further complicated as the proportion of individuals with an Omicron-specific immune response due to infection, re-infection or breakthrough increases, especially if the clinical serology tools available for diagnostic purposes continue to use Ancestral SARS-CoV-2 antigens. Since a CoP will undoubtedly be variant-specific, continued study in this area is warranted as further variants are detected and vaccination policies evolve in response..
+
+Our review did not examine the role of cellular immunity, which is a limitation because both animal models and human studies have suggested that cellular immunity is likely integral to protection [45]. Furthermore, the included studies focused on systemic immunity, which limits our ability to comment on mucosal antibodies, a known element of SARS-CoV-2 immunity [52]. Only three studies included in our review measured IgA levels in serum [16, 24, 37]. Since circulating IgA cannot be effectively transported into secretions [53], these studies cannot shed light on potential mucosal correlates of protection..
+
+Our findings emphasize that further research into the role of humoral immunity, including non-neutralizing antibody, Fc effector functions and cellular and mucosal immunity is a priority, especially in the context of immune-evading variants like Omicron. The effect of lineage, vaccine product and the endpoint being measured (i.e. infection, symptomatic disease, severe disease) on the CoP are also essential questions. Currently, 40.5% of the world’s population has not been vaccinated against SARS-CoV-2 [54]. The need to approve more vaccines is urgent, but placebo controlled trials have become difficult to perform [33]. A temporary CoP, even if imperfect, would allow us to break through this impasse by performing non-inferiority studies to authorize new vaccine products..
+
+Taken together, our findings suggest that humoral immunity is an integral part of protection against SARS-CoV-2, and that an antibody target is the most likely immune marker for a SARS-CoV-2 CoP..
+
+(PDF).
+
+Click here for additional data file..
+
+(DOCX).
+
+Click here for additional data file..
+
+(ZIP).
+
+Click here for additional data file..
+
+
+9 Mar 2022
+.
+
+PONE-D-22-03976.
+
+Does a humoral correlate of protection exist for SARS-CoV-2? A systematic review.
+
+PLOS ONE.
+
+Dear Dr. Bolotin,.
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process..
+
+During the revision process, please address the minor revisions recommended by the reviewers..
+
+Please submit your revised manuscript by Apr 21 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file..
+
+Please include the following items when submitting your revised manuscript:.
+
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'..
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'..
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'..
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter..
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols..
+
+We look forward to receiving your revised manuscript..
+
+Kind regards,.
+
+Victor C Huber.
+
+Academic Editor.
+
+PLOS ONE.
+
+Journal requirements:.
+
+When submitting your revision, we need you to address these additional requirements..
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at.
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and.
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf..
+
+2. Thank you for stating the following financial disclosure:.
+
+“This work was supported by Public Health Ontario and funding from the Public Health Agency of Canada to SB..
+
+NO”.
+
+Please state what role the funders took in the study.  If the funders had no role, please state: ""The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."".
+
+If this statement is not correct you must amend it as needed..
+
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf..
+
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript:.
+
+“This work was supported by Public Health Ontario and funding from the Public Health Agency of Canada.”.
+
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form..
+
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:.
+
+“This work was supported by Public Health Ontario and funding from the Public Health Agency of Canada to SB..
+
+NO”.
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf..
+
+4. Thank you for stating the following in your Competing Interests section: .
+
+“NO”.
+
+Please complete your Competing Interests on the online submission form to state any Competing Interests. If you have no competing interests, please state ""The authors have declared that no competing interests exist."", as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.
+
+This information should be included in your cover letter; we will change the online submission form on your behalf..
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice..
+
+[Note: HTML markup is below. Please do not edit.].
+
+Reviewers' comments:.
+
+Reviewer's Responses to Questions.
+
+
+
+Comments to the Author
+.
+
+1. Is the manuscript technically sound, and do the data support the conclusions?.
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented. .
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+********** .
+
+2. Has the statistical analysis been performed appropriately and rigorously? .
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+********** .
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?.
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified..
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+********** .
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?.
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here..
+
+Reviewer #1: Yes.
+
+Reviewer #2: Yes.
+
+********** .
+
+5. Review Comments to the Author.
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters).
+
+Reviewer #1: The authors performed a literature review trying to determine the CoP for SARS-CoV-2 by compiling serological data on reinfections or vaccine breakthrough infections previously reported in publications or preprints. They found that while no absolute threshold for CoP can be determined up to this point, the correlate appears to be relative in a way that higher serological antibody levels in response to vaccination or infection yield greater protection against SARS-CoV-2 infection..
+
+The manuscript is very well written, but its greatest strength lies not in its findings or conclusions which are fairly generic and previously reported on, but in the vast compendium of publications they found and assessed that have attempted correlating protection against SARS-CoV-2 with serological measures. The authors are well aware of the limitations, most of which stem from the fact that there is simply too much variables in the studies – the assays and units used, the types of vaccines, and the variants causing the re-infections or breakthrough infections. The authors allude to the fact that the CoP may be different between vaccine manufacturers and variants and no single answer can be found – that is certainly the case..
+
+The authors also reported contradictory patterns from individual case studies regarding patterns between reinfection/breakthrough rates and prior antibody levels; this is not surprising as most case studies are different from the average (why they were deemed interesting as stand-alone cases) and should at most be weighted the same as a participant in a cohort study..
+
+Overall, the publication has merit as the tables serve as a useful reference guide for SARS-CoV-2 researchers and the authors are well aware of the limitations of the study. I recommend the review for publication..
+
+Reviewer #2: This paper is a review of serological correlates of protection for COVID-19 vaccines. The review is competent and complete. It reaches the conclusion that nearly everybody else has: that antibodies, particularly neutralizing, correlate with efficacy. It emphasizes that the correlate is relative, that is there is no level that corresponds to 100% efficacy. That conclusion is expected in view of published data and the fact that SARS-2 infection is primarily mucosal, similar to influenza, for which as the authors themselves say antibody is the correlate of protection although the protective level of antibody increases with titer but no absolute level is reached.. So the last line of the discussion “we do not have the tools to interpret serology with regards to protection” is silly, inasmuch as the authors describe how higher levels correlate with protection. Of course, cellular and Fc Effector immunity undoubtedly also have a role, but that does not gainsay the major role of antibody. It is also worth emphasizing that homologous levels have to be determined for each SARS-2 variant. On a trivial note, in line 162 “sera” is a plural noun and therefore “are”..
+
+********** .
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files..
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public..
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy..
+
+Reviewer #1: No.
+
+Reviewer #2: No.
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.].
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step..
+
+
+24 Mar 2022
+.
+
+Journal requirements: .
+
+When submitting your revision, we need you to address these additional requirements..
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at.
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and.
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf..
+
+The manuscript has been reformatted according to PLOS style requirements..
+
+2. Thank you for stating the following financial disclosure:.
+
+“This work was supported by Public Health Ontario and funding from the Public Health Agency of Canada to SB..
+
+NO”.
+
+Please state what role the funders took in the study. If the funders had no role, please state: ""The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."".
+
+If this statement is not correct you must amend it as needed..
+
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf..
+
+A Role of Funder statement is now included in our cover letter.
+
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript:.
+
+“This work was supported by Public Health Ontario and funding from the Public Health Agency of Canada.”.
+
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form..
+
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:.
+
+“This work was supported by Public Health Ontario and funding from the Public Health Agency of Canada to SB..
+
+NO”.
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf..
+
+All funding-related statements have been removed from the text and included in the Cover letter and Funding statement. Please use the Funding Statement as previously submitted..
+
+4. Thank you for stating the following in your Competing Interests section: .
+
+“NO”.
+
+Please complete your Competing Interests on the online submission form to state any Competing Interests. If you have no competing interests, please state ""The authors have declared that no competing interests exist."", as detailed online in our guide for authors at http://journals.plos.org/plosone/s/submit-now.
+
+This information should be included in your cover letter; we will change the online submission form on your behalf..
+
+Cover letter now includes conflict of interest disclosure, which has been removed from the text..
+
+Reviewer comments (Responses in Bold/Italics).
+
+Reviewer #1: The authors performed a literature review trying to determine the CoP for SARS-CoV-2 by compiling serological data on reinfections or vaccine breakthrough infections previously reported in publications or preprints. They found that while no absolute threshold for CoP can be determined up to this point, the correlate appears to be relative in a way that higher serological antibody levels in response to vaccination or infection yield greater protection against SARS-CoV-2 infection..
+
+The manuscript is very well written, but its greatest strength lies not in its findings or conclusions which are fairly generic and previously reported on, but in the vast compendium of publications they found and assessed that have attempted correlating protection against SARS-CoV-2 with serological measures. The authors are well aware of the limitations, most of which stem from the fact that there is simply too much variables in the studies – the assays and units used, the types of vaccines, and the variants causing the re-infections or breakthrough infections. The authors allude to the fact that the CoP may be different between vaccine manufacturers and variants and no single answer can be found – that is certainly the case..
+
+The authors also reported contradictory patterns from individual case studies regarding patterns between reinfection/breakthrough rates and prior antibody levels; this is not surprising as most case studies are different from the average (why they were deemed interesting as stand-alone cases) and should at most be weighted the same as a participant in a cohort study..
+
+Overall, the publication has merit as the tables serve as a useful reference guide for SARS-CoV-2 researchers and the authors are well aware of the limitations of the study. I recommend the review for publication..
+
+We thank the reviewer for their time and their expert appraisal of our manuscript..
+
+Reviewer #2: This paper is a review of serological correlates of protection for COVID-19 vaccines. The review is competent and complete. It reaches the conclusion that nearly everybody else has: that antibodies, particularly neutralizing, correlate with efficacy. It emphasizes that the correlate is relative, that is there is no level that corresponds to 100% efficacy. That conclusion is expected in view of published data and the fact that SARS-2 infection is primarily mucosal, similar to influenza, for which as the authors themselves say antibody is the correlate of protection although the protective level of antibody increases with titer but no absolute level is reached.. So the last line of the discussion “we do not have the tools to interpret serology with regards to protection” is silly, inasmuch as the authors describe how higher levels correlate with protection. Of course, cellular and Fc Effector immunity undoubtedly also have a role, but that does not gainsay the major role of antibody. It is also worth emphasizing that homologous levels have to be determined for each SARS-2 variant. On a trivial note, in line 162 “sera” is a plural noun and therefore “are”..
+
+We thank the reviewer for their time and their expert appraisal of our manuscript. We have removed the last line of the discussion, and also changed line 162 (now line 163) to reflect “sera” as plural. We have also added further emphasis to the variant-specific nature of a CoP in lines 281-283..
+
+Submitted filename: Response to reviewers 2022_03_24.docx.
+
+Click here for additional data file..
+
+
+29 Mar 2022
+.
+
+Does a humoral correlate of protection exist for SARS-CoV-2? A systematic review.
+
+PONE-D-22-03976R1.
+
+Dear Dr. Bolotin,.
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements..
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication..
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org..
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org..
+
+Kind regards,.
+
+Victor C Huber.
+
+Academic Editor.
+
+PLOS ONE.
+
+Additional Editor Comments (optional):.
+
+Reviewers' comments:.
+
+
+31 Mar 2022
+.
+
+PONE-D-22-03976R1 .
+
+Does a humoral correlate of protection exist for SARS-CoV-2? A systematic review .
+
+Dear Dr. Bolotin:.
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department. .
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact onepress@plos.org..
+
+If we can help with anything else, please email us at plosone@plos.org. .
+
+Thank you for submitting your work to PLOS ONE and supporting open access. .
+
+Kind regards, .
+
+PLOS ONE Editorial Office Staff.
+
+on behalf of.
+
+Dr. Victor C Huber .
+
+Academic Editor.
+
+PLOS ONE.
+

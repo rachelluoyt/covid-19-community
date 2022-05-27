@@ -1,0 +1,357 @@
+Variants of SARS-CoV-2 are evolving under a combination of immune selective pressure in infected hosts and natural genetic drift, raising a global alarm regarding the durability of COVID-19 vaccines. Here, we conducted longitudinal analysis over 1.8 million SARS-CoV-2 genomes from 183 countries or territories to capture vaccination-associated viral evolutionary patterns. To augment this macroscale analysis, we performed viral genome sequencing in 23 vaccine breakthrough COVID-19 patients and 30 unvaccinated COVID-19 patients for whom we also conducted machine-augmented curation of the electronic health records (EHRs). Strikingly, we find the diversity of the SARS-CoV-2 lineages is declining at the country-level with increased rate of mass vaccination (n = 25 countries, mean correlation coefficient = -0.72, S.D. = 0.20). Given that the COVID-19 vaccines leverage B-cell and T-cell epitopes, analysis of mutation rates shows neutralizing B-cell epitopes to be particularly more mutated than comparable amino acid clusters (4.3-fold, p < 0.001). Prospective validation of these macroscale evolutionary patterns using clinically annotated SARS-CoV-2 whole genome sequences confirms that vaccine breakthrough patients indeed harbor viruses with significantly lower diversity in known B cell epitopes compared to unvaccinated COVID-19 patients (2.3-fold, 95% C.I. 1.4-3.7). Incidentally, in these study cohorts, vaccinated breakthrough patients also displayed fewer COVID-associated complications and pre-existing conditions relative to unvaccinated COVID-19 patients. This study presents the first known evidence that COVID-19 vaccines are fundamentally restricting the evolutionary and antigenic escape pathways accessible to SARS-CoV-2. The societal benefit of mass vaccination may consequently go far beyond the widely reported mitigation of SARS-CoV-2 infection risk and amelioration of community transmission, to include stemming of rampant viral evolution..
+
+To date, over 175 million individuals have been infected with SARS-CoV-2 worldwide, and over 2.2 million deaths have been attributed to COVID-19. More than a year and half since the first known case of SARS-CoV-2 infection, the virus continues to evolve in different parts of the world resulting in emerging variants of concern
+1
+ (e.g. delta variant) with increased transmissibility. Host immune response is a key selective pressure that influences the emergence of novel strains of the SARS-CoV-2 virus in different parts of the world. Understanding the longitudinal trends of SARS-CoV-2 evolution and mapping the mutational landscape of the antigen is imperative to comprehensively combat the ongoing pandemic and future outbreaks
+2–4
+..
+
+Accelerated development of COVID-19 vaccines and mass vaccination rollouts has led to the immunization of over 10% of the world’s population (over 800 million individuals fully vaccinated
+5
+). Sudden immunization of a large fraction of the population at the height of the ongoing pandemic could significantly increase evolutionary pressure on the SARS-CoV-2 virus. However, to date there has been no comprehensive study on the impact of the global vaccination efforts on SARS-CoV-2 evolution. The main axes of the host immune response that have been examined in SARS-CoV-2 infection are the innate immunity
+6
+, the cell-mediated (i.e. T cell) and humoral or antibody-mediated responses (through B cells)
+7
+. B cells and T cells are two specialized cell types that undergo junctional recombination somatic hypermutation in antigen receptor genes during their differentiation, which generates extensive diversity within the immune receptor repertoire. B cells can recognize virtually any molecule (proteins, sugars, non-organic, etc.), without antigen presentation, but are largely restricted to exposed surfaces of molecules, a feature that pathogens utilize as an escape mechanism. T cells on the other hand, can generate immunity against epitopes that are buried within the antigen, but are limited to small peptides presented by complex HLA molecules. They are however essential for optimizing neutralizing antibodies through somatic hypermutation and antibody class switching in B cells during an immune response..
+
+Since the beginning of the pandemic concerted global data sharing efforts have led to the rapid development of large-scale genomic COVID-19 resources. Over 1.8 million SARS-CoV-2 genomes from 183 countries and territories have been deposited in the GISAID database
+8
+. Based on this data, we and others reported that deletion mutations are enriched in the Spike protein N-terminal domain
+3,4
+. Similarly, concerted efforts have led to the development of a rich immunological resource of 1.04 million peptide epitopes from over 22,000 studies
+9
+. Using this data we previously identified epitopes that are identical between the SARS-CoV-2 and the human proteome
+10
+. The availability of genomic and immunological data provides a timely opportunity to systematically characterize the antigenic mutational landscape of SARS-CoV-2..
+
+In this immuno-epidemiology and clinical genomics study, we systematically analyzed the mutational burden of the known B cell and T cell epitopes and found that the prevalence of mutations in neutralizing, conformational B cell epitopes is higher than in neutralizing T cell epitopes. These results demonstrate that the SARS-CoV-2 Spike protein is presently undergoing strong B cell-driven selection pressure, with the variants of concern (particularly Beta and Gamma variants) displaying the most significant recent increases in mutations to known B-cell epitopes. Given that the Spike protein is a key antigen for COVID-19 vaccine-induced protection, as well as the emerging evidence of reasonable distinctions in B cell versus T cell activation by different COVID-19 vaccines
+11
+, we prospectively conducted clinico-genomic sequencing of SARS-CoV-2 genomes from vaccinated “breakthrough infections" (n = 26) as well as unvaccinated COVID-19 patients (n = 36). We report that unvaccinated patients share significantly more genomic mutational similarity (particularly B-cell epitope mutations) to the variants of concern than the breakthrough infection patients. This study demonstrates that mass vaccination may serve as an antigenic impediment to the evolution of fitter and more transmissive SARS-CoV-2 variants, emphasizing the urgent need to stem vaccine hesitancy as a key step to mitigate the global burden of COVID-19..
+
+Analysis of the 1.8 million SARS-CoV-2 genomes deposited from 183 countries and territories between Dec. 2019 and May 2021 in the GISAID database
+8
+ revealed a total of 1296 lineages. We quantified the monthly diversity in SARS-CoV-2 lineages within the GISAID data using Shannon entropy of the lineage probability distribution within 1-month time windows (see Methods). The diversity of SARS-CoV-2 lineages has declined globally (Figure 1a, b) and this decline appears to coincide with the onset of mass vaccination in the countries (Figure 1b). In order to understand the relationship between lineage diversity and mass vaccination, we compared the lineage entropy and vaccination rates, focusing on countries that had at least 25% of their population fully vaccinated, this analysis included 25 countries that had at least 100 SARS-CoV-2 genomes deposited per month for at least four different months. Analysing the relationship between vaccination rates and lineage entropy, we found that the declining diversity of SARS-CoV-2 lineages is indeed negatively correlated with increased rate of mass vaccination across the countries analyzed (Figure 1c,d; mean correlation coefficient = -0.72, S.D. = 0.20). Furthermore, the decline in the lineage diversity is coupled with the increased dominance of Variants of Concern: the B.1.1.7/Alpha-variant (45%), B.1.1.617/Delta-variant (21%), P.1/Gamma-variant (10%)
+12
+, suggesting that these variants may be “fitter strains" of SARS-CoV-2..
+
+In order to understand how the lineage diversity is shaped by immune selection pressure, we undertook a systematic characterisation of the mutational landscape of the Spike glycoprotein. We obtained all known neutralizing B cell epitopes and MHC-I and MHC-II T cell epitopes of the Spike protein from IEDB
+9
+. This included 220 B cell epitopes (involving 282 of 1,273 amino acids), 262 linear MHC class I T cell epitopes (involving 1,034 amino acids), and 140 linear MHC class II T cell epitopes (involving 999 amino acids) (Figure 2, Methods). Analysing the 1.8 million genome sequences, a total of 10,946 distinct Spike protein amino-acid mutations were found, occurring in at least 100 genomic sequences..
+
+Comparing the prevalence of mutation per epitope residue (defined here as mutation away from the Wuhan-Hu-1 sequence; see Methods) in the known conformational B cell epitopes and a control set of randomly selected amino acids shows a 4.3-fold (3.0-6.1, 95% CI) enrichment of mutations (0.021 mutations per B cell epitope residue, compared to 0.005 mutations per random control residue, over all genomic sequences) (Figure 2b). Additional comparisons using randomly selected distance-constrained control sets of amino acids or randomly selected control sets of amino acids with similar solvent accessibility as B cell epitopes, show comparable enrichment of mutations in the B cell epitopes (Figure S1). On the other hand, both MHC class I T cell epitopes (1.0-fold; 0.7-1.5, 95% CI) and MHC class II T cell epitopes (0.9-fold; 0.6-1.3, 95% CI) show no significant enrichment in mutations compared to random control residues (Figure 2b). This suggests that the antibody-interfacing antigenic sites are under a stronger selection pressure compared to the T cell binding epitopes..
+
+The rate of B cell epitope mutations has sharply increased, starting December 2021, across all 1.8 million genomic sequences (Figure 2c). To ensure that the observed enrichment in B cell mutations is not solely reporting on events in the countries that report the majority of sequences in the GISAID database, we have also evaluated mutations within epitopes per country and territory; a rise in B cell epitope mutations and overall enrichment in mutations within B cell epitopes is observed globally (representative countries shown in Figure S2). The observed increase in B cell epitope mutations can be related to the recent dominance of variants of concern. Indeed, analysis of the mutations in the known B-cell epitopes shows that variants of concern have more mutations in B-cell epitopes than sequences that are not variants of concern (Figure 2d). The alpha variant (pango lineage B.1.1.7), which is the dominant variant of concern in the GISAID data (Figure 2e), shows a 4.3-fold (2.9-6.5, 95% CI) enrichment in mutations within B cell epitopes..
+
+To investigate how increased prevalence of variants of concern relates to the global rise in mutations within B cell epitopes and reduced lineage entropy, we compare the B cell epitope mutation patterns observed in geographical regions over time to those of the variants of concern. A monthly country-level analysis, for the 55 countries with more than 1,000 total genomic sequences deposited to GISAID, shows increased mutation of known B-cell epitopes over time (Figure 3). Furthermore, the specific epitopes that are mutated correspond to those that are mutated in the variants of concern. This analysis shows that different SARS-CoV-2 variants have come to dominate in different geographical regions, and that their dominance globally results in increased mutation of antigenic sites..
+
+The immuno-epidemiology analysis presented above based on publicly accessible data has shown that the diversity of the SARS-CoV-2 lineages is declining and that neutralizing B-cell epitopes of Spike glycoprotein are enriched for mutations. However, the genome sequences deposited in publicly accessible databases (e.g. GISAID) lack any clinical or phenotypic data such as vaccination status or disease severity of the linked COVID-19 patients. To address this, we performed whole genome viral sequencing in non-duplicate positive upper respiratory tract specimens 53 SARS-CoV-2 infected patients at the Mayo Clinic health system. Of these, 23 cases were vaccine breakthrough infections, with the infected individuals having been fully vaccinated for COVID-19 at the time of their positive SARS-CoV-2 test (Figure 4a). We find that the known B-cell epitopes exhibit more mutational diversity in the unvaccinated individuals than in the vaccinated individuals (Figure 4b,c). Furthermore, a larger fraction of the vaccinated (82.6%) cohort had alpha variant compared to the unvaccinated cohort (60%) (Table S1). Availability of a larger number of sequenced genomes in the future can help understand whether specific variants of concern are more likely to cause breakthrough infections..
+
+Of the 53 SARS-CoV-2 infected patients, we have complete longitudinal health records and vaccination history of 47 patients. In Table S2, we present the clinical characteristics of the patients with SARS-CoV-2 genomes sequenced in the Mayo Clinic with EHR data available. In the overall cohort of 47 patients, we observe high rates of comorbidities (e.g. cancer: 48.9%, chronic kidney disease: 25.5%) and cardiovascular complications (e.g. cardiac arrhythmias: 40.4%, acute kidney injury: 29.8%, venous thromboembolism: 25.5%). Comparing the vaccinated and unvaccinated cohorts, we observe that vaccinated patients generally had lower rates of comorbidities and complications compared to the overall study population, while the unvaccinated patients generally had higher rates of both comorbidities and complications. Due to the large differences in the rates of comorbidities, we cannot draw any definitive conclusions comparing complications and other clinical outcomes in the vaccinated and unvaccinated cohorts. Considering the clinical data in combination with the genomic data, we do not observe any statistically significant associations between mutation count and rates of complications recorded in clinical notes (Figure 5). This preliminary data suggests that the number of mutations that a patient has in the Spike protein region of the SARS-CoV-2 genome does not translate to more or less severe clinical symptoms. As a result, although unvaccinated individuals harbor more viral mutations and also exhibit more COVID-19 complications, these two factors appear to be independent..
+
+In summary, our analysis of 1.8 million SARS-CoV-2 genomes shows that there is a 4.3-fold enrichment in mutational prevalence in 220 known neutralizing B cell epitopes. On the other hand, T cell epitopes did not appear statistically more mutated than by chance. This suggests that the antibody-interfacing antigenic sites are under a stronger selection pressure compared to the T cell binding peptide epitopes following vaccination or infection, implying breakthrough mutations and escape mutations have a higher likelihood of occurring in neutralizing antibody-binding residues on the Spike protein..
+
+This result does not mean that T cell immunity is not critical against SARS-CoV-2. Indeed, durable T cell responses emerge following natural infections that are closely linked with antibody responses, reflecting the helper role of T cell help to mount better neutralizing antibodies
+13
+. Our findings are consistent with antibody and T cell responses to multiple SARS-CoV-2 variants following vaccination with the Ad26.COV2.S adenoviral vector vaccine. A recent study reported similar CD4 and CD8 T cell responses across strains, but reduced neutralizing antibody titers of virus-specific titers for B.1.1.7, CAL.20C, P1, and B.1.351 variants
+11
+. Similarly, Geers et al. reported a 2-4 fold reduction in neutralization potential of BNT162b2 mRNA vaccine-induced antibodies against the B.1.351 variant, whereas CD4+ T cell responses elicited by the wild-type Spike protein were unaffected
+14
+. In one recent study, Agerer et al. reported that mutations in CD8 T cell epitopes result in reduced association of mutant peptides with HLA class I molecules in vitro leading to altered T cell immune responses
+15
+. While mutation of individual T cell epitopes may alter HLA-peptide interactions and antigen presentation, our data suggest that these mutations do not represent a common route to viral immune escape, perhaps due to recognition of additional, non-mutated viral peptides and extensive genetic heterogeneity within the HLA genes
+16
+. In our data, we observed a relative paucity of enriched mutations in T cell epitopes, which suggests that T cell responses are likely able to recognize conserved viral sequences, which are less amenable to mutation. These results suggest a greater degree of degeneracy encoded into how the T cell epitopes buffer viral evolution, and suggest an ancient mechanism for immuno-surveillance that exploits the inability of mutative viruses to escape such significant host HLA affinity to a fuzzy set of peptides beyond the wildtype peptides engaged on the pathogen. Targeted experimental validation is required, of course, to validate or nullify this speculative hypothesis on how T cell response may buffer viral evolution to durably protect the host species..
+
+Our study has a number of key limitations. First, the list of B cell and T cell epitopes in the Spike (S) glycoprotein antigen studied here may not be exhaustive as they are based on curation of studies deposited in the immune epitope database (IEDB) as of June 10, 2021 (https://www.iedb.org/). The immunologic analysis presented in this study consequently has to be updated regularly as more evidence emerges regarding the exhaustive T cell and B cell epitopes presented by the SARS-CoV-2 pathogen and their neutralization potential in the human population. Similarly, the SARS-CoV-2 genomes analyzed herein were deposited in the global initiative on sharing avian influenza data (GISAID) initiative as of June 10, 2021 (https://www.gisaid.org/). Despite having over 1 million SARS-CoV-2 genomes at the time of this analysis, GISAID still represents less than 0.60% of the 175 million COVID-19 cases reported worldwide as of June 10, 2021, thus providing only a partial representation of the genomic evolution of SARS-CoV-2. Finally, we consider any mutation away from the wild-type genomic sequence of known immunogenic epitopes as deleterious to their immunogenicity. While it is possible that mutations in the Spike protein sequence result in new immunogenic epitopes, a scan of 469,649 unique mutated peptides identified from the SARS-CoV-2 genomes reveals that only 8 of these peptides match a previously defined T cell epitopes (from IEDB), from within the SARS-CoV and SARS-CoV-2 genomes (Table S3). Further work is needed to confirm if any of the novel peptides, resulting from epitope mutations, are also immunogenic..
+
+Despite these limitations, this study presents the first holistic examination, to our knowledge, of the mutational landscape of the B cell versus the T cell epitopes derived from the SARS-CoV-2 S-protein antigen, by juxtaposing the genomic mutation patterns of the pathogen onto all the known neutralizing epitopes. Our finding that T cell epitopes are significantly less mutated than B cell epitopes suggests that vaccines that predominantly rely on T cell immunity would likely bestow a more durable protection against the many SARS-CoV-2 variants of concern that continue to emerge periodically across the globe. Understanding the immunologic basis of vaccine effectiveness and durability to the genomic variations and associated perturbations to antigenic cartography will be critical to reliably inform proactive vaccine design and rollout strategies, and also better inform important public health policy decisions..
+
+A number of recent studies have performed bioinformatic prediction of SARS-CoV-2 epitopes
+17
+. While these studies have identified viral peptide sequences that are likely immunogenic, they generally fail to account for mutational diversity in SARS-CoV-2
+17,18
+. Although our work does not directly predict variant neo-epitopes, it highlights the importance of epitopes that are recurrently mutated during viral evolution in response to immune pressure. In future work, we will more thoroughly investigate strain-level epitopes for variants of concern within these hypermutated regions. We further plan to examine the immune selection pressure across the entire SARS-CoV-2 proteome. While we have focused on viral escape from adaptive immune responses, in future work we will expand on our analysis to consider the interplay between SARS-CoV-2 sequence variation and innate immune responses
+19
+..
+
+To quantify the diversity in SARS-CoV-2 genomes over time and in different geographical regions, we have calculated the entropy of the Pango lineage
+20
+ probability distribution (Figure 1a-c). Specifically, for a given time-period, t, and geographical region, c, the lineage entropy is defined as: 
+
+
+
+
+
+
+L
+i
+n
+e
+a
+g
+e
+
+e
+n
+t
+r
+o
+p
+y
+
+
+
+
+
+
+
+
+
+=
+−
+
+
+∑
+
+l
+∈
+a
+l
+l
+
+l
+i
+n
+e
+a
+g
+e
+s
+
+
+
+
+
+N
+u
+m
+b
+e
+r
+
+o
+f
+
+s
+e
+q
+u
+e
+n
+c
+e
+s
+
+o
+f
+
+l
+i
+n
+e
+a
+g
+e
+
+l
+(
+t
+,
+c
+)
+
+
+T
+o
+t
+a
+l
+
+n
+u
+m
+b
+e
+r
+
+o
+f
+
+s
+e
+q
+u
+e
+n
+c
+e
+s
+
+(
+t
+,
+c
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+l
+o
+g
+[
+
+
+N
+u
+m
+b
+e
+r
+
+o
+f
+
+s
+e
+q
+u
+e
+n
+c
+e
+s
+
+o
+f
+
+l
+i
+n
+e
+a
+g
+e
+
+l
+(
+t
+,
+c
+)
+
+
+T
+o
+t
+a
+l
+
+n
+u
+m
+b
+e
+r
+
+o
+f
+
+s
+e
+q
+u
+e
+n
+c
+e
+s
+
+(
+t
+,
+c
+)
+
+
+]
+
+
+
+
+
+
+
+.
+
+This quantity will be valued at 0 if all genomic sequences are classified as the same lineage, and has an upper-bound of 7.17 if all 1296 possible lineages are equally probable. SARS-CoV-2 lineage data was obtained from the GISAID database
+8
+. Error bars shown correspond to 95% confidence intervals, obtained by bootstrap sampling of the GISAID sequence data..
+
+The percentage of fully vaccinated individuals (Figure 1c-d) was obtained from the OWID database
+21
+. When multiple values for the percentages of fully vaccinated individuals are reported for a country in a month, we use the midpoint (0.5*min+0.5*max)..
+
+Prevalence of mutations per epitope (Figure 2c-e) is defined as the average probability with which a residue within that epitope is mutated with respect to the Wuhan-Hu-1 sequence (UniProt identifier: P0DTC2). Specifically, we count the total number of mutations within all epitopes of that epitope type, across the 1,844,200 sequences from the GISAID database (Figure 2c-d) or only sequences corresponding to variants of concern (Figure 2e), and divide by the total number of amino-acid residues that were summed over..
+
+The epitope mutation fraction (Figure 3) is defined as the fraction of sequences in which a given epitope is mutated with respect to the Wuhan-Hu-1 sequence (UniProt identifier: P0DTC2). Specifically, it is the number of sequences in which an epitope exhibits at least one mutation, divided by the total number of sequences summed over (i.e., all sequences from a given country in a given month)..
+
+To assess the mutational burden on T cell and B cell epitopes we have determined the prevalence of mutations per epitope for known epitopes (from IEDB), as compared to various controls. The following controls were used: unrestrained randomly selected sets of amino-acid residues that match the size of the analyzed epitopes (separate size-matched controls for T cell and B cell epitopes, Figure 2), randomly selected sets of co-localized residues (Figure S2), and randomly selected sets of surface residues (Figure S2). For each epitope, a random control set with the same number of amino acids as that epitope is selected. Controls with restraints on localization were generated by measuring the largest pairwise Cα-Cα distance between residues within a B cell epitope (using a Spike protein homology model using SWISS-MODEL
+22
+, unresolved residues were excluded), D. We then selecting a control set of residues such that all residues in the control fall within a sphere of diameter, D + 4Å. Where use of a 4Å buffer region was found to yield a comparable Cα-Cα distance distribution between epitopes and controls (Figure S2a-b). Controls restraint to surface residues were generated by calculating the solvent accessible surface area of each residue within the Spike protein (using the Biopython SASA module). We then match each residue in a B cell epitope to a control epitope with a SASA value within 10Å2. The resulting controls yield a comparable SASA distribution to that of the B cell epitopes (Figure S2c-d). Sufficient sampling of the possible sets of control residues, and 95% confidence intervals were obtained via bootstrap analysis..
+
+This is a retrospective study of individuals who underwent polymerase chain reaction (PCR) testing for suspected SARS-CoV-2 infection at the Mayo Clinic and Mayo Clinic Health System care facilities. This study was reviewed by the Mayo Clinic institutional review board and determined to be exempt from human subject research. Subjects were excluded if they did not have a research authorization on file..
+
+SARS-CoV-2 RNA-positive upper respiratory tract swab specimens from patients with vaccine breakthrough infection or reinfection were subjected to next-generation sequencing, using the commercially available Ion AmpliSeq SARS-CoV-2 Research Panel (Life Technologies Corp., South San Francisco, CA) based on the "sequencing by synthesis" method. The assay amplifies 237 sequences ranging from 125 to 275 base pairs in length, covering 99% of the SARS-CoV-2 genome. Viral RNA was first manually extracted and purified from these clinical specimens using MagMAX™ Viral / Pathogen Nucleic Acid Isolation Kit (Life Technologies Corp.), followed by automated reverse transcription-PCR (RT-PCR) of viral sequences, DNA library preparation (including enzymatic shearing, adapter ligation, purification, normalization), DNA template preparation, and sequencing on the automated Genexus™ Integrated Sequencer (Life Technologies Corp.) with the Genexus™ Software version 6.2.1. A no-template control and a positive SARS-CoV-2 control were included in each assay run for quality control purposes. Viral sequence data were assembled using the Iterative Refinement Meta-Assembler (IRMA) application (50% base substitution frequency threshold) to generate unamended plurality consensus sequences for analysis with the latest versions of the web-based application tools: Pangolin
+23
+ for SARS-CoV-2 lineage assignment; Nextclade
+24
+ for viral clade assignment, phylogenetic analysis, and S codon mutation calling, in comparison to the wild-type reference sequence of SARS-CoV-2 Wuhan-Hu-1 (lineage B, clade 19A)..
+
+For the patients with SARS-CoV-2 genome sequencing data available, we analyzed their clinical covariates from the Mayo Clinic electronic health record (EHR) database. Demographic characteristics including age at time of sample collection, sex, race, and ethnicity were obtained from structured tables. Clinical phenotypes were obtained by applying natural language processing (NLP) methods to the unstructured clinical notes, using the phenotypes and following the methodology from previous studies
+25,26
+. Comorbidities were determined from clinical notes in the 5 years leading up to the sample collection date. The following comorbidity phenotypes were considered: anemia, asthma, cancer, cardiomyopathy, chronic kidney disease, chronic obstructive pulmonary disease, coronary artery disease, heart failure, hyperglycemia, hypertension, liver disease, neurologic conditions, obstructive sleep apnea, type 1 diabetes mellitus, type 2 diabetes mellitus, and solid organ transplant. Similarly, complications were determined from the clinical notes in the time period +/- 30 days relative to the sample collection date. The following complication phenotypes were considered: acute respiratory distress syndrome / acute lung injury (ARDS/ALI), acute kidney injury, anemia, cardiac arrest, cardiac arrhythmias, disseminated intravascular coagulation, heart failure, hyperglycemia, hypertension, myocardial infarction, pleural effusion, pulmonary embolism, respiratory failure, sepsis, septic shock, stroke / cerebrovascular accident, venous thromboembolism, encephalopathy / delirium, and numbness..
+
+After publication, the data will be made available to others upon reasonable requests to the corresponding author. A proposal with detailed description of study objectives and statistical analysis plan will be needed for evaluation of the reasonability of requests..
+
+
+Declaration of Interests
+.
+
+nference collaborates with biotechnology, pharmaceutical, medical device, and diagnostics companies on data science initiatives unrelated to this study. These collaborations had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. JCO receives personal fees from Elsevier and Bates College, and receives small grants from nference, Inc, outside the submitted work. ADB is a consultant for Abbvie and Flambeau diagnostics, is a paid member of the DSMB for Corvus pharmaceuticals, Equilium, and Excision biotherapeutics, has received fees for speaking for Reach MD, owns equity for scientific advisory board positions in nference and Zentalis, and is founder and President of Splissen therapeutics. JH, JCO, GJG, AWW, AV, MDS, and ADB are employees of the Mayo Clinic. The Mayo Clinic may stand to gain financially from the successful outcome of the research. nference and Mayo Clinic have filed a provisional patent application associated with this study. This research has been reviewed by the Mayo Clinic Conflict of Interest Review Board and is being conducted in compliance with Mayo Clinic Conflict of Interest policies..
+
+
+(a) Schematic overview of estimating genomic diversity of SARS-CoV-2 (b-c) Diversity in SARS-CoV-2 lineages within the GISAID data, quantified using the entropy of the lineage probability distribution within 1-month time windows. Vertical dashed lines indicate the time at which countries reached a vaccine coverage of 1% of their total population. (d) Scatter plot showing the correlation between the country-level percentage of fully vaccinated individuals (from OWID21) and SARS-CoV-2 lineage entropy. (e) Distribution of the Pearson correlation coefficient between country-level percentage of fully vaccinated individuals and SARS-CoV-2 lineage entropy for all 25 countries with greater than 25% of their population fully vaccinated (as of June 26th, 2021) and at least 4-months with 100 or more sequences deposited to GISAID, after start of vaccination. The ISO 3166-1 alpha-3 code of included countries and their Pearson correlation are listed in the figure legend..
+
+
+(a) We extracted known neutralizing epitopes of the reference SARS-CoV-2 Spike protein sequence from IEDB. Prevalence of mutations in these epitopes is determined for over 1.8 million viral genomes (GISAID). Specifically, we have quantified the average number of mutated amino acids for epitopes involved in distinct immune responses. (b) B cell epitopes (orange) show increased prevalence of mutations compared to size matched control, and T cell epitopes (blue, purple) do not show increased prevalence of mutations compared to size matched control. (c) Mutations in B cell epitopes are more prevalent and increase at a higher rate than for T cell epitopes, globally (see Figure S3 for per country data). (d) Prevalence of mutations per B-cell epitope for SARS-CoV-2 genomic sequences of variants of concern; B.1.1.7 (alpha), B.1.531 (beta), P.1, and B.1.617.2, and Non-variant of concern sequences..
+
+Epitope mutation fractions for the variants of concern are shown as a visual guide and countries are grouped based on the most prevalent variant of concern; B.1.1.7 (alpha), B.1.531 (beta), P.1 (gamma), and B.1.617.2 (delta), in May 2021. Each row in a colormap corresponds to a country (ISO 1336-1 alpha-3 code, left; KR is South Korea) and each column corresponds to a B-cell epitope, ordering is conserved between the colormaps. Only countries with >1000 sequences deposited to GISAID are included. Rows in gray indicate countries for which no sequences were deposited in a given month..
+
+(a) Whole genome sequencing of SARS-CoV-2 from vaccinated individuals (breakthrough) and unvaccinated individuals (b) Comparison of the distributions of the number of mutated positions among the vaccinated and unvaccinated individuals. (c) Comparison of the mutational profiles of SARS-CoV-2 from vaccinated and unvaccinated individuals..
+
+Data points representing unvaccinated patients are shown in 
+purple
+, and data points representing vaccinated patients are shown in 
+green
+. X-axis: The number of Spike protein mutations in the patient’s SARS-CoV-2 viral genome. Y-axis: The number of clinical notes +/- 30 days from the viral sample collection date which have a positive sentiment for at least one of the following complications: acute respiratory distress syndrome / acute lung injury (ARDS/ALI), acute kidney injury, anemia, cardiac arrest, cardiac arrhythmias, disseminated intravascular coagulation, heart failure, hyperglycemia, hypertension, myocardial infarction, pleural effusion, pulmonary embolism, respiratory failure, sepsis, septic shock, stroke / cerebrovascular accident, venous thromboembolism, encephalopathy / delirium, and numbness. In the legend, we show the average number of clinical notes per patient, Pearson’s r correlation coefficient, and associated p-value for the following cohorts: all sequenced patients, unvaccinated sequenced patients, and vaccinated sequenced patients. Dotted lines represent the average number of clinical notes per patient in each cohort, and the black dotted line represents the population average number of clinical notes..
+

@@ -1,0 +1,8 @@
+The causative factor of COVID-19, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is continuously mutating. Interestingly, identified mutations mainly occur in the spike (S) protein which interacts with the ACE2 receptor and is cleaved via serine protease TMPRSS2. Some mutated strains are becoming dominant in various parts of the globe because of increased transmissibility as well as cell entry efficacy. Remarkably, the neutralizing activity of monoclonal antibodies, convalescent sera, and vaccines against the variants has been reported to be significantly reduced. Therefore, the efficacy of various monoclonal antibodies therapy and vaccines against these variants is becoming a great global concern. We herein summarize the current status of SARS-CoV-2 with gears shifted towards the recent and most common genetic variants in relation to transmission, neutralizing activity, and vaccine efficacy..
+
+Conflict of Interest.
+
+The authors have no conflict of interest to report..
+
+This work was supported by the National Research Foundation of Korea (NRF), grant number 2020M3A9I2081695, 2018M3A9H4089656, and 2021R1A4A1028969 (to H.R.L). Due to immune space limitations, we sincerely apologize for not being able to cite all papers related to this topic..
+
