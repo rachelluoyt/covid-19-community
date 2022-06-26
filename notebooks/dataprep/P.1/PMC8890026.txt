@@ -1,8 +1,0 @@
-As of February 2022, SARS-CoV-2 is still one of the most serious public health threats due to its high mortality rate and rapid spread of novel variants. Since the first outbreak in 2019, general understanding of SARS-CoV-2 has been improved through basic and clinical studies; however, knowledge gaps still exist in our understanding of the emerging novel SARSCoV-2 variants, which impacts the corresponding development of vaccines and therapeutics. Especially, accumulation of mutations in SARS-CoV-2 and rapid spread in populations with previous immunity has resulted in selection of variants that evade the host immune response. This phenomenon threatens to render current SARS-CoV-2 vaccines ineffective for controlling the pandemic. Proper animal models are essential for detailed investigations into the viral etiology, transmission and pathogenesis mechanisms, as well as evaluation of the efficacy of vaccine candidates against recent SARS-CoV-2 variants. Further, the choice of animal model for each research topic is important for researchers to gain better knowledge of recent SARS-CoV-2 variants. Here, we review the advantages and limitations of each animal model, including mice, hamsters, ferrets, and non-human primates, to elucidate variant SARS-CoV-2 etiology and transmission and to evaluate therapeutic and vaccine efficacy..
-
-Conflicts of Interest.
-
-The authors have no conflict of interest to report..
-
-This work was supported by the Institute for Basic Science (IBS), Korea, under project code IBS-R801-D1..
-

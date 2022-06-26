@@ -1,6 +1,0 @@
-The COVID-19 pandemic has led to rapid development of a plethora of molecular diagnostic assays with RT-PCR at the forefront. In this review, we will discuss the history and utility of SARS-CoV-2 molecular diagnostics and the associated current and future regulatory process in Europe. We will assess the performance characteristics of a range of the most common SARS-CoV-2 molecular tests currently utilized in Europe with focus on as rapid molecular platforms, stand-alone RT-PCR kits, the role of low-throughput and high-throughput end-to-end testing platforms and the rapidly evolving field of SARS-CoV-2 variant of concern identification..
-
-Funding: None declared..
-
-Conflict of interest: None declared..
-
