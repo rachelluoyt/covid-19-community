@@ -18,10 +18,10 @@ conda activate covid-19-community &>> $LOGDIR/update.log
 # run Jupyter Notebooks to download, clean, and standardize data for the knowledge graph
 # To check for any errors, look at the executed notebooks in the $LOGDIR directory
 
-for f in *.ipynb 
+for f in 01h-CORDLineages.ipynb 
 do 
   echo "Processing $f file.."
-  papermill $f "$LOGDIR"/$f
+  papermill $f "$LOGDIR"/$KG_output
 done
 
 # deactivate conda environment
